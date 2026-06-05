@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/project-check/dmu-projects/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-06-05 14:26:07 KST
+- 점검 시각: 2026-06-05 14:26:46 KST
 
 ## 추정 기술 스택
 
@@ -58,21 +58,21 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1
+- 총 커밋 수: 10
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 10
-- 최근 커밋: bd95833 / YUNA0222 <gold8077@gmail.com> / design: 피보호자 카드 핵심 정보 중심으로 정리
+- 최근 커밋: 7827973 / YUNA0222 <gold8077@gmail.com> / design: 챗봇 보조 패널 플로팅 처리
 
 ## 최근 수정 파일
 
+- src/app/(guardian)/guardian/chatbot/_components/GuardianChatContent.module.css (2026-06-05 14:26:40 KST)
+- src/app/(guardian)/guardian/chatbot/_components/GuardianChatContent.tsx (2026-06-05 14:26:40 KST)
+- src/components/connections/GuardianWardRegisterPanel.tsx (2026-06-05 14:26:40 KST)
+- src/components/layout/dashboard/DashboardLayout.module.css (2026-06-05 14:26:40 KST)
+- src/components/layout/PageLayout.module.css (2026-06-05 14:26:40 KST)
 - src/components/CommonModal.tsx (2026-06-05 14:14:33 KST)
 - src/components/connections/ConnectionShared.tsx (2026-06-05 14:14:33 KST)
-- src/components/connections/GuardianWardRegisterPanel.tsx (2026-06-05 14:14:33 KST)
 - src/components/connections/GuardianWardsPanel.tsx (2026-06-05 14:14:33 KST)
-- src/components/connections/WardGuardiansPanel.tsx (2026-06-05 14:14:33 KST)
-- src/components/layout/dashboard/DashboardContext.tsx (2026-06-05 14:14:33 KST)
-- src/components/layout/dashboard/DashboardHeader.tsx (2026-06-05 14:14:33 KST)
-- src/components/layout/dashboard/DashboardLayout.module.css (2026-06-05 14:14:33 KST)
 
 ## 점검 결과 요약
 
@@ -80,5 +80,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1
+- Git 커밋 수: 10
 - Git 상위 계정: YUNA0222(10)

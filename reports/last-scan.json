@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky/project-check/dmu-projects",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-05T05:25:55.896Z",
-  "generatedAtKst": "2026-06-05 14:25:55 KST",
+  "generatedAt": "2026-06-05T05:26:35.746Z",
+  "generatedAtKst": "2026-06-05 14:26:35 KST",
   "summary": {
     "total": 17,
     "frontend": 5,
@@ -19,10 +19,10 @@
       "emails": [
         {
           "email": "gosky@gosky.kr",
-          "count": 11
+          "count": 12
         }
       ],
-      "count": 11
+      "count": 12
     },
     {
       "name": "YUNA0222",
@@ -963,7 +963,7 @@
             "cwd": "/home/apps/SilverBridgeSky/project-check",
             "script": "/home/apps/SilverBridgeSky/project-check/src/monitor.js",
             "status": "online",
-            "pid": 2646550
+            "pid": 2651084
           }
         ],
         "docker": [],
@@ -971,79 +971,86 @@
           3307,
           6012,
           6015,
-          6516
+          6516,
+          11000,
+          11001,
+          11002,
+          11003,
+          11004
         ],
         "allCandidatePorts": [
-          1463,
           2026,
           3307,
           6012,
           6015,
           6516,
-          25485,
-          59877,
-          59905,
-          60551
+          11000,
+          11001,
+          11002,
+          11003,
+          11004,
+          26465,
+          59905
         ],
         "summary": [
           "실행 중",
           "PM2 1개",
           "Docker 없음",
-          "포트 3307, 6012, 6015, 6516"
+          "포트 3307, 6012, 6015, 6516, 11000, 11001, 11002, 11003, 11004"
         ]
       },
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 2,
+        "commitCount": 3,
         "authors": [
           {
-            "count": 2,
+            "count": 3,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "e01652c",
+          "hash": "3f4bb9f",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-06-05T14:25:44+09:00",
+          "date": "2026-06-05T14:26:07+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 2개 커밋, 상위 계정: gosky(2), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 3개 커밋, 상위 계정: gosky(3), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
           "path": "reports/database-status.md",
-          "modifiedAt": "2026-06-05T05:25:59.210Z"
+          "modifiedAt": "2026-06-05T05:26:39.030Z"
         },
         {
           "path": "reports/last-scan.json",
-          "modifiedAt": "2026-06-05T05:25:59.210Z"
+          "modifiedAt": "2026-06-05T05:26:39.030Z"
         },
         {
           "path": "reports/projects/aisilverbridgesky.md",
-          "modifiedAt": "2026-06-05T05:25:59.210Z"
-        },
-        {
-          "path": "reports/projects/characterai.md",
-          "modifiedAt": "2026-06-05T05:25:59.210Z"
+          "modifiedAt": "2026-06-05T05:26:39.030Z"
         },
         {
           "path": "reports/projects/chatsilverbridge.md",
-          "modifiedAt": "2026-06-05T05:25:59.210Z"
+          "modifiedAt": "2026-06-05T05:26:39.030Z"
         },
         {
           "path": "reports/projects/chatsilverbridgetest.md",
-          "modifiedAt": "2026-06-05T05:25:59.210Z"
+          "modifiedAt": "2026-06-05T05:26:39.030Z"
         },
         {
-          "path": "reports/projects/docs.md",
-          "modifiedAt": "2026-06-05T05:25:59.210Z"
+          "path": "reports/projects/playground.md",
+          "modifiedAt": "2026-06-05T05:26:39.030Z"
         },
         {
           "path": "reports/projects/project-check.md",
-          "modifiedAt": "2026-06-05T05:25:59.210Z"
+          "modifiedAt": "2026-06-05T05:26:39.030Z"
+        },
+        {
+          "path": "reports/projects/silverbridgeai.md",
+          "modifiedAt": "2026-06-05T05:26:39.030Z"
         }
       ],
       "summary": [
@@ -1051,8 +1058,8 @@
         "기술 추정: 확인 불가",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 2",
-        "Git 상위 계정: gosky(2)"
+        "Git 커밋 수: 3",
+        "Git 상위 계정: gosky(3)"
       ]
     },
     {
@@ -1900,7 +1907,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 1,
+        "commitCount": 10,
         "authors": [
           {
             "count": 10,
@@ -1909,15 +1916,35 @@
           }
         ],
         "latestCommit": {
-          "hash": "bd95833",
+          "hash": "7827973",
           "author": "YUNA0222",
           "email": "gold8077@gmail.com",
-          "date": "2026-06-04T13:30:28+09:00",
-          "subject": "design: 피보호자 카드 핵심 정보 중심으로 정리"
+          "date": "2026-06-05T12:28:29+09:00",
+          "subject": "design: 챗봇 보조 패널 플로팅 처리"
         },
-        "summary": "총 1개 커밋, 상위 계정: YUNA0222(10), 최근: design: 피보호자 카드 핵심 정보 중심으로 정리"
+        "summary": "총 10개 커밋, 상위 계정: YUNA0222(10), 최근: design: 챗봇 보조 패널 플로팅 처리"
       },
       "recentFiles": [
+        {
+          "path": "src/app/(guardian)/guardian/chatbot/_components/GuardianChatContent.module.css",
+          "modifiedAt": "2026-06-05T05:26:40.950Z"
+        },
+        {
+          "path": "src/app/(guardian)/guardian/chatbot/_components/GuardianChatContent.tsx",
+          "modifiedAt": "2026-06-05T05:26:40.950Z"
+        },
+        {
+          "path": "src/components/connections/GuardianWardRegisterPanel.tsx",
+          "modifiedAt": "2026-06-05T05:26:40.950Z"
+        },
+        {
+          "path": "src/components/layout/dashboard/DashboardLayout.module.css",
+          "modifiedAt": "2026-06-05T05:26:40.950Z"
+        },
+        {
+          "path": "src/components/layout/PageLayout.module.css",
+          "modifiedAt": "2026-06-05T05:26:40.950Z"
+        },
         {
           "path": "src/components/CommonModal.tsx",
           "modifiedAt": "2026-06-05T05:14:33.897Z"
@@ -1927,27 +1954,7 @@
           "modifiedAt": "2026-06-05T05:14:33.897Z"
         },
         {
-          "path": "src/components/connections/GuardianWardRegisterPanel.tsx",
-          "modifiedAt": "2026-06-05T05:14:33.897Z"
-        },
-        {
           "path": "src/components/connections/GuardianWardsPanel.tsx",
-          "modifiedAt": "2026-06-05T05:14:33.897Z"
-        },
-        {
-          "path": "src/components/connections/WardGuardiansPanel.tsx",
-          "modifiedAt": "2026-06-05T05:14:33.897Z"
-        },
-        {
-          "path": "src/components/layout/dashboard/DashboardContext.tsx",
-          "modifiedAt": "2026-06-05T05:14:33.897Z"
-        },
-        {
-          "path": "src/components/layout/dashboard/DashboardHeader.tsx",
-          "modifiedAt": "2026-06-05T05:14:33.897Z"
-        },
-        {
-          "path": "src/components/layout/dashboard/DashboardLayout.module.css",
           "modifiedAt": "2026-06-05T05:14:33.897Z"
         }
       ],
@@ -1956,7 +1963,7 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1",
+        "Git 커밋 수: 10",
         "Git 상위 계정: YUNA0222(10)"
       ]
     },
@@ -2339,7 +2346,7 @@
             "cwd": "/home/apps/SilverBridgeSky/project-check",
             "script": "/home/apps/SilverBridgeSky/project-check/src/monitor.js",
             "status": "online",
-            "pid": 2646550
+            "pid": 2651084
           }
         ],
         "docker": [],

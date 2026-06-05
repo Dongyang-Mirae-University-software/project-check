@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/project-check/dmu-projects/project-check`
 - 분류: 기타
-- 점검 시각: 2026-06-05 14:26:06 KST
+- 점검 시각: 2026-06-05 14:26:46 KST
 
 ## 추정 기술 스택
 
@@ -46,28 +46,28 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1463, 2026, 3307, 6012, 6015, 6516, 25485, 59877, 59905, 60551
+- 관련 포트: 2026, 3307, 6012, 6015, 6516, 11000, 11001, 11002, 11003, 11004, 26465, 59905
 - 관련 Docker 컨테이너: 확인 불가
 - 관련 PM2 프로세스: project-check
 
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 2
+- 총 커밋 수: 3
 - 계정별 커밋 수:
-  - gosky <gosky@gosky.kr>: 2
-- 최근 커밋: e01652c / gosky <gosky@gosky.kr> / docs: 프로젝트 상태 리포트 갱신
+  - gosky <gosky@gosky.kr>: 3
+- 최근 커밋: 3f4bb9f / gosky <gosky@gosky.kr> / docs: 프로젝트 상태 리포트 갱신
 
 ## 최근 수정 파일
 
-- reports/database-status.md (2026-06-05 14:25:59 KST)
-- reports/last-scan.json (2026-06-05 14:25:59 KST)
-- reports/projects/aisilverbridgesky.md (2026-06-05 14:25:59 KST)
-- reports/projects/characterai.md (2026-06-05 14:25:59 KST)
-- reports/projects/chatsilverbridge.md (2026-06-05 14:25:59 KST)
-- reports/projects/chatsilverbridgetest.md (2026-06-05 14:25:59 KST)
-- reports/projects/docs.md (2026-06-05 14:25:59 KST)
-- reports/projects/project-check.md (2026-06-05 14:25:59 KST)
+- reports/database-status.md (2026-06-05 14:26:39 KST)
+- reports/last-scan.json (2026-06-05 14:26:39 KST)
+- reports/projects/aisilverbridgesky.md (2026-06-05 14:26:39 KST)
+- reports/projects/chatsilverbridge.md (2026-06-05 14:26:39 KST)
+- reports/projects/chatsilverbridgetest.md (2026-06-05 14:26:39 KST)
+- reports/projects/playground.md (2026-06-05 14:26:39 KST)
+- reports/projects/project-check.md (2026-06-05 14:26:39 KST)
+- reports/projects/silverbridgeai.md (2026-06-05 14:26:39 KST)
 
 ## 점검 결과 요약
 
@@ -75,5 +75,5 @@
 - 기술 추정: 확인 불가
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 2
-- Git 상위 계정: gosky(2)
+- Git 커밋 수: 3
+- Git 상위 계정: gosky(3)

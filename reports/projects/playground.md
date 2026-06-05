@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/project-check/dmu-projects/Playground`
 - 분류: 기타
-- 점검 시각: 2026-06-05 14:26:06 KST
+- 점검 시각: 2026-06-05 14:26:46 KST
 
 ## 추정 기술 스택
 

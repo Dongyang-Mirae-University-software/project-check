@@ -1,6 +1,6 @@
 # 데이터베이스 상태
 
-- 스캔 시각: 2026-06-05 14:26:07 KST
+- 스캔 시각: 2026-06-05 14:26:46 KST
 
 | 프로젝트 | DB 사용 여부 | 추정 DB | 실행 상태 | 관련 포트 | 관련 컨테이너 |
 | --- | --- | --- | --- | --- | --- |
@@ -8,7 +8,7 @@
 | ChatSilverBridge | 아니오 | 확인 불가 | 실행 중 | 8010, 8090 | chatsilverbridge-api-1, chatsilverbridge-mysql-1, chatsilverbridgetest-web-1 |
 | ChatSilverBridgeTest | 아니오 | 확인 불가 | 실행 중 | 8010 | chatsilverbridgetest-web-1 |
 | Playground | 아니오 | 확인 불가 | 확인 불가 | 확인 불가 | 확인 불가 |
-| project-check | 아니오 | 확인 불가 | 실행 중 | 1463, 2026, 3307, 6012, 6015, 6516, 25485, 59877, 59905, 60551 | 확인 불가 |
+| project-check | 아니오 | 확인 불가 | 실행 중 | 2026, 3307, 6012, 6015, 6516, 11000, 11001, 11002, 11003, 11004, 26465, 59905 | 확인 불가 |
 | SilverBridgeAi | 아니오 | 확인 불가 | 실행 중 | 1000, 1234, 1280, 1500, 2026, 2700, 8080, 8456 | silverbridge-ai-server |
 | SilverBridgeAiServer | 예 | PostgreSQL, SQLite | 실행 중 | 1008, 5432, 6012, 6015, 6017, 6019 | silverbridge-ai-server |
 | SilverBridgeBe | 예 | PostgreSQL, Redis | 실행 중 | 3000, 5173, 5432, 6379, 6511, 8080, 18000, 60480 | 확인 불가 |
