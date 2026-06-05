@@ -1,0 +1,53 @@
+# 데이터베이스 상태
+
+- 스캔 시각: 2026-06-05 13:17:12 KST
+
+| 프로젝트 | DB 사용 여부 | 추정 DB | 실행 상태 | 관련 포트 | 관련 컨테이너 |
+| --- | --- | --- | --- | --- | --- |
+| AiSilverBridgeSky | 아니오 | 확인 불가 | 정지 | 1280, 3099, 4306, 4747, 8000, 14122 | 확인 불가 |
+| CharacterAi | 아니오 | 확인 불가 | 정지 | 확인 불가 | 확인 불가 |
+| ChatSilverBridge | 예 | MySQL, SQLite | 실행 중 | 1012, 3306, 3307, 3600, 6012, 6015, 6516, 8010 | chatsilverbridge-api-1, chatsilverbridge-mysql-1, chatsilverbridgetest-web-1 |
+| ChatSilverBridgeTest | 예 | MySQL, SQLite | 실행 중 | 3306, 6012, 6516 | chatsilverbridgetest-web-1 |
+| docs | 아니오 | 확인 불가 | 확인 불가 | 확인 불가 | 확인 불가 |
+| SilverBridgeAi | 아니오 | 확인 불가 | 실행 중 | 1500, 2000 | silverbridge-ai-server |
+| SilverBridgeAiServer | 예 | PostgreSQL, SQLite | 실행 중 | 1008, 1280, 5432, 6012, 6015, 6017, 6019, 8080 | silverbridge-ai-server |
+| SilverBridgeBe | 예 | PostgreSQL, Redis | 실행 중 | 3000, 5173, 5432, 6379, 6511, 8080, 18000, 60480 | 확인 불가 |
+| SilverBridgeFe | 아니오 | 확인 불가 | 실행 중 | 3000, 5000, 6000, 60480, 60836 | 확인 불가 |
+| SilverBridgeJH | 아니오 | 확인 불가 | 정지 | 확인 불가 | 확인 불가 |
+| SilverBridgeReservation | 예 | SQLite | 실행 중 | 5173, 6015, 6017, 6018 | silverbridgereservation-reservation-api-1 |
+| SilverBridgeSky | 예 | PostgreSQL, Redis | 실행 중 | 3000, 5432, 6379, 6501, 6502, 8000, 8080 | 확인 불가 |
+| SilverBridgeSSOBe | 예 | MySQL, Redis | 실행 중 | 3306, 6379, 6501, 18000, 60480 | 확인 불가 |
+| SilverBridgeStreamTestFe | 아니오 | 확인 불가 | 실행 중 | 1012, 6018 | 확인 불가 |
+| TestSilverBridge | 아니오 | 확인 불가 | 확인 불가 | 확인 불가 | 확인 불가 |
+| WhitehouseFE | 아니오 | 확인 불가 | 정지 | 1280, 3000 | 확인 불가 |
+
+## 점검 메모
+
+- AiSilverBridgeSky: DB 사용 흔적 없음
+  - 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 58개 확인
+- CharacterAi: DB 사용 흔적 없음
+  - 근거: package.json 확인
+- ChatSilverBridge: MySQL, SQLite 사용 추정
+  - 근거: docker-compose.yml 확인, requirements.txt 확인, package.json 확인, .env 키 55개 확인, 추정 DB: MySQL, SQLite
+- ChatSilverBridgeTest: MySQL, SQLite 사용 추정
+  - 근거: docker-compose.yml 확인, package.json 확인, 추정 DB: MySQL, SQLite
+- docs: DB 사용 흔적 없음
+- SilverBridgeAi: DB 사용 흔적 없음
+- SilverBridgeAiServer: PostgreSQL, SQLite 사용 추정
+  - 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 109개 확인, DB 관련 파일 3개 확인, 추정 DB: PostgreSQL, SQLite
+- SilverBridgeBe: PostgreSQL, Redis 사용 추정
+  - 근거: docker-compose.yml 확인, application.yml 확인, 추정 DB: PostgreSQL, Redis
+- SilverBridgeFe: DB 사용 흔적 없음
+  - 근거: docker-compose.yml 확인, package.json 확인, .env 키 16개 확인
+- SilverBridgeJH: DB 사용 흔적 없음
+- SilverBridgeReservation: SQLite 사용 추정
+  - 근거: docker-compose.yml 확인, package.json 확인, .env 키 13개 확인, 추정 DB: SQLite
+- SilverBridgeSky: PostgreSQL, Redis 사용 추정
+  - 근거: docker-compose.yml 확인, package.json 확인, .env 키 1개 확인, 추정 DB: PostgreSQL, Redis
+- SilverBridgeSSOBe: MySQL, Redis 사용 추정
+  - 근거: docker-compose.yml 확인, application.yml 확인, 추정 DB: MySQL, Redis
+- SilverBridgeStreamTestFe: DB 사용 흔적 없음
+  - 근거: docker-compose.yml 확인, package.json 확인, .env 키 11개 확인
+- TestSilverBridge: DB 사용 흔적 없음
+- WhitehouseFE: DB 사용 흔적 없음
+  - 근거: docker-compose.yml 확인, package.json 확인

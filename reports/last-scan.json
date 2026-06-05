@@ -1,0 +1,3048 @@
+{
+  "workspaceRoot": "/home/apps/SilverBridgeSky",
+  "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
+  "generatedAt": "2026-06-05T04:17:11.101Z",
+  "generatedAtKst": "2026-06-05 13:17:11 KST",
+  "summary": {
+    "total": 16,
+    "frontend": 1,
+    "backend": 0,
+    "ai": 14,
+    "db": 7,
+    "running": 10,
+    "stopped": 6
+  },
+  "projects": [
+    {
+      "projectName": "AiSilverBridgeSky",
+      "projectPath": "/home/apps/SilverBridgeSky/AiSilverBridgeSky",
+      "classification": "AI 서버",
+      "stack": [
+        "Python",
+        "FastAPI",
+        "Uvicorn",
+        "Pydantic",
+        "fastapi",
+        "Frontend",
+        "Backend",
+        "AI"
+      ],
+      "mainFiles": [
+        {
+          "file": "package.json",
+          "exists": false
+        },
+        {
+          "file": "vite.config.js",
+          "exists": false
+        },
+        {
+          "file": "vite.config.ts",
+          "exists": false
+        },
+        {
+          "file": "vite.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "vite.config.cjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.js",
+          "exists": false
+        },
+        {
+          "file": "next.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.ts",
+          "exists": false
+        },
+        {
+          "file": "requirements.txt",
+          "exists": true
+        },
+        {
+          "file": "pyproject.toml",
+          "exists": false
+        },
+        {
+          "file": "Dockerfile",
+          "exists": true
+        },
+        {
+          "file": "docker-compose.yml",
+          "exists": true
+        },
+        {
+          "file": "docker-compose.yaml",
+          "exists": false
+        },
+        {
+          "file": "compose.yml",
+          "exists": false
+        },
+        {
+          "file": "compose.yaml",
+          "exists": false
+        },
+        {
+          "file": ".env.example",
+          "exists": true
+        },
+        {
+          "file": ".env",
+          "exists": true
+        },
+        {
+          "file": "pom.xml",
+          "exists": false
+        },
+        {
+          "file": "build.gradle",
+          "exists": false
+        },
+        {
+          "file": "build.gradle.kts",
+          "exists": false
+        }
+      ],
+      "structure": {
+        "fileCount": 83660,
+        "dirCount": 75,
+        "mainFolders": [
+          "app",
+          "configs",
+          "data",
+          "datasets",
+          "docs",
+          "fire_smoke",
+          "scripts",
+          "service",
+          "weapon"
+        ],
+        "majorPaths": [
+          "app",
+          "app/services",
+          "fire_smoke/datasets/_sources/dfire/data/test/images",
+          "fire_smoke/datasets/_sources/dfire/data/test/labels",
+          "service/app/api",
+          "service/app/api/routes",
+          "service/app/core",
+          "service/app/models",
+          "service/app/schemas",
+          "service/app/services",
+          "service/app/utils",
+          "weapon/datasets/detect_weapon/test/images",
+          "weapon/datasets/detect_weapon/test/labels"
+        ]
+      },
+      "database": {
+        "used": false,
+        "types": [],
+        "clueFiles": [],
+        "evidence": [
+          "docker-compose.yml 확인",
+          "requirements.txt 확인",
+          ".env 키 58개 확인"
+        ],
+        "summary": "DB 사용 흔적 없음"
+      },
+      "runtime": {
+        "status": "정지",
+        "running": false,
+        "pm2": [],
+        "docker": [],
+        "ports": [],
+        "allCandidatePorts": [
+          1280,
+          3099,
+          4306,
+          4747,
+          8000,
+          14122
+        ],
+        "summary": [
+          "정지 또는 확인 불가"
+        ]
+      },
+      "recentFiles": [
+        {
+          "path": "service/docker-compose.yml",
+          "modifiedAt": "2026-05-24T06:30:50.412Z"
+        },
+        {
+          "path": "service/app/main.py",
+          "modifiedAt": "2026-05-22T11:48:38.575Z"
+        },
+        {
+          "path": "service/.env",
+          "modifiedAt": "2026-05-22T11:36:35.152Z"
+        },
+        {
+          "path": "service/README.md",
+          "modifiedAt": "2026-05-22T11:36:13.616Z"
+        },
+        {
+          "path": "service/.env.example",
+          "modifiedAt": "2026-05-22T11:36:06.512Z"
+        },
+        {
+          "path": "service/app/core/config.py",
+          "modifiedAt": "2026-05-22T11:36:01.832Z"
+        },
+        {
+          "path": "service/Dockerfile",
+          "modifiedAt": "2026-05-22T06:26:05.628Z"
+        },
+        {
+          "path": "service/run.py",
+          "modifiedAt": "2026-05-20T08:54:20.776Z"
+        }
+      ],
+      "summary": [
+        "분류: AI 서버",
+        "기술 추정: Python, FastAPI, Uvicorn, Pydantic, fastapi, Frontend, Backend, AI",
+        "DB 사용 흔적 없음",
+        "실행 상태: 정지"
+      ]
+    },
+    {
+      "projectName": "CharacterAi",
+      "projectPath": "/home/apps/SilverBridgeSky/CharacterAi",
+      "classification": "AI 서버",
+      "stack": [
+        "React",
+        "Next.js",
+        "Frontend",
+        "AI"
+      ],
+      "mainFiles": [
+        {
+          "file": "package.json",
+          "exists": true
+        },
+        {
+          "file": "vite.config.js",
+          "exists": false
+        },
+        {
+          "file": "vite.config.ts",
+          "exists": false
+        },
+        {
+          "file": "vite.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "vite.config.cjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.js",
+          "exists": false
+        },
+        {
+          "file": "next.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.ts",
+          "exists": false
+        },
+        {
+          "file": "requirements.txt",
+          "exists": false
+        },
+        {
+          "file": "pyproject.toml",
+          "exists": false
+        },
+        {
+          "file": "Dockerfile",
+          "exists": false
+        },
+        {
+          "file": "docker-compose.yml",
+          "exists": false
+        },
+        {
+          "file": "docker-compose.yaml",
+          "exists": false
+        },
+        {
+          "file": "compose.yml",
+          "exists": false
+        },
+        {
+          "file": "compose.yaml",
+          "exists": false
+        },
+        {
+          "file": ".env.example",
+          "exists": false
+        },
+        {
+          "file": ".env",
+          "exists": false
+        },
+        {
+          "file": "pom.xml",
+          "exists": false
+        },
+        {
+          "file": "build.gradle",
+          "exists": false
+        },
+        {
+          "file": "build.gradle.kts",
+          "exists": false
+        }
+      ],
+      "structure": {
+        "fileCount": 15,
+        "dirCount": 5,
+        "mainFolders": [
+          "public",
+          "src"
+        ],
+        "majorPaths": [
+          "public",
+          "src",
+          "src/app",
+          "src/components",
+          "src/components/character"
+        ]
+      },
+      "database": {
+        "used": false,
+        "types": [],
+        "clueFiles": [],
+        "evidence": [
+          "package.json 확인"
+        ],
+        "summary": "DB 사용 흔적 없음"
+      },
+      "runtime": {
+        "status": "정지",
+        "running": false,
+        "pm2": [],
+        "docker": [],
+        "ports": [],
+        "allCandidatePorts": [],
+        "summary": [
+          "정지 또는 확인 불가"
+        ]
+      },
+      "recentFiles": [
+        {
+          "path": "src/app/globals.css",
+          "modifiedAt": "2026-04-12T03:05:48.883Z"
+        },
+        {
+          "path": "src/components/character/moodConfig.js",
+          "modifiedAt": "2026-04-12T03:05:48.883Z"
+        },
+        {
+          "path": "src/components/character/MoodSelector.jsx",
+          "modifiedAt": "2026-04-12T03:05:48.883Z"
+        },
+        {
+          "path": "src/app/layout.js",
+          "modifiedAt": "2026-04-12T03:05:48.879Z"
+        },
+        {
+          "path": "src/app/page.js",
+          "modifiedAt": "2026-04-12T03:05:48.879Z"
+        },
+        {
+          "path": "src/components/character/Character.css",
+          "modifiedAt": "2026-04-12T03:05:48.879Z"
+        },
+        {
+          "path": "src/components/character/Character.jsx",
+          "modifiedAt": "2026-04-12T03:05:48.879Z"
+        },
+        {
+          "path": "package.json",
+          "modifiedAt": "2026-04-05T13:38:35.112Z"
+        }
+      ],
+      "summary": [
+        "분류: AI 서버",
+        "기술 추정: React, Next.js, Frontend, AI",
+        "DB 사용 흔적 없음",
+        "실행 상태: 정지"
+      ]
+    },
+    {
+      "projectName": "ChatSilverBridge",
+      "projectPath": "/home/apps/SilverBridgeSky/ChatSilverBridge",
+      "classification": "AI 서버",
+      "stack": [
+        "Python",
+        "FastAPI",
+        "Uvicorn",
+        "Pydantic",
+        "SQLAlchemy",
+        "MySQL",
+        "PyTorch",
+        "Transformers",
+        "fastapi",
+        "Frontend",
+        "Backend",
+        "AI"
+      ],
+      "mainFiles": [
+        {
+          "file": "package.json",
+          "exists": true
+        },
+        {
+          "file": "vite.config.js",
+          "exists": false
+        },
+        {
+          "file": "vite.config.ts",
+          "exists": false
+        },
+        {
+          "file": "vite.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "vite.config.cjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.js",
+          "exists": false
+        },
+        {
+          "file": "next.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.ts",
+          "exists": false
+        },
+        {
+          "file": "requirements.txt",
+          "exists": true
+        },
+        {
+          "file": "pyproject.toml",
+          "exists": false
+        },
+        {
+          "file": "Dockerfile",
+          "exists": true
+        },
+        {
+          "file": "docker-compose.yml",
+          "exists": true
+        },
+        {
+          "file": "docker-compose.yaml",
+          "exists": false
+        },
+        {
+          "file": "compose.yml",
+          "exists": false
+        },
+        {
+          "file": "compose.yaml",
+          "exists": false
+        },
+        {
+          "file": ".env.example",
+          "exists": true
+        },
+        {
+          "file": ".env",
+          "exists": true
+        },
+        {
+          "file": "pom.xml",
+          "exists": false
+        },
+        {
+          "file": "build.gradle",
+          "exists": false
+        },
+        {
+          "file": "build.gradle.kts",
+          "exists": false
+        }
+      ],
+      "structure": {
+        "fileCount": 61,
+        "dirCount": 12,
+        "mainFolders": [
+          "app",
+          "data",
+          "docs",
+          "scripts",
+          "tests"
+        ],
+        "majorPaths": [
+          "app",
+          "app/core",
+          "app/db",
+          "app/models",
+          "app/routers",
+          "app/schemas",
+          "app/services",
+          "app/utils",
+          "tests"
+        ]
+      },
+      "database": {
+        "used": true,
+        "types": [
+          "MySQL",
+          "SQLite"
+        ],
+        "clueFiles": [],
+        "evidence": [
+          "docker-compose.yml 확인",
+          "requirements.txt 확인",
+          "package.json 확인",
+          ".env 키 55개 확인",
+          "추정 DB: MySQL, SQLite"
+        ],
+        "summary": "MySQL, SQLite 사용 추정"
+      },
+      "runtime": {
+        "status": "실행 중",
+        "running": true,
+        "pm2": [],
+        "docker": [
+          {
+            "name": "chatsilverbridge-api-1",
+            "image": "chatsilverbridge-api",
+            "status": "Up 5 days",
+            "ports": "0.0.0.0:6012->6012/tcp, [::]:6012->6012/tcp"
+          },
+          {
+            "name": "chatsilverbridge-mysql-1",
+            "image": "mysql:8.0",
+            "status": "Up 5 days (healthy)",
+            "ports": "33060/tcp, 0.0.0.0:3307->3306/tcp, [::]:3307->3306/tcp"
+          },
+          {
+            "name": "chatsilverbridgetest-web-1",
+            "image": "chatsilverbridgetest-web",
+            "status": "Up 5 days",
+            "ports": "0.0.0.0:6516->6516/tcp, [::]:6516->6516/tcp"
+          }
+        ],
+        "ports": [
+          3306,
+          3307,
+          6012,
+          6015,
+          6516
+        ],
+        "allCandidatePorts": [
+          1012,
+          3306,
+          3307,
+          3600,
+          6012,
+          6015,
+          6516,
+          8010
+        ],
+        "summary": [
+          "실행 중",
+          "PM2 없음",
+          "Docker 3개",
+          "포트 3306, 3307, 6012, 6015, 6516"
+        ]
+      },
+      "recentFiles": [
+        {
+          "path": "app/services/reservation_api_client.py",
+          "modifiedAt": "2026-05-26T02:28:34.077Z"
+        },
+        {
+          "path": "app/services/chat_orchestrator.py",
+          "modifiedAt": "2026-05-26T02:05:42.301Z"
+        },
+        {
+          "path": "tests/test_chat_orchestrator.py",
+          "modifiedAt": "2026-05-26T02:01:19.373Z"
+        },
+        {
+          "path": "tests/test_conversation_store.py",
+          "modifiedAt": "2026-05-26T01:04:09.524Z"
+        },
+        {
+          "path": "app/services/conversation_store.py",
+          "modifiedAt": "2026-05-26T01:03:50.209Z"
+        },
+        {
+          "path": "tests/test_reservation_intake.py",
+          "modifiedAt": "2026-05-26T01:01:38.358Z"
+        },
+        {
+          "path": "app/core/reservation_prompts.py",
+          "modifiedAt": "2026-05-26T01:01:17.330Z"
+        },
+        {
+          "path": "app/services/reservation_intake.py",
+          "modifiedAt": "2026-05-26T01:01:02.119Z"
+        }
+      ],
+      "summary": [
+        "분류: AI 서버",
+        "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, MySQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI",
+        "DB 사용 추정: MySQL, SQLite",
+        "실행 상태: 실행 중"
+      ]
+    },
+    {
+      "projectName": "ChatSilverBridgeTest",
+      "projectPath": "/home/apps/SilverBridgeSky/ChatSilverBridgeTest",
+      "classification": "프론트엔드",
+      "stack": [
+        "Node.js",
+        "Next.js",
+        "React",
+        "Frontend"
+      ],
+      "mainFiles": [
+        {
+          "file": "package.json",
+          "exists": true
+        },
+        {
+          "file": "vite.config.js",
+          "exists": false
+        },
+        {
+          "file": "vite.config.ts",
+          "exists": false
+        },
+        {
+          "file": "vite.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "vite.config.cjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.js",
+          "exists": true
+        },
+        {
+          "file": "next.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.ts",
+          "exists": false
+        },
+        {
+          "file": "requirements.txt",
+          "exists": false
+        },
+        {
+          "file": "pyproject.toml",
+          "exists": false
+        },
+        {
+          "file": "Dockerfile",
+          "exists": true
+        },
+        {
+          "file": "docker-compose.yml",
+          "exists": true
+        },
+        {
+          "file": "docker-compose.yaml",
+          "exists": false
+        },
+        {
+          "file": "compose.yml",
+          "exists": false
+        },
+        {
+          "file": "compose.yaml",
+          "exists": false
+        },
+        {
+          "file": ".env.example",
+          "exists": false
+        },
+        {
+          "file": ".env",
+          "exists": false
+        },
+        {
+          "file": "pom.xml",
+          "exists": false
+        },
+        {
+          "file": "build.gradle",
+          "exists": false
+        },
+        {
+          "file": "build.gradle.kts",
+          "exists": false
+        }
+      ],
+      "structure": {
+        "fileCount": 13,
+        "dirCount": 3,
+        "mainFolders": [
+          "components",
+          "pages",
+          "styles"
+        ],
+        "majorPaths": [
+          "components",
+          "pages"
+        ]
+      },
+      "database": {
+        "used": true,
+        "types": [
+          "MySQL",
+          "SQLite"
+        ],
+        "clueFiles": [],
+        "evidence": [
+          "docker-compose.yml 확인",
+          "package.json 확인",
+          "추정 DB: MySQL, SQLite"
+        ],
+        "summary": "MySQL, SQLite 사용 추정"
+      },
+      "runtime": {
+        "status": "실행 중",
+        "running": true,
+        "pm2": [],
+        "docker": [
+          {
+            "name": "chatsilverbridgetest-web-1",
+            "image": "chatsilverbridgetest-web",
+            "status": "Up 5 days",
+            "ports": "0.0.0.0:6516->6516/tcp, [::]:6516->6516/tcp"
+          }
+        ],
+        "ports": [
+          3306,
+          6012,
+          6516
+        ],
+        "allCandidatePorts": [
+          3306,
+          6012,
+          6516
+        ],
+        "summary": [
+          "실행 중",
+          "PM2 없음",
+          "Docker 1개",
+          "포트 3306, 6012, 6516"
+        ]
+      },
+      "recentFiles": [
+        {
+          "path": "README.md",
+          "modifiedAt": "2026-05-19T01:01:04.652Z"
+        },
+        {
+          "path": "next.config.js",
+          "modifiedAt": "2026-05-19T01:01:04.648Z"
+        },
+        {
+          "path": "docker-compose.yml",
+          "modifiedAt": "2026-05-19T01:01:04.628Z"
+        },
+        {
+          "path": "Dockerfile",
+          "modifiedAt": "2026-05-19T01:01:04.628Z"
+        },
+        {
+          "path": "pages/chat.js",
+          "modifiedAt": "2026-05-19T01:01:04.628Z"
+        },
+        {
+          "path": "package.json",
+          "modifiedAt": "2026-04-15T06:01:20.735Z"
+        },
+        {
+          "path": "styles/globals.css",
+          "modifiedAt": "2026-04-15T05:54:35.765Z"
+        },
+        {
+          "path": "components/ChatHistory.js",
+          "modifiedAt": "2026-04-14T01:12:03.587Z"
+        }
+      ],
+      "summary": [
+        "분류: 프론트엔드",
+        "기술 추정: Node.js, Next.js, React, Frontend",
+        "DB 사용 추정: MySQL, SQLite",
+        "실행 상태: 실행 중"
+      ]
+    },
+    {
+      "projectName": "docs",
+      "projectPath": "/home/apps/SilverBridgeSky/docs",
+      "classification": "기타",
+      "stack": [
+        "확인 불가"
+      ],
+      "mainFiles": [
+        {
+          "file": "package.json",
+          "exists": false
+        },
+        {
+          "file": "vite.config.js",
+          "exists": false
+        },
+        {
+          "file": "vite.config.ts",
+          "exists": false
+        },
+        {
+          "file": "vite.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "vite.config.cjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.js",
+          "exists": false
+        },
+        {
+          "file": "next.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.ts",
+          "exists": false
+        },
+        {
+          "file": "requirements.txt",
+          "exists": false
+        },
+        {
+          "file": "pyproject.toml",
+          "exists": false
+        },
+        {
+          "file": "Dockerfile",
+          "exists": false
+        },
+        {
+          "file": "docker-compose.yml",
+          "exists": false
+        },
+        {
+          "file": "docker-compose.yaml",
+          "exists": false
+        },
+        {
+          "file": "compose.yml",
+          "exists": false
+        },
+        {
+          "file": "compose.yaml",
+          "exists": false
+        },
+        {
+          "file": ".env.example",
+          "exists": false
+        },
+        {
+          "file": ".env",
+          "exists": false
+        },
+        {
+          "file": "pom.xml",
+          "exists": false
+        },
+        {
+          "file": "build.gradle",
+          "exists": false
+        },
+        {
+          "file": "build.gradle.kts",
+          "exists": false
+        }
+      ],
+      "structure": {
+        "fileCount": 2,
+        "dirCount": 0,
+        "mainFolders": [],
+        "majorPaths": []
+      },
+      "database": {
+        "used": false,
+        "types": [],
+        "clueFiles": [],
+        "evidence": [],
+        "summary": "DB 사용 흔적 없음"
+      },
+      "runtime": {
+        "status": "확인 불가",
+        "running": false,
+        "pm2": [],
+        "docker": [],
+        "ports": [],
+        "allCandidatePorts": [],
+        "summary": [
+          "정지 또는 확인 불가"
+        ]
+      },
+      "recentFiles": [
+        {
+          "path": "index.html",
+          "modifiedAt": "2026-05-29T10:37:10.365Z"
+        },
+        {
+          "path": "user-flow-guide.html",
+          "modifiedAt": "2026-05-29T05:11:22.047Z"
+        }
+      ],
+      "summary": [
+        "분류: 기타",
+        "기술 추정: 확인 불가",
+        "DB 사용 흔적 없음",
+        "실행 상태: 확인 불가"
+      ]
+    },
+    {
+      "projectName": "SilverBridgeAi",
+      "projectPath": "/home/apps/SilverBridgeSky/SilverBridgeAi",
+      "classification": "AI 서버",
+      "stack": [
+        "Backend",
+        "AI"
+      ],
+      "mainFiles": [
+        {
+          "file": "package.json",
+          "exists": false
+        },
+        {
+          "file": "vite.config.js",
+          "exists": false
+        },
+        {
+          "file": "vite.config.ts",
+          "exists": false
+        },
+        {
+          "file": "vite.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "vite.config.cjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.js",
+          "exists": false
+        },
+        {
+          "file": "next.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.ts",
+          "exists": false
+        },
+        {
+          "file": "requirements.txt",
+          "exists": false
+        },
+        {
+          "file": "pyproject.toml",
+          "exists": false
+        },
+        {
+          "file": "Dockerfile",
+          "exists": false
+        },
+        {
+          "file": "docker-compose.yml",
+          "exists": false
+        },
+        {
+          "file": "docker-compose.yaml",
+          "exists": false
+        },
+        {
+          "file": "compose.yml",
+          "exists": false
+        },
+        {
+          "file": "compose.yaml",
+          "exists": false
+        },
+        {
+          "file": ".env.example",
+          "exists": false
+        },
+        {
+          "file": ".env",
+          "exists": false
+        },
+        {
+          "file": "pom.xml",
+          "exists": false
+        },
+        {
+          "file": "build.gradle",
+          "exists": false
+        },
+        {
+          "file": "build.gradle.kts",
+          "exists": false
+        }
+      ],
+      "structure": {
+        "fileCount": 18530,
+        "dirCount": 36,
+        "mainFolders": [
+          "datasets",
+          "docs",
+          "fall",
+          "models",
+          "src",
+          "tools"
+        ],
+        "majorPaths": [
+          "datasets/fire/test/images",
+          "datasets/fire/test/labels",
+          "datasets/knife/test/images",
+          "datasets/knife/test/labels",
+          "models",
+          "models/fire_100ep",
+          "models/fire_100ep/weights",
+          "models/knife_200ep",
+          "models/knife_200ep/weights",
+          "models/knife_250ep",
+          "models/knife_250ep/weights",
+          "models/knife_500ep",
+          "models/knife_500ep/weights",
+          "src",
+          "src/detection",
+          "src/training"
+        ]
+      },
+      "database": {
+        "used": false,
+        "types": [],
+        "clueFiles": [],
+        "evidence": [],
+        "summary": "DB 사용 흔적 없음"
+      },
+      "runtime": {
+        "status": "실행 중",
+        "running": true,
+        "pm2": [],
+        "docker": [
+          {
+            "name": "silverbridge-ai-server",
+            "image": "silverbridgeaiserver-ai-server",
+            "status": "Up 2 hours",
+            "ports": ""
+          }
+        ],
+        "ports": [],
+        "allCandidatePorts": [
+          1500,
+          2000
+        ],
+        "summary": [
+          "실행 중",
+          "PM2 없음",
+          "Docker 1개",
+          "포트 확인 불가"
+        ]
+      },
+      "recentFiles": [
+        {
+          "path": "yolo26n.pt",
+          "modifiedAt": "2026-06-01T05:47:06.855Z"
+        },
+        {
+          "path": "models/knife_500ep/weights/last.pt",
+          "modifiedAt": "2026-06-01T05:47:06.839Z"
+        },
+        {
+          "path": "src/detection/check_camera.py",
+          "modifiedAt": "2026-06-01T05:47:06.839Z"
+        },
+        {
+          "path": "src/detection/multi_detection.py",
+          "modifiedAt": "2026-06-01T05:47:06.839Z"
+        },
+        {
+          "path": "src/training/train.py",
+          "modifiedAt": "2026-06-01T05:47:06.839Z"
+        },
+        {
+          "path": "tools/download_frames.py",
+          "modifiedAt": "2026-06-01T05:47:06.839Z"
+        },
+        {
+          "path": "models/knife_500ep/weights/best.pt",
+          "modifiedAt": "2026-06-01T05:47:06.819Z"
+        },
+        {
+          "path": "models/knife_500ep/val_batch1_pred.jpg",
+          "modifiedAt": "2026-06-01T05:47:06.799Z"
+        }
+      ],
+      "summary": [
+        "분류: AI 서버",
+        "기술 추정: Backend, AI",
+        "DB 사용 흔적 없음",
+        "실행 상태: 실행 중"
+      ]
+    },
+    {
+      "projectName": "SilverBridgeAiServer",
+      "projectPath": "/home/apps/SilverBridgeSky/SilverBridgeAiServer",
+      "classification": "AI 서버",
+      "stack": [
+        "Python",
+        "FastAPI",
+        "Uvicorn",
+        "Pydantic",
+        "SQLAlchemy",
+        "PostgreSQL",
+        "PyTorch",
+        "Transformers",
+        "fastapi",
+        "Frontend",
+        "Backend",
+        "AI"
+      ],
+      "mainFiles": [
+        {
+          "file": "package.json",
+          "exists": false
+        },
+        {
+          "file": "vite.config.js",
+          "exists": false
+        },
+        {
+          "file": "vite.config.ts",
+          "exists": false
+        },
+        {
+          "file": "vite.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "vite.config.cjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.js",
+          "exists": false
+        },
+        {
+          "file": "next.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.ts",
+          "exists": false
+        },
+        {
+          "file": "requirements.txt",
+          "exists": true
+        },
+        {
+          "file": "pyproject.toml",
+          "exists": false
+        },
+        {
+          "file": "Dockerfile",
+          "exists": true
+        },
+        {
+          "file": "docker-compose.yml",
+          "exists": true
+        },
+        {
+          "file": "docker-compose.yaml",
+          "exists": false
+        },
+        {
+          "file": "compose.yml",
+          "exists": false
+        },
+        {
+          "file": "compose.yaml",
+          "exists": false
+        },
+        {
+          "file": ".env.example",
+          "exists": true
+        },
+        {
+          "file": ".env",
+          "exists": true
+        },
+        {
+          "file": "pom.xml",
+          "exists": false
+        },
+        {
+          "file": "build.gradle",
+          "exists": false
+        },
+        {
+          "file": "build.gradle.kts",
+          "exists": false
+        }
+      ],
+      "structure": {
+        "fileCount": 1463,
+        "dirCount": 50,
+        "mainFolders": [
+          "app",
+          "data",
+          "models",
+          "tests"
+        ],
+        "majorPaths": [
+          "app",
+          "app/core",
+          "app/database",
+          "app/models",
+          "app/prompts",
+          "app/routers",
+          "app/schemas",
+          "app/services",
+          "app/utils",
+          "models",
+          "tests"
+        ]
+      },
+      "database": {
+        "used": true,
+        "types": [
+          "PostgreSQL",
+          "SQLite"
+        ],
+        "clueFiles": [
+          "app/database/__init__.py",
+          "app/database/base.py",
+          "app/database/session.py"
+        ],
+        "evidence": [
+          "docker-compose.yml 확인",
+          "requirements.txt 확인",
+          ".env 키 109개 확인",
+          "DB 관련 파일 3개 확인",
+          "추정 DB: PostgreSQL, SQLite"
+        ],
+        "summary": "PostgreSQL, SQLite 사용 추정"
+      },
+      "runtime": {
+        "status": "실행 중",
+        "running": true,
+        "pm2": [],
+        "docker": [
+          {
+            "name": "silverbridge-ai-server",
+            "image": "silverbridgeaiserver-ai-server",
+            "status": "Up 2 hours",
+            "ports": ""
+          }
+        ],
+        "ports": [
+          6012,
+          6015,
+          6017,
+          6019
+        ],
+        "allCandidatePorts": [
+          1008,
+          1280,
+          5432,
+          6012,
+          6015,
+          6017,
+          6019,
+          8080
+        ],
+        "summary": [
+          "실행 중",
+          "PM2 없음",
+          "Docker 1개",
+          "포트 6012, 6015, 6017, 6019"
+        ]
+      },
+      "recentFiles": [
+        {
+          "path": "data/postgres/pg_wal/000000010000000000000001",
+          "modifiedAt": "2026-06-05T03:27:28.329Z"
+        },
+        {
+          "path": "data/postgres/global/pg_control",
+          "modifiedAt": "2026-06-05T03:27:08.350Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16426",
+          "modifiedAt": "2026-06-05T03:27:08.250Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16425",
+          "modifiedAt": "2026-06-05T03:27:08.150Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16424",
+          "modifiedAt": "2026-06-05T03:27:08.050Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16422",
+          "modifiedAt": "2026-06-05T03:27:07.950Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16416",
+          "modifiedAt": "2026-06-05T03:27:07.850Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16415",
+          "modifiedAt": "2026-06-05T03:27:07.750Z"
+        }
+      ],
+      "summary": [
+        "분류: AI 서버",
+        "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI",
+        "DB 사용 추정: PostgreSQL, SQLite",
+        "실행 상태: 실행 중"
+      ]
+    },
+    {
+      "projectName": "SilverBridgeBe",
+      "projectPath": "/home/apps/SilverBridgeSky/SilverBridgeBe",
+      "classification": "AI 서버",
+      "stack": [
+        "Java",
+        "Spring",
+        "Frontend",
+        "Backend"
+      ],
+      "mainFiles": [
+        {
+          "file": "package.json",
+          "exists": false
+        },
+        {
+          "file": "vite.config.js",
+          "exists": false
+        },
+        {
+          "file": "vite.config.ts",
+          "exists": false
+        },
+        {
+          "file": "vite.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "vite.config.cjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.js",
+          "exists": false
+        },
+        {
+          "file": "next.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.ts",
+          "exists": false
+        },
+        {
+          "file": "requirements.txt",
+          "exists": false
+        },
+        {
+          "file": "pyproject.toml",
+          "exists": false
+        },
+        {
+          "file": "Dockerfile",
+          "exists": true
+        },
+        {
+          "file": "docker-compose.yml",
+          "exists": false
+        },
+        {
+          "file": "docker-compose.yaml",
+          "exists": false
+        },
+        {
+          "file": "compose.yml",
+          "exists": false
+        },
+        {
+          "file": "compose.yaml",
+          "exists": false
+        },
+        {
+          "file": ".env.example",
+          "exists": false
+        },
+        {
+          "file": ".env",
+          "exists": false
+        },
+        {
+          "file": "pom.xml",
+          "exists": false
+        },
+        {
+          "file": "build.gradle",
+          "exists": true
+        },
+        {
+          "file": "build.gradle.kts",
+          "exists": false
+        }
+      ],
+      "structure": {
+        "fileCount": 74,
+        "dirCount": 25,
+        "mainFolders": [
+          "db",
+          "docs",
+          "gradle",
+          "src",
+          "tools"
+        ],
+        "majorPaths": [
+          "src",
+          "src/main",
+          "src/main/java",
+          "src/main/java/kr",
+          "src/main/java/kr/silverbridge",
+          "src/main/java/kr/silverbridge/main",
+          "src/main/java/kr/silverbridge/main/domain",
+          "src/main/java/kr/silverbridge/main/global",
+          "src/main/resources",
+          "src/main/resources/db",
+          "src/main/resources/db/migration",
+          "src/test",
+          "src/test/java",
+          "src/test/java/kr",
+          "src/test/java/kr/silverbridge",
+          "src/test/java/kr/silverbridge/main",
+          "src/test/java/kr/silverbridge/main/domain",
+          "src/test/java/kr/silverbridge/main/global"
+        ]
+      },
+      "database": {
+        "used": true,
+        "types": [
+          "PostgreSQL",
+          "Redis"
+        ],
+        "clueFiles": [],
+        "evidence": [
+          "docker-compose.yml 확인",
+          "application.yml 확인",
+          "추정 DB: PostgreSQL, Redis"
+        ],
+        "summary": "PostgreSQL, Redis 사용 추정"
+      },
+      "runtime": {
+        "status": "실행 중",
+        "running": true,
+        "pm2": [],
+        "docker": [],
+        "ports": [
+          6379,
+          6511
+        ],
+        "allCandidatePorts": [
+          3000,
+          5173,
+          5432,
+          6379,
+          6511,
+          8080,
+          18000,
+          60480
+        ],
+        "summary": [
+          "실행 중",
+          "PM2 없음",
+          "Docker 없음",
+          "포트 6379, 6511"
+        ]
+      },
+      "recentFiles": [
+        {
+          "path": "프로젝트_설명.txt",
+          "modifiedAt": "2026-06-02T07:00:18.551Z"
+        },
+        {
+          "path": "docs/(2026-06-02) feature-connection-partner-full-profile.md",
+          "modifiedAt": "2026-06-02T07:00:18.551Z"
+        },
+        {
+          "path": "docs/progress.md",
+          "modifiedAt": "2026-06-02T07:00:18.551Z"
+        },
+        {
+          "path": "docs/(2026-05-31) bugfix-connection-disconnect-message.md",
+          "modifiedAt": "2026-05-31T13:33:34.200Z"
+        },
+        {
+          "path": "src/main/resources/db/migration/V25__add_user_notification_settings.sql",
+          "modifiedAt": "2026-05-31T05:35:29.746Z"
+        },
+        {
+          "path": "CLAUDE.md",
+          "modifiedAt": "2026-05-31T05:35:29.742Z"
+        },
+        {
+          "path": "docs/(2026-05-31) bug-investigation-password-reset-verification.md",
+          "modifiedAt": "2026-05-31T05:35:29.742Z"
+        },
+        {
+          "path": "docs/(2026-05-31) feature-notification-channel-infra.md",
+          "modifiedAt": "2026-05-31T05:35:29.742Z"
+        }
+      ],
+      "summary": [
+        "분류: AI 서버",
+        "기술 추정: Java, Spring, Frontend, Backend",
+        "DB 사용 추정: PostgreSQL, Redis",
+        "실행 상태: 실행 중"
+      ]
+    },
+    {
+      "projectName": "SilverBridgeFe",
+      "projectPath": "/home/apps/SilverBridgeSky/SilverBridgeFe",
+      "classification": "AI 서버",
+      "stack": [
+        "Node.js",
+        "React",
+        "Next.js",
+        "Vite",
+        "Frontend"
+      ],
+      "mainFiles": [
+        {
+          "file": "package.json",
+          "exists": true
+        },
+        {
+          "file": "vite.config.js",
+          "exists": false
+        },
+        {
+          "file": "vite.config.ts",
+          "exists": false
+        },
+        {
+          "file": "vite.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "vite.config.cjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.js",
+          "exists": false
+        },
+        {
+          "file": "next.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.ts",
+          "exists": true
+        },
+        {
+          "file": "requirements.txt",
+          "exists": false
+        },
+        {
+          "file": "pyproject.toml",
+          "exists": false
+        },
+        {
+          "file": "Dockerfile",
+          "exists": true
+        },
+        {
+          "file": "docker-compose.yml",
+          "exists": false
+        },
+        {
+          "file": "docker-compose.yaml",
+          "exists": false
+        },
+        {
+          "file": "compose.yml",
+          "exists": false
+        },
+        {
+          "file": "compose.yaml",
+          "exists": false
+        },
+        {
+          "file": ".env.example",
+          "exists": false
+        },
+        {
+          "file": ".env",
+          "exists": true
+        },
+        {
+          "file": "pom.xml",
+          "exists": false
+        },
+        {
+          "file": "build.gradle",
+          "exists": false
+        },
+        {
+          "file": "build.gradle.kts",
+          "exists": false
+        }
+      ],
+      "structure": {
+        "fileCount": 194,
+        "dirCount": 77,
+        "mainFolders": [
+          "public",
+          "src"
+        ],
+        "majorPaths": [
+          "public",
+          "public/images",
+          "src",
+          "src/app",
+          "src/app/(auth)",
+          "src/app/(auth)/_components",
+          "src/app/(auth)/auth",
+          "src/app/(auth)/auth/kakao",
+          "src/app/(auth)/auth/kakao/callback",
+          "src/app/(auth)/find-email",
+          "src/app/(auth)/find-email/_components",
+          "src/app/(auth)/find-email/_hooks",
+          "src/app/(auth)/find-password",
+          "src/app/(auth)/find-password/_components",
+          "src/app/(auth)/find-password/_hooks",
+          "src/app/(auth)/login",
+          "src/app/(auth)/login/_components",
+          "src/app/(auth)/signup",
+          "src/app/(auth)/signup/_components",
+          "src/app/(guardian)"
+        ]
+      },
+      "database": {
+        "used": false,
+        "types": [],
+        "clueFiles": [],
+        "evidence": [
+          "docker-compose.yml 확인",
+          "package.json 확인",
+          ".env 키 16개 확인"
+        ],
+        "summary": "DB 사용 흔적 없음"
+      },
+      "runtime": {
+        "status": "실행 중",
+        "running": true,
+        "pm2": [],
+        "docker": [],
+        "ports": [
+          6000
+        ],
+        "allCandidatePorts": [
+          3000,
+          5000,
+          6000,
+          60480,
+          60836
+        ],
+        "summary": [
+          "실행 중",
+          "PM2 없음",
+          "Docker 없음",
+          "포트 6000"
+        ]
+      },
+      "recentFiles": [
+        {
+          "path": ".env",
+          "modifiedAt": "2026-06-05T00:04:17.971Z"
+        },
+        {
+          "path": "src/app/(guardian)/guardian/hospital/page.tsx",
+          "modifiedAt": "2026-06-04T06:04:12.308Z"
+        },
+        {
+          "path": "src/app/(guardian)/guardian/chatbot/_components/ChatBubble.tsx",
+          "modifiedAt": "2026-06-02T05:20:06.072Z"
+        },
+        {
+          "path": "src/app/(guardian)/guardian/chatbot/_components/ChatUiPrompt.tsx",
+          "modifiedAt": "2026-06-02T05:19:47.781Z"
+        },
+        {
+          "path": "src/service/interface/chat.ts",
+          "modifiedAt": "2026-06-02T05:19:44.629Z"
+        },
+        {
+          "path": "src/app/(guardian)/guardian/chatbot/_components/KakaoHospitalMap.tsx",
+          "modifiedAt": "2026-06-02T05:11:01.236Z"
+        },
+        {
+          "path": "src/app/(guardian)/guardian/chatbot/_components/GuardianChatContent.tsx",
+          "modifiedAt": "2026-06-02T04:52:02.406Z"
+        },
+        {
+          "path": "src/app/(guardian)/guardian/chatbot/_components/ChatContextForm.module.css",
+          "modifiedAt": "2026-06-02T04:51:58.198Z"
+        }
+      ],
+      "summary": [
+        "분류: AI 서버",
+        "기술 추정: Node.js, React, Next.js, Vite, Frontend",
+        "DB 사용 흔적 없음",
+        "실행 상태: 실행 중"
+      ]
+    },
+    {
+      "projectName": "SilverBridgeJH",
+      "projectPath": "/home/apps/SilverBridgeSky/SilverBridgeJH",
+      "classification": "AI 서버",
+      "stack": [
+        "Frontend",
+        "Backend",
+        "AI"
+      ],
+      "mainFiles": [
+        {
+          "file": "package.json",
+          "exists": false
+        },
+        {
+          "file": "vite.config.js",
+          "exists": false
+        },
+        {
+          "file": "vite.config.ts",
+          "exists": false
+        },
+        {
+          "file": "vite.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "vite.config.cjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.js",
+          "exists": false
+        },
+        {
+          "file": "next.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.ts",
+          "exists": false
+        },
+        {
+          "file": "requirements.txt",
+          "exists": false
+        },
+        {
+          "file": "pyproject.toml",
+          "exists": false
+        },
+        {
+          "file": "Dockerfile",
+          "exists": false
+        },
+        {
+          "file": "docker-compose.yml",
+          "exists": false
+        },
+        {
+          "file": "docker-compose.yaml",
+          "exists": false
+        },
+        {
+          "file": "compose.yml",
+          "exists": false
+        },
+        {
+          "file": "compose.yaml",
+          "exists": false
+        },
+        {
+          "file": ".env.example",
+          "exists": false
+        },
+        {
+          "file": ".env",
+          "exists": false
+        },
+        {
+          "file": "pom.xml",
+          "exists": false
+        },
+        {
+          "file": "build.gradle",
+          "exists": false
+        },
+        {
+          "file": "build.gradle.kts",
+          "exists": false
+        }
+      ],
+      "structure": {
+        "fileCount": 59877,
+        "dirCount": 51,
+        "mainFolders": [
+          "datasets",
+          "fall",
+          "models",
+          "ModelTraining"
+        ],
+        "majorPaths": [
+          "datasets/fire/test/images",
+          "datasets/fire/test/labels",
+          "datasets/knife/test/images",
+          "datasets/knife/test/labels",
+          "models",
+          "models/fire_250ep",
+          "models/fire_250ep-2",
+          "models/fire_250ep-2/weights",
+          "models/fire_250ep/weights",
+          "models/knife_250ep",
+          "models/knife_250ep/weights"
+        ]
+      },
+      "database": {
+        "used": false,
+        "types": [],
+        "clueFiles": [],
+        "evidence": [],
+        "summary": "DB 사용 흔적 없음"
+      },
+      "runtime": {
+        "status": "정지",
+        "running": false,
+        "pm2": [],
+        "docker": [],
+        "ports": [],
+        "allCandidatePorts": [],
+        "summary": [
+          "정지 또는 확인 불가"
+        ]
+      },
+      "recentFiles": [
+        {
+          "path": "ModelTraining/fire2.log",
+          "modifiedAt": "2026-05-31T17:22:24.406Z"
+        },
+        {
+          "path": "models/fire_250ep-2/results.png",
+          "modifiedAt": "2026-05-31T17:22:24.106Z"
+        },
+        {
+          "path": "models/fire_250ep-2/confusion_matrix.png",
+          "modifiedAt": "2026-05-31T17:22:23.318Z"
+        },
+        {
+          "path": "models/fire_250ep-2/confusion_matrix_normalized.png",
+          "modifiedAt": "2026-05-31T17:22:23.034Z"
+        },
+        {
+          "path": "models/fire_250ep-2/BoxR_curve.png",
+          "modifiedAt": "2026-05-31T17:22:22.630Z"
+        },
+        {
+          "path": "models/fire_250ep-2/BoxP_curve.png",
+          "modifiedAt": "2026-05-31T17:22:22.458Z"
+        },
+        {
+          "path": "models/fire_250ep-2/BoxF1_curve.png",
+          "modifiedAt": "2026-05-31T17:22:22.258Z"
+        },
+        {
+          "path": "models/fire_250ep-2/BoxPR_curve.png",
+          "modifiedAt": "2026-05-31T17:22:22.066Z"
+        }
+      ],
+      "summary": [
+        "분류: AI 서버",
+        "기술 추정: Frontend, Backend, AI",
+        "DB 사용 흔적 없음",
+        "실행 상태: 정지"
+      ]
+    },
+    {
+      "projectName": "SilverBridgeReservation",
+      "projectPath": "/home/apps/SilverBridgeSky/SilverBridgeReservation",
+      "classification": "AI 서버",
+      "stack": [
+        "Node.js",
+        "Prisma",
+        "React",
+        "Vue",
+        "Vite",
+        "nestjs",
+        "NestJS",
+        "Express",
+        "express",
+        "Frontend"
+      ],
+      "mainFiles": [
+        {
+          "file": "package.json",
+          "exists": true
+        },
+        {
+          "file": "vite.config.js",
+          "exists": false
+        },
+        {
+          "file": "vite.config.ts",
+          "exists": true
+        },
+        {
+          "file": "vite.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "vite.config.cjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.js",
+          "exists": false
+        },
+        {
+          "file": "next.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.ts",
+          "exists": false
+        },
+        {
+          "file": "requirements.txt",
+          "exists": false
+        },
+        {
+          "file": "pyproject.toml",
+          "exists": false
+        },
+        {
+          "file": "Dockerfile",
+          "exists": true
+        },
+        {
+          "file": "docker-compose.yml",
+          "exists": true
+        },
+        {
+          "file": "docker-compose.yaml",
+          "exists": false
+        },
+        {
+          "file": "compose.yml",
+          "exists": false
+        },
+        {
+          "file": "compose.yaml",
+          "exists": false
+        },
+        {
+          "file": ".env.example",
+          "exists": true
+        },
+        {
+          "file": ".env",
+          "exists": true
+        },
+        {
+          "file": "pom.xml",
+          "exists": false
+        },
+        {
+          "file": "build.gradle",
+          "exists": false
+        },
+        {
+          "file": "build.gradle.kts",
+          "exists": false
+        }
+      ],
+      "structure": {
+        "fileCount": 88,
+        "dirCount": 29,
+        "mainFolders": [
+          "admin-ui",
+          "docs",
+          "prisma",
+          "src",
+          "v8-compile-cache-0"
+        ],
+        "majorPaths": [
+          "admin-ui/src/pages",
+          "prisma",
+          "prisma/migrations",
+          "prisma/migrations/20260410002451_init",
+          "prisma/migrations/20260527114400_api_key_access",
+          "src",
+          "src/admin",
+          "src/admin/dto",
+          "src/auth",
+          "src/auth/decorators",
+          "src/auth/dto",
+          "src/auth/guards",
+          "src/auth/strategies",
+          "src/common",
+          "src/common/filters",
+          "src/common/utils",
+          "src/hospital",
+          "src/hospital/dto",
+          "src/mcp",
+          "src/prisma"
+        ]
+      },
+      "database": {
+        "used": true,
+        "types": [
+          "SQLite"
+        ],
+        "clueFiles": [],
+        "evidence": [
+          "docker-compose.yml 확인",
+          "package.json 확인",
+          ".env 키 13개 확인",
+          "추정 DB: SQLite"
+        ],
+        "summary": "SQLite 사용 추정"
+      },
+      "runtime": {
+        "status": "실행 중",
+        "running": true,
+        "pm2": [],
+        "docker": [
+          {
+            "name": "silverbridgereservation-reservation-api-1",
+            "image": "silverbridgereservation-reservation-api",
+            "status": "Up 5 days",
+            "ports": "0.0.0.0:6015->6015/tcp, [::]:6015->6015/tcp"
+          }
+        ],
+        "ports": [
+          6015,
+          6017,
+          6018
+        ],
+        "allCandidatePorts": [
+          5173,
+          6015,
+          6017,
+          6018
+        ],
+        "summary": [
+          "실행 중",
+          "PM2 없음",
+          "Docker 1개",
+          "포트 6015, 6017, 6018"
+        ]
+      },
+      "recentFiles": [
+        {
+          "path": "src/reservation/reservation.controller.ts",
+          "modifiedAt": "2026-06-01T00:57:47.175Z"
+        },
+        {
+          "path": "admin-ui/src/App.tsx",
+          "modifiedAt": "2026-05-30T10:04:38.283Z"
+        },
+        {
+          "path": "src/auth/auth.module.ts",
+          "modifiedAt": "2026-05-30T10:04:38.207Z"
+        },
+        {
+          "path": "prisma/schema.prisma",
+          "modifiedAt": "2026-05-30T10:04:38.199Z"
+        },
+        {
+          "path": "src/admin/admin.module.ts",
+          "modifiedAt": "2026-05-30T10:04:38.191Z"
+        },
+        {
+          "path": "src/app.module.ts",
+          "modifiedAt": "2026-05-30T10:04:38.191Z"
+        },
+        {
+          "path": "src/main.ts",
+          "modifiedAt": "2026-05-27T08:15:47.736Z"
+        },
+        {
+          "path": "prisma/dev.db",
+          "modifiedAt": "2026-05-27T02:47:32.317Z"
+        }
+      ],
+      "summary": [
+        "분류: AI 서버",
+        "기술 추정: Node.js, Prisma, React, Vue, Vite, nestjs, NestJS, Express, express, Frontend",
+        "DB 사용 추정: SQLite",
+        "실행 상태: 실행 중"
+      ]
+    },
+    {
+      "projectName": "SilverBridgeSky",
+      "projectPath": "/home/apps/SilverBridgeSky/SilverBridgeSky",
+      "classification": "AI 서버",
+      "stack": [
+        "Java",
+        "Node.js",
+        "React",
+        "Next.js",
+        "Spring Boot",
+        "Frontend"
+      ],
+      "mainFiles": [
+        {
+          "file": "package.json",
+          "exists": true
+        },
+        {
+          "file": "vite.config.js",
+          "exists": false
+        },
+        {
+          "file": "vite.config.ts",
+          "exists": false
+        },
+        {
+          "file": "vite.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "vite.config.cjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.js",
+          "exists": false
+        },
+        {
+          "file": "next.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.ts",
+          "exists": true
+        },
+        {
+          "file": "requirements.txt",
+          "exists": false
+        },
+        {
+          "file": "pyproject.toml",
+          "exists": false
+        },
+        {
+          "file": "Dockerfile",
+          "exists": true
+        },
+        {
+          "file": "docker-compose.yml",
+          "exists": true
+        },
+        {
+          "file": "docker-compose.yaml",
+          "exists": false
+        },
+        {
+          "file": "compose.yml",
+          "exists": false
+        },
+        {
+          "file": "compose.yaml",
+          "exists": false
+        },
+        {
+          "file": ".env.example",
+          "exists": true
+        },
+        {
+          "file": ".env",
+          "exists": false
+        },
+        {
+          "file": "pom.xml",
+          "exists": true
+        },
+        {
+          "file": "build.gradle",
+          "exists": false
+        },
+        {
+          "file": "build.gradle.kts",
+          "exists": false
+        }
+      ],
+      "structure": {
+        "fileCount": 63,
+        "dirCount": 61,
+        "mainFolders": [
+          "docs",
+          "next",
+          "spring"
+        ],
+        "majorPaths": [
+          "next/src/app",
+          "next/src/app/home",
+          "next/src/app/login",
+          "next/src/components",
+          "next/src/components/common",
+          "next/src/components/home",
+          "next/src/components/layout",
+          "next/src/components/login",
+          "next/src/lib",
+          "next/src/mock",
+          "next/src/types",
+          "spring/src/main",
+          "spring/src/main/java",
+          "spring/src/main/java/com",
+          "spring/src/main/java/com/silverbridge",
+          "spring/src/main/java/com/silverbridge/api",
+          "spring/src/main/resources",
+          "spring/src/test",
+          "spring/src/test/java",
+          "spring/src/test/java/com"
+        ]
+      },
+      "database": {
+        "used": true,
+        "types": [
+          "PostgreSQL",
+          "Redis"
+        ],
+        "clueFiles": [],
+        "evidence": [
+          "docker-compose.yml 확인",
+          "package.json 확인",
+          ".env 키 1개 확인",
+          "추정 DB: PostgreSQL, Redis"
+        ],
+        "summary": "PostgreSQL, Redis 사용 추정"
+      },
+      "runtime": {
+        "status": "실행 중",
+        "running": true,
+        "pm2": [],
+        "docker": [],
+        "ports": [
+          6379
+        ],
+        "allCandidatePorts": [
+          3000,
+          5432,
+          6379,
+          6501,
+          6502,
+          8000,
+          8080
+        ],
+        "summary": [
+          "실행 중",
+          "PM2 없음",
+          "Docker 없음",
+          "포트 6379"
+        ]
+      },
+      "recentFiles": [
+        {
+          "path": "next/src/components/login/SocialLoginSection.tsx",
+          "modifiedAt": "2026-04-05T13:16:52.078Z"
+        },
+        {
+          "path": "spring/target/api-0.0.1-SNAPSHOT.jar",
+          "modifiedAt": "2026-04-05T09:22:29.682Z"
+        },
+        {
+          "path": "spring/target/api-0.0.1-SNAPSHOT.jar.original",
+          "modifiedAt": "2026-04-05T09:22:29.446Z"
+        },
+        {
+          "path": "spring/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst",
+          "modifiedAt": "2026-04-05T09:22:29.266Z"
+        },
+        {
+          "path": "spring/target/test-classes/com/silverbridge/api/ApiApplicationTests.class",
+          "modifiedAt": "2026-04-05T09:22:29.262Z"
+        },
+        {
+          "path": "spring/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst",
+          "modifiedAt": "2026-04-05T09:22:29.058Z"
+        },
+        {
+          "path": "spring/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst",
+          "modifiedAt": "2026-04-05T09:22:29.050Z"
+        },
+        {
+          "path": "spring/target/classes/com/silverbridge/api/ApiApplication.class",
+          "modifiedAt": "2026-04-05T09:22:28.838Z"
+        }
+      ],
+      "summary": [
+        "분류: AI 서버",
+        "기술 추정: Java, Node.js, React, Next.js, Spring Boot, Frontend",
+        "DB 사용 추정: PostgreSQL, Redis",
+        "실행 상태: 실행 중"
+      ]
+    },
+    {
+      "projectName": "SilverBridgeSSOBe",
+      "projectPath": "/home/apps/SilverBridgeSky/SilverBridgeSSOBe",
+      "classification": "AI 서버",
+      "stack": [
+        "Java",
+        "Spring",
+        "Frontend",
+        "Backend"
+      ],
+      "mainFiles": [
+        {
+          "file": "package.json",
+          "exists": false
+        },
+        {
+          "file": "vite.config.js",
+          "exists": false
+        },
+        {
+          "file": "vite.config.ts",
+          "exists": false
+        },
+        {
+          "file": "vite.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "vite.config.cjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.js",
+          "exists": false
+        },
+        {
+          "file": "next.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.ts",
+          "exists": false
+        },
+        {
+          "file": "requirements.txt",
+          "exists": false
+        },
+        {
+          "file": "pyproject.toml",
+          "exists": false
+        },
+        {
+          "file": "Dockerfile",
+          "exists": true
+        },
+        {
+          "file": "docker-compose.yml",
+          "exists": false
+        },
+        {
+          "file": "docker-compose.yaml",
+          "exists": false
+        },
+        {
+          "file": "compose.yml",
+          "exists": false
+        },
+        {
+          "file": "compose.yaml",
+          "exists": false
+        },
+        {
+          "file": ".env.example",
+          "exists": false
+        },
+        {
+          "file": ".env",
+          "exists": false
+        },
+        {
+          "file": "pom.xml",
+          "exists": false
+        },
+        {
+          "file": "build.gradle",
+          "exists": true
+        },
+        {
+          "file": "build.gradle.kts",
+          "exists": false
+        }
+      ],
+      "structure": {
+        "fileCount": 12,
+        "dirCount": 17,
+        "mainFolders": [
+          "db",
+          "gradle",
+          "src"
+        ],
+        "majorPaths": [
+          "src",
+          "src/main",
+          "src/main/java",
+          "src/main/java/kr",
+          "src/main/java/kr/gosky",
+          "src/main/java/kr/gosky/sso",
+          "src/main/java/kr/gosky/sso/domain",
+          "src/main/java/kr/gosky/sso/global",
+          "src/main/resources",
+          "src/test",
+          "src/test/java",
+          "src/test/java/kr",
+          "src/test/java/kr/gosky",
+          "src/test/java/kr/gosky/sso"
+        ]
+      },
+      "database": {
+        "used": true,
+        "types": [
+          "MySQL",
+          "Redis"
+        ],
+        "clueFiles": [],
+        "evidence": [
+          "docker-compose.yml 확인",
+          "application.yml 확인",
+          "추정 DB: MySQL, Redis"
+        ],
+        "summary": "MySQL, Redis 사용 추정"
+      },
+      "runtime": {
+        "status": "실행 중",
+        "running": true,
+        "pm2": [],
+        "docker": [],
+        "ports": [
+          3306,
+          6379
+        ],
+        "allCandidatePorts": [
+          3306,
+          6379,
+          6501,
+          18000,
+          60480
+        ],
+        "summary": [
+          "실행 중",
+          "PM2 없음",
+          "Docker 없음",
+          "포트 3306, 6379"
+        ]
+      },
+      "recentFiles": [
+        {
+          "path": "build.gradle",
+          "modifiedAt": "2026-06-01T05:47:15.835Z"
+        },
+        {
+          "path": "db/schema.sql",
+          "modifiedAt": "2026-06-01T05:47:15.835Z"
+        },
+        {
+          "path": "docker-compose.dev.sso.yml",
+          "modifiedAt": "2026-06-01T05:47:15.835Z"
+        },
+        {
+          "path": "gradle/wrapper/gradle-wrapper.jar",
+          "modifiedAt": "2026-06-01T05:47:15.835Z"
+        },
+        {
+          "path": "gradle/wrapper/gradle-wrapper.properties",
+          "modifiedAt": "2026-06-01T05:47:15.835Z"
+        },
+        {
+          "path": "gradlew",
+          "modifiedAt": "2026-06-01T05:47:15.835Z"
+        },
+        {
+          "path": "gradlew.bat",
+          "modifiedAt": "2026-06-01T05:47:15.835Z"
+        },
+        {
+          "path": "settings.gradle",
+          "modifiedAt": "2026-06-01T05:47:15.835Z"
+        }
+      ],
+      "summary": [
+        "분류: AI 서버",
+        "기술 추정: Java, Spring, Frontend, Backend",
+        "DB 사용 추정: MySQL, Redis",
+        "실행 상태: 실행 중"
+      ]
+    },
+    {
+      "projectName": "SilverBridgeStreamTestFe",
+      "projectPath": "/home/apps/SilverBridgeSky/SilverBridgeStreamTestFe",
+      "classification": "AI 서버",
+      "stack": [
+        "Node.js",
+        "React",
+        "Vite",
+        "Frontend"
+      ],
+      "mainFiles": [
+        {
+          "file": "package.json",
+          "exists": true
+        },
+        {
+          "file": "vite.config.js",
+          "exists": true
+        },
+        {
+          "file": "vite.config.ts",
+          "exists": false
+        },
+        {
+          "file": "vite.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "vite.config.cjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.js",
+          "exists": false
+        },
+        {
+          "file": "next.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.ts",
+          "exists": false
+        },
+        {
+          "file": "requirements.txt",
+          "exists": false
+        },
+        {
+          "file": "pyproject.toml",
+          "exists": false
+        },
+        {
+          "file": "Dockerfile",
+          "exists": true
+        },
+        {
+          "file": "docker-compose.yml",
+          "exists": true
+        },
+        {
+          "file": "docker-compose.yaml",
+          "exists": false
+        },
+        {
+          "file": "compose.yml",
+          "exists": false
+        },
+        {
+          "file": "compose.yaml",
+          "exists": false
+        },
+        {
+          "file": ".env.example",
+          "exists": true
+        },
+        {
+          "file": ".env",
+          "exists": true
+        },
+        {
+          "file": "pom.xml",
+          "exists": false
+        },
+        {
+          "file": "build.gradle",
+          "exists": false
+        },
+        {
+          "file": "build.gradle.kts",
+          "exists": false
+        }
+      ],
+      "structure": {
+        "fileCount": 24,
+        "dirCount": 3,
+        "mainFolders": [
+          "public",
+          "src"
+        ],
+        "majorPaths": [
+          "public",
+          "src",
+          "src/assets"
+        ]
+      },
+      "database": {
+        "used": false,
+        "types": [],
+        "clueFiles": [],
+        "evidence": [
+          "docker-compose.yml 확인",
+          "package.json 확인",
+          ".env 키 11개 확인"
+        ],
+        "summary": "DB 사용 흔적 없음"
+      },
+      "runtime": {
+        "status": "실행 중",
+        "running": true,
+        "pm2": [],
+        "docker": [],
+        "ports": [
+          6018
+        ],
+        "allCandidatePorts": [
+          1012,
+          6018
+        ],
+        "summary": [
+          "실행 중",
+          "PM2 없음",
+          "Docker 없음",
+          "포트 6018"
+        ]
+      },
+      "recentFiles": [
+        {
+          "path": "package.json",
+          "modifiedAt": "2026-06-05T00:04:17.979Z"
+        },
+        {
+          "path": "README.md",
+          "modifiedAt": "2026-06-01T05:42:21.743Z"
+        },
+        {
+          "path": "src/App.jsx",
+          "modifiedAt": "2026-06-01T05:40:49.584Z"
+        },
+        {
+          "path": "src/ChatConsultPanel.jsx",
+          "modifiedAt": "2026-06-01T00:57:47.179Z"
+        },
+        {
+          "path": "src/GameIframePanel.jsx",
+          "modifiedAt": "2026-06-01T00:57:47.179Z"
+        },
+        {
+          "path": ".env.example",
+          "modifiedAt": "2026-06-01T00:57:47.171Z"
+        },
+        {
+          "path": "src/ChatToolResult.jsx",
+          "modifiedAt": "2026-06-01T00:57:47.171Z"
+        },
+        {
+          "path": "src/index.css",
+          "modifiedAt": "2026-06-01T00:57:47.171Z"
+        }
+      ],
+      "summary": [
+        "분류: AI 서버",
+        "기술 추정: Node.js, React, Vite, Frontend",
+        "DB 사용 흔적 없음",
+        "실행 상태: 실행 중"
+      ]
+    },
+    {
+      "projectName": "TestSilverBridge",
+      "projectPath": "/home/apps/SilverBridgeSky/TestSilverBridge",
+      "classification": "AI 서버",
+      "stack": [
+        "확인 불가"
+      ],
+      "mainFiles": [
+        {
+          "file": "package.json",
+          "exists": false
+        },
+        {
+          "file": "vite.config.js",
+          "exists": false
+        },
+        {
+          "file": "vite.config.ts",
+          "exists": false
+        },
+        {
+          "file": "vite.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "vite.config.cjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.js",
+          "exists": false
+        },
+        {
+          "file": "next.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.ts",
+          "exists": false
+        },
+        {
+          "file": "requirements.txt",
+          "exists": false
+        },
+        {
+          "file": "pyproject.toml",
+          "exists": false
+        },
+        {
+          "file": "Dockerfile",
+          "exists": false
+        },
+        {
+          "file": "docker-compose.yml",
+          "exists": false
+        },
+        {
+          "file": "docker-compose.yaml",
+          "exists": false
+        },
+        {
+          "file": "compose.yml",
+          "exists": false
+        },
+        {
+          "file": "compose.yaml",
+          "exists": false
+        },
+        {
+          "file": ".env.example",
+          "exists": false
+        },
+        {
+          "file": ".env",
+          "exists": false
+        },
+        {
+          "file": "pom.xml",
+          "exists": false
+        },
+        {
+          "file": "build.gradle",
+          "exists": false
+        },
+        {
+          "file": "build.gradle.kts",
+          "exists": false
+        }
+      ],
+      "structure": {
+        "fileCount": 13,
+        "dirCount": 2,
+        "mainFolders": [
+          "css",
+          "js"
+        ],
+        "majorPaths": []
+      },
+      "database": {
+        "used": false,
+        "types": [],
+        "clueFiles": [],
+        "evidence": [],
+        "summary": "DB 사용 흔적 없음"
+      },
+      "runtime": {
+        "status": "확인 불가",
+        "running": false,
+        "pm2": [],
+        "docker": [],
+        "ports": [],
+        "allCandidatePorts": [],
+        "summary": [
+          "정지 또는 확인 불가"
+        ]
+      },
+      "recentFiles": [
+        {
+          "path": "admin.html",
+          "modifiedAt": "2026-04-14T00:22:19.174Z"
+        },
+        {
+          "path": "css/common.css",
+          "modifiedAt": "2026-04-14T00:22:19.174Z"
+        },
+        {
+          "path": "guardian-list.html",
+          "modifiedAt": "2026-04-14T00:22:19.174Z"
+        },
+        {
+          "path": "guardian-peer-detail.html",
+          "modifiedAt": "2026-04-14T00:22:19.174Z"
+        },
+        {
+          "path": "guardian-register-ward.html",
+          "modifiedAt": "2026-04-14T00:22:19.174Z"
+        },
+        {
+          "path": "guardian-settings.html",
+          "modifiedAt": "2026-04-14T00:22:19.174Z"
+        },
+        {
+          "path": "guardian-ward-profile.html",
+          "modifiedAt": "2026-04-14T00:22:19.174Z"
+        },
+        {
+          "path": "guardian.html",
+          "modifiedAt": "2026-04-14T00:22:19.174Z"
+        }
+      ],
+      "summary": [
+        "분류: AI 서버",
+        "기술 추정: 확인 불가",
+        "DB 사용 흔적 없음",
+        "실행 상태: 확인 불가"
+      ]
+    },
+    {
+      "projectName": "WhitehouseFE",
+      "projectPath": "/home/apps/SilverBridgeSky/WhitehouseFE",
+      "classification": "AI 서버",
+      "stack": [
+        "React",
+        "Next.js",
+        "Node.js",
+        "Frontend"
+      ],
+      "mainFiles": [
+        {
+          "file": "package.json",
+          "exists": true
+        },
+        {
+          "file": "vite.config.js",
+          "exists": false
+        },
+        {
+          "file": "vite.config.ts",
+          "exists": false
+        },
+        {
+          "file": "vite.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "vite.config.cjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.js",
+          "exists": false
+        },
+        {
+          "file": "next.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.ts",
+          "exists": true
+        },
+        {
+          "file": "requirements.txt",
+          "exists": false
+        },
+        {
+          "file": "pyproject.toml",
+          "exists": false
+        },
+        {
+          "file": "Dockerfile",
+          "exists": true
+        },
+        {
+          "file": "docker-compose.yml",
+          "exists": true
+        },
+        {
+          "file": "docker-compose.yaml",
+          "exists": false
+        },
+        {
+          "file": "compose.yml",
+          "exists": false
+        },
+        {
+          "file": "compose.yaml",
+          "exists": false
+        },
+        {
+          "file": ".env.example",
+          "exists": false
+        },
+        {
+          "file": ".env",
+          "exists": false
+        },
+        {
+          "file": "pom.xml",
+          "exists": false
+        },
+        {
+          "file": "build.gradle",
+          "exists": false
+        },
+        {
+          "file": "build.gradle.kts",
+          "exists": false
+        }
+      ],
+      "structure": {
+        "fileCount": 47,
+        "dirCount": 19,
+        "mainFolders": [
+          "app",
+          "components",
+          "docker",
+          "docs",
+          "lib",
+          "public",
+          "types"
+        ],
+        "majorPaths": [
+          "app",
+          "app/_intro",
+          "app/(guardian)",
+          "app/(guardian)/dashboard",
+          "app/(guardian)/dashboard/_components",
+          "app/(guardian)/dashboard/_components/modals",
+          "app/(guardian)/dashboard/_lib",
+          "components",
+          "components/ui",
+          "lib",
+          "lib/ai",
+          "lib/dashboard",
+          "lib/data",
+          "lib/utils",
+          "public"
+        ]
+      },
+      "database": {
+        "used": false,
+        "types": [],
+        "clueFiles": [],
+        "evidence": [
+          "docker-compose.yml 확인",
+          "package.json 확인"
+        ],
+        "summary": "DB 사용 흔적 없음"
+      },
+      "runtime": {
+        "status": "정지",
+        "running": false,
+        "pm2": [],
+        "docker": [],
+        "ports": [],
+        "allCandidatePorts": [
+          1280,
+          3000
+        ],
+        "summary": [
+          "정지 또는 확인 불가"
+        ]
+      },
+      "recentFiles": [
+        {
+          "path": "프로젝트_설명.txt",
+          "modifiedAt": "2026-06-01T05:47:38.927Z"
+        },
+        {
+          "path": "app/_intro/boot-screen.tsx",
+          "modifiedAt": "2026-06-01T05:47:38.927Z"
+        },
+        {
+          "path": "app/_intro/disclaimer-screen.tsx",
+          "modifiedAt": "2026-06-01T05:47:38.927Z"
+        },
+        {
+          "path": "app/_intro/fear-slider.tsx",
+          "modifiedAt": "2026-06-01T05:47:38.927Z"
+        },
+        {
+          "path": "app/_intro/intro-flow.tsx",
+          "modifiedAt": "2026-06-01T05:47:38.927Z"
+        },
+        {
+          "path": "app/_intro/lock.ts",
+          "modifiedAt": "2026-06-01T05:47:38.927Z"
+        },
+        {
+          "path": "app/_intro/lockout-screen.tsx",
+          "modifiedAt": "2026-06-01T05:47:38.927Z"
+        },
+        {
+          "path": "app/_intro/question-card.tsx",
+          "modifiedAt": "2026-06-01T05:47:38.927Z"
+        }
+      ],
+      "summary": [
+        "분류: AI 서버",
+        "기술 추정: React, Next.js, Node.js, Frontend",
+        "DB 사용 흔적 없음",
+        "실행 상태: 정지"
+      ]
+    }
+  ]
+}
