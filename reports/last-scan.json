@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-05T04:17:50.771Z",
-  "generatedAtKst": "2026-06-05 13:17:50 KST",
+  "generatedAt": "2026-06-05T04:18:09.204Z",
+  "generatedAtKst": "2026-06-05 13:18:09 KST",
   "summary": {
     "total": 16,
     "frontend": 4,
@@ -2267,7 +2267,15 @@
       "runtime": {
         "status": "실행 중",
         "running": true,
-        "pm2": [],
+        "pm2": [
+          {
+            "name": "project-check",
+            "cwd": "/home/apps/SilverBridgeSky/project-check",
+            "script": "/home/apps/SilverBridgeSky/project-check/src/monitor.js",
+            "status": "online",
+            "pid": 2223861
+          }
+        ],
         "docker": [],
         "ports": [
           6379
@@ -2283,7 +2291,7 @@
         ],
         "summary": [
           "실행 중",
-          "PM2 없음",
+          "PM2 1개",
           "Docker 없음",
           "포트 6379"
         ]
