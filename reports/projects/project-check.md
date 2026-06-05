@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/project-check`
 - 분류: 백엔드
-- 점검 시각: 2026-06-05 14:10:27 KST
+- 점검 시각: 2026-06-05 14:13:30 KST
 
 ## 추정 기술 스택
 
@@ -61,10 +61,10 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 22
+- 총 커밋 수: 23
 - 계정별 커밋 수:
-  - gosky <gosky@gosky.kr>: 22
-- 최근 커밋: 160e16d / gosky <gosky@gosky.kr> / docs: 프로젝트 상태 리포트 갱신
+  - gosky <gosky@gosky.kr>: 23
+- 최근 커밋: 04b1afa / gosky <gosky@gosky.kr> / docs: 프로젝트 상태 리포트 갱신
 
 ## 최근 수정 파일
 
@@ -78,5 +78,5 @@
 - 기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express
 - DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle
 - 실행 상태: 실행 중
-- Git 커밋 수: 22
-- Git 상위 계정: gosky(22)
+- Git 커밋 수: 23
+- Git 상위 계정: gosky(23)
