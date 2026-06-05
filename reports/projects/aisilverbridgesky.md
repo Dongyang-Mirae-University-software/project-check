@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/AiSilverBridgeSky`
 - 분류: AI 서버
-- 점검 시각: 2026-06-05 14:01:57 KST
+- 점검 시각: 2026-06-05 14:02:53 KST
 
 ## 추정 기술 스택
 
@@ -64,7 +64,7 @@
 - 총 커밋 수: 2
 - 계정별 커밋 수:
   - gosky <gosky@gosky.kr>: 8
-  - gosky <65769312+gosky2@users.noreply.github.com>: 1
+  - gosky <gosky@gosky.kr>: 1
 - 최근 커밋: b867087 / gosky <gosky@gosky.kr> / chore(service): DISPLAY_MODE=2에서 카메라 미사용
 
 ## 최근 수정 파일
