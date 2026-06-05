@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhitehouseFE`
 - 분류: 프론트엔드
-- 점검 시각: 2026-06-05 13:25:36 KST
+- 점검 시각: 2026-06-05 13:32:16 KST
 
 ## 추정 기술 스택
 
@@ -54,6 +54,15 @@
 - 관련 Docker 컨테이너: 확인 불가
 - 관련 PM2 프로세스: 확인 불가
 
+## Git 커밋 현황
+
+- 브랜치: prod
+- 총 커밋 수: 46
+- 계정별 커밋 수:
+  - skarndaudwls1 <skarndaudwls1@gmail.com>: 24
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 5
+- 최근 커밋: fc43c22 / namgung <skarndaudwls@gmail.com> / Merge pull request #14 from Dongyang-Mirae-University-software/chore/skill-cleanup-and-type-refactor
+
 ## 최근 수정 파일
 
 - 프로젝트_설명.txt (2026-06-01 14:47:38 KST)
@@ -71,3 +80,5 @@
 - 기술 추정: React, Next.js, Node.js, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 정지
+- Git 커밋 수: 46
+- Git 상위 계정: skarndaudwls1(24), skarndaudwls1(5)

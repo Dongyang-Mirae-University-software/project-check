@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeSky`
 - 분류: 백엔드
-- 점검 시각: 2026-06-05 13:25:36 KST
+- 점검 시각: 2026-06-05 13:32:16 KST
 
 ## 추정 기술 스택
 
@@ -56,6 +56,14 @@
 - 관련 Docker 컨테이너: 확인 불가
 - 관련 PM2 프로세스: project-check
 
+## Git 커밋 현황
+
+- 브랜치: main
+- 총 커밋 수: 1
+- 계정별 커밋 수:
+  - gosky <gosky@gosky.kr>: 1
+- 최근 커밋: a7380bb / gosky <gosky@gosky.kr> / update: 기본 셋팅
+
 ## 최근 수정 파일
 
 - next/src/components/login/SocialLoginSection.tsx (2026-04-05 22:16:52 KST)
@@ -73,3 +81,5 @@
 - 기술 추정: Java, Node.js, React, Next.js, Spring Boot, Frontend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
+- Git 커밋 수: 1
+- Git 상위 계정: gosky(1)

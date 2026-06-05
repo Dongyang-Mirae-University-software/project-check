@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-06-05 13:25:35 KST
+- 점검 시각: 2026-06-05 13:32:15 KST
 
 ## 추정 기술 스택
 
@@ -62,6 +62,14 @@
 - 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
+## Git 커밋 현황
+
+- 브랜치: main
+- 총 커밋 수: 41
+- 계정별 커밋 수:
+  - gosky <gosky@gosky.kr>: 41
+- 최근 커밋: 4d4c8d2 / gosky <gosky@gosky.kr> / feat(detection): split stream detectors into dedicated classes
+
 ## 최근 수정 파일
 
 - data/postgres/pg_wal/000000010000000000000001 (2026-06-05 12:27:28 KST)
@@ -79,3 +87,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
+- Git 커밋 수: 41
+- Git 상위 계정: gosky(41)

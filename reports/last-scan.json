@@ -1,14 +1,15 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-05T04:25:34.515Z",
-  "generatedAtKst": "2026-06-05 13:25:34 KST",
+  "generatedAt": "2026-06-05T04:32:14.939Z",
+  "generatedAtKst": "2026-06-05 13:32:14 KST",
   "summary": {
     "total": 16,
     "frontend": 4,
     "backend": 5,
     "ai": 5,
     "db": 7,
+    "gitRepos": 12,
     "running": 10,
     "stopped": 6
   },
@@ -168,6 +169,31 @@
           "정지 또는 확인 불가"
         ]
       },
+      "git": {
+        "isRepo": true,
+        "branch": "main",
+        "commitCount": 2,
+        "authors": [
+          {
+            "count": 8,
+            "name": "gosky",
+            "email": "gosky@gosky.kr"
+          },
+          {
+            "count": 1,
+            "name": "gosky",
+            "email": "65769312+gosky2@users.noreply.github.com"
+          }
+        ],
+        "latestCommit": {
+          "hash": "b867087",
+          "author": "gosky",
+          "email": "gosky@gosky.kr",
+          "date": "2026-04-03T15:29:05+09:00",
+          "subject": "chore(service): DISPLAY_MODE=2에서 카메라 미사용"
+        },
+        "summary": "총 2개 커밋, 상위 계정: gosky(8), gosky(1), 최근: chore(service): DISPLAY_MODE=2에서 카메라 미사용"
+      },
       "recentFiles": [
         {
           "path": "service/docker-compose.yml",
@@ -206,7 +232,9 @@
         "분류: AI 서버",
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, fastapi, Frontend, Backend, AI",
         "DB 사용 흔적 없음",
-        "실행 상태: 정지"
+        "실행 상태: 정지",
+        "Git 커밋 수: 2",
+        "Git 상위 계정: gosky(8), gosky(1)"
       ]
     },
     {
@@ -336,6 +364,14 @@
           "정지 또는 확인 불가"
         ]
       },
+      "git": {
+        "isRepo": false,
+        "branch": "확인 불가",
+        "commitCount": null,
+        "authors": [],
+        "latestCommit": null,
+        "summary": "Git 저장소 아님"
+      },
       "recentFiles": [
         {
           "path": "src/app/globals.css",
@@ -374,7 +410,8 @@
         "분류: AI 서버",
         "기술 추정: React, Next.js, Frontend, AI",
         "DB 사용 흔적 없음",
-        "실행 상태: 정지"
+        "실행 상태: 정지",
+        "Git 저장소: 아님"
       ]
     },
     {
@@ -563,6 +600,26 @@
           "포트 3306, 3307, 6012, 6015, 6516"
         ]
       },
+      "git": {
+        "isRepo": true,
+        "branch": "main",
+        "commitCount": 2,
+        "authors": [
+          {
+            "count": 2,
+            "name": "gosky",
+            "email": "gosky@gosky.kr"
+          }
+        ],
+        "latestCommit": {
+          "hash": "78689bf",
+          "author": "gosky",
+          "email": "gosky@gosky.kr",
+          "date": "2026-04-06T16:31:55+09:00",
+          "subject": "Add environment file for private deployment."
+        },
+        "summary": "총 2개 커밋, 상위 계정: gosky(2), 최근: Add environment file for private deployment."
+      },
       "recentFiles": [
         {
           "path": "app/services/reservation_api_client.py",
@@ -601,7 +658,9 @@
         "분류: AI 서버",
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, MySQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI",
         "DB 사용 추정: MySQL, SQLite",
-        "실행 상태: 실행 중"
+        "실행 상태: 실행 중",
+        "Git 커밋 수: 2",
+        "Git 상위 계정: gosky(2)"
       ]
     },
     {
@@ -752,6 +811,26 @@
           "포트 3306, 6012, 6516"
         ]
       },
+      "git": {
+        "isRepo": true,
+        "branch": "main",
+        "commitCount": 1,
+        "authors": [
+          {
+            "count": 1,
+            "name": "gosky",
+            "email": "gosky@gosky.kr"
+          }
+        ],
+        "latestCommit": {
+          "hash": "3e16c01",
+          "author": "gosky",
+          "email": "gosky@gosky.kr",
+          "date": "2026-04-06T16:43:40+09:00",
+          "subject": "Add Next.js test chat frontend scaffold."
+        },
+        "summary": "총 1개 커밋, 상위 계정: gosky(1), 최근: Add Next.js test chat frontend scaffold."
+      },
       "recentFiles": [
         {
           "path": "README.md",
@@ -790,7 +869,9 @@
         "분류: 프론트엔드",
         "기술 추정: Node.js, Next.js, React, Frontend",
         "DB 사용 추정: MySQL, SQLite",
-        "실행 상태: 실행 중"
+        "실행 상태: 실행 중",
+        "Git 커밋 수: 1",
+        "Git 상위 계정: gosky(1)"
       ]
     },
     {
@@ -906,6 +987,14 @@
           "정지 또는 확인 불가"
         ]
       },
+      "git": {
+        "isRepo": false,
+        "branch": "확인 불가",
+        "commitCount": null,
+        "authors": [],
+        "latestCommit": null,
+        "summary": "Git 저장소 아님"
+      },
       "recentFiles": [
         {
           "path": "index.html",
@@ -920,7 +1009,8 @@
         "분류: 기타",
         "기술 추정: 확인 불가",
         "DB 사용 흔적 없음",
-        "실행 상태: 확인 불가"
+        "실행 상태: 확인 불가",
+        "Git 저장소: 아님"
       ]
     },
     {
@@ -1074,6 +1164,26 @@
           "포트 확인 불가"
         ]
       },
+      "git": {
+        "isRepo": true,
+        "branch": "developing",
+        "commitCount": 38,
+        "authors": [
+          {
+            "count": 38,
+            "name": "Jaehe-he",
+            "email": "hywuljh1@naver.com"
+          }
+        ],
+        "latestCommit": {
+          "hash": "360aa55a",
+          "author": "Jaehe-he",
+          "email": "hywuljh1@naver.com",
+          "date": "2026-05-31T23:29:38+09:00",
+          "subject": "Feat. knife 이미지 총 2805장으로 학습 (epochs=250)"
+        },
+        "summary": "총 38개 커밋, 상위 계정: Jaehe-he(38), 최근: Feat. knife 이미지 총 2805장으로 학습 (epochs=250)"
+      },
       "recentFiles": [
         {
           "path": "yolo26n.pt",
@@ -1112,7 +1222,9 @@
         "분류: AI 서버",
         "기술 추정: Backend, AI",
         "DB 사용 흔적 없음",
-        "실행 상태: 실행 중"
+        "실행 상태: 실행 중",
+        "Git 커밋 수: 38",
+        "Git 상위 계정: Jaehe-he(38)"
       ]
     },
     {
@@ -1293,6 +1405,26 @@
           "포트 6012, 6015, 6017, 6019"
         ]
       },
+      "git": {
+        "isRepo": true,
+        "branch": "main",
+        "commitCount": 41,
+        "authors": [
+          {
+            "count": 41,
+            "name": "gosky",
+            "email": "gosky@gosky.kr"
+          }
+        ],
+        "latestCommit": {
+          "hash": "4d4c8d2",
+          "author": "gosky",
+          "email": "gosky@gosky.kr",
+          "date": "2026-06-01T14:43:37+09:00",
+          "subject": "feat(detection): split stream detectors into dedicated classes"
+        },
+        "summary": "총 41개 커밋, 상위 계정: gosky(41), 최근: feat(detection): split stream detectors into dedicated classes"
+      },
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000001",
@@ -1331,7 +1463,9 @@
         "분류: AI 서버",
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI",
         "DB 사용 추정: PostgreSQL, SQLite",
-        "실행 상태: 실행 중"
+        "실행 상태: 실행 중",
+        "Git 커밋 수: 41",
+        "Git 상위 계정: gosky(41)"
       ]
     },
     {
@@ -1497,6 +1631,36 @@
           "포트 6379, 6511"
         ]
       },
+      "git": {
+        "isRepo": true,
+        "branch": "dev",
+        "commitCount": 578,
+        "authors": [
+          {
+            "count": 248,
+            "name": "skarndaudwls1",
+            "email": "skarndaudwls@gmail.com"
+          },
+          {
+            "count": 103,
+            "name": "skarndaudwls1",
+            "email": "skarndaudwls1@gmail.com"
+          },
+          {
+            "count": 2,
+            "name": "gosky",
+            "email": "gosky@gosky.kr"
+          }
+        ],
+        "latestCommit": {
+          "hash": "66d9b68",
+          "author": "namgung",
+          "email": "skarndaudwls@gmail.com",
+          "date": "2026-06-02T14:52:35+09:00",
+          "subject": "Merge pull request #191 from Dongyang-Mirae-University-software/feature/connection-partner-full-profile"
+        },
+        "summary": "총 578개 커밋, 상위 계정: skarndaudwls1(248), skarndaudwls1(103), gosky(2), 최근: Merge pull request #191 from Dongyang-Mirae-University-software/feature/connection-partner-full-profile"
+      },
       "recentFiles": [
         {
           "path": "프로젝트_설명.txt",
@@ -1535,7 +1699,9 @@
         "분류: 백엔드",
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
-        "실행 상태: 실행 중"
+        "실행 상태: 실행 중",
+        "Git 커밋 수: 578",
+        "Git 상위 계정: skarndaudwls1(248), skarndaudwls1(103), gosky(2)"
       ]
     },
     {
@@ -1694,6 +1860,31 @@
           "포트 6000"
         ]
       },
+      "git": {
+        "isRepo": true,
+        "branch": "develop",
+        "commitCount": 470,
+        "authors": [
+          {
+            "count": 442,
+            "name": "YUNA0222",
+            "email": "gold8077@gmail.com"
+          },
+          {
+            "count": 9,
+            "name": "gosky",
+            "email": "gosky@gosky.kr"
+          }
+        ],
+        "latestCommit": {
+          "hash": "bed1af6",
+          "author": "gosky",
+          "email": "gosky@gosky.kr",
+          "date": "2026-06-02T14:22:09+09:00",
+          "subject": "fix: support structured chat ui options"
+        },
+        "summary": "총 470개 커밋, 상위 계정: YUNA0222(442), gosky(9), 최근: fix: support structured chat ui options"
+      },
       "recentFiles": [
         {
           "path": ".env",
@@ -1732,7 +1923,9 @@
         "분류: 프론트엔드",
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
-        "실행 상태: 실행 중"
+        "실행 상태: 실행 중",
+        "Git 커밋 수: 470",
+        "Git 상위 계정: YUNA0222(442), gosky(9)"
       ]
     },
     {
@@ -1867,6 +2060,14 @@
           "정지 또는 확인 불가"
         ]
       },
+      "git": {
+        "isRepo": false,
+        "branch": "확인 불가",
+        "commitCount": null,
+        "authors": [],
+        "latestCommit": null,
+        "summary": "Git 저장소 아님"
+      },
       "recentFiles": [
         {
           "path": "ModelTraining/fire2.log",
@@ -1905,7 +2106,8 @@
         "분류: 백엔드",
         "기술 추정: Frontend, Backend, AI",
         "DB 사용 흔적 없음",
-        "실행 상태: 정지"
+        "실행 상태: 정지",
+        "Git 저장소: 아님"
       ]
     },
     {
@@ -2083,6 +2285,26 @@
           "포트 6015, 6017, 6018"
         ]
       },
+      "git": {
+        "isRepo": true,
+        "branch": "main",
+        "commitCount": 53,
+        "authors": [
+          {
+            "count": 53,
+            "name": "gosky",
+            "email": "gosky@gosky.kr"
+          }
+        ],
+        "latestCommit": {
+          "hash": "b0faa32",
+          "author": "gosky",
+          "email": "gosky@gosky.kr",
+          "date": "2026-05-30T19:04:38+09:00",
+          "subject": "docs: add AI context documentation"
+        },
+        "summary": "총 53개 커밋, 상위 계정: gosky(53), 최근: docs: add AI context documentation"
+      },
       "recentFiles": [
         {
           "path": "src/reservation/reservation.controller.ts",
@@ -2121,7 +2343,9 @@
         "분류: 백엔드",
         "기술 추정: Node.js, Prisma, React, Vue, Vite, nestjs, NestJS, Express, express, Frontend",
         "DB 사용 추정: SQLite",
-        "실행 상태: 실행 중"
+        "실행 상태: 실행 중",
+        "Git 커밋 수: 53",
+        "Git 상위 계정: gosky(53)"
       ]
     },
     {
@@ -2273,7 +2497,7 @@
             "cwd": "/home/apps/SilverBridgeSky/project-check",
             "script": "/home/apps/SilverBridgeSky/project-check/src/monitor.js",
             "status": "online",
-            "pid": 2223861
+            "pid": 2310858
           }
         ],
         "docker": [],
@@ -2295,6 +2519,26 @@
           "Docker 없음",
           "포트 6379"
         ]
+      },
+      "git": {
+        "isRepo": true,
+        "branch": "main",
+        "commitCount": 1,
+        "authors": [
+          {
+            "count": 1,
+            "name": "gosky",
+            "email": "gosky@gosky.kr"
+          }
+        ],
+        "latestCommit": {
+          "hash": "a7380bb",
+          "author": "gosky",
+          "email": "gosky@gosky.kr",
+          "date": "2026-03-31T14:00:13+09:00",
+          "subject": "update: 기본 셋팅"
+        },
+        "summary": "총 1개 커밋, 상위 계정: gosky(1), 최근: update: 기본 셋팅"
       },
       "recentFiles": [
         {
@@ -2334,7 +2578,9 @@
         "분류: 백엔드",
         "기술 추정: Java, Node.js, React, Next.js, Spring Boot, Frontend",
         "DB 사용 추정: PostgreSQL, Redis",
-        "실행 상태: 실행 중"
+        "실행 상태: 실행 중",
+        "Git 커밋 수: 1",
+        "Git 상위 계정: gosky(1)"
       ]
     },
     {
@@ -2491,6 +2737,26 @@
           "포트 3306, 6379"
         ]
       },
+      "git": {
+        "isRepo": true,
+        "branch": "dev",
+        "commitCount": 99,
+        "authors": [
+          {
+            "count": 62,
+            "name": "skarndaudwls1",
+            "email": "skarndaudwls@gmail.com"
+          }
+        ],
+        "latestCommit": {
+          "hash": "4bdd1d8",
+          "author": "skarndaudwls1",
+          "email": "skarndaudwls@gmail.com",
+          "date": "2026-04-07T22:56:33+09:00",
+          "subject": "Merge branch 'feature/password-history' into dev"
+        },
+        "summary": "총 99개 커밋, 상위 계정: skarndaudwls1(62), 최근: Merge branch 'feature/password-history' into dev"
+      },
       "recentFiles": [
         {
           "path": "build.gradle",
@@ -2529,7 +2795,9 @@
         "분류: 백엔드",
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: MySQL, Redis",
-        "실행 상태: 실행 중"
+        "실행 상태: 실행 중",
+        "Git 커밋 수: 99",
+        "Git 상위 계정: skarndaudwls1(62)"
       ]
     },
     {
@@ -2667,6 +2935,26 @@
           "포트 6018"
         ]
       },
+      "git": {
+        "isRepo": true,
+        "branch": "main",
+        "commitCount": 24,
+        "authors": [
+          {
+            "count": 24,
+            "name": "gosky",
+            "email": "gosky@gosky.kr"
+          }
+        ],
+        "latestCommit": {
+          "hash": "3d8d3ff",
+          "author": "gosky",
+          "email": "gosky@gosky.kr",
+          "date": "2026-06-01T14:43:40+09:00",
+          "subject": "feat(ui): expand stream test monitor for all detector outputs"
+        },
+        "summary": "총 24개 커밋, 상위 계정: gosky(24), 최근: feat(ui): expand stream test monitor for all detector outputs"
+      },
       "recentFiles": [
         {
           "path": "package.json",
@@ -2705,7 +2993,9 @@
         "분류: 프론트엔드",
         "기술 추정: Node.js, React, Vite, Frontend",
         "DB 사용 흔적 없음",
-        "실행 상태: 실행 중"
+        "실행 상태: 실행 중",
+        "Git 커밋 수: 24",
+        "Git 상위 계정: gosky(24)"
       ]
     },
     {
@@ -2824,6 +3114,14 @@
           "정지 또는 확인 불가"
         ]
       },
+      "git": {
+        "isRepo": false,
+        "branch": "확인 불가",
+        "commitCount": null,
+        "authors": [],
+        "latestCommit": null,
+        "summary": "Git 저장소 아님"
+      },
       "recentFiles": [
         {
           "path": "admin.html",
@@ -2862,7 +3160,8 @@
         "분류: 기타",
         "기술 추정: 확인 불가",
         "DB 사용 흔적 없음",
-        "실행 상태: 확인 불가"
+        "실행 상태: 확인 불가",
+        "Git 저장소: 아님"
       ]
     },
     {
@@ -3011,6 +3310,31 @@
           "정지 또는 확인 불가"
         ]
       },
+      "git": {
+        "isRepo": true,
+        "branch": "prod",
+        "commitCount": 46,
+        "authors": [
+          {
+            "count": 24,
+            "name": "skarndaudwls1",
+            "email": "skarndaudwls1@gmail.com"
+          },
+          {
+            "count": 5,
+            "name": "skarndaudwls1",
+            "email": "skarndaudwls@gmail.com"
+          }
+        ],
+        "latestCommit": {
+          "hash": "fc43c22",
+          "author": "namgung",
+          "email": "skarndaudwls@gmail.com",
+          "date": "2026-05-25T00:38:29+09:00",
+          "subject": "Merge pull request #14 from Dongyang-Mirae-University-software/chore/skill-cleanup-and-type-refactor"
+        },
+        "summary": "총 46개 커밋, 상위 계정: skarndaudwls1(24), skarndaudwls1(5), 최근: Merge pull request #14 from Dongyang-Mirae-University-software/chore/skill-cleanup-and-type-refactor"
+      },
       "recentFiles": [
         {
           "path": "프로젝트_설명.txt",
@@ -3049,7 +3373,9 @@
         "분류: 프론트엔드",
         "기술 추정: React, Next.js, Node.js, Frontend",
         "DB 사용 흔적 없음",
-        "실행 상태: 정지"
+        "실행 상태: 정지",
+        "Git 커밋 수: 46",
+        "Git 상위 계정: skarndaudwls1(24), skarndaudwls1(5)"
       ]
     }
   ]

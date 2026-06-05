@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeSSOBe`
 - 분류: 백엔드
-- 점검 시각: 2026-06-05 13:25:36 KST
+- 점검 시각: 2026-06-05 13:32:16 KST
 
 ## 추정 기술 스택
 
@@ -54,6 +54,14 @@
 - 관련 Docker 컨테이너: 확인 불가
 - 관련 PM2 프로세스: 확인 불가
 
+## Git 커밋 현황
+
+- 브랜치: dev
+- 총 커밋 수: 99
+- 계정별 커밋 수:
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 62
+- 최근 커밋: 4bdd1d8 / skarndaudwls1 <skarndaudwls@gmail.com> / Merge branch 'feature/password-history' into dev
+
 ## 최근 수정 파일
 
 - build.gradle (2026-06-01 14:47:15 KST)
@@ -71,3 +79,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: MySQL, Redis
 - 실행 상태: 실행 중
+- Git 커밋 수: 99
+- Git 상위 계정: skarndaudwls1(62)

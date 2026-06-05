@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-06-05 13:25:35 KST
+- 점검 시각: 2026-06-05 13:32:15 KST
 
 ## 추정 기술 스택
 
@@ -54,6 +54,16 @@
 - 관련 Docker 컨테이너: 확인 불가
 - 관련 PM2 프로세스: 확인 불가
 
+## Git 커밋 현황
+
+- 브랜치: dev
+- 총 커밋 수: 578
+- 계정별 커밋 수:
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 248
+  - skarndaudwls1 <skarndaudwls1@gmail.com>: 103
+  - gosky <gosky@gosky.kr>: 2
+- 최근 커밋: 66d9b68 / namgung <skarndaudwls@gmail.com> / Merge pull request #191 from Dongyang-Mirae-University-software/feature/connection-partner-full-profile
+
 ## 최근 수정 파일
 
 - 프로젝트_설명.txt (2026-06-02 16:00:18 KST)
@@ -71,3 +81,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
+- Git 커밋 수: 578
+- Git 상위 계정: skarndaudwls1(248), skarndaudwls1(103), gosky(2)

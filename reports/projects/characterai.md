@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/CharacterAi`
 - 분류: AI 서버
-- 점검 시각: 2026-06-05 13:25:35 KST
+- 점검 시각: 2026-06-05 13:32:15 KST
 
 ## 추정 기술 스택
 
@@ -54,6 +54,10 @@
 - 관련 Docker 컨테이너: 확인 불가
 - 관련 PM2 프로세스: 확인 불가
 
+## Git 커밋 현황
+
+- 상태: Git 저장소 아님
+
 ## 최근 수정 파일
 
 - src/app/globals.css (2026-04-12 12:05:48 KST)
@@ -71,3 +75,4 @@
 - 기술 추정: React, Next.js, Frontend, AI
 - DB 사용 흔적 없음
 - 실행 상태: 정지
+- Git 저장소: 아님

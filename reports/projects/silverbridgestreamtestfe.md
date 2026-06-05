@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeStreamTestFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-06-05 13:25:36 KST
+- 점검 시각: 2026-06-05 13:32:16 KST
 
 ## 추정 기술 스택
 
@@ -54,6 +54,14 @@
 - 관련 Docker 컨테이너: 확인 불가
 - 관련 PM2 프로세스: 확인 불가
 
+## Git 커밋 현황
+
+- 브랜치: main
+- 총 커밋 수: 24
+- 계정별 커밋 수:
+  - gosky <gosky@gosky.kr>: 24
+- 최근 커밋: 3d8d3ff / gosky <gosky@gosky.kr> / feat(ui): expand stream test monitor for all detector outputs
+
 ## 최근 수정 파일
 
 - package.json (2026-06-05 09:04:17 KST)
@@ -71,3 +79,5 @@
 - 기술 추정: Node.js, React, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
+- Git 커밋 수: 24
+- Git 상위 계정: gosky(24)

@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeReservation`
 - 분류: 백엔드
-- 점검 시각: 2026-06-05 13:25:36 KST
+- 점검 시각: 2026-06-05 13:32:16 KST
 
 ## 추정 기술 스택
 
@@ -60,6 +60,14 @@
 - 관련 Docker 컨테이너: silverbridgereservation-reservation-api-1
 - 관련 PM2 프로세스: 확인 불가
 
+## Git 커밋 현황
+
+- 브랜치: main
+- 총 커밋 수: 53
+- 계정별 커밋 수:
+  - gosky <gosky@gosky.kr>: 53
+- 최근 커밋: b0faa32 / gosky <gosky@gosky.kr> / docs: add AI context documentation
+
 ## 최근 수정 파일
 
 - src/reservation/reservation.controller.ts (2026-06-01 09:57:47 KST)
@@ -77,3 +85,5 @@
 - 기술 추정: Node.js, Prisma, React, Vue, Vite, nestjs, NestJS, Express, express, Frontend
 - DB 사용 추정: SQLite
 - 실행 상태: 실행 중
+- Git 커밋 수: 53
+- Git 상위 계정: gosky(53)

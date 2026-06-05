@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/AiSilverBridgeSky`
 - 분류: AI 서버
-- 점검 시각: 2026-06-05 13:25:35 KST
+- 점검 시각: 2026-06-05 13:32:15 KST
 
 ## 추정 기술 스택
 
@@ -58,6 +58,15 @@
 - 관련 Docker 컨테이너: 확인 불가
 - 관련 PM2 프로세스: 확인 불가
 
+## Git 커밋 현황
+
+- 브랜치: main
+- 총 커밋 수: 2
+- 계정별 커밋 수:
+  - gosky <gosky@gosky.kr>: 8
+  - gosky <65769312+gosky2@users.noreply.github.com>: 1
+- 최근 커밋: b867087 / gosky <gosky@gosky.kr> / chore(service): DISPLAY_MODE=2에서 카메라 미사용
+
 ## 최근 수정 파일
 
 - service/docker-compose.yml (2026-05-24 15:30:50 KST)
@@ -75,3 +84,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, fastapi, Frontend, Backend, AI
 - DB 사용 흔적 없음
 - 실행 상태: 정지
+- Git 커밋 수: 2
+- Git 상위 계정: gosky(8), gosky(1)

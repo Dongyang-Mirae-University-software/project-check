@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAi`
 - 분류: AI 서버
-- 점검 시각: 2026-06-05 13:25:35 KST
+- 점검 시각: 2026-06-05 13:32:15 KST
 
 ## 추정 기술 스택
 
@@ -51,6 +51,14 @@
 - 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
+## Git 커밋 현황
+
+- 브랜치: developing
+- 총 커밋 수: 38
+- 계정별 커밋 수:
+  - Jaehe-he <hywuljh1@naver.com>: 38
+- 최근 커밋: 360aa55a / Jaehe-he <hywuljh1@naver.com> / Feat. knife 이미지 총 2805장으로 학습 (epochs=250)
+
 ## 최근 수정 파일
 
 - yolo26n.pt (2026-06-01 14:47:06 KST)
@@ -68,3 +76,5 @@
 - 기술 추정: Backend, AI
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
+- Git 커밋 수: 38
+- Git 상위 계정: Jaehe-he(38)

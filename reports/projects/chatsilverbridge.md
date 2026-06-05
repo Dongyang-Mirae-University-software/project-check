@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/ChatSilverBridge`
 - 분류: AI 서버
-- 점검 시각: 2026-06-05 13:25:35 KST
+- 점검 시각: 2026-06-05 13:32:15 KST
 
 ## 추정 기술 스택
 
@@ -62,6 +62,14 @@
 - 관련 Docker 컨테이너: chatsilverbridge-api-1, chatsilverbridge-mysql-1, chatsilverbridgetest-web-1
 - 관련 PM2 프로세스: 확인 불가
 
+## Git 커밋 현황
+
+- 브랜치: main
+- 총 커밋 수: 2
+- 계정별 커밋 수:
+  - gosky <gosky@gosky.kr>: 2
+- 최근 커밋: 78689bf / gosky <gosky@gosky.kr> / Add environment file for private deployment.
+
 ## 최근 수정 파일
 
 - app/services/reservation_api_client.py (2026-05-26 11:28:34 KST)
@@ -79,3 +87,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, MySQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI
 - DB 사용 추정: MySQL, SQLite
 - 실행 상태: 실행 중
+- Git 커밋 수: 2
+- Git 상위 계정: gosky(2)

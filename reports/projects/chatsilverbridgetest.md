@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/ChatSilverBridgeTest`
 - 분류: 프론트엔드
-- 점검 시각: 2026-06-05 13:25:35 KST
+- 점검 시각: 2026-06-05 13:32:15 KST
 
 ## 추정 기술 스택
 
@@ -54,6 +54,14 @@
 - 관련 Docker 컨테이너: chatsilverbridgetest-web-1
 - 관련 PM2 프로세스: 확인 불가
 
+## Git 커밋 현황
+
+- 브랜치: main
+- 총 커밋 수: 1
+- 계정별 커밋 수:
+  - gosky <gosky@gosky.kr>: 1
+- 최근 커밋: 3e16c01 / gosky <gosky@gosky.kr> / Add Next.js test chat frontend scaffold.
+
 ## 최근 수정 파일
 
 - README.md (2026-05-19 10:01:04 KST)
@@ -71,3 +79,5 @@
 - 기술 추정: Node.js, Next.js, React, Frontend
 - DB 사용 추정: MySQL, SQLite
 - 실행 상태: 실행 중
+- Git 커밋 수: 1
+- Git 상위 계정: gosky(1)
