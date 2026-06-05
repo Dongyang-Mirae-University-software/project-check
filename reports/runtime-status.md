@@ -1,6 +1,6 @@
 # 실행 상태
 
-- 스캔 시각: 2026-06-05 14:09:09 KST
+- 스캔 시각: 2026-06-05 14:10:27 KST
 
 | 프로젝트 | 분류 | 실행 상태 | PM2 | Docker | 포트 |
 | --- | --- | --- | --- | --- | --- |
@@ -9,6 +9,7 @@
 | ChatSilverBridge | AI 서버 | 실행 중 | 확인 불가 | chatsilverbridge-api-1, chatsilverbridge-mysql-1, chatsilverbridgetest-web-1 | 1012, 3306, 3307, 3600, 6012, 6015, 6516, 8010 |
 | ChatSilverBridgeTest | 프론트엔드 | 실행 중 | 확인 불가 | chatsilverbridgetest-web-1 | 3306, 6012, 6516 |
 | docs | 기타 | 확인 불가 | 확인 불가 | 확인 불가 | 확인 불가 |
+| project-check | 백엔드 | 실행 중 | project-check | 확인 불가 | 1433, 1521, 3306, 5432, 6379, 26214, 27017 |
 | SilverBridgeAi | AI 서버 | 실행 중 | 확인 불가 | silverbridge-ai-server | 1000, 1234, 1280, 1500, 2026, 2700, 8080, 8456 |
 | SilverBridgeAiServer | AI 서버 | 실행 중 | 확인 불가 | silverbridge-ai-server | 1008, 1280, 5432, 6012, 6015, 6017, 6019, 8080 |
 | SilverBridgeBe | 백엔드 | 실행 중 | 확인 불가 | 확인 불가 | 3000, 5173, 5432, 6379, 6511, 8080, 18000, 60480 |
@@ -28,6 +29,7 @@
 - ChatSilverBridge: 실행 중 / PM2 없음 / Docker 3개 / 포트 3306, 3307, 6012, 6015, 6516
 - ChatSilverBridgeTest: 실행 중 / PM2 없음 / Docker 1개 / 포트 3306, 6012, 6516
 - docs: 정지 또는 확인 불가
+- project-check: 실행 중 / PM2 1개 / Docker 없음 / 포트 1433, 3306, 6379
 - SilverBridgeAi: 실행 중 / PM2 없음 / Docker 1개 / 포트 확인 불가
 - SilverBridgeAiServer: 실행 중 / PM2 없음 / Docker 1개 / 포트 6012, 6015, 6017, 6019
 - SilverBridgeBe: 실행 중 / PM2 없음 / Docker 없음 / 포트 6379, 6511
