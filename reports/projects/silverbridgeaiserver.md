@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-06-05 15:26:14 KST
+- 점검 시각: 2026-06-05 15:29:18 KST
 
 ## 추정 기술 스택
 
@@ -59,7 +59,7 @@
 
 - 상태: 실행 중
 - 관련 포트: 1008, 1280, 5432, 6012, 6015, 6017, 6019, 8080
-- 관련 Docker 컨테이너: silverbridge-ai-server
+- 관련 Docker 컨테이너: 확인 불가
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황

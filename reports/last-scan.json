@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-05T06:26:11.998Z",
-  "generatedAtKst": "2026-06-05 15:26:11 KST",
+  "generatedAt": "2026-06-05T06:29:16.277Z",
+  "generatedAtKst": "2026-06-05 15:29:16 KST",
   "summary": {
     "total": 17,
     "frontend": 4,
@@ -10,8 +10,8 @@
     "ai": 5,
     "db": 8,
     "gitRepos": 13,
-    "running": 11,
-    "stopped": 6
+    "running": 10,
+    "stopped": 7
   },
   "gitAuthors": [
     {
@@ -53,10 +53,10 @@
       "emails": [
         {
           "email": "gosky@gosky.kr",
-          "count": 195
+          "count": 196
         }
       ],
-      "count": 195
+      "count": 196
     }
   ],
   "projects": [
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 53,
+        "commitCount": 54,
         "authors": [
           {
-            "count": 53,
+            "count": 54,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "559c12d",
+          "hash": "38c89f6",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-06-05T15:23:10+09:00",
+          "date": "2026-06-05T15:26:14+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 53개 커밋, 상위 계정: gosky(53), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 54개 커밋, 상위 계정: gosky(54), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1256,8 +1256,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 53",
-        "Git 상위 계정: gosky(53)"
+        "Git 커밋 수: 54",
+        "Git 상위 계정: gosky(54)"
       ]
     },
     {
@@ -1393,17 +1393,10 @@
         "summary": "DB 사용 흔적 없음"
       },
       "runtime": {
-        "status": "실행 중",
-        "running": true,
+        "status": "정지",
+        "running": false,
         "pm2": [],
-        "docker": [
-          {
-            "name": "silverbridge-ai-server",
-            "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 4 hours",
-            "ports": ""
-          }
-        ],
+        "docker": [],
         "ports": [],
         "allCandidatePorts": [
           1000,
@@ -1416,10 +1409,7 @@
           8456
         ],
         "summary": [
-          "실행 중",
-          "PM2 없음",
-          "Docker 1개",
-          "포트 확인 불가"
+          "정지 또는 확인 불가"
         ]
       },
       "git": {
@@ -1480,7 +1470,7 @@
         "분류: AI 서버",
         "기술 추정: Python, fastapi, Backend, AI",
         "DB 사용 흔적 없음",
-        "실행 상태: 실행 중",
+        "실행 상태: 정지",
         "Git 커밋 수: 558",
         "Git 상위 계정: Jaehe-he(558)"
       ]
@@ -1632,18 +1622,10 @@
         "status": "실행 중",
         "running": true,
         "pm2": [],
-        "docker": [
-          {
-            "name": "silverbridge-ai-server",
-            "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 4 hours",
-            "ports": ""
-          }
-        ],
+        "docker": [],
         "ports": [
           6012,
           6015,
-          6017,
           6019
         ],
         "allCandidatePorts": [
@@ -1659,8 +1641,8 @@
         "summary": [
           "실행 중",
           "PM2 없음",
-          "Docker 1개",
-          "포트 6012, 6015, 6017, 6019"
+          "Docker 없음",
+          "포트 6012, 6015, 6019"
         ]
       },
       "git": {
@@ -2529,7 +2511,6 @@
         ],
         "ports": [
           6015,
-          6017,
           6018
         ],
         "allCandidatePorts": [
@@ -2542,7 +2523,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 1개",
-          "포트 6015, 6017, 6018"
+          "포트 6015, 6018"
         ]
       },
       "git": {

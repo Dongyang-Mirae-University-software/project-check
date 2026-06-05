@@ -1,6 +1,6 @@
 # 데이터베이스 상태
 
-- 스캔 시각: 2026-06-05 15:26:14 KST
+- 스캔 시각: 2026-06-05 15:29:19 KST
 
 | 프로젝트 | DB 사용 여부 | 추정 DB | 실행 상태 | 관련 포트 | 관련 컨테이너 |
 | --- | --- | --- | --- | --- | --- |
@@ -10,8 +10,8 @@
 | ChatSilverBridgeTest | 예 | MySQL, SQLite | 실행 중 | 3306, 6012, 6516 | chatsilverbridgetest-web-1 |
 | docs | 아니오 | 확인 불가 | 확인 불가 | 확인 불가 | 확인 불가 |
 | project-check | 예 | MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle | 실행 중 | 1433, 1521, 3306, 5432, 6379, 26214, 27017 | 확인 불가 |
-| SilverBridgeAi | 아니오 | 확인 불가 | 실행 중 | 1000, 1234, 1280, 1500, 2026, 2700, 8080, 8456 | silverbridge-ai-server |
-| SilverBridgeAiServer | 예 | PostgreSQL, SQLite | 실행 중 | 1008, 1280, 5432, 6012, 6015, 6017, 6019, 8080 | silverbridge-ai-server |
+| SilverBridgeAi | 아니오 | 확인 불가 | 정지 | 1000, 1234, 1280, 1500, 2026, 2700, 8080, 8456 | 확인 불가 |
+| SilverBridgeAiServer | 예 | PostgreSQL, SQLite | 실행 중 | 1008, 1280, 5432, 6012, 6015, 6017, 6019, 8080 | 확인 불가 |
 | SilverBridgeBe | 예 | PostgreSQL, Redis | 실행 중 | 3000, 5173, 5432, 6379, 6511, 8080, 18000, 60480 | 확인 불가 |
 | SilverBridgeFe | 아니오 | 확인 불가 | 실행 중 | 3000, 5000, 6000, 6510, 60480, 60836 | 확인 불가 |
 | SilverBridgeJH | 아니오 | 확인 불가 | 정지 | 확인 불가 | 확인 불가 |
