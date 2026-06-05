@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-05T05:13:29.297Z",
-  "generatedAtKst": "2026-06-05 14:13:29 KST",
+  "generatedAt": "2026-06-05T05:16:32.126Z",
+  "generatedAtKst": "2026-06-05 14:16:32 KST",
   "summary": {
     "total": 17,
     "frontend": 4,
@@ -53,10 +53,10 @@
       "emails": [
         {
           "email": "gosky@gosky.kr",
-          "count": 165
+          "count": 166
         }
       ],
-      "count": 165
+      "count": 166
     }
   ],
   "projects": [
@@ -1070,8 +1070,13 @@
         "Vue",
         "Next.js",
         "Vite",
+        "Java",
         "fastapi",
-        "express"
+        "express",
+        "Spring",
+        "Frontend",
+        "Backend",
+        "AI"
       ],
       "mainFiles": [
         {
@@ -1104,11 +1109,11 @@
         },
         {
           "file": "next.config.ts",
-          "exists": false
+          "exists": true
         },
         {
           "file": "requirements.txt",
-          "exists": false
+          "exists": true
         },
         {
           "file": "pyproject.toml",
@@ -1116,7 +1121,7 @@
         },
         {
           "file": "Dockerfile",
-          "exists": false
+          "exists": true
         },
         {
           "file": "docker-compose.yml",
@@ -1136,7 +1141,7 @@
         },
         {
           "file": ".env.example",
-          "exists": false
+          "exists": true
         },
         {
           "file": ".env",
@@ -1148,7 +1153,7 @@
         },
         {
           "file": "build.gradle",
-          "exists": false
+          "exists": true
         },
         {
           "file": "build.gradle.kts",
@@ -1156,13 +1161,33 @@
         }
       ],
       "structure": {
-        "fileCount": 3,
-        "dirCount": 1,
+        "fileCount": 60069,
+        "dirCount": 131,
         "mainFolders": [
+          "dmu-projects",
           "src"
         ],
         "majorPaths": [
-          "src"
+          "dmu-projects/SilverBridgeAi/datasets/fire/test/images",
+          "dmu-projects/SilverBridgeAi/datasets/fire/test/labels",
+          "dmu-projects/SilverBridgeAi/datasets/knife/test/images",
+          "dmu-projects/SilverBridgeAi/datasets/knife/test/labels",
+          "dmu-projects/SilverBridgeAi/models/fire_250ep",
+          "dmu-projects/SilverBridgeAi/models/fire_250ep-2",
+          "dmu-projects/SilverBridgeAi/models/fire_250ep-2/weights",
+          "dmu-projects/SilverBridgeAi/models/fire_250ep/weights",
+          "dmu-projects/SilverBridgeAi/models/knife_250ep",
+          "dmu-projects/SilverBridgeAi/models/knife_250ep/weights",
+          "dmu-projects/SilverBridgeAi/src/detection",
+          "dmu-projects/SilverBridgeAi/src/integration",
+          "dmu-projects/SilverBridgeAi/src/tools",
+          "dmu-projects/SilverBridgeAi/src/training",
+          "dmu-projects/SilverBridgeBe/src/main",
+          "dmu-projects/SilverBridgeBe/src/main/java",
+          "dmu-projects/SilverBridgeBe/src/main/java/kr",
+          "dmu-projects/SilverBridgeBe/src/main/java/kr/silverbridge",
+          "dmu-projects/SilverBridgeBe/src/main/resources",
+          "dmu-projects/SilverBridgeBe/src/main/resources/db"
         ]
       },
       "database": {
@@ -1178,7 +1203,10 @@
         ],
         "clueFiles": [],
         "evidence": [
+          "docker-compose.yml 확인",
+          "requirements.txt 확인",
           "package.json 확인",
+          ".env 키 8개 확인",
           "추정 DB: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle"
         ],
         "summary": "MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle 사용 추정"
@@ -1199,65 +1227,100 @@
         "ports": [
           1433,
           3306,
-          6379
+          6379,
+          6511
         ],
         "allCandidatePorts": [
+          1000,
+          1234,
+          1280,
           1433,
+          1500,
           1521,
+          2026,
+          2700,
+          3000,
           3306,
+          5173,
           5432,
           6379,
+          6511,
+          8080,
+          8456,
+          18000,
           26214,
-          27017
+          27017,
+          60480,
+          60836
         ],
         "summary": [
           "실행 중",
           "PM2 1개",
           "Docker 없음",
-          "포트 1433, 3306, 6379"
+          "포트 1433, 3306, 6379, 6511"
         ]
       },
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 23,
+        "commitCount": 24,
         "authors": [
           {
-            "count": 23,
+            "count": 24,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "04b1afa",
+          "hash": "797c681",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-06-05T14:10:27+09:00",
+          "date": "2026-06-05T14:13:30+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 23개 커밋, 상위 계정: gosky(23), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 24개 커밋, 상위 계정: gosky(24), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
-          "path": "src/monitor.js",
-          "modifiedAt": "2026-06-05T05:10:17.894Z"
+          "path": "dmu-projects/SilverBridgeBe/프로젝트_설명.txt",
+          "modifiedAt": "2026-06-05T05:15:44.681Z"
         },
         {
-          "path": "ecosystem.config.cjs",
-          "modifiedAt": "2026-06-05T04:17:06.881Z"
+          "path": "dmu-projects/SilverBridgeBe/tools/fcm-test/firebase-messaging-sw.js",
+          "modifiedAt": "2026-06-05T05:15:44.677Z"
         },
         {
-          "path": "package.json",
-          "modifiedAt": "2026-06-05T04:15:15.707Z"
+          "path": "dmu-projects/SilverBridgeBe/tools/fcm-test/index.html",
+          "modifiedAt": "2026-06-05T05:15:44.677Z"
+        },
+        {
+          "path": "dmu-projects/SilverBridgeBe/src/main/resources/application.yaml",
+          "modifiedAt": "2026-06-05T05:15:44.665Z"
+        },
+        {
+          "path": "dmu-projects/SilverBridgeBe/build.gradle",
+          "modifiedAt": "2026-06-05T05:15:44.649Z"
+        },
+        {
+          "path": "dmu-projects/SilverBridgeBe/CLAUDE.md",
+          "modifiedAt": "2026-06-05T05:15:44.649Z"
+        },
+        {
+          "path": "dmu-projects/SilverBridgeBe/db/seed.dev.sql",
+          "modifiedAt": "2026-06-05T05:15:44.649Z"
+        },
+        {
+          "path": "dmu-projects/SilverBridgeBe/docker-compose.dev.yml",
+          "modifiedAt": "2026-06-05T05:15:44.649Z"
         }
       ],
       "summary": [
         "분류: 백엔드",
-        "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express",
+        "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, Java, fastapi, express, Spring, Frontend, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 23",
-        "Git 상위 계정: gosky(23)"
+        "Git 커밋 수: 24",
+        "Git 상위 계정: gosky(24)"
       ]
     },
     {
