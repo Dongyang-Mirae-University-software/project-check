@@ -1,23 +1,25 @@
 # 프로젝트 상태 요약
 
-- 전체 프로젝트 개수: 17
+- 전체 프로젝트 개수: 16
 - 프론트엔드 프로젝트 개수: 4
-- 백엔드 프로젝트 개수: 6
+- 백엔드 프로젝트 개수: 5
 - AI 서버 프로젝트 개수: 5
-- DB 사용 프로젝트 개수: 8
-- Git 저장소 프로젝트 개수: 13
-- 실행 중인 서비스 개수: 11
+- DB 사용 프로젝트 개수: 7
+- Git 저장소 프로젝트 개수: 12
+- 실행 중인 서비스 개수: 10
 - 꺼져 있는 서비스 개수: 6
-- 마지막 스캔 시간: 2026-06-05 14:08:24 KST
+- 마지막 스캔 시간: 2026-06-05 14:09:08 KST
 
 ## 계정별 커밋 수
 
-| 계정 | 이메일별 커밋 수 | 합산 커밋 수 |
+| 계정 | 이메일 | 합산 커밋 수 |
 | --- | --- | ---: |
-| Jaehe-he | hywuljh1@naver.com (558) | 558 |
-| YUNA0222 | gold8077@gmail.com (454) | 454 |
-| skarndaudwls1 | skarndaudwls@gmail.com (315); skarndaudwls1@gmail.com (127) | 442 |
-| gosky | gosky@gosky.kr (162) | 162 |
+| Jaehe-he | hywuljh1@naver.com | 558 |
+| YUNA0222 | gold8077@gmail.com | 454 |
+| skarndaudwls1 | skarndaudwls@gmail.com | 315 |
+| gosky | gosky@gosky.kr | 141 |
+| skarndaudwls1 | skarndaudwls1@gmail.com | 127 |
+| gosky | 65769312+gosky2@users.noreply.github.com | 1 |
 
 ## 프로젝트 목록
 
@@ -26,7 +28,6 @@
 - ChatSilverBridge | AI 서버 | 실행 중 | DB 사용
 - ChatSilverBridgeTest | 프론트엔드 | 실행 중 | DB 사용
 - docs | 기타 | 확인 불가 | DB 미사용
-- project-check | 백엔드 | 실행 중 | DB 사용
 - SilverBridgeAi | AI 서버 | 실행 중 | DB 미사용
 - SilverBridgeAiServer | AI 서버 | 실행 중 | DB 사용
 - SilverBridgeBe | 백엔드 | 실행 중 | DB 사용

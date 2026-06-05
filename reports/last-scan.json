@@ -1,62 +1,48 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-05T05:08:24.264Z",
-  "generatedAtKst": "2026-06-05 14:08:24 KST",
+  "generatedAt": "2026-06-05T05:09:08.275Z",
+  "generatedAtKst": "2026-06-05 14:09:08 KST",
   "summary": {
-    "total": 17,
+    "total": 16,
     "frontend": 4,
-    "backend": 6,
+    "backend": 5,
     "ai": 5,
-    "db": 8,
-    "gitRepos": 13,
-    "running": 11,
+    "db": 7,
+    "gitRepos": 12,
+    "running": 10,
     "stopped": 6
   },
   "gitAuthors": [
     {
       "name": "Jaehe-he",
-      "emails": [
-        {
-          "email": "hywuljh1@naver.com",
-          "count": 558
-        }
-      ],
+      "email": "hywuljh1@naver.com",
       "count": 558
     },
     {
       "name": "YUNA0222",
-      "emails": [
-        {
-          "email": "gold8077@gmail.com",
-          "count": 454
-        }
-      ],
+      "email": "gold8077@gmail.com",
       "count": 454
     },
     {
       "name": "skarndaudwls1",
-      "emails": [
-        {
-          "email": "skarndaudwls@gmail.com",
-          "count": 315
-        },
-        {
-          "email": "skarndaudwls1@gmail.com",
-          "count": 127
-        }
-      ],
-      "count": 442
+      "email": "skarndaudwls@gmail.com",
+      "count": 315
     },
     {
       "name": "gosky",
-      "emails": [
-        {
-          "email": "gosky@gosky.kr",
-          "count": 162
-        }
-      ],
-      "count": 162
+      "email": "gosky@gosky.kr",
+      "count": 141
+    },
+    {
+      "name": "skarndaudwls1",
+      "email": "skarndaudwls1@gmail.com",
+      "count": 127
+    },
+    {
+      "name": "gosky",
+      "email": "65769312+gosky2@users.noreply.github.com",
+      "count": 1
     }
   ],
   "projects": [
@@ -228,7 +214,7 @@
           {
             "count": 1,
             "name": "gosky",
-            "email": "gosky@gosky.kr"
+            "email": "65769312+gosky2@users.noreply.github.com"
           }
         ],
         "latestCommit": {
@@ -1057,207 +1043,6 @@
         "DB 사용 흔적 없음",
         "실행 상태: 확인 불가",
         "Git 저장소: 아님"
-      ]
-    },
-    {
-      "projectName": "project-check",
-      "projectPath": "/home/apps/SilverBridgeSky/project-check",
-      "classification": "백엔드",
-      "stack": [
-        "Python",
-        "Node.js",
-        "React",
-        "Vue",
-        "Next.js",
-        "Vite",
-        "fastapi",
-        "express"
-      ],
-      "mainFiles": [
-        {
-          "file": "package.json",
-          "exists": true
-        },
-        {
-          "file": "vite.config.js",
-          "exists": false
-        },
-        {
-          "file": "vite.config.ts",
-          "exists": false
-        },
-        {
-          "file": "vite.config.mjs",
-          "exists": false
-        },
-        {
-          "file": "vite.config.cjs",
-          "exists": false
-        },
-        {
-          "file": "next.config.js",
-          "exists": false
-        },
-        {
-          "file": "next.config.mjs",
-          "exists": false
-        },
-        {
-          "file": "next.config.ts",
-          "exists": false
-        },
-        {
-          "file": "requirements.txt",
-          "exists": false
-        },
-        {
-          "file": "pyproject.toml",
-          "exists": false
-        },
-        {
-          "file": "Dockerfile",
-          "exists": false
-        },
-        {
-          "file": "docker-compose.yml",
-          "exists": false
-        },
-        {
-          "file": "docker-compose.yaml",
-          "exists": false
-        },
-        {
-          "file": "compose.yml",
-          "exists": false
-        },
-        {
-          "file": "compose.yaml",
-          "exists": false
-        },
-        {
-          "file": ".env.example",
-          "exists": false
-        },
-        {
-          "file": ".env",
-          "exists": false
-        },
-        {
-          "file": "pom.xml",
-          "exists": false
-        },
-        {
-          "file": "build.gradle",
-          "exists": false
-        },
-        {
-          "file": "build.gradle.kts",
-          "exists": false
-        }
-      ],
-      "structure": {
-        "fileCount": 3,
-        "dirCount": 1,
-        "mainFolders": [
-          "src"
-        ],
-        "majorPaths": [
-          "src"
-        ]
-      },
-      "database": {
-        "used": true,
-        "types": [
-          "MySQL",
-          "PostgreSQL",
-          "MongoDB",
-          "Redis",
-          "SQLite",
-          "MSSQL",
-          "Oracle"
-        ],
-        "clueFiles": [],
-        "evidence": [
-          "package.json 확인",
-          "추정 DB: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle"
-        ],
-        "summary": "MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle 사용 추정"
-      },
-      "runtime": {
-        "status": "실행 중",
-        "running": true,
-        "pm2": [
-          {
-            "name": "project-check",
-            "cwd": "/home/apps/SilverBridgeSky/project-check",
-            "script": "/home/apps/SilverBridgeSky/project-check/src/monitor.js",
-            "status": "online",
-            "pid": 2477481
-          }
-        ],
-        "docker": [],
-        "ports": [
-          1433,
-          3306,
-          6379
-        ],
-        "allCandidatePorts": [
-          1433,
-          1521,
-          3306,
-          5432,
-          6379,
-          26214,
-          27017
-        ],
-        "summary": [
-          "실행 중",
-          "PM2 1개",
-          "Docker 없음",
-          "포트 1433, 3306, 6379"
-        ]
-      },
-      "git": {
-        "isRepo": true,
-        "branch": "main",
-        "commitCount": 20,
-        "authors": [
-          {
-            "count": 20,
-            "name": "gosky",
-            "email": "gosky@gosky.kr"
-          }
-        ],
-        "latestCommit": {
-          "hash": "597efad",
-          "author": "gosky",
-          "email": "gosky@gosky.kr",
-          "date": "2026-06-05T14:04:21+09:00",
-          "subject": "docs: 프로젝트 상태 리포트 갱신"
-        },
-        "summary": "총 20개 커밋, 상위 계정: gosky(20), 최근: docs: 프로젝트 상태 리포트 갱신"
-      },
-      "recentFiles": [
-        {
-          "path": "src/monitor.js",
-          "modifiedAt": "2026-06-05T05:04:15.092Z"
-        },
-        {
-          "path": "ecosystem.config.cjs",
-          "modifiedAt": "2026-06-05T04:17:06.881Z"
-        },
-        {
-          "path": "package.json",
-          "modifiedAt": "2026-06-05T04:15:15.707Z"
-        }
-      ],
-      "summary": [
-        "분류: 백엔드",
-        "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express",
-        "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
-        "실행 상태: 실행 중",
-        "Git 커밋 수: 20",
-        "Git 상위 계정: gosky(20)"
       ]
     },
     {
