@@ -1,12 +1,11 @@
 # ChatSilverBridgeTest
 
-- 경로: `/home/apps/SilverBridgeSky/ChatSilverBridgeTest`
+- 경로: `/home/apps/SilverBridgeSky/project-check/dmu-projects/ChatSilverBridgeTest`
 - 분류: 프론트엔드
-- 점검 시각: 2026-06-05 14:25:43 KST
+- 점검 시각: 2026-06-05 14:26:06 KST
 
 ## 추정 기술 스택
 
-- Node.js
 - Next.js
 - React
 - Frontend
@@ -18,13 +17,13 @@
 - vite.config.ts: 없음
 - vite.config.mjs: 없음
 - vite.config.cjs: 없음
-- next.config.js: 있음
+- next.config.js: 없음
 - next.config.mjs: 없음
 - next.config.ts: 없음
 - requirements.txt: 없음
 - pyproject.toml: 없음
-- Dockerfile: 있음
-- docker-compose.yml: 있음
+- Dockerfile: 없음
+- docker-compose.yml: 없음
 - docker-compose.yaml: 없음
 - compose.yml: 없음
 - compose.yaml: 없음
@@ -36,21 +35,21 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 13
+- 파일 개수: 9
 - 디렉토리 개수: 3
 - 주요 폴더: components, pages, styles
 - 주요 경로: components, pages
 
 ## DB 사용 여부
 
-- 사용 여부: 예
-- 연결 추정 DB: MySQL, SQLite
-- 근거: docker-compose.yml 확인, package.json 확인, 추정 DB: MySQL, SQLite
+- 사용 여부: 아니오
+- 연결 추정 DB: 확인 불가
+- 근거: package.json 확인
 
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 3306, 6012, 6516
+- 관련 포트: 8010
 - 관련 Docker 컨테이너: chatsilverbridgetest-web-1
 - 관련 PM2 프로세스: 확인 불가
 
@@ -64,20 +63,20 @@
 
 ## 최근 수정 파일
 
-- README.md (2026-05-19 10:01:04 KST)
-- next.config.js (2026-05-19 10:01:04 KST)
-- docker-compose.yml (2026-05-19 10:01:04 KST)
-- Dockerfile (2026-05-19 10:01:04 KST)
-- pages/chat.js (2026-05-19 10:01:04 KST)
-- package.json (2026-04-15 15:01:20 KST)
-- styles/globals.css (2026-04-15 14:54:35 KST)
-- components/ChatHistory.js (2026-04-14 10:12:03 KST)
+- components/ChatHistory.js (2026-06-05 14:22:55 KST)
+- components/ChatInput.js (2026-06-05 14:22:55 KST)
+- package-lock.json (2026-06-05 14:22:55 KST)
+- package.json (2026-06-05 14:22:55 KST)
+- pages/_app.js (2026-06-05 14:22:55 KST)
+- pages/chat.js (2026-06-05 14:22:55 KST)
+- pages/index.js (2026-06-05 14:22:55 KST)
+- README.md (2026-06-05 14:22:55 KST)
 
 ## 점검 결과 요약
 
 - 분류: 프론트엔드
-- 기술 추정: Node.js, Next.js, React, Frontend
-- DB 사용 추정: MySQL, SQLite
+- 기술 추정: Next.js, React, Frontend
+- DB 사용 흔적 없음
 - 실행 상태: 실행 중
 - Git 커밋 수: 1
 - Git 상위 계정: gosky(1)

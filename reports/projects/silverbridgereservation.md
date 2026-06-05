@@ -1,8 +1,8 @@
 # SilverBridgeReservation
 
-- 경로: `/home/apps/SilverBridgeSky/SilverBridgeReservation`
+- 경로: `/home/apps/SilverBridgeSky/project-check/dmu-projects/SilverBridgeReservation`
 - 분류: 백엔드
-- 점검 시각: 2026-06-05 14:25:44 KST
+- 점검 시각: 2026-06-05 14:26:07 KST
 
 ## 추정 기술 스택
 
@@ -35,23 +35,23 @@
 - compose.yml: 없음
 - compose.yaml: 없음
 - .env.example: 있음
-- .env: 있음
+- .env: 없음
 - pom.xml: 없음
 - build.gradle: 없음
 - build.gradle.kts: 없음
 
 ## 주요 폴더 구조
 
-- 파일 개수: 88
-- 디렉토리 개수: 29
-- 주요 폴더: admin-ui, docs, prisma, src, v8-compile-cache-0
+- 파일 개수: 84
+- 디렉토리 개수: 26
+- 주요 폴더: admin-ui, docs, prisma, src
 - 주요 경로: admin-ui/src/pages, prisma, prisma/migrations, prisma/migrations/20260410002451_init, prisma/migrations/20260527114400_api_key_access, src, src/admin, src/admin/dto, src/auth, src/auth/decorators, src/auth/dto, src/auth/guards, src/auth/strategies, src/common, src/common/filters, src/common/utils, src/hospital, src/hospital/dto, src/mcp, src/prisma
 
 ## DB 사용 여부
 
 - 사용 여부: 예
 - 연결 추정 DB: SQLite
-- 근거: docker-compose.yml 확인, package.json 확인, .env 키 13개 확인, 추정 DB: SQLite
+- 근거: docker-compose.yml 확인, package.json 확인, .env 키 8개 확인, 추정 DB: SQLite
 
 ## 실행 상태
 
@@ -63,21 +63,21 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 53
+- 총 커밋 수: 1
 - 계정별 커밋 수:
-  - gosky <gosky@gosky.kr>: 53
+  - gosky <gosky@gosky.kr>: 1
 - 최근 커밋: b0faa32 / gosky <gosky@gosky.kr> / docs: add AI context documentation
 
 ## 최근 수정 파일
 
-- src/reservation/reservation.controller.ts (2026-06-01 09:57:47 KST)
-- admin-ui/src/App.tsx (2026-05-30 19:04:38 KST)
-- src/auth/auth.module.ts (2026-05-30 19:04:38 KST)
-- prisma/schema.prisma (2026-05-30 19:04:38 KST)
-- src/admin/admin.module.ts (2026-05-30 19:04:38 KST)
-- src/app.module.ts (2026-05-30 19:04:38 KST)
-- src/main.ts (2026-05-27 17:15:47 KST)
-- prisma/dev.db (2026-05-27 11:47:32 KST)
+- src/mcp/reservation-mcp.ts (2026-06-05 14:22:49 KST)
+- src/prisma/prisma.module.ts (2026-06-05 14:22:49 KST)
+- src/prisma/prisma.service.ts (2026-06-05 14:22:49 KST)
+- src/reservation/dto/create-reservation.dto.ts (2026-06-05 14:22:49 KST)
+- src/reservation/dto/update-reservation-status-admin.dto.ts (2026-06-05 14:22:49 KST)
+- src/reservation/reservation.controller.ts (2026-06-05 14:22:49 KST)
+- src/reservation/reservation.module.ts (2026-06-05 14:22:49 KST)
+- src/reservation/reservation.service.ts (2026-06-05 14:22:49 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, Prisma, React, Vue, Vite, nestjs, NestJS, Express, express, Frontend
 - DB 사용 추정: SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 53
-- Git 상위 계정: gosky(53)
+- Git 커밋 수: 1
+- Git 상위 계정: gosky(1)

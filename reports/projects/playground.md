@@ -1,8 +1,8 @@
-# TestSilverBridge
+# Playground
 
-- 경로: `/home/apps/SilverBridgeSky/TestSilverBridge`
+- 경로: `/home/apps/SilverBridgeSky/project-check/dmu-projects/Playground`
 - 분류: 기타
-- 점검 시각: 2026-06-05 14:25:44 KST
+- 점검 시각: 2026-06-05 14:26:06 KST
 
 ## 추정 기술 스택
 
@@ -33,9 +33,9 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 13
-- 디렉토리 개수: 2
-- 주요 폴더: css, js
+- 파일 개수: 1
+- 디렉토리 개수: 0
+- 주요 폴더: 확인 불가
 - 주요 경로: 확인 불가
 
 ## DB 사용 여부
@@ -52,18 +52,15 @@
 
 ## Git 커밋 현황
 
-- 상태: Git 저장소 아님
+- 브랜치: main
+- 총 커밋 수: 1
+- 계정별 커밋 수:
+  - programrsky <lovesky00317@gmail.com>: 1
+- 최근 커밋: 8e2a305 / programrsky <lovesky00317@gmail.com> / go home....
 
 ## 최근 수정 파일
 
-- admin.html (2026-04-14 09:22:19 KST)
-- css/common.css (2026-04-14 09:22:19 KST)
-- guardian-list.html (2026-04-14 09:22:19 KST)
-- guardian-peer-detail.html (2026-04-14 09:22:19 KST)
-- guardian-register-ward.html (2026-04-14 09:22:19 KST)
-- guardian-settings.html (2026-04-14 09:22:19 KST)
-- guardian-ward-profile.html (2026-04-14 09:22:19 KST)
-- guardian.html (2026-04-14 09:22:19 KST)
+- 놀이터대장.md (2026-06-05 14:23:05 KST)
 
 ## 점검 결과 요약
 
@@ -71,4 +68,5 @@
 - 기술 추정: 확인 불가
 - DB 사용 흔적 없음
 - 실행 상태: 확인 불가
-- Git 저장소: 아님
+- Git 커밋 수: 1
+- Git 상위 계정: programrsky(1)

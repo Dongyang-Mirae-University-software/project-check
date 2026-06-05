@@ -1,8 +1,8 @@
 # SilverBridgeBe
 
-- 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
+- 경로: `/home/apps/SilverBridgeSky/project-check/dmu-projects/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-06-05 14:25:43 KST
+- 점검 시각: 2026-06-05 14:26:07 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 74
+- 파일 개수: 64
 - 디렉토리 개수: 25
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration, src/test, src/test/java, src/test/java/kr, src/test/java/kr/silverbridge, src/test/java/kr/silverbridge/main, src/test/java/kr/silverbridge/main/domain, src/test/java/kr/silverbridge/main/global
@@ -57,23 +57,21 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 578
+- 총 커밋 수: 1
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 248
-  - skarndaudwls1 <skarndaudwls1@gmail.com>: 103
-  - gosky <gosky@gosky.kr>: 2
+  - namgung <skarndaudwls@gmail.com>: 1
 - 최근 커밋: 66d9b68 / namgung <skarndaudwls@gmail.com> / Merge pull request #191 from Dongyang-Mirae-University-software/feature/connection-partner-full-profile
 
 ## 최근 수정 파일
 
-- 프로젝트_설명.txt (2026-06-02 16:00:18 KST)
-- docs/(2026-06-02) feature-connection-partner-full-profile.md (2026-06-02 16:00:18 KST)
-- docs/progress.md (2026-06-02 16:00:18 KST)
-- docs/(2026-05-31) bugfix-connection-disconnect-message.md (2026-05-31 22:33:34 KST)
-- src/main/resources/db/migration/V25__add_user_notification_settings.sql (2026-05-31 14:35:29 KST)
-- CLAUDE.md (2026-05-31 14:35:29 KST)
-- docs/(2026-05-31) bug-investigation-password-reset-verification.md (2026-05-31 14:35:29 KST)
-- docs/(2026-05-31) feature-notification-channel-infra.md (2026-05-31 14:35:29 KST)
+- 프로젝트_설명.txt (2026-06-05 14:15:44 KST)
+- tools/fcm-test/firebase-messaging-sw.js (2026-06-05 14:15:44 KST)
+- tools/fcm-test/index.html (2026-06-05 14:15:44 KST)
+- src/main/resources/db/migration/V1__init.sql (2026-06-05 14:15:44 KST)
+- src/main/resources/db/migration/V10__add_address_to_users.sql (2026-06-05 14:15:44 KST)
+- src/main/resources/db/migration/V11__add_missing_indexes_and_resize_hospital_user_id.sql (2026-06-05 14:15:44 KST)
+- src/main/resources/db/migration/V12__add_withdraw_access_action.sql (2026-06-05 14:15:44 KST)
+- src/main/resources/db/migration/V13__add_announcement_view_count.sql (2026-06-05 14:15:44 KST)
 
 ## 점검 결과 요약
 
@@ -81,5 +79,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 578
-- Git 상위 계정: skarndaudwls1(248), skarndaudwls1(103), gosky(2)
+- Git 커밋 수: 1
+- Git 상위 계정: namgung(1)

@@ -1,8 +1,8 @@
 # SilverBridgeSSOBe
 
-- 경로: `/home/apps/SilverBridgeSky/SilverBridgeSSOBe`
+- 경로: `/home/apps/SilverBridgeSky/project-check/dmu-projects/SilverBridgeSSOBe`
 - 분류: 백엔드
-- 점검 시각: 2026-06-05 14:25:44 KST
+- 점검 시각: 2026-06-05 14:26:07 KST
 
 ## 추정 기술 스택
 
@@ -57,21 +57,21 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 99
+- 총 커밋 수: 1
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 62
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 1
 - 최근 커밋: 4bdd1d8 / skarndaudwls1 <skarndaudwls@gmail.com> / Merge branch 'feature/password-history' into dev
 
 ## 최근 수정 파일
 
-- build.gradle (2026-06-01 14:47:15 KST)
-- db/schema.sql (2026-06-01 14:47:15 KST)
-- docker-compose.dev.sso.yml (2026-06-01 14:47:15 KST)
-- gradle/wrapper/gradle-wrapper.jar (2026-06-01 14:47:15 KST)
-- gradle/wrapper/gradle-wrapper.properties (2026-06-01 14:47:15 KST)
-- gradlew (2026-06-01 14:47:15 KST)
-- gradlew.bat (2026-06-01 14:47:15 KST)
-- settings.gradle (2026-06-01 14:47:15 KST)
+- gradlew (2026-06-05 14:22:53 KST)
+- gradlew.bat (2026-06-05 14:22:53 KST)
+- settings.gradle (2026-06-05 14:22:53 KST)
+- src/main/java/kr/gosky/sso/SsoBackendApplication.java (2026-06-05 14:22:53 KST)
+- src/main/resources/application.yaml (2026-06-05 14:22:53 KST)
+- src/test/java/kr/gosky/sso/SsoBackendApplicationTests.java (2026-06-05 14:22:53 KST)
+- build.gradle (2026-06-05 14:22:53 KST)
+- db/schema.sql (2026-06-05 14:22:53 KST)
 
 ## 점검 결과 요약
 
@@ -79,5 +79,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: MySQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 99
-- Git 상위 계정: skarndaudwls1(62)
+- Git 커밋 수: 1
+- Git 상위 계정: skarndaudwls1(1)

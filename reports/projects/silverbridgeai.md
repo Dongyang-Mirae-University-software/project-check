@@ -1,8 +1,8 @@
 # SilverBridgeAi
 
-- 경로: `/home/apps/SilverBridgeSky/SilverBridgeAi`
+- 경로: `/home/apps/SilverBridgeSky/project-check/dmu-projects/SilverBridgeAi`
 - 분류: AI 서버
-- 점검 시각: 2026-06-05 14:25:43 KST
+- 점검 시각: 2026-06-05 14:26:07 KST
 
 ## 추정 기술 스택
 
@@ -57,21 +57,21 @@
 ## Git 커밋 현황
 
 - 브랜치: developing
-- 총 커밋 수: 558
+- 총 커밋 수: 1
 - 계정별 커밋 수:
-  - Jaehe-he <hywuljh1@naver.com>: 558
-- 최근 커밋: 947583797 / Jaehe-he <hywuljh1@naver.com> / docs: 2026-06-04 업데이트
+  - Jaehe-he <hywuljh1@naver.com>: 1
+- 최근 커밋: 94758379 / Jaehe-he <hywuljh1@naver.com> / docs: 2026-06-04 업데이트
 
 ## 최근 수정 파일
 
-- models/fire_250ep/weights/last.pt (2026-06-05 14:07:28 KST)
-- src/detection/check_camera.py (2026-06-05 14:07:28 KST)
-- src/detection/integrated_detection.py (2026-06-05 14:07:28 KST)
-- src/detection/multi_detection.py (2026-06-05 14:07:28 KST)
-- src/integration/__init__.py (2026-06-05 14:07:28 KST)
-- src/integration/api_client.py (2026-06-05 14:07:28 KST)
-- src/integration/auth_client.py (2026-06-05 14:07:28 KST)
-- src/integration/config.py (2026-06-05 14:07:28 KST)
+- yolo26n.pt (2026-06-05 14:15:43 KST)
+- tools/collect_hard_negatives.py (2026-06-05 14:15:43 KST)
+- tools/collect_hard_negatives2.py (2026-06-05 14:15:43 KST)
+- tools/collect_hard_negatives3.py (2026-06-05 14:15:43 KST)
+- tools/collect_home_hardneg.py (2026-06-05 14:15:43 KST)
+- tools/download_frames.py (2026-06-05 14:15:43 KST)
+- tools/finalize_fire_dataset.py (2026-06-05 14:15:43 KST)
+- tools/fix_fire_dataset.py (2026-06-05 14:15:43 KST)
 
 ## 점검 결과 요약
 
@@ -79,5 +79,5 @@
 - 기술 추정: Python, fastapi, Backend, AI
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 558
-- Git 상위 계정: Jaehe-he(558)
+- Git 커밋 수: 1
+- Git 상위 계정: Jaehe-he(1)
