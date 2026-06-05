@@ -1,6 +1,6 @@
 # 실행 상태
 
-- 스캔 시각: 2026-06-05 17:23:18 KST
+- 스캔 시각: 2026-06-05 17:30:58 KST
 
 | 프로젝트 | 분류 | 실행 상태 | PM2 | Docker | 포트 |
 | --- | --- | --- | --- | --- | --- |
@@ -33,7 +33,7 @@
 - SilverBridgeAi: 정지 또는 확인 불가
 - SilverBridgeAiServer: 실행 중 / PM2 없음 / Docker 없음 / 포트 6012, 6015, 6019
 - SilverBridgeBe: 실행 중 / PM2 없음 / Docker 없음 / 포트 6379, 6511
-- SilverBridgeFe: 실행 중 / PM2 없음 / Docker 없음 / 포트 6000, 6510
+- SilverBridgeFe: 실행 중 / PM2 없음 / Docker 없음 / 포트 6000
 - SilverBridgeJH: 정지 또는 확인 불가
 - SilverBridgeReservation: 실행 중 / PM2 없음 / Docker 1개 / 포트 6015, 6018
 - SilverBridgeSky: 실행 중 / PM2 1개 / Docker 없음 / 포트 6379
