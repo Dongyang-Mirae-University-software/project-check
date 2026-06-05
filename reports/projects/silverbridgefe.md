@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-06-05 14:04:20 KST
+- 점검 시각: 2026-06-05 14:08:25 KST
 
 ## 추정 기술 스택
 
@@ -51,29 +51,29 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 3000, 5000, 6000, 60480, 60836
+- 관련 포트: 3000, 5000, 6000, 6510, 60480, 60836
 - 관련 Docker 컨테이너: 확인 불가
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 470
+- 총 커밋 수: 483
 - 계정별 커밋 수:
-  - YUNA0222 <gold8077@gmail.com>: 442
+  - YUNA0222 <gold8077@gmail.com>: 454
   - gosky <gosky@gosky.kr>: 9
-- 최근 커밋: bed1af6 / gosky <gosky@gosky.kr> / fix: support structured chat ui options
+- 최근 커밋: 8adbe88 / gosky <gosky@gosky.kr> / Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop
 
 ## 최근 수정 파일
 
-- .env (2026-06-05 09:04:17 KST)
-- src/app/(guardian)/guardian/hospital/page.tsx (2026-06-04 15:04:12 KST)
-- src/app/(guardian)/guardian/chatbot/_components/ChatBubble.tsx (2026-06-02 14:20:06 KST)
-- src/app/(guardian)/guardian/chatbot/_components/ChatUiPrompt.tsx (2026-06-02 14:19:47 KST)
-- src/service/interface/chat.ts (2026-06-02 14:19:44 KST)
-- src/app/(guardian)/guardian/chatbot/_components/KakaoHospitalMap.tsx (2026-06-02 14:11:01 KST)
-- src/app/(guardian)/guardian/chatbot/_components/GuardianChatContent.tsx (2026-06-02 13:52:02 KST)
-- src/app/(guardian)/guardian/chatbot/_components/ChatContextForm.module.css (2026-06-02 13:51:58 KST)
+- src/app/(ward)/ward/stream/_components/WardStreamContent.module.css (2026-06-05 14:08:16 KST)
+- src/app/(ward)/ward/stream/_components/WardStreamContent.tsx (2026-06-05 14:08:16 KST)
+- src/components/connections/ConnectionShared.tsx (2026-06-05 14:08:16 KST)
+- src/components/connections/GuardianWardsPanel.tsx (2026-06-05 14:08:16 KST)
+- src/components/layout/dashboard/DashboardLayout.module.css (2026-06-05 14:08:16 KST)
+- src/service/api/connect/ward.ts (2026-06-05 14:08:16 KST)
+- src/service/interface/connection.ts (2026-06-05 14:08:16 KST)
+- package-lock.json (2026-06-05 14:08:16 KST)
 
 ## 점검 결과 요약
 
@@ -81,5 +81,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 470
-- Git 상위 계정: YUNA0222(442), gosky(9)
+- Git 커밋 수: 483
+- Git 상위 계정: YUNA0222(454), gosky(9)

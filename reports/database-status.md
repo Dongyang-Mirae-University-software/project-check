@@ -1,6 +1,6 @@
 # 데이터베이스 상태
 
-- 스캔 시각: 2026-06-05 14:04:21 KST
+- 스캔 시각: 2026-06-05 14:08:25 KST
 
 | 프로젝트 | DB 사용 여부 | 추정 DB | 실행 상태 | 관련 포트 | 관련 컨테이너 |
 | --- | --- | --- | --- | --- | --- |
@@ -10,10 +10,10 @@
 | ChatSilverBridgeTest | 예 | MySQL, SQLite | 실행 중 | 3306, 6012, 6516 | chatsilverbridgetest-web-1 |
 | docs | 아니오 | 확인 불가 | 확인 불가 | 확인 불가 | 확인 불가 |
 | project-check | 예 | MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle | 실행 중 | 1433, 1521, 3306, 5432, 6379, 26214, 27017 | 확인 불가 |
-| SilverBridgeAi | 아니오 | 확인 불가 | 실행 중 | 1500, 2000 | silverbridge-ai-server |
+| SilverBridgeAi | 아니오 | 확인 불가 | 실행 중 | 1000, 1234, 1280, 1500, 2026, 2700, 8080, 8456 | silverbridge-ai-server |
 | SilverBridgeAiServer | 예 | PostgreSQL, SQLite | 실행 중 | 1008, 1280, 5432, 6012, 6015, 6017, 6019, 8080 | silverbridge-ai-server |
 | SilverBridgeBe | 예 | PostgreSQL, Redis | 실행 중 | 3000, 5173, 5432, 6379, 6511, 8080, 18000, 60480 | 확인 불가 |
-| SilverBridgeFe | 아니오 | 확인 불가 | 실행 중 | 3000, 5000, 6000, 60480, 60836 | 확인 불가 |
+| SilverBridgeFe | 아니오 | 확인 불가 | 실행 중 | 3000, 5000, 6000, 6510, 60480, 60836 | 확인 불가 |
 | SilverBridgeJH | 아니오 | 확인 불가 | 정지 | 확인 불가 | 확인 불가 |
 | SilverBridgeReservation | 예 | SQLite | 실행 중 | 5173, 6015, 6017, 6018 | silverbridgereservation-reservation-api-1 |
 | SilverBridgeSky | 예 | PostgreSQL, Redis | 실행 중 | 3000, 5432, 6379, 6501, 6502, 8000, 8080 | 확인 불가 |
@@ -36,6 +36,7 @@
 - project-check: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle 사용 추정
   - 근거: package.json 확인, 추정 DB: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle
 - SilverBridgeAi: DB 사용 흔적 없음
+  - 근거: requirements.txt 확인, .env 키 8개 확인
 - SilverBridgeAiServer: PostgreSQL, SQLite 사용 추정
   - 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 109개 확인, DB 관련 파일 3개 확인, 추정 DB: PostgreSQL, SQLite
 - SilverBridgeBe: PostgreSQL, Redis 사용 추정

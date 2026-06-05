@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-05T05:04:19.901Z",
-  "generatedAtKst": "2026-06-05 14:04:19 KST",
+  "generatedAt": "2026-06-05T05:08:24.264Z",
+  "generatedAtKst": "2026-06-05 14:08:24 KST",
   "summary": {
     "total": 17,
     "frontend": 4,
@@ -14,6 +14,26 @@
     "stopped": 6
   },
   "gitAuthors": [
+    {
+      "name": "Jaehe-he",
+      "emails": [
+        {
+          "email": "hywuljh1@naver.com",
+          "count": 558
+        }
+      ],
+      "count": 558
+    },
+    {
+      "name": "YUNA0222",
+      "emails": [
+        {
+          "email": "gold8077@gmail.com",
+          "count": 454
+        }
+      ],
+      "count": 454
+    },
     {
       "name": "skarndaudwls1",
       "emails": [
@@ -29,34 +49,14 @@
       "count": 442
     },
     {
-      "name": "YUNA0222",
-      "emails": [
-        {
-          "email": "gold8077@gmail.com",
-          "count": 442
-        }
-      ],
-      "count": 442
-    },
-    {
       "name": "gosky",
       "emails": [
         {
           "email": "gosky@gosky.kr",
-          "count": 161
+          "count": 162
         }
       ],
-      "count": 161
-    },
-    {
-      "name": "Jaehe-he",
-      "emails": [
-        {
-          "email": "hywuljh1@naver.com",
-          "count": 38
-        }
-      ],
-      "count": 38
+      "count": 162
     }
   ],
   "projects": [
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 19,
+        "commitCount": 20,
         "authors": [
           {
-            "count": 19,
+            "count": 20,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "48ebd29",
+          "hash": "597efad",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-06-05T14:04:06+09:00",
+          "date": "2026-06-05T14:04:21+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 19개 커밋, 상위 계정: gosky(19), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 20개 커밋, 상위 계정: gosky(20), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1256,8 +1256,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 19",
-        "Git 상위 계정: gosky(19)"
+        "Git 커밋 수: 20",
+        "Git 상위 계정: gosky(20)"
       ]
     },
     {
@@ -1265,6 +1265,8 @@
       "projectPath": "/home/apps/SilverBridgeSky/SilverBridgeAi",
       "classification": "AI 서버",
       "stack": [
+        "Python",
+        "fastapi",
         "Backend",
         "AI"
       ],
@@ -1303,7 +1305,7 @@
         },
         {
           "file": "requirements.txt",
-          "exists": false
+          "exists": true
         },
         {
           "file": "pyproject.toml",
@@ -1331,7 +1333,7 @@
         },
         {
           "file": ".env.example",
-          "exists": false
+          "exists": true
         },
         {
           "file": ".env",
@@ -1351,7 +1353,7 @@
         }
       ],
       "structure": {
-        "fileCount": 18530,
+        "fileCount": 59905,
         "dirCount": 36,
         "mainFolders": [
           "datasets",
@@ -1367,16 +1369,16 @@
           "datasets/knife/test/images",
           "datasets/knife/test/labels",
           "models",
-          "models/fire_100ep",
-          "models/fire_100ep/weights",
-          "models/knife_200ep",
-          "models/knife_200ep/weights",
+          "models/fire_250ep",
+          "models/fire_250ep-2",
+          "models/fire_250ep-2/weights",
+          "models/fire_250ep/weights",
           "models/knife_250ep",
           "models/knife_250ep/weights",
-          "models/knife_500ep",
-          "models/knife_500ep/weights",
           "src",
           "src/detection",
+          "src/integration",
+          "src/tools",
           "src/training"
         ]
       },
@@ -1384,7 +1386,10 @@
         "used": false,
         "types": [],
         "clueFiles": [],
-        "evidence": [],
+        "evidence": [
+          "requirements.txt 확인",
+          ".env 키 8개 확인"
+        ],
         "summary": "DB 사용 흔적 없음"
       },
       "runtime": {
@@ -1401,8 +1406,14 @@
         ],
         "ports": [],
         "allCandidatePorts": [
+          1000,
+          1234,
+          1280,
           1500,
-          2000
+          2026,
+          2700,
+          8080,
+          8456
         ],
         "summary": [
           "실행 중",
@@ -1414,64 +1425,64 @@
       "git": {
         "isRepo": true,
         "branch": "developing",
-        "commitCount": 38,
+        "commitCount": 558,
         "authors": [
           {
-            "count": 38,
+            "count": 558,
             "name": "Jaehe-he",
             "email": "hywuljh1@naver.com"
           }
         ],
         "latestCommit": {
-          "hash": "360aa55a",
+          "hash": "947583797",
           "author": "Jaehe-he",
           "email": "hywuljh1@naver.com",
-          "date": "2026-05-31T23:29:38+09:00",
-          "subject": "Feat. knife 이미지 총 2805장으로 학습 (epochs=250)"
+          "date": "2026-06-04T22:05:32+09:00",
+          "subject": "docs: 2026-06-04 업데이트"
         },
-        "summary": "총 38개 커밋, 상위 계정: Jaehe-he(38), 최근: Feat. knife 이미지 총 2805장으로 학습 (epochs=250)"
+        "summary": "총 558개 커밋, 상위 계정: Jaehe-he(558), 최근: docs: 2026-06-04 업데이트"
       },
       "recentFiles": [
         {
-          "path": "yolo26n.pt",
-          "modifiedAt": "2026-06-01T05:47:06.855Z"
-        },
-        {
-          "path": "models/knife_500ep/weights/last.pt",
-          "modifiedAt": "2026-06-01T05:47:06.839Z"
+          "path": "models/fire_250ep/weights/last.pt",
+          "modifiedAt": "2026-06-05T05:07:28.025Z"
         },
         {
           "path": "src/detection/check_camera.py",
-          "modifiedAt": "2026-06-01T05:47:06.839Z"
+          "modifiedAt": "2026-06-05T05:07:28.025Z"
+        },
+        {
+          "path": "src/detection/integrated_detection.py",
+          "modifiedAt": "2026-06-05T05:07:28.025Z"
         },
         {
           "path": "src/detection/multi_detection.py",
-          "modifiedAt": "2026-06-01T05:47:06.839Z"
+          "modifiedAt": "2026-06-05T05:07:28.025Z"
         },
         {
-          "path": "src/training/train.py",
-          "modifiedAt": "2026-06-01T05:47:06.839Z"
+          "path": "src/integration/__init__.py",
+          "modifiedAt": "2026-06-05T05:07:28.025Z"
         },
         {
-          "path": "tools/download_frames.py",
-          "modifiedAt": "2026-06-01T05:47:06.839Z"
+          "path": "src/integration/api_client.py",
+          "modifiedAt": "2026-06-05T05:07:28.025Z"
         },
         {
-          "path": "models/knife_500ep/weights/best.pt",
-          "modifiedAt": "2026-06-01T05:47:06.819Z"
+          "path": "src/integration/auth_client.py",
+          "modifiedAt": "2026-06-05T05:07:28.025Z"
         },
         {
-          "path": "models/knife_500ep/val_batch1_pred.jpg",
-          "modifiedAt": "2026-06-01T05:47:06.799Z"
+          "path": "src/integration/config.py",
+          "modifiedAt": "2026-06-05T05:07:28.025Z"
         }
       ],
       "summary": [
         "분류: AI 서버",
-        "기술 추정: Backend, AI",
+        "기술 추정: Python, fastapi, Backend, AI",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 38",
-        "Git 상위 계정: Jaehe-he(38)"
+        "Git 커밋 수: 558",
+        "Git 상위 계정: Jaehe-he(558)"
       ]
     },
     {
@@ -2091,12 +2102,14 @@
         "pm2": [],
         "docker": [],
         "ports": [
-          6000
+          6000,
+          6510
         ],
         "allCandidatePorts": [
           3000,
           5000,
           6000,
+          6510,
           60480,
           60836
         ],
@@ -2104,16 +2117,16 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 6000"
+          "포트 6000, 6510"
         ]
       },
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 470,
+        "commitCount": 483,
         "authors": [
           {
-            "count": 442,
+            "count": 454,
             "name": "YUNA0222",
             "email": "gold8077@gmail.com"
           },
@@ -2124,46 +2137,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "bed1af6",
+          "hash": "8adbe88",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-06-02T14:22:09+09:00",
-          "subject": "fix: support structured chat ui options"
+          "date": "2026-06-05T14:08:16+09:00",
+          "subject": "Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
         },
-        "summary": "총 470개 커밋, 상위 계정: YUNA0222(442), gosky(9), 최근: fix: support structured chat ui options"
+        "summary": "총 483개 커밋, 상위 계정: YUNA0222(454), gosky(9), 최근: Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
       },
       "recentFiles": [
         {
-          "path": ".env",
-          "modifiedAt": "2026-06-05T00:04:17.971Z"
+          "path": "src/app/(ward)/ward/stream/_components/WardStreamContent.module.css",
+          "modifiedAt": "2026-06-05T05:08:16.944Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/hospital/page.tsx",
-          "modifiedAt": "2026-06-04T06:04:12.308Z"
+          "path": "src/app/(ward)/ward/stream/_components/WardStreamContent.tsx",
+          "modifiedAt": "2026-06-05T05:08:16.944Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/chatbot/_components/ChatBubble.tsx",
-          "modifiedAt": "2026-06-02T05:20:06.072Z"
+          "path": "src/components/connections/ConnectionShared.tsx",
+          "modifiedAt": "2026-06-05T05:08:16.944Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/chatbot/_components/ChatUiPrompt.tsx",
-          "modifiedAt": "2026-06-02T05:19:47.781Z"
+          "path": "src/components/connections/GuardianWardsPanel.tsx",
+          "modifiedAt": "2026-06-05T05:08:16.944Z"
         },
         {
-          "path": "src/service/interface/chat.ts",
-          "modifiedAt": "2026-06-02T05:19:44.629Z"
+          "path": "src/components/layout/dashboard/DashboardLayout.module.css",
+          "modifiedAt": "2026-06-05T05:08:16.944Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/chatbot/_components/KakaoHospitalMap.tsx",
-          "modifiedAt": "2026-06-02T05:11:01.236Z"
+          "path": "src/service/api/connect/ward.ts",
+          "modifiedAt": "2026-06-05T05:08:16.944Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/chatbot/_components/GuardianChatContent.tsx",
-          "modifiedAt": "2026-06-02T04:52:02.406Z"
+          "path": "src/service/interface/connection.ts",
+          "modifiedAt": "2026-06-05T05:08:16.944Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/chatbot/_components/ChatContextForm.module.css",
-          "modifiedAt": "2026-06-02T04:51:58.198Z"
+          "path": "package-lock.json",
+          "modifiedAt": "2026-06-05T05:08:16.940Z"
         }
       ],
       "summary": [
@@ -2171,8 +2184,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 470",
-        "Git 상위 계정: YUNA0222(442), gosky(9)"
+        "Git 커밋 수: 483",
+        "Git 상위 계정: YUNA0222(454), gosky(9)"
       ]
     },
     {
