@@ -1,13 +1,13 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-05T04:17:11.101Z",
-  "generatedAtKst": "2026-06-05 13:17:11 KST",
+  "generatedAt": "2026-06-05T04:17:50.771Z",
+  "generatedAtKst": "2026-06-05 13:17:50 KST",
   "summary": {
     "total": 16,
-    "frontend": 1,
-    "backend": 0,
-    "ai": 14,
+    "frontend": 4,
+    "backend": 5,
+    "ai": 5,
     "db": 7,
     "running": 10,
     "stopped": 6
@@ -1337,7 +1337,7 @@
     {
       "projectName": "SilverBridgeBe",
       "projectPath": "/home/apps/SilverBridgeSky/SilverBridgeBe",
-      "classification": "AI 서버",
+      "classification": "백엔드",
       "stack": [
         "Java",
         "Spring",
@@ -1532,7 +1532,7 @@
         }
       ],
       "summary": [
-        "분류: AI 서버",
+        "분류: 백엔드",
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중"
@@ -1541,7 +1541,7 @@
     {
       "projectName": "SilverBridgeFe",
       "projectPath": "/home/apps/SilverBridgeSky/SilverBridgeFe",
-      "classification": "AI 서버",
+      "classification": "프론트엔드",
       "stack": [
         "Node.js",
         "React",
@@ -1729,7 +1729,7 @@
         }
       ],
       "summary": [
-        "분류: AI 서버",
+        "분류: 프론트엔드",
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중"
@@ -1738,7 +1738,7 @@
     {
       "projectName": "SilverBridgeJH",
       "projectPath": "/home/apps/SilverBridgeSky/SilverBridgeJH",
-      "classification": "AI 서버",
+      "classification": "백엔드",
       "stack": [
         "Frontend",
         "Backend",
@@ -1902,7 +1902,7 @@
         }
       ],
       "summary": [
-        "분류: AI 서버",
+        "분류: 백엔드",
         "기술 추정: Frontend, Backend, AI",
         "DB 사용 흔적 없음",
         "실행 상태: 정지"
@@ -1911,7 +1911,7 @@
     {
       "projectName": "SilverBridgeReservation",
       "projectPath": "/home/apps/SilverBridgeSky/SilverBridgeReservation",
-      "classification": "AI 서버",
+      "classification": "백엔드",
       "stack": [
         "Node.js",
         "Prisma",
@@ -2118,7 +2118,7 @@
         }
       ],
       "summary": [
-        "분류: AI 서버",
+        "분류: 백엔드",
         "기술 추정: Node.js, Prisma, React, Vue, Vite, nestjs, NestJS, Express, express, Frontend",
         "DB 사용 추정: SQLite",
         "실행 상태: 실행 중"
@@ -2127,7 +2127,7 @@
     {
       "projectName": "SilverBridgeSky",
       "projectPath": "/home/apps/SilverBridgeSky/SilverBridgeSky",
-      "classification": "AI 서버",
+      "classification": "백엔드",
       "stack": [
         "Java",
         "Node.js",
@@ -2323,7 +2323,7 @@
         }
       ],
       "summary": [
-        "분류: AI 서버",
+        "분류: 백엔드",
         "기술 추정: Java, Node.js, React, Next.js, Spring Boot, Frontend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중"
@@ -2332,7 +2332,7 @@
     {
       "projectName": "SilverBridgeSSOBe",
       "projectPath": "/home/apps/SilverBridgeSky/SilverBridgeSSOBe",
-      "classification": "AI 서버",
+      "classification": "백엔드",
       "stack": [
         "Java",
         "Spring",
@@ -2518,7 +2518,7 @@
         }
       ],
       "summary": [
-        "분류: AI 서버",
+        "분류: 백엔드",
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: MySQL, Redis",
         "실행 상태: 실행 중"
@@ -2527,7 +2527,7 @@
     {
       "projectName": "SilverBridgeStreamTestFe",
       "projectPath": "/home/apps/SilverBridgeSky/SilverBridgeStreamTestFe",
-      "classification": "AI 서버",
+      "classification": "프론트엔드",
       "stack": [
         "Node.js",
         "React",
@@ -2694,7 +2694,7 @@
         }
       ],
       "summary": [
-        "분류: AI 서버",
+        "분류: 프론트엔드",
         "기술 추정: Node.js, React, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중"
@@ -2703,7 +2703,7 @@
     {
       "projectName": "TestSilverBridge",
       "projectPath": "/home/apps/SilverBridgeSky/TestSilverBridge",
-      "classification": "AI 서버",
+      "classification": "기타",
       "stack": [
         "확인 불가"
       ],
@@ -2851,7 +2851,7 @@
         }
       ],
       "summary": [
-        "분류: AI 서버",
+        "분류: 기타",
         "기술 추정: 확인 불가",
         "DB 사용 흔적 없음",
         "실행 상태: 확인 불가"
@@ -2860,7 +2860,7 @@
     {
       "projectName": "WhitehouseFE",
       "projectPath": "/home/apps/SilverBridgeSky/WhitehouseFE",
-      "classification": "AI 서버",
+      "classification": "프론트엔드",
       "stack": [
         "React",
         "Next.js",
@@ -3038,7 +3038,7 @@
         }
       ],
       "summary": [
-        "분류: AI 서버",
+        "분류: 프론트엔드",
         "기술 추정: React, Next.js, Node.js, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 정지"

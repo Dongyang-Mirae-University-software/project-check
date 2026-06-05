@@ -1,8 +1,8 @@
 # SilverBridgeJH
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeJH`
-- 분류: AI 서버
-- 점검 시각: 2026-06-05 13:17:12 KST
+- 분류: 백엔드
+- 점검 시각: 2026-06-05 13:17:51 KST
 
 ## 추정 기술 스택
 
@@ -65,7 +65,7 @@
 
 ## 점검 결과 요약
 
-- 분류: AI 서버
+- 분류: 백엔드
 - 기술 추정: Frontend, Backend, AI
 - DB 사용 흔적 없음
 - 실행 상태: 정지
