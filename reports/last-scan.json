@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky/project-check/dmu-projects",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-05T05:26:35.716Z",
-  "generatedAtKst": "2026-06-05 14:26:35 KST",
+  "generatedAt": "2026-06-05T05:27:19.862Z",
+  "generatedAtKst": "2026-06-05 14:27:19 KST",
   "summary": {
     "total": 17,
     "frontend": 5,
@@ -19,10 +19,10 @@
       "emails": [
         {
           "email": "gosky@gosky.kr",
-          "count": 12
+          "count": 14
         }
       ],
-      "count": 12
+      "count": 14
     },
     {
       "name": "YUNA0222",
@@ -963,7 +963,7 @@
             "cwd": "/home/apps/SilverBridgeSky/project-check",
             "script": "/home/apps/SilverBridgeSky/project-check/src/monitor.js",
             "status": "online",
-            "pid": 2651084
+            "pid": 2656306
           }
         ],
         "docker": [],
@@ -989,7 +989,7 @@
           11002,
           11003,
           11004,
-          26465,
+          26510,
           59905
         ],
         "summary": [
@@ -1002,55 +1002,55 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 3,
+        "commitCount": 5,
         "authors": [
           {
-            "count": 3,
+            "count": 5,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "3f4bb9f",
+          "hash": "fa79919",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-06-05T14:26:07+09:00",
+          "date": "2026-06-05T14:26:46+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 3개 커밋, 상위 계정: gosky(3), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 5개 커밋, 상위 계정: gosky(5), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
-          "path": "reports/database-status.md",
-          "modifiedAt": "2026-06-05T05:26:39.030Z"
+          "path": "reports/projects/silverbridgebe.md",
+          "modifiedAt": "2026-06-05T05:27:23.505Z"
         },
         {
-          "path": "reports/last-scan.json",
-          "modifiedAt": "2026-06-05T05:26:39.030Z"
+          "path": "reports/projects/silverbridgefe.md",
+          "modifiedAt": "2026-06-05T05:27:23.505Z"
         },
         {
-          "path": "reports/projects/aisilverbridgesky.md",
-          "modifiedAt": "2026-06-05T05:26:39.030Z"
+          "path": "reports/projects/silverbridgereservation.md",
+          "modifiedAt": "2026-06-05T05:27:23.505Z"
         },
         {
-          "path": "reports/projects/chatsilverbridge.md",
-          "modifiedAt": "2026-06-05T05:26:39.030Z"
+          "path": "reports/projects/silverbridgesky.md",
+          "modifiedAt": "2026-06-05T05:27:23.505Z"
         },
         {
-          "path": "reports/projects/chatsilverbridgetest.md",
-          "modifiedAt": "2026-06-05T05:26:39.030Z"
+          "path": "reports/projects/silverbridgessobe.md",
+          "modifiedAt": "2026-06-05T05:27:23.505Z"
         },
         {
-          "path": "reports/projects/playground.md",
-          "modifiedAt": "2026-06-05T05:26:39.030Z"
+          "path": "reports/projects/silverbridgessofe.md",
+          "modifiedAt": "2026-06-05T05:27:23.505Z"
         },
         {
-          "path": "reports/projects/project-check.md",
-          "modifiedAt": "2026-06-05T05:26:39.030Z"
+          "path": "reports/projects/silverbridgestreamtestfe.md",
+          "modifiedAt": "2026-06-05T05:27:23.505Z"
         },
         {
-          "path": "reports/projects/silverbridgeai.md",
-          "modifiedAt": "2026-06-05T05:26:39.030Z"
+          "path": "reports/projects/trump.md",
+          "modifiedAt": "2026-06-05T05:27:23.505Z"
         }
       ],
       "summary": [
@@ -1058,8 +1058,8 @@
         "기술 추정: 확인 불가",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 3",
-        "Git 상위 계정: gosky(3)"
+        "Git 커밋 수: 5",
+        "Git 상위 계정: gosky(5)"
       ]
     },
     {
@@ -2346,7 +2346,7 @@
             "cwd": "/home/apps/SilverBridgeSky/project-check",
             "script": "/home/apps/SilverBridgeSky/project-check/src/monitor.js",
             "status": "online",
-            "pid": 2651084
+            "pid": 2656306
           }
         ],
         "docker": [],

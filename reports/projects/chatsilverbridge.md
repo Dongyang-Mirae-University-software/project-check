@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/project-check/dmu-projects/ChatSilverBridge`
 - 분류: AI 서버
-- 점검 시각: 2026-06-05 14:26:46 KST
+- 점검 시각: 2026-06-05 14:27:31 KST
 
 ## 추정 기술 스택
 
