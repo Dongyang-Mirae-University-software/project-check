@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-08T02:34:28.913Z",
-  "generatedAtKst": "2026-06-08 11:34:28 KST",
+  "generatedAt": "2026-06-08T02:35:56.301Z",
+  "generatedAtKst": "2026-06-08 11:35:56 KST",
   "summary": {
     "total": 17,
     "frontend": 4,
@@ -19,10 +19,10 @@
       "emails": [
         {
           "email": "gosky@gosky.kr",
-          "count": 1395
+          "count": 1396
         }
       ],
-      "count": 1395
+      "count": 1396
     },
     {
       "name": "Jaehe-he",
@@ -1192,7 +1192,7 @@
             "cwd": "/home/apps/SilverBridgeSky/project-check",
             "script": "/home/apps/SilverBridgeSky/project-check/src/monitor.js",
             "status": "online",
-            "pid": 2681863
+            "pid": 1590464
           }
         ],
         "docker": [],
@@ -1220,27 +1220,27 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1253,
+        "commitCount": 1254,
         "authors": [
           {
-            "count": 1253,
+            "count": 1254,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "781e0ea6",
+          "hash": "8e079e64",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-06-08T11:31:26+09:00",
+          "date": "2026-06-08T11:35:20+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1253개 커밋, 상위 계정: gosky(1253), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1254개 커밋, 상위 계정: gosky(1254), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
           "path": "src/monitor.js",
-          "modifiedAt": "2026-06-08T02:34:20.516Z"
+          "modifiedAt": "2026-06-08T02:35:25.187Z"
         },
         {
           "path": "ecosystem.config.cjs",
@@ -1256,8 +1256,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1253",
-        "Git 상위 계정: gosky(1253)"
+        "Git 커밋 수: 1254",
+        "Git 상위 계정: gosky(1254)"
       ]
     },
     {
@@ -2737,7 +2737,7 @@
             "cwd": "/home/apps/SilverBridgeSky/project-check",
             "script": "/home/apps/SilverBridgeSky/project-check/src/monitor.js",
             "status": "online",
-            "pid": 2681863
+            "pid": 1590464
           }
         ],
         "docker": [],
