@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeStreamTestFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-06-09 11:22:43 KST
+- 점검 시각: 2026-06-09 11:53:23 KST
 
 ## 추정 기술 스택
 
