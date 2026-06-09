@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-09T00:48:46.611Z",
-  "generatedAtKst": "2026-06-09 09:48:46 KST",
+  "generatedAt": "2026-06-09T01:19:44.830Z",
+  "generatedAtKst": "2026-06-09 10:19:44 KST",
   "summary": {
     "total": 17,
     "frontend": 4,
@@ -19,10 +19,10 @@
       "emails": [
         {
           "email": "gosky@gosky.kr",
-          "count": 1439
+          "count": 1440
         }
       ],
-      "count": 1439
+      "count": 1440
     },
     {
       "name": "Jaehe-he",
@@ -612,13 +612,13 @@
           {
             "name": "chatsilverbridge-mysql-1",
             "image": "mysql:8.0",
-            "status": "Up 8 days (healthy)",
+            "status": "Up 9 days (healthy)",
             "ports": "33060/tcp, 0.0.0.0:3307->3306/tcp, [::]:3307->3306/tcp"
           },
           {
             "name": "chatsilverbridgetest-web-1",
             "image": "chatsilverbridgetest-web",
-            "status": "Up 8 days",
+            "status": "Up 9 days",
             "ports": "0.0.0.0:6516->6516/tcp, [::]:6516->6516/tcp"
           }
         ],
@@ -836,7 +836,7 @@
           {
             "name": "chatsilverbridgetest-web-1",
             "image": "chatsilverbridgetest-web",
-            "status": "Up 8 days",
+            "status": "Up 9 days",
             "ports": "0.0.0.0:6516->6516/tcp, [::]:6516->6516/tcp"
           }
         ],
@@ -1212,22 +1212,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1297,
+        "commitCount": 1298,
         "authors": [
           {
-            "count": 1297,
+            "count": 1298,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "75378855",
+          "hash": "2170a36a",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-06-09T09:18:42+09:00",
+          "date": "2026-06-09T09:49:41+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1297개 커밋, 상위 계정: gosky(1297), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1298개 커밋, 상위 계정: gosky(1298), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1248,8 +1248,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1297",
-        "Git 상위 계정: gosky(1297)"
+        "Git 커밋 수: 1298",
+        "Git 상위 계정: gosky(1298)"
       ]
     },
     {
@@ -2496,7 +2496,7 @@
           {
             "name": "silverbridgereservation-reservation-api-1",
             "image": "silverbridgereservation-reservation-api",
-            "status": "Up 8 days",
+            "status": "Up 9 days",
             "ports": "0.0.0.0:6015->6015/tcp, [::]:6015->6015/tcp"
           }
         ],
