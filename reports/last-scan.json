@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-09T07:27:56.325Z",
-  "generatedAtKst": "2026-06-09 16:27:56 KST",
+  "generatedAt": "2026-06-09T07:58:20.937Z",
+  "generatedAtKst": "2026-06-09 16:58:20 KST",
   "summary": {
     "total": 17,
     "frontend": 4,
@@ -19,10 +19,20 @@
       "emails": [
         {
           "email": "gosky@gosky.kr",
-          "count": 1452
+          "count": 1453
         }
       ],
-      "count": 1452
+      "count": 1453
+    },
+    {
+      "name": "YUNA0222",
+      "emails": [
+        {
+          "email": "gold8077@gmail.com",
+          "count": 615
+        }
+      ],
+      "count": 615
     },
     {
       "name": "Jaehe-he",
@@ -33,16 +43,6 @@
         }
       ],
       "count": 558
-    },
-    {
-      "name": "YUNA0222",
-      "emails": [
-        {
-          "email": "gold8077@gmail.com",
-          "count": 454
-        }
-      ],
-      "count": 454
     },
     {
       "name": "skarndaudwls1",
@@ -1213,22 +1213,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1310,
+        "commitCount": 1311,
         "authors": [
           {
-            "count": 1310,
+            "count": 1311,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "6a161742",
+          "hash": "285255a0",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-06-09T15:57:54+09:00",
+          "date": "2026-06-09T16:28:18+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1310개 커밋, 상위 계정: gosky(1310), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1311개 커밋, 상위 계정: gosky(1311), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1249,8 +1249,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1310",
-        "Git 상위 계정: gosky(1310)"
+        "Git 커밋 수: 1311",
+        "Git 상위 계정: gosky(1311)"
       ]
     },
     {
@@ -2033,8 +2033,8 @@
         }
       ],
       "structure": {
-        "fileCount": 194,
-        "dirCount": 77,
+        "fileCount": 224,
+        "dirCount": 78,
         "mainFolders": [
           "public",
           "src"
@@ -2079,7 +2079,8 @@
         "pm2": [],
         "docker": [],
         "ports": [
-          6000
+          6000,
+          6510
         ],
         "allCandidatePorts": [
           3000,
@@ -2093,7 +2094,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 6000"
+          "포트 6000, 6510"
         ]
       },
       "git": {
@@ -2102,7 +2103,7 @@
         "commitCount": 483,
         "authors": [
           {
-            "count": 454,
+            "count": 615,
             "name": "YUNA0222",
             "email": "gold8077@gmail.com"
           },
@@ -2119,40 +2120,40 @@
           "date": "2026-06-05T14:08:16+09:00",
           "subject": "Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
         },
-        "summary": "총 483개 커밋, 상위 계정: YUNA0222(454), gosky(9), 최근: Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
+        "summary": "총 483개 커밋, 상위 계정: YUNA0222(615), gosky(9), 최근: Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
       },
       "recentFiles": [
         {
-          "path": "src/app/(ward)/ward/stream/_components/WardStreamContent.module.css",
-          "modifiedAt": "2026-06-05T05:08:16.944Z"
+          "path": "src/service/interface/user.ts",
+          "modifiedAt": "2026-06-09T07:34:06.080Z"
         },
         {
-          "path": "src/app/(ward)/ward/stream/_components/WardStreamContent.tsx",
-          "modifiedAt": "2026-06-05T05:08:16.944Z"
+          "path": "src/service/query/user/index.ts",
+          "modifiedAt": "2026-06-09T07:34:06.080Z"
         },
         {
-          "path": "src/components/connections/ConnectionShared.tsx",
-          "modifiedAt": "2026-06-05T05:08:16.944Z"
+          "path": "src/service/query/user/notification-settings.ts",
+          "modifiedAt": "2026-06-09T07:34:06.080Z"
         },
         {
-          "path": "src/components/connections/GuardianWardsPanel.tsx",
-          "modifiedAt": "2026-06-05T05:08:16.944Z"
-        },
-        {
-          "path": "src/components/layout/dashboard/DashboardLayout.module.css",
-          "modifiedAt": "2026-06-05T05:08:16.944Z"
+          "path": "src/lib/dashboard/profile.ts",
+          "modifiedAt": "2026-06-09T07:34:06.076Z"
         },
         {
           "path": "src/service/api/connect/ward.ts",
-          "modifiedAt": "2026-06-05T05:08:16.944Z"
+          "modifiedAt": "2026-06-09T07:34:06.076Z"
         },
         {
-          "path": "src/service/interface/connection.ts",
-          "modifiedAt": "2026-06-05T05:08:16.944Z"
+          "path": "src/service/api/user.ts",
+          "modifiedAt": "2026-06-09T07:34:06.076Z"
         },
         {
-          "path": "package-lock.json",
-          "modifiedAt": "2026-06-05T05:08:16.940Z"
+          "path": "src/components/notices/NoticesPanel.module.css",
+          "modifiedAt": "2026-06-09T07:34:06.072Z"
+        },
+        {
+          "path": "src/components/notices/NoticesPanel.tsx",
+          "modifiedAt": "2026-06-09T07:34:06.072Z"
         }
       ],
       "summary": [
@@ -2161,7 +2162,7 @@
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
         "Git 커밋 수: 483",
-        "Git 상위 계정: YUNA0222(454), gosky(9)"
+        "Git 상위 계정: YUNA0222(615), gosky(9)"
       ]
     },
     {
@@ -3532,7 +3533,7 @@
           {
             "name": "whitehousefe-web",
             "image": "whitehousefe-web:latest",
-            "status": "Up 5 hours",
+            "status": "Up 6 hours",
             "ports": "0.0.0.0:6700->3000/tcp, [::]:6700->3000/tcp"
           }
         ],
