@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-09T03:23:26.359Z",
-  "generatedAtKst": "2026-06-09 12:23:26 KST",
+  "generatedAt": "2026-06-09T03:54:05.622Z",
+  "generatedAtKst": "2026-06-09 12:54:05 KST",
   "summary": {
     "total": 17,
     "frontend": 4,
@@ -19,10 +19,10 @@
       "emails": [
         {
           "email": "gosky@gosky.kr",
-          "count": 1444
+          "count": 1445
         }
       ],
-      "count": 1444
+      "count": 1445
     },
     {
       "name": "Jaehe-he",
@@ -606,7 +606,7 @@
           {
             "name": "chatsilverbridge-api-1",
             "image": "chatsilverbridge-api",
-            "status": "Up 8 days",
+            "status": "Up 9 days",
             "ports": "0.0.0.0:6012->6012/tcp, [::]:6012->6012/tcp"
           },
           {
@@ -1212,22 +1212,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1302,
+        "commitCount": 1303,
         "authors": [
           {
-            "count": 1302,
+            "count": 1303,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "3ce43cca",
+          "hash": "291a2308",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-06-09T11:53:23+09:00",
+          "date": "2026-06-09T12:24:03+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1302개 커밋, 상위 계정: gosky(1302), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1303개 커밋, 상위 계정: gosky(1303), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1248,8 +1248,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1302",
-        "Git 상위 계정: gosky(1302)"
+        "Git 커밋 수: 1303",
+        "Git 상위 계정: gosky(1303)"
       ]
     },
     {
@@ -3528,7 +3528,7 @@
           {
             "name": "whitehousefe-web",
             "image": "whitehousefe-web:latest",
-            "status": "Up About an hour",
+            "status": "Up 2 hours",
             "ports": "0.0.0.0:6700->3000/tcp, [::]:6700->3000/tcp"
           }
         ],
