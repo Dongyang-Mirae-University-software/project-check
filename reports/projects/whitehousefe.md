@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhitehouseFE`
 - 분류: 프론트엔드
-- 점검 시각: 2026-06-09 10:20:37 KST
+- 점검 시각: 2026-06-09 10:51:43 KST
 
 ## 추정 기술 스택
 
@@ -65,6 +65,7 @@
 
 ## 최근 수정 파일
 
+- docker-compose.yml (2026-06-09 10:49:32 KST)
 - 프로젝트_설명.txt (2026-06-01 14:47:38 KST)
 - app/_intro/boot-screen.tsx (2026-06-01 14:47:38 KST)
 - app/_intro/disclaimer-screen.tsx (2026-06-01 14:47:38 KST)
@@ -72,7 +73,6 @@
 - app/_intro/intro-flow.tsx (2026-06-01 14:47:38 KST)
 - app/_intro/lock.ts (2026-06-01 14:47:38 KST)
 - app/_intro/lockout-screen.tsx (2026-06-01 14:47:38 KST)
-- app/_intro/question-card.tsx (2026-06-01 14:47:38 KST)
 
 ## 점검 결과 요약
 
