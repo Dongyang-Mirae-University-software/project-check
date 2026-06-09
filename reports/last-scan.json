@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-09T01:50:40.830Z",
-  "generatedAtKst": "2026-06-09 10:50:40 KST",
+  "generatedAt": "2026-06-09T02:21:47.718Z",
+  "generatedAtKst": "2026-06-09 11:21:47 KST",
   "summary": {
     "total": 17,
     "frontend": 4,
@@ -10,8 +10,8 @@
     "ai": 5,
     "db": 8,
     "gitRepos": 13,
-    "running": 10,
-    "stopped": 7
+    "running": 11,
+    "stopped": 6
   },
   "gitAuthors": [
     {
@@ -19,10 +19,10 @@
       "emails": [
         {
           "email": "gosky@gosky.kr",
-          "count": 1441
+          "count": 1442
         }
       ],
-      "count": 1441
+      "count": 1442
     },
     {
       "name": "Jaehe-he",
@@ -1212,22 +1212,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1299,
+        "commitCount": 1300,
         "authors": [
           {
-            "count": 1299,
+            "count": 1300,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "b37cb5e4",
+          "hash": "9372427b",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-06-09T10:20:37+09:00",
+          "date": "2026-06-09T10:51:44+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1299개 커밋, 상위 계정: gosky(1299), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1300개 커밋, 상위 계정: gosky(1300), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1248,8 +1248,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1299",
-        "Git 상위 계정: gosky(1299)"
+        "Git 커밋 수: 1300",
+        "Git 상위 계정: gosky(1300)"
       ]
     },
     {
@@ -3481,7 +3481,7 @@
         }
       ],
       "structure": {
-        "fileCount": 47,
+        "fileCount": 48,
         "dirCount": 19,
         "mainFolders": [
           "app",
@@ -3521,17 +3521,27 @@
         "summary": "DB 사용 흔적 없음"
       },
       "runtime": {
-        "status": "정지",
-        "running": false,
+        "status": "실행 중",
+        "running": true,
         "pm2": [],
-        "docker": [],
+        "docker": [
+          {
+            "name": "whitehousefe-web",
+            "image": "whitehousefe-web:latest",
+            "status": "Up 15 minutes",
+            "ports": "0.0.0.0:6700->3000/tcp, [::]:6700->3000/tcp"
+          }
+        ],
         "ports": [],
         "allCandidatePorts": [
           1280,
           3000
         ],
         "summary": [
-          "정지 또는 확인 불가"
+          "실행 중",
+          "PM2 없음",
+          "Docker 1개",
+          "포트 확인 불가"
         ]
       },
       "git": {
@@ -3561,6 +3571,10 @@
       },
       "recentFiles": [
         {
+          "path": "compose-deploy-mail.sh",
+          "modifiedAt": "2026-06-09T02:16:07.113Z"
+        },
+        {
           "path": "docker-compose.yml",
           "modifiedAt": "2026-06-09T01:49:32.645Z"
         },
@@ -3587,17 +3601,13 @@
         {
           "path": "app/_intro/lock.ts",
           "modifiedAt": "2026-06-01T05:47:38.927Z"
-        },
-        {
-          "path": "app/_intro/lockout-screen.tsx",
-          "modifiedAt": "2026-06-01T05:47:38.927Z"
         }
       ],
       "summary": [
         "분류: 프론트엔드",
         "기술 추정: React, Next.js, Node.js, Frontend",
         "DB 사용 흔적 없음",
-        "실행 상태: 정지",
+        "실행 상태: 실행 중",
         "Git 커밋 수: 46",
         "Git 상위 계정: skarndaudwls1(24), skarndaudwls1(5)"
       ]

@@ -1,6 +1,6 @@
 # 실행 상태
 
-- 스캔 시각: 2026-06-09 10:51:43 KST
+- 스캔 시각: 2026-06-09 11:22:44 KST
 
 | 프로젝트 | 분류 | 실행 상태 | PM2 | Docker | 포트 |
 | --- | --- | --- | --- | --- | --- |
@@ -20,7 +20,7 @@
 | SilverBridgeSSOBe | 백엔드 | 실행 중 | 확인 불가 | 확인 불가 | 3306, 6379, 6501, 18000, 60480 |
 | SilverBridgeStreamTestFe | 프론트엔드 | 실행 중 | 확인 불가 | 확인 불가 | 1012, 6018 |
 | TestSilverBridge | 기타 | 확인 불가 | 확인 불가 | 확인 불가 | 확인 불가 |
-| WhitehouseFE | 프론트엔드 | 정지 | 확인 불가 | 확인 불가 | 1280, 3000 |
+| WhitehouseFE | 프론트엔드 | 실행 중 | 확인 불가 | whitehousefe-web | 1280, 3000 |
 
 ## 요약
 
@@ -40,4 +40,4 @@
 - SilverBridgeSSOBe: 실행 중 / PM2 없음 / Docker 없음 / 포트 3306, 6379
 - SilverBridgeStreamTestFe: 실행 중 / PM2 없음 / Docker 없음 / 포트 6018
 - TestSilverBridge: 정지 또는 확인 불가
-- WhitehouseFE: 정지 또는 확인 불가
+- WhitehouseFE: 실행 중 / PM2 없음 / Docker 1개 / 포트 확인 불가
