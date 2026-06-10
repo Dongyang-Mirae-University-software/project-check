@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-10T05:16:46.251Z",
-  "generatedAtKst": "2026-06-10 14:16:46 KST",
+  "generatedAt": "2026-06-10T05:47:11.250Z",
+  "generatedAtKst": "2026-06-10 14:47:11 KST",
   "summary": {
     "total": 17,
     "frontend": 4,
@@ -19,10 +19,10 @@
       "emails": [
         {
           "email": "gosky@gosky.kr",
-          "count": 1495
+          "count": 1496
         }
       ],
-      "count": 1495
+      "count": 1496
     },
     {
       "name": "YUNA0222",
@@ -1191,7 +1191,6 @@
         "ports": [
           1433,
           3306,
-          5432,
           6379
         ],
         "allCandidatePorts": [
@@ -1207,28 +1206,28 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 1433, 3306, 5432, 6379"
+          "포트 1433, 3306, 6379"
         ]
       },
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1353,
+        "commitCount": 1354,
         "authors": [
           {
-            "count": 1353,
+            "count": 1354,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "dcca009d",
+          "hash": "03ac4e89",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-06-10T13:46:44+09:00",
+          "date": "2026-06-10T14:17:09+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1353개 커밋, 상위 계정: gosky(1353), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1354개 커밋, 상위 계정: gosky(1354), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1249,8 +1248,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1353",
-        "Git 상위 계정: gosky(1353)"
+        "Git 커밋 수: 1354",
+        "Git 상위 계정: gosky(1354)"
       ]
     },
     {
@@ -1617,7 +1616,6 @@
         "pm2": [],
         "docker": [],
         "ports": [
-          5432,
           6012,
           6015,
           6019
@@ -1636,7 +1634,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 5432, 6012, 6015, 6019"
+          "포트 6012, 6015, 6019"
         ]
       },
       "git": {
@@ -1845,7 +1843,6 @@
         "pm2": [],
         "docker": [],
         "ports": [
-          5432,
           6379,
           6511
         ],
@@ -1863,7 +1860,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 5432, 6379, 6511"
+          "포트 6379, 6511"
         ]
       },
       "git": {
@@ -2730,7 +2727,6 @@
         "pm2": [],
         "docker": [],
         "ports": [
-          5432,
           6379
         ],
         "allCandidatePorts": [
@@ -2746,7 +2742,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 5432, 6379"
+          "포트 6379"
         ]
       },
       "git": {
@@ -3533,7 +3529,7 @@
           {
             "name": "whitehousefe-web",
             "image": "whitehousefe-web:latest",
-            "status": "Up 27 hours",
+            "status": "Up 28 hours",
             "ports": "0.0.0.0:6700->3000/tcp, [::]:6700->3000/tcp"
           }
         ],
