@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhitehouseFE`
 - 분류: 프론트엔드
-- 점검 시각: 2026-06-10 10:43:59 KST
+- 점검 시각: 2026-06-10 11:14:29 KST
 
 ## 추정 기술 스택
 
@@ -65,7 +65,7 @@
 
 ## 최근 수정 파일
 
-- compose-deploy-mail.sh (2026-06-10 09:40:57 KST)
+- compose-deploy-mail.sh (2026-06-10 11:10:32 KST)
 - docker-compose.yml (2026-06-09 10:49:32 KST)
 - 프로젝트_설명.txt (2026-06-01 14:47:38 KST)
 - app/_intro/boot-screen.tsx (2026-06-01 14:47:38 KST)

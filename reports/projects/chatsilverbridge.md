@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/ChatSilverBridge`
 - 분류: AI 서버
-- 점검 시각: 2026-06-10 10:43:48 KST
+- 점검 시각: 2026-06-10 11:14:17 KST
 
 ## 추정 기술 스택
 
