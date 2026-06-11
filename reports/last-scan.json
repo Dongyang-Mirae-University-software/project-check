@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-11T06:12:21.835Z",
-  "generatedAtKst": "2026-06-11 15:12:21 KST",
+  "generatedAt": "2026-06-11T06:42:55.695Z",
+  "generatedAtKst": "2026-06-11 15:42:55 KST",
   "summary": {
     "total": 18,
     "frontend": 4,
@@ -19,10 +19,10 @@
       "emails": [
         {
           "email": "gosky@gosky.kr",
-          "count": 1544
+          "count": 1545
         }
       ],
-      "count": 1544
+      "count": 1545
     },
     {
       "name": "YUNA0222",
@@ -1216,22 +1216,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1402,
+        "commitCount": 1403,
         "authors": [
           {
-            "count": 1402,
+            "count": 1403,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "a99cd269",
+          "hash": "b3d4fd06",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-06-11T14:42:20+09:00",
+          "date": "2026-06-11T15:12:53+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1402개 커밋, 상위 계정: gosky(1402), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1403개 커밋, 상위 계정: gosky(1403), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1252,8 +1252,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1402",
-        "Git 상위 계정: gosky(1402)"
+        "Git 커밋 수: 1403",
+        "Git 상위 계정: gosky(1403)"
       ]
     },
     {
@@ -1664,35 +1664,35 @@
       "recentFiles": [
         {
           "path": "app/__init__.py",
-          "modifiedAt": "2026-06-11T00:50:50.404Z"
+          "modifiedAt": "2026-06-11T06:31:19.505Z"
         },
         {
           "path": "app/core/__init__.py",
-          "modifiedAt": "2026-06-11T00:50:50.404Z"
+          "modifiedAt": "2026-06-11T06:31:19.505Z"
+        },
+        {
+          "path": "app/core/response.py",
+          "modifiedAt": "2026-06-11T06:31:19.505Z"
+        },
+        {
+          "path": "app/core/security.py",
+          "modifiedAt": "2026-06-11T06:31:19.505Z"
         },
         {
           "path": "app/database/__init__.py",
-          "modifiedAt": "2026-06-11T00:50:50.404Z"
+          "modifiedAt": "2026-06-11T06:31:19.505Z"
         },
         {
           "path": "app/database/base.py",
-          "modifiedAt": "2026-06-11T00:50:50.404Z"
+          "modifiedAt": "2026-06-11T06:31:19.505Z"
+        },
+        {
+          "path": "app/models/__init__.py",
+          "modifiedAt": "2026-06-11T06:31:19.505Z"
         },
         {
           "path": "app/models/stream_session.py",
-          "modifiedAt": "2026-06-11T00:50:50.404Z"
-        },
-        {
-          "path": "app/routers/__init__.py",
-          "modifiedAt": "2026-06-11T00:50:50.404Z"
-        },
-        {
-          "path": "app/routers/live_stream_router.py",
-          "modifiedAt": "2026-06-11T00:50:50.404Z"
-        },
-        {
-          "path": "app/routers/live_ws_router.py",
-          "modifiedAt": "2026-06-11T00:50:50.404Z"
+          "modifiedAt": "2026-06-11T06:31:19.505Z"
         }
       ],
       "summary": [
@@ -3187,7 +3187,7 @@
       "recentFiles": [
         {
           "path": "package.json",
-          "modifiedAt": "2026-06-11T00:50:50.404Z"
+          "modifiedAt": "2026-06-11T06:31:19.505Z"
         },
         {
           "path": "README.md",
@@ -3542,7 +3542,7 @@
           {
             "name": "whitehousebe-db-1",
             "image": "postgres:16",
-            "status": "Up 3 hours (healthy)",
+            "status": "Up 4 hours (healthy)",
             "ports": "0.0.0.0:6705->5432/tcp, [::]:6705->5432/tcp"
           }
         ],
@@ -3588,16 +3588,16 @@
       },
       "recentFiles": [
         {
+          "path": "Dockerfile",
+          "modifiedAt": "2026-06-11T06:31:19.505Z"
+        },
+        {
           "path": "src/main/resources/application.yaml",
           "modifiedAt": "2026-06-11T03:40:27.424Z"
         },
         {
           "path": "docker-compose.yml",
           "modifiedAt": "2026-06-11T03:38:07.482Z"
-        },
-        {
-          "path": "Dockerfile",
-          "modifiedAt": "2026-06-11T03:02:21.041Z"
         },
         {
           "path": "src/test/java/com/example/whitehousebe/WhiteHouseBeApplicationTests.java",
