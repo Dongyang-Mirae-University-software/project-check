@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-11T02:36:32.859Z",
-  "generatedAtKst": "2026-06-11 11:36:32 KST",
+  "generatedAt": "2026-06-11T03:07:58.113Z",
+  "generatedAtKst": "2026-06-11 12:07:58 KST",
   "summary": {
     "total": 18,
     "frontend": 4,
@@ -19,10 +19,10 @@
       "emails": [
         {
           "email": "gosky@gosky.kr",
-          "count": 1537
+          "count": 1538
         }
       ],
-      "count": 1537
+      "count": 1538
     },
     {
       "name": "YUNA0222",
@@ -1216,22 +1216,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1395,
+        "commitCount": 1396,
         "authors": [
           {
-            "count": 1395,
+            "count": 1396,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "ec90e1f4",
+          "hash": "961968bd",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-06-11T11:06:30+09:00",
+          "date": "2026-06-11T11:37:54+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1395개 커밋, 상위 계정: gosky(1395), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1396개 커밋, 상위 계정: gosky(1396), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1252,8 +1252,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1395",
-        "Git 상위 계정: gosky(1395)"
+        "Git 커밋 수: 1396",
+        "Git 상위 계정: gosky(1396)"
       ]
     },
     {
@@ -3536,7 +3536,7 @@
           {
             "name": "whitehousebe-db-1",
             "image": "postgres:16",
-            "status": "Restarting (1) 3 seconds ago",
+            "status": "Restarting (1) 31 seconds ago",
             "ports": ""
           }
         ],
@@ -3544,7 +3544,6 @@
         "allCandidatePorts": [
           5432,
           6701,
-          6705,
           7084
         ],
         "summary": [
@@ -3582,15 +3581,15 @@
       "recentFiles": [
         {
           "path": "Dockerfile",
-          "modifiedAt": "2026-06-11T02:30:24.207Z"
-        },
-        {
-          "path": "src/main/resources/application.yaml",
-          "modifiedAt": "2026-06-11T02:14:48.291Z"
+          "modifiedAt": "2026-06-11T03:02:21.041Z"
         },
         {
           "path": "docker-compose.yml",
-          "modifiedAt": "2026-06-11T02:14:38.711Z"
+          "modifiedAt": "2026-06-11T02:52:55.215Z"
+        },
+        {
+          "path": "src/main/resources/application.yaml",
+          "modifiedAt": "2026-06-11T02:51:51.108Z"
         },
         {
           "path": "src/test/java/com/example/whitehousebe/WhiteHouseBeApplicationTests.java",

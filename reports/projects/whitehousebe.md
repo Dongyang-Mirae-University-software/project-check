@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhitehouseBE`
 - 분류: 백엔드
-- 점검 시각: 2026-06-11 11:37:52 KST
+- 점검 시각: 2026-06-11 12:09:12 KST
 
 ## 추정 기술 스택
 
@@ -50,7 +50,7 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 5432, 6701, 6705, 7084
+- 관련 포트: 5432, 6701, 7084
 - 관련 Docker 컨테이너: whitehousebe-db-1
 - 관련 PM2 프로세스: 확인 불가
 
@@ -65,9 +65,9 @@
 
 ## 최근 수정 파일
 
-- Dockerfile (2026-06-11 11:30:24 KST)
-- src/main/resources/application.yaml (2026-06-11 11:14:48 KST)
-- docker-compose.yml (2026-06-11 11:14:38 KST)
+- Dockerfile (2026-06-11 12:02:21 KST)
+- docker-compose.yml (2026-06-11 11:52:55 KST)
+- src/main/resources/application.yaml (2026-06-11 11:51:51 KST)
 - src/test/java/com/example/whitehousebe/WhiteHouseBeApplicationTests.java (2026-06-11 09:54:32 KST)
 - src/main/resources/static/images/angry.svg (2026-06-11 09:54:32 KST)
 - src/main/resources/static/images/annoyed.svg (2026-06-11 09:54:32 KST)
