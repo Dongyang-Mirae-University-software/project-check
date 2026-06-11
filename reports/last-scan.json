@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-11T02:06:06.664Z",
-  "generatedAtKst": "2026-06-11 11:06:06 KST",
+  "generatedAt": "2026-06-11T02:36:32.859Z",
+  "generatedAtKst": "2026-06-11 11:36:32 KST",
   "summary": {
     "total": 18,
     "frontend": 4,
@@ -10,8 +10,8 @@
     "ai": 5,
     "db": 9,
     "gitRepos": 14,
-    "running": 11,
-    "stopped": 7
+    "running": 12,
+    "stopped": 6
   },
   "gitAuthors": [
     {
@@ -19,10 +19,10 @@
       "emails": [
         {
           "email": "gosky@gosky.kr",
-          "count": 1536
+          "count": 1537
         }
       ],
-      "count": 1536
+      "count": 1537
     },
     {
       "name": "YUNA0222",
@@ -1216,22 +1216,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1394,
+        "commitCount": 1395,
         "authors": [
           {
-            "count": 1394,
+            "count": 1395,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "5e690724",
+          "hash": "ec90e1f4",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-06-11T10:36:04+09:00",
+          "date": "2026-06-11T11:06:30+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1394개 커밋, 상위 계정: gosky(1394), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1395개 커밋, 상위 계정: gosky(1395), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1252,8 +1252,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1394",
-        "Git 상위 계정: gosky(1394)"
+        "Git 커밋 수: 1395",
+        "Git 상위 계정: gosky(1395)"
       ]
     },
     {
@@ -3486,7 +3486,7 @@
         }
       ],
       "structure": {
-        "fileCount": 16,
+        "fileCount": 17,
         "dirCount": 22,
         "mainFolders": [
           "gradle",
@@ -3523,22 +3523,35 @@
         "clueFiles": [],
         "evidence": [
           "docker-compose.yml 확인",
+          "application.yml 확인",
           "추정 DB: PostgreSQL"
         ],
         "summary": "PostgreSQL 사용 추정"
       },
       "runtime": {
-        "status": "정지",
-        "running": false,
+        "status": "실행 중",
+        "running": true,
         "pm2": [],
-        "docker": [],
+        "docker": [
+          {
+            "name": "whitehousebe-db-1",
+            "image": "postgres:16",
+            "status": "Restarting (1) 3 seconds ago",
+            "ports": ""
+          }
+        ],
         "ports": [],
         "allCandidatePorts": [
           5432,
-          8080
+          6701,
+          6705,
+          7084
         ],
         "summary": [
-          "정지 또는 확인 불가"
+          "실행 중",
+          "PM2 없음",
+          "Docker 1개",
+          "포트 확인 불가"
         ]
       },
       "git": {
@@ -3569,11 +3582,15 @@
       "recentFiles": [
         {
           "path": "Dockerfile",
-          "modifiedAt": "2026-06-11T01:52:47.236Z"
+          "modifiedAt": "2026-06-11T02:30:24.207Z"
+        },
+        {
+          "path": "src/main/resources/application.yaml",
+          "modifiedAt": "2026-06-11T02:14:48.291Z"
         },
         {
           "path": "docker-compose.yml",
-          "modifiedAt": "2026-06-11T01:35:02.158Z"
+          "modifiedAt": "2026-06-11T02:14:38.711Z"
         },
         {
           "path": "src/test/java/com/example/whitehousebe/WhiteHouseBeApplicationTests.java",
@@ -3594,17 +3611,13 @@
         {
           "path": "src/main/resources/static/images/great.svg",
           "modifiedAt": "2026-06-11T00:54:32.556Z"
-        },
-        {
-          "path": "src/main/resources/static/images/nuclear.svg",
-          "modifiedAt": "2026-06-11T00:54:32.556Z"
         }
       ],
       "summary": [
         "분류: 백엔드",
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL",
-        "실행 상태: 정지",
+        "실행 상태: 실행 중",
         "Git 커밋 수: 29",
         "Git 상위 계정: YUNA0222(27), YUNA0222(2)"
       ]

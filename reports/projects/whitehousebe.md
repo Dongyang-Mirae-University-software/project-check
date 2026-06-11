@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhitehouseBE`
 - 분류: 백엔드
-- 점검 시각: 2026-06-11 11:06:30 KST
+- 점검 시각: 2026-06-11 11:37:52 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 16
+- 파일 개수: 17
 - 디렉토리 개수: 22
 - 주요 폴더: gradle, src
 - 주요 경로: src, src/main, src/main/java, src/main/java/com, src/main/java/com/example, src/main/java/com/example/whitehousebe, src/main/java/com/example/whitehousebe/controller, src/main/java/com/example/whitehousebe/domain, src/main/java/com/example/whitehousebe/dto, src/main/java/com/example/whitehousebe/repository, src/main/java/com/example/whitehousebe/service, src/main/resources, src/main/resources/static, src/main/resources/static/images, src/test, src/test/java, src/test/java/com, src/test/java/com/example, src/test/java/com/example/whitehousebe, src/test/java/com/example/whitehousebe/config
@@ -45,13 +45,13 @@
 
 - 사용 여부: 예
 - 연결 추정 DB: PostgreSQL
-- 근거: docker-compose.yml 확인, 추정 DB: PostgreSQL
+- 근거: docker-compose.yml 확인, application.yml 확인, 추정 DB: PostgreSQL
 
 ## 실행 상태
 
-- 상태: 정지
-- 관련 포트: 5432, 8080
-- 관련 Docker 컨테이너: 확인 불가
+- 상태: 실행 중
+- 관련 포트: 5432, 6701, 6705, 7084
+- 관련 Docker 컨테이너: whitehousebe-db-1
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
@@ -65,20 +65,20 @@
 
 ## 최근 수정 파일
 
-- Dockerfile (2026-06-11 10:52:47 KST)
-- docker-compose.yml (2026-06-11 10:35:02 KST)
+- Dockerfile (2026-06-11 11:30:24 KST)
+- src/main/resources/application.yaml (2026-06-11 11:14:48 KST)
+- docker-compose.yml (2026-06-11 11:14:38 KST)
 - src/test/java/com/example/whitehousebe/WhiteHouseBeApplicationTests.java (2026-06-11 09:54:32 KST)
 - src/main/resources/static/images/angry.svg (2026-06-11 09:54:32 KST)
 - src/main/resources/static/images/annoyed.svg (2026-06-11 09:54:32 KST)
 - src/main/resources/static/images/fine.svg (2026-06-11 09:54:32 KST)
 - src/main/resources/static/images/great.svg (2026-06-11 09:54:32 KST)
-- src/main/resources/static/images/nuclear.svg (2026-06-11 09:54:32 KST)
 
 ## 점검 결과 요약
 
 - 분류: 백엔드
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL
-- 실행 상태: 정지
+- 실행 상태: 실행 중
 - Git 커밋 수: 29
 - Git 상위 계정: YUNA0222(27), YUNA0222(2)
