@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhitehouseFE`
 - 분류: 프론트엔드
-- 점검 시각: 2026-06-11 20:49:14 KST
+- 점검 시각: 2026-06-11 21:19:42 KST
 
 ## 추정 기술 스택
 
@@ -66,6 +66,7 @@
 
 ## 최근 수정 파일
 
+- docker-compose.yml (2026-06-11 20:53:50 KST)
 - public/images/great.svg (2026-06-11 20:37:10 KST)
 - public/images/nuclear.svg (2026-06-11 20:37:10 KST)
 - public/images/angry.svg (2026-06-11 20:37:10 KST)
@@ -73,7 +74,6 @@
 - public/images/fine.svg (2026-06-11 20:37:10 KST)
 - lib/dashboard/adapt.ts (2026-06-11 20:37:10 KST)
 - lib/data/dashboard-repository.ts (2026-06-11 20:37:10 KST)
-- lib/data/whitehouse-api.ts (2026-06-11 20:37:10 KST)
 
 ## 점검 결과 요약
 
