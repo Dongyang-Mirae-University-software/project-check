@@ -1,21 +1,21 @@
 # 프로젝트 상태 요약
 
-- 전체 프로젝트 개수: 17
+- 전체 프로젝트 개수: 18
 - 프론트엔드 프로젝트 개수: 4
-- 백엔드 프로젝트 개수: 6
+- 백엔드 프로젝트 개수: 7
 - AI 서버 프로젝트 개수: 5
-- DB 사용 프로젝트 개수: 8
-- Git 저장소 프로젝트 개수: 13
+- DB 사용 프로젝트 개수: 9
+- Git 저장소 프로젝트 개수: 14
 - 실행 중인 서비스 개수: 11
-- 꺼져 있는 서비스 개수: 6
-- 마지막 스캔 시간: 2026-06-11 09:34:38 KST
+- 꺼져 있는 서비스 개수: 7
+- 마지막 스캔 시간: 2026-06-11 10:05:02 KST
 
 ## 계정별 커밋 수
 
 | 계정 | 이메일별 커밋 수 | 합산 커밋 수 |
 | --- | --- | ---: |
-| gosky | gosky@gosky.kr (1533) | 1533 |
-| YUNA0222 | gold8077@gmail.com (615) | 615 |
+| gosky | gosky@gosky.kr (1534) | 1534 |
+| YUNA0222 | gold8077@gmail.com (642); 89885846+yuna0222@users.noreply.github.com (2) | 644 |
 | Jaehe-he | hywuljh1@naver.com (558) | 558 |
 | skarndaudwls1 | skarndaudwls@gmail.com (315); skarndaudwls1@gmail.com (127) | 442 |
 
@@ -37,4 +37,5 @@
 - SilverBridgeSSOBe | 백엔드 | 실행 중 | DB 사용
 - SilverBridgeStreamTestFe | 프론트엔드 | 실행 중 | DB 미사용
 - TestSilverBridge | 기타 | 확인 불가 | DB 미사용
+- WhitehouseBE | 백엔드 | 정지 | DB 사용
 - WhitehouseFE | 프론트엔드 | 실행 중 | DB 미사용

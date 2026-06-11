@@ -1,6 +1,6 @@
 # 데이터베이스 상태
 
-- 스캔 시각: 2026-06-11 09:34:59 KST
+- 스캔 시각: 2026-06-11 10:05:28 KST
 
 | 프로젝트 | DB 사용 여부 | 추정 DB | 실행 상태 | 관련 포트 | 관련 컨테이너 |
 | --- | --- | --- | --- | --- | --- |
@@ -20,6 +20,7 @@
 | SilverBridgeSSOBe | 예 | MySQL, Redis | 실행 중 | 3306, 6379, 6501, 18000, 60480 | 확인 불가 |
 | SilverBridgeStreamTestFe | 아니오 | 확인 불가 | 실행 중 | 1012, 6018 | 확인 불가 |
 | TestSilverBridge | 아니오 | 확인 불가 | 확인 불가 | 확인 불가 | 확인 불가 |
+| WhitehouseBE | 예 | PostgreSQL | 정지 | 5432 | 확인 불가 |
 | WhitehouseFE | 아니오 | 확인 불가 | 실행 중 | 1280, 3000 | whitehousefe-web |
 
 ## 점검 메모
@@ -53,5 +54,7 @@
 - SilverBridgeStreamTestFe: DB 사용 흔적 없음
   - 근거: docker-compose.yml 확인, package.json 확인, .env 키 11개 확인
 - TestSilverBridge: DB 사용 흔적 없음
+- WhitehouseBE: PostgreSQL 사용 추정
+  - 근거: docker-compose.yml 확인, 추정 DB: PostgreSQL
 - WhitehouseFE: DB 사용 흔적 없음
   - 근거: docker-compose.yml 확인, package.json 확인

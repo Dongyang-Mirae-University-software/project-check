@@ -1,17 +1,17 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-11T00:34:38.000Z",
-  "generatedAtKst": "2026-06-11 09:34:38 KST",
+  "generatedAt": "2026-06-11T01:05:02.032Z",
+  "generatedAtKst": "2026-06-11 10:05:02 KST",
   "summary": {
-    "total": 17,
+    "total": 18,
     "frontend": 4,
-    "backend": 6,
+    "backend": 7,
     "ai": 5,
-    "db": 8,
-    "gitRepos": 13,
+    "db": 9,
+    "gitRepos": 14,
     "running": 11,
-    "stopped": 6
+    "stopped": 7
   },
   "gitAuthors": [
     {
@@ -19,20 +19,24 @@
       "emails": [
         {
           "email": "gosky@gosky.kr",
-          "count": 1533
+          "count": 1534
         }
       ],
-      "count": 1533
+      "count": 1534
     },
     {
       "name": "YUNA0222",
       "emails": [
         {
           "email": "gold8077@gmail.com",
-          "count": 615
+          "count": 642
+        },
+        {
+          "email": "89885846+yuna0222@users.noreply.github.com",
+          "count": 2
         }
       ],
-      "count": 615
+      "count": 644
     },
     {
       "name": "Jaehe-he",
@@ -1212,22 +1216,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1391,
+        "commitCount": 1392,
         "authors": [
           {
-            "count": 1391,
+            "count": 1392,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "50eb912b",
+          "hash": "914ae155",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-06-11T09:04:35+09:00",
+          "date": "2026-06-11T09:35:00+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1391개 커밋, 상위 계정: gosky(1391), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1392개 커밋, 상위 계정: gosky(1392), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1248,8 +1252,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1391",
-        "Git 상위 계정: gosky(1391)"
+        "Git 커밋 수: 1392",
+        "Git 상위 계정: gosky(1392)"
       ]
     },
     {
@@ -1660,35 +1664,35 @@
       "recentFiles": [
         {
           "path": "app/__init__.py",
-          "modifiedAt": "2026-06-08T00:41:27.350Z"
+          "modifiedAt": "2026-06-11T00:50:50.404Z"
         },
         {
           "path": "app/core/__init__.py",
-          "modifiedAt": "2026-06-08T00:41:27.350Z"
+          "modifiedAt": "2026-06-11T00:50:50.404Z"
         },
         {
           "path": "app/database/__init__.py",
-          "modifiedAt": "2026-06-08T00:41:27.350Z"
+          "modifiedAt": "2026-06-11T00:50:50.404Z"
         },
         {
           "path": "app/database/base.py",
-          "modifiedAt": "2026-06-08T00:41:27.350Z"
+          "modifiedAt": "2026-06-11T00:50:50.404Z"
+        },
+        {
+          "path": "app/models/stream_session.py",
+          "modifiedAt": "2026-06-11T00:50:50.404Z"
+        },
+        {
+          "path": "app/routers/__init__.py",
+          "modifiedAt": "2026-06-11T00:50:50.404Z"
+        },
+        {
+          "path": "app/routers/live_stream_router.py",
+          "modifiedAt": "2026-06-11T00:50:50.404Z"
         },
         {
           "path": "app/routers/live_ws_router.py",
-          "modifiedAt": "2026-06-08T00:41:27.350Z"
-        },
-        {
-          "path": "app/utils/__init__.py",
-          "modifiedAt": "2026-06-08T00:41:27.350Z"
-        },
-        {
-          "path": "app/utils/file_utils.py",
-          "modifiedAt": "2026-06-08T00:41:27.350Z"
-        },
-        {
-          "path": "app/utils/logger.py",
-          "modifiedAt": "2026-06-08T00:41:27.350Z"
+          "modifiedAt": "2026-06-11T00:50:50.404Z"
         }
       ],
       "summary": [
@@ -3183,7 +3187,7 @@
       "recentFiles": [
         {
           "path": "package.json",
-          "modifiedAt": "2026-06-08T00:41:27.350Z"
+          "modifiedAt": "2026-06-11T00:50:50.404Z"
         },
         {
           "path": "README.md",
@@ -3390,6 +3394,221 @@
       ]
     },
     {
+      "projectName": "WhitehouseBE",
+      "projectPath": "/home/apps/SilverBridgeSky/WhitehouseBE",
+      "classification": "백엔드",
+      "stack": [
+        "Java",
+        "Spring",
+        "Frontend",
+        "Backend"
+      ],
+      "mainFiles": [
+        {
+          "file": "package.json",
+          "exists": false
+        },
+        {
+          "file": "vite.config.js",
+          "exists": false
+        },
+        {
+          "file": "vite.config.ts",
+          "exists": false
+        },
+        {
+          "file": "vite.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "vite.config.cjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.js",
+          "exists": false
+        },
+        {
+          "file": "next.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.ts",
+          "exists": false
+        },
+        {
+          "file": "requirements.txt",
+          "exists": false
+        },
+        {
+          "file": "pyproject.toml",
+          "exists": false
+        },
+        {
+          "file": "Dockerfile",
+          "exists": false
+        },
+        {
+          "file": "docker-compose.yml",
+          "exists": true
+        },
+        {
+          "file": "docker-compose.yaml",
+          "exists": false
+        },
+        {
+          "file": "compose.yml",
+          "exists": false
+        },
+        {
+          "file": "compose.yaml",
+          "exists": false
+        },
+        {
+          "file": ".env.example",
+          "exists": false
+        },
+        {
+          "file": ".env",
+          "exists": false
+        },
+        {
+          "file": "pom.xml",
+          "exists": false
+        },
+        {
+          "file": "build.gradle",
+          "exists": true
+        },
+        {
+          "file": "build.gradle.kts",
+          "exists": false
+        }
+      ],
+      "structure": {
+        "fileCount": 15,
+        "dirCount": 22,
+        "mainFolders": [
+          "gradle",
+          "src"
+        ],
+        "majorPaths": [
+          "src",
+          "src/main",
+          "src/main/java",
+          "src/main/java/com",
+          "src/main/java/com/example",
+          "src/main/java/com/example/whitehousebe",
+          "src/main/java/com/example/whitehousebe/controller",
+          "src/main/java/com/example/whitehousebe/domain",
+          "src/main/java/com/example/whitehousebe/dto",
+          "src/main/java/com/example/whitehousebe/repository",
+          "src/main/java/com/example/whitehousebe/service",
+          "src/main/resources",
+          "src/main/resources/static",
+          "src/main/resources/static/images",
+          "src/test",
+          "src/test/java",
+          "src/test/java/com",
+          "src/test/java/com/example",
+          "src/test/java/com/example/whitehousebe",
+          "src/test/java/com/example/whitehousebe/config"
+        ]
+      },
+      "database": {
+        "used": true,
+        "types": [
+          "PostgreSQL"
+        ],
+        "clueFiles": [],
+        "evidence": [
+          "docker-compose.yml 확인",
+          "추정 DB: PostgreSQL"
+        ],
+        "summary": "PostgreSQL 사용 추정"
+      },
+      "runtime": {
+        "status": "정지",
+        "running": false,
+        "pm2": [],
+        "docker": [],
+        "ports": [],
+        "allCandidatePorts": [
+          5432
+        ],
+        "summary": [
+          "정지 또는 확인 불가"
+        ]
+      },
+      "git": {
+        "isRepo": true,
+        "branch": "main",
+        "commitCount": 29,
+        "authors": [
+          {
+            "count": 27,
+            "name": "YUNA0222",
+            "email": "gold8077@gmail.com"
+          },
+          {
+            "count": 2,
+            "name": "YUNA0222",
+            "email": "89885846+yuna0222@users.noreply.github.com"
+          }
+        ],
+        "latestCommit": {
+          "hash": "299ff86",
+          "author": "YUNA0222",
+          "email": "89885846+yuna0222@users.noreply.github.com",
+          "date": "2026-06-10T18:53:28+09:00",
+          "subject": "Fix: 빌드 수정"
+        },
+        "summary": "총 29개 커밋, 상위 계정: YUNA0222(27), YUNA0222(2), 최근: Fix: 빌드 수정"
+      },
+      "recentFiles": [
+        {
+          "path": "src/test/java/com/example/whitehousebe/WhiteHouseBeApplicationTests.java",
+          "modifiedAt": "2026-06-11T00:54:32.560Z"
+        },
+        {
+          "path": "src/main/resources/static/images/angry.svg",
+          "modifiedAt": "2026-06-11T00:54:32.556Z"
+        },
+        {
+          "path": "src/main/resources/static/images/annoyed.svg",
+          "modifiedAt": "2026-06-11T00:54:32.556Z"
+        },
+        {
+          "path": "src/main/resources/static/images/fine.svg",
+          "modifiedAt": "2026-06-11T00:54:32.556Z"
+        },
+        {
+          "path": "src/main/resources/static/images/great.svg",
+          "modifiedAt": "2026-06-11T00:54:32.556Z"
+        },
+        {
+          "path": "src/main/resources/static/images/nuclear.svg",
+          "modifiedAt": "2026-06-11T00:54:32.556Z"
+        },
+        {
+          "path": "src/main/java/com/example/whitehousebe/WhiteHouseBeApplication.java",
+          "modifiedAt": "2026-06-11T00:54:32.540Z"
+        },
+        {
+          "path": "gradlew.bat",
+          "modifiedAt": "2026-06-11T00:54:32.536Z"
+        }
+      ],
+      "summary": [
+        "분류: 백엔드",
+        "기술 추정: Java, Spring, Frontend, Backend",
+        "DB 사용 추정: PostgreSQL",
+        "실행 상태: 정지",
+        "Git 커밋 수: 29",
+        "Git 상위 계정: YUNA0222(27), YUNA0222(2)"
+      ]
+    },
+    {
       "projectName": "WhitehouseFE",
       "projectPath": "/home/apps/SilverBridgeSky/WhitehouseFE",
       "classification": "프론트엔드",
@@ -3529,7 +3748,7 @@
           {
             "name": "whitehousefe-web",
             "image": "whitehousefe-web:latest",
-            "status": "Up 46 hours",
+            "status": "Up 47 hours",
             "ports": "0.0.0.0:6700->3000/tcp, [::]:6700->3000/tcp"
           }
         ],
