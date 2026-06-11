@@ -1,6 +1,6 @@
 # 데이터베이스 상태
 
-- 스캔 시각: 2026-06-11 20:18:09 KST
+- 스캔 시각: 2026-06-11 20:49:14 KST
 
 | 프로젝트 | DB 사용 여부 | 추정 DB | 실행 상태 | 관련 포트 | 관련 컨테이너 |
 | --- | --- | --- | --- | --- | --- |
@@ -21,7 +21,7 @@
 | SilverBridgeStreamTestFe | 아니오 | 확인 불가 | 실행 중 | 1012, 6018 | 확인 불가 |
 | TestSilverBridge | 아니오 | 확인 불가 | 확인 불가 | 확인 불가 | 확인 불가 |
 | WhitehouseBE | 예 | PostgreSQL | 실행 중 | 5432, 6701, 7084 | whitehousebe-api-1, whitehousebe-db-1 |
-| WhitehouseFE | 아니오 | 확인 불가 | 실행 중 | 1280, 3000 | whitehousefe-web |
+| WhitehouseFE | 아니오 | 확인 불가 | 실행 중 | 1024, 1280, 3000 | whitehousefe-web |
 
 ## 점검 메모
 
