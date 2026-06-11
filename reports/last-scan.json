@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-11T07:43:57.044Z",
-  "generatedAtKst": "2026-06-11 16:43:57 KST",
+  "generatedAt": "2026-06-11T08:14:35.139Z",
+  "generatedAtKst": "2026-06-11 17:14:35 KST",
   "summary": {
     "total": 18,
     "frontend": 4,
@@ -19,10 +19,10 @@
       "emails": [
         {
           "email": "gosky@gosky.kr",
-          "count": 1547
+          "count": 1548
         }
       ],
-      "count": 1547
+      "count": 1548
     },
     {
       "name": "YUNA0222",
@@ -1216,22 +1216,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1405,
+        "commitCount": 1406,
         "authors": [
           {
-            "count": 1405,
+            "count": 1406,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "fc35ce8f",
+          "hash": "b5e1cd25",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-06-11T16:13:54+09:00",
+          "date": "2026-06-11T16:44:32+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1405개 커밋, 상위 계정: gosky(1405), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1406개 커밋, 상위 계정: gosky(1406), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1252,8 +1252,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1405",
-        "Git 상위 계정: gosky(1405)"
+        "Git 커밋 수: 1406",
+        "Git 상위 계정: gosky(1406)"
       ]
     },
     {
@@ -1847,7 +1847,8 @@
         "pm2": [],
         "docker": [],
         "ports": [
-          6379
+          6379,
+          6511
         ],
         "allCandidatePorts": [
           3000,
@@ -1863,7 +1864,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 6379"
+          "포트 6379, 6511"
         ]
       },
       "git": {
