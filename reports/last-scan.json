@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-11T03:39:17.657Z",
-  "generatedAtKst": "2026-06-11 12:39:17 KST",
+  "generatedAt": "2026-06-11T04:09:44.589Z",
+  "generatedAtKst": "2026-06-11 13:09:44 KST",
   "summary": {
     "total": 18,
     "frontend": 4,
@@ -19,10 +19,10 @@
       "emails": [
         {
           "email": "gosky@gosky.kr",
-          "count": 1539
+          "count": 1540
         }
       ],
-      "count": 1539
+      "count": 1540
     },
     {
       "name": "YUNA0222",
@@ -1216,22 +1216,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1397,
+        "commitCount": 1398,
         "authors": [
           {
-            "count": 1397,
+            "count": 1398,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "f345154b",
+          "hash": "1f0c4f03",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-06-11T12:09:14+09:00",
+          "date": "2026-06-11T12:39:42+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1397개 커밋, 상위 계정: gosky(1397), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1398개 커밋, 상위 계정: gosky(1398), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1252,8 +1252,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1397",
-        "Git 상위 계정: gosky(1397)"
+        "Git 커밋 수: 1398",
+        "Git 상위 계정: gosky(1398)"
       ]
     },
     {
@@ -3536,13 +3536,13 @@
           {
             "name": "whitehousebe-api-1",
             "image": "whitehousebe-api",
-            "status": "Up 26 minutes",
+            "status": "Up 56 minutes",
             "ports": "0.0.0.0:6701->6701/tcp, [::]:6701->6701/tcp"
           },
           {
             "name": "whitehousebe-db-1",
             "image": "postgres:16",
-            "status": "Up 26 minutes (healthy)",
+            "status": "Up 56 minutes (healthy)",
             "ports": "0.0.0.0:6705->5432/tcp, [::]:6705->5432/tcp"
           }
         ],
@@ -3588,16 +3588,16 @@
       },
       "recentFiles": [
         {
+          "path": "src/main/resources/application.yaml",
+          "modifiedAt": "2026-06-11T03:40:27.424Z"
+        },
+        {
           "path": "docker-compose.yml",
           "modifiedAt": "2026-06-11T03:38:07.482Z"
         },
         {
           "path": "Dockerfile",
           "modifiedAt": "2026-06-11T03:02:21.041Z"
-        },
-        {
-          "path": "src/main/resources/application.yaml",
-          "modifiedAt": "2026-06-11T02:51:51.108Z"
         },
         {
           "path": "src/test/java/com/example/whitehousebe/WhiteHouseBeApplicationTests.java",
