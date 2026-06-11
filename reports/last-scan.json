@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-11T06:42:55.695Z",
-  "generatedAtKst": "2026-06-11 15:42:55 KST",
+  "generatedAt": "2026-06-11T07:13:23.686Z",
+  "generatedAtKst": "2026-06-11 16:13:23 KST",
   "summary": {
     "total": 18,
     "frontend": 4,
@@ -19,10 +19,10 @@
       "emails": [
         {
           "email": "gosky@gosky.kr",
-          "count": 1545
+          "count": 1546
         }
       ],
-      "count": 1545
+      "count": 1546
     },
     {
       "name": "YUNA0222",
@@ -1216,22 +1216,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1403,
+        "commitCount": 1404,
         "authors": [
           {
-            "count": 1403,
+            "count": 1404,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "b3d4fd06",
+          "hash": "f536793e",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-06-11T15:12:53+09:00",
+          "date": "2026-06-11T15:43:21+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1403개 커밋, 상위 계정: gosky(1403), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1404개 커밋, 상위 계정: gosky(1404), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1252,8 +1252,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1403",
-        "Git 상위 계정: gosky(1403)"
+        "Git 커밋 수: 1404",
+        "Git 상위 계정: gosky(1404)"
       ]
     },
     {
@@ -3536,7 +3536,7 @@
           {
             "name": "whitehousebe-api-1",
             "image": "whitehousebe-api",
-            "status": "Up 3 hours",
+            "status": "Up 4 hours",
             "ports": "0.0.0.0:6701->6701/tcp, [::]:6701->6701/tcp"
           },
           {
