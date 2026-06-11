@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-11T07:13:23.686Z",
-  "generatedAtKst": "2026-06-11 16:13:23 KST",
+  "generatedAt": "2026-06-11T07:43:57.044Z",
+  "generatedAtKst": "2026-06-11 16:43:57 KST",
   "summary": {
     "total": 18,
     "frontend": 4,
@@ -19,10 +19,10 @@
       "emails": [
         {
           "email": "gosky@gosky.kr",
-          "count": 1546
+          "count": 1547
         }
       ],
-      "count": 1546
+      "count": 1547
     },
     {
       "name": "YUNA0222",
@@ -53,14 +53,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 315
+          "count": 332
         },
         {
           "email": "skarndaudwls1@gmail.com",
-          "count": 127
+          "count": 133
         }
       ],
-      "count": 442
+      "count": 465
     }
   ],
   "projects": [
@@ -1216,22 +1216,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1404,
+        "commitCount": 1405,
         "authors": [
           {
-            "count": 1404,
+            "count": 1405,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "f536793e",
+          "hash": "fc35ce8f",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-06-11T15:43:21+09:00",
+          "date": "2026-06-11T16:13:54+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1404개 커밋, 상위 계정: gosky(1404), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1405개 커밋, 상위 계정: gosky(1405), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1252,8 +1252,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1404",
-        "Git 상위 계정: gosky(1404)"
+        "Git 커밋 수: 1405",
+        "Git 상위 계정: gosky(1405)"
       ]
     },
     {
@@ -1797,7 +1797,7 @@
         }
       ],
       "structure": {
-        "fileCount": 74,
+        "fileCount": 83,
         "dirCount": 25,
         "mainFolders": [
           "db",
@@ -1847,8 +1847,7 @@
         "pm2": [],
         "docker": [],
         "ports": [
-          6379,
-          6511
+          6379
         ],
         "allCandidatePorts": [
           3000,
@@ -1864,21 +1863,21 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 6379, 6511"
+          "포트 6379"
         ]
       },
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 578,
+        "commitCount": 619,
         "authors": [
           {
-            "count": 248,
+            "count": 265,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
           {
-            "count": 103,
+            "count": 109,
             "name": "skarndaudwls1",
             "email": "skarndaudwls1@gmail.com"
           },
@@ -1889,46 +1888,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "66d9b68",
+          "hash": "c3caca4",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-06-02T14:52:35+09:00",
-          "subject": "Merge pull request #191 from Dongyang-Mirae-University-software/feature/connection-partner-full-profile"
+          "date": "2026-06-11T16:28:23+09:00",
+          "subject": "Merge pull request #208 from Dongyang-Mirae-University-software/docs/untrack-local-notes"
         },
-        "summary": "총 578개 커밋, 상위 계정: skarndaudwls1(248), skarndaudwls1(103), gosky(2), 최근: Merge pull request #191 from Dongyang-Mirae-University-software/feature/connection-partner-full-profile"
+        "summary": "총 619개 커밋, 상위 계정: skarndaudwls1(265), skarndaudwls1(109), gosky(2), 최근: Merge pull request #208 from Dongyang-Mirae-University-software/docs/untrack-local-notes"
       },
       "recentFiles": [
         {
           "path": "프로젝트_설명.txt",
-          "modifiedAt": "2026-06-02T07:00:18.551Z"
+          "modifiedAt": "2026-06-11T07:32:00.375Z"
         },
         {
-          "path": "docs/(2026-06-02) feature-connection-partner-full-profile.md",
-          "modifiedAt": "2026-06-02T07:00:18.551Z"
+          "path": "src/main/resources/db/migration/V26__add_sos_events.sql",
+          "modifiedAt": "2026-06-11T07:32:00.343Z"
+        },
+        {
+          "path": "src/main/resources/db/migration/V27__sync_admin_audit_action_check.sql",
+          "modifiedAt": "2026-06-11T07:32:00.343Z"
         },
         {
           "path": "docs/progress.md",
-          "modifiedAt": "2026-06-02T07:00:18.551Z"
+          "modifiedAt": "2026-06-11T07:32:00.279Z"
         },
         {
-          "path": "docs/(2026-05-31) bugfix-connection-disconnect-message.md",
-          "modifiedAt": "2026-05-31T13:33:34.200Z"
+          "path": "docs/(2026-06-11) audit-full-api-session2.md",
+          "modifiedAt": "2026-06-11T07:32:00.271Z"
         },
         {
-          "path": "src/main/resources/db/migration/V25__add_user_notification_settings.sql",
-          "modifiedAt": "2026-05-31T05:35:29.746Z"
+          "path": "docs/(2026-06-11) audit-full-api-session3.md",
+          "modifiedAt": "2026-06-11T07:32:00.271Z"
         },
         {
-          "path": "CLAUDE.md",
-          "modifiedAt": "2026-05-31T05:35:29.742Z"
+          "path": "docs/(2026-06-11) audit-full-api-final-report.md",
+          "modifiedAt": "2026-06-11T07:32:00.267Z"
         },
         {
-          "path": "docs/(2026-05-31) bug-investigation-password-reset-verification.md",
-          "modifiedAt": "2026-05-31T05:35:29.742Z"
-        },
-        {
-          "path": "docs/(2026-05-31) feature-notification-channel-infra.md",
-          "modifiedAt": "2026-05-31T05:35:29.742Z"
+          "path": "docs/(2026-06-11) audit-full-api-session1.md",
+          "modifiedAt": "2026-06-11T07:32:00.267Z"
         }
       ],
       "summary": [
@@ -1936,8 +1935,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 578",
-        "Git 상위 계정: skarndaudwls1(248), skarndaudwls1(103), gosky(2)"
+        "Git 커밋 수: 619",
+        "Git 상위 계정: skarndaudwls1(265), skarndaudwls1(109), gosky(2)"
       ]
     },
     {
@@ -3536,13 +3535,13 @@
           {
             "name": "whitehousebe-api-1",
             "image": "whitehousebe-api",
-            "status": "Up 4 hours",
+            "status": "Up 5 hours",
             "ports": "0.0.0.0:6701->6701/tcp, [::]:6701->6701/tcp"
           },
           {
             "name": "whitehousebe-db-1",
             "image": "postgres:16",
-            "status": "Up 4 hours (healthy)",
+            "status": "Up 5 hours (healthy)",
             "ports": "0.0.0.0:6705->5432/tcp, [::]:6705->5432/tcp"
           }
         ],

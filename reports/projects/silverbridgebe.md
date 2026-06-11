@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-06-11 16:13:49 KST
+- 점검 시각: 2026-06-11 16:44:23 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 74
+- 파일 개수: 83
 - 디렉토리 개수: 25
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration, src/test, src/test/java, src/test/java/kr, src/test/java/kr/silverbridge, src/test/java/kr/silverbridge/main, src/test/java/kr/silverbridge/main/domain, src/test/java/kr/silverbridge/main/global
@@ -57,23 +57,23 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 578
+- 총 커밋 수: 619
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 248
-  - skarndaudwls1 <skarndaudwls1@gmail.com>: 103
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 265
+  - skarndaudwls1 <skarndaudwls1@gmail.com>: 109
   - gosky <gosky@gosky.kr>: 2
-- 최근 커밋: 66d9b68 / namgung <skarndaudwls@gmail.com> / Merge pull request #191 from Dongyang-Mirae-University-software/feature/connection-partner-full-profile
+- 최근 커밋: c3caca4 / namgung <skarndaudwls@gmail.com> / Merge pull request #208 from Dongyang-Mirae-University-software/docs/untrack-local-notes
 
 ## 최근 수정 파일
 
-- 프로젝트_설명.txt (2026-06-02 16:00:18 KST)
-- docs/(2026-06-02) feature-connection-partner-full-profile.md (2026-06-02 16:00:18 KST)
-- docs/progress.md (2026-06-02 16:00:18 KST)
-- docs/(2026-05-31) bugfix-connection-disconnect-message.md (2026-05-31 22:33:34 KST)
-- src/main/resources/db/migration/V25__add_user_notification_settings.sql (2026-05-31 14:35:29 KST)
-- CLAUDE.md (2026-05-31 14:35:29 KST)
-- docs/(2026-05-31) bug-investigation-password-reset-verification.md (2026-05-31 14:35:29 KST)
-- docs/(2026-05-31) feature-notification-channel-infra.md (2026-05-31 14:35:29 KST)
+- 프로젝트_설명.txt (2026-06-11 16:32:00 KST)
+- src/main/resources/db/migration/V26__add_sos_events.sql (2026-06-11 16:32:00 KST)
+- src/main/resources/db/migration/V27__sync_admin_audit_action_check.sql (2026-06-11 16:32:00 KST)
+- docs/progress.md (2026-06-11 16:32:00 KST)
+- docs/(2026-06-11) audit-full-api-session2.md (2026-06-11 16:32:00 KST)
+- docs/(2026-06-11) audit-full-api-session3.md (2026-06-11 16:32:00 KST)
+- docs/(2026-06-11) audit-full-api-final-report.md (2026-06-11 16:32:00 KST)
+- docs/(2026-06-11) audit-full-api-session1.md (2026-06-11 16:32:00 KST)
 
 ## 점검 결과 요약
 
@@ -81,5 +81,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 578
-- Git 상위 계정: skarndaudwls1(248), skarndaudwls1(103), gosky(2)
+- Git 커밋 수: 619
+- Git 상위 계정: skarndaudwls1(265), skarndaudwls1(109), gosky(2)
