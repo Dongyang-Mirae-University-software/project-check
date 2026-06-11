@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-06-11 13:10:28 KST
+- 점검 시각: 2026-06-11 13:41:02 KST
 
 ## 추정 기술 스택
 
@@ -66,6 +66,7 @@
 
 ## 최근 수정 파일
 
+- package-lock.json (2026-06-11 13:13:24 KST)
 - src/service/interface/user.ts (2026-06-09 16:34:06 KST)
 - src/service/query/user/index.ts (2026-06-09 16:34:06 KST)
 - src/service/query/user/notification-settings.ts (2026-06-09 16:34:06 KST)
@@ -73,7 +74,6 @@
 - src/service/api/connect/ward.ts (2026-06-09 16:34:06 KST)
 - src/service/api/user.ts (2026-06-09 16:34:06 KST)
 - src/components/notices/NoticesPanel.module.css (2026-06-09 16:34:06 KST)
-- src/components/notices/NoticesPanel.tsx (2026-06-09 16:34:06 KST)
 
 ## 점검 결과 요약
 
