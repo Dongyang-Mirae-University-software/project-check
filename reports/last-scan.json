@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-11T12:49:44.723Z",
-  "generatedAtKst": "2026-06-11 21:49:44 KST",
+  "generatedAt": "2026-06-11T13:20:16.040Z",
+  "generatedAtKst": "2026-06-11 22:20:16 KST",
   "summary": {
     "total": 18,
     "frontend": 4,
@@ -19,10 +19,10 @@
       "emails": [
         {
           "email": "gosky@gosky.kr",
-          "count": 1558
+          "count": 1559
         }
       ],
-      "count": 1558
+      "count": 1559
     },
     {
       "name": "YUNA0222",
@@ -1216,22 +1216,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1415,
+        "commitCount": 1416,
         "authors": [
           {
-            "count": 1415,
+            "count": 1416,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "0efa35a3",
+          "hash": "47555a98",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-06-11T21:19:42+09:00",
+          "date": "2026-06-11T21:50:14+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1415개 커밋, 상위 계정: gosky(1415), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1416개 커밋, 상위 계정: gosky(1416), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1252,8 +1252,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1415",
-        "Git 상위 계정: gosky(1415)"
+        "Git 커밋 수: 1416",
+        "Git 상위 계정: gosky(1416)"
       ]
     },
     {
@@ -3770,7 +3770,7 @@
           {
             "name": "whitehousefe-web",
             "image": "whitehousefe-web:latest",
-            "status": "Up 55 minutes",
+            "status": "Up About an hour",
             "ports": "0.0.0.0:6700->3000/tcp, [::]:6700->3000/tcp"
           }
         ],
