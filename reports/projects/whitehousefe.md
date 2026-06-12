@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhitehouseFE`
 - 분류: 프론트엔드
-- 점검 시각: 2026-06-12 15:06:26 KST
+- 점검 시각: 2026-06-12 15:36:59 KST
 
 ## 추정 기술 스택
 
@@ -36,10 +36,10 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 55
-- 디렉토리 개수: 20
+- 파일 개수: 48
+- 디렉토리 개수: 19
 - 주요 폴더: app, components, docker, docs, lib, public, types
-- 주요 경로: app, app/_intro, app/(guardian), app/(guardian)/dashboard, app/(guardian)/dashboard/_components, app/(guardian)/dashboard/_components/modals, app/(guardian)/dashboard/_lib, components, components/ui, lib, lib/ai, lib/dashboard, lib/data, lib/utils, public, public/images
+- 주요 경로: app, app/_intro, app/(guardian), app/(guardian)/dashboard, app/(guardian)/dashboard/_components, app/(guardian)/dashboard/_components/modals, app/(guardian)/dashboard/_lib, components, components/ui, lib, lib/ai, lib/dashboard, lib/data, lib/utils, public
 
 ## DB 사용 여부
 
@@ -57,23 +57,22 @@
 ## Git 커밋 현황
 
 - 브랜치: prod
-- 총 커밋 수: 51
+- 총 커밋 수: 64
 - 계정별 커밋 수:
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 24
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 7
-  - gosky <gosky@gosky.kr>: 1
-- 최근 커밋: 25c5601 / gosky <gosky@gosky.kr> / Merge branch 'prod' of https://github.com/Dongyang-Mirae-University-software/WhitehouseFE into prod
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 15
+- 최근 커밋: d0f1393 / namgung <skarndaudwls@gmail.com> / Merge pull request #22 from Dongyang-Mirae-University-software/feature/tweet-modal-back-button
 
 ## 최근 수정 파일
 
-- docker-compose.yml (2026-06-11 20:53:50 KST)
-- public/images/great.svg (2026-06-11 20:37:10 KST)
-- public/images/nuclear.svg (2026-06-11 20:37:10 KST)
-- public/images/angry.svg (2026-06-11 20:37:10 KST)
-- public/images/annoyed.svg (2026-06-11 20:37:10 KST)
-- public/images/fine.svg (2026-06-11 20:37:10 KST)
-- lib/dashboard/adapt.ts (2026-06-11 20:37:10 KST)
-- lib/data/dashboard-repository.ts (2026-06-11 20:37:10 KST)
+- 프로젝트_설명.txt (2026-06-12 15:36:18 KST)
+- lib/data/dashboard-repository.ts (2026-06-12 15:36:18 KST)
+- types/index.ts (2026-06-12 15:36:18 KST)
+- docs/CHECKLIST.md (2026-06-12 15:36:18 KST)
+- lib/dashboard/adapt.ts (2026-06-12 15:36:18 KST)
+- app/(guardian)/dashboard/page.tsx (2026-06-12 15:36:18 KST)
+- docker-compose.yml (2026-06-12 15:36:18 KST)
+- app/(guardian)/dashboard/_components/modals/tweet-modal.tsx (2026-06-12 15:36:18 KST)
 
 ## 점검 결과 요약
 
@@ -81,5 +80,5 @@
 - 기술 추정: React, Next.js, Node.js, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 51
-- Git 상위 계정: skarndaudwls1(24), skarndaudwls1(7), gosky(1)
+- Git 커밋 수: 64
+- Git 상위 계정: skarndaudwls1(24), skarndaudwls1(15)
