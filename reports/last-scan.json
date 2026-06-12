@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-12T11:41:24.839Z",
-  "generatedAtKst": "2026-06-12 20:41:24 KST",
+  "generatedAt": "2026-06-12T12:11:54.567Z",
+  "generatedAtKst": "2026-06-12 21:11:54 KST",
   "summary": {
     "total": 18,
     "frontend": 4,
@@ -19,10 +19,10 @@
       "emails": [
         {
           "email": "gosky@gosky.kr",
-          "count": 1602
+          "count": 1603
         }
       ],
-      "count": 1602
+      "count": 1603
     },
     {
       "name": "YUNA0222",
@@ -1216,22 +1216,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1460,
+        "commitCount": 1461,
         "authors": [
           {
-            "count": 1460,
+            "count": 1461,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "b8b836cc",
+          "hash": "d4df39d4",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-06-12T20:11:22+09:00",
+          "date": "2026-06-12T20:41:52+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1460개 커밋, 상위 계정: gosky(1460), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1461개 커밋, 상위 계정: gosky(1461), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1252,8 +1252,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1460",
-        "Git 상위 계정: gosky(1460)"
+        "Git 커밋 수: 1461",
+        "Git 상위 계정: gosky(1461)"
       ]
     },
     {
@@ -3536,13 +3536,13 @@
           {
             "name": "whitehousebe-api-1",
             "image": "whitehousebe-api",
-            "status": "Up 32 hours",
+            "status": "Up 33 hours",
             "ports": "0.0.0.0:6701->6701/tcp, [::]:6701->6701/tcp"
           },
           {
             "name": "whitehousebe-db-1",
             "image": "postgres:16",
-            "status": "Up 32 hours (healthy)",
+            "status": "Up 33 hours (healthy)",
             "ports": "0.0.0.0:6705->5432/tcp, [::]:6705->5432/tcp"
           }
         ],
@@ -3769,7 +3769,7 @@
           {
             "name": "whitehousefe-web",
             "image": "whitehousefe-web",
-            "status": "Up 5 hours",
+            "status": "Up 6 hours",
             "ports": "0.0.0.0:6700->3000/tcp, [::]:6700->3000/tcp"
           }
         ],
