@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-13T03:26:26.204Z",
-  "generatedAtKst": "2026-06-13 12:26:26 KST",
+  "generatedAt": "2026-06-13T03:56:55.339Z",
+  "generatedAtKst": "2026-06-13 12:56:55 KST",
   "summary": {
     "total": 18,
     "frontend": 4,
@@ -19,10 +19,10 @@
       "emails": [
         {
           "email": "gosky@gosky.kr",
-          "count": 1633
+          "count": 1634
         }
       ],
-      "count": 1633
+      "count": 1634
     },
     {
       "name": "YUNA0222",
@@ -610,7 +610,7 @@
           {
             "name": "chatsilverbridge-api-1",
             "image": "chatsilverbridge-api",
-            "status": "Up 12 days",
+            "status": "Up 13 days",
             "ports": "0.0.0.0:6012->6012/tcp, [::]:6012->6012/tcp"
           },
           {
@@ -1216,22 +1216,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1491,
+        "commitCount": 1492,
         "authors": [
           {
-            "count": 1491,
+            "count": 1492,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "9dda5df0",
+          "hash": "5a128567",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-06-13T11:56:23+09:00",
+          "date": "2026-06-13T12:26:53+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1491개 커밋, 상위 계정: gosky(1491), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1492개 커밋, 상위 계정: gosky(1492), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1252,8 +1252,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1491",
-        "Git 상위 계정: gosky(1491)"
+        "Git 커밋 수: 1492",
+        "Git 상위 계정: gosky(1492)"
       ]
     },
     {
