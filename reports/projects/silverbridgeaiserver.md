@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-06-14 21:26:15 KST
+- 점검 시각: 2026-06-15 08:04:57 KST
 
 ## 추정 기술 스택
 
@@ -44,7 +44,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 1463
+- 파일 개수: 1459
 - 디렉토리 개수: 50
 - 주요 폴더: app, data, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, tests
@@ -72,14 +72,14 @@
 
 ## 최근 수정 파일
 
-- app/__init__.py (2026-06-11 15:31:19 KST)
-- app/core/__init__.py (2026-06-11 15:31:19 KST)
-- app/core/response.py (2026-06-11 15:31:19 KST)
-- app/core/security.py (2026-06-11 15:31:19 KST)
-- app/database/__init__.py (2026-06-11 15:31:19 KST)
-- app/database/base.py (2026-06-11 15:31:19 KST)
-- app/models/__init__.py (2026-06-11 15:31:19 KST)
-- app/models/stream_session.py (2026-06-11 15:31:19 KST)
+- data/postgres/postmaster.pid (2026-06-15 08:04:50 KST)
+- data/postgres/global/pg_control (2026-06-15 08:04:50 KST)
+- data/postgres/pg_wal/000000010000000000000001 (2026-06-15 08:04:50 KST)
+- data/postgres/pg_multixact/offsets/0000 (2026-06-15 08:04:50 KST)
+- data/postgres/pg_subtrans/0000 (2026-06-15 08:04:50 KST)
+- data/postgres/pg_xact/0000 (2026-06-15 08:04:50 KST)
+- data/postgres/pg_logical/replorigin_checkpoint (2026-06-15 08:04:50 KST)
+- data/postgres/postmaster.opts (2026-06-15 08:04:50 KST)
 
 ## 점검 결과 요약
 
