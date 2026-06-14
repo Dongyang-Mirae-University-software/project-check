@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-06-15 08:04:57 KST
+- 점검 시각: 2026-06-15 08:35:02 KST
 
 ## 추정 기술 스택
 
@@ -44,7 +44,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 1459
+- 파일 개수: 1461
 - 디렉토리 개수: 50
 - 주요 폴더: app, data, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, tests
@@ -59,7 +59,7 @@
 
 - 상태: 실행 중
 - 관련 포트: 1008, 1280, 5432, 6012, 6015, 6017, 6019, 8080
-- 관련 Docker 컨테이너: 확인 불가
+- 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
@@ -72,14 +72,14 @@
 
 ## 최근 수정 파일
 
+- data/postgres/pg_wal/000000010000000000000001 (2026-06-15 08:05:05 KST)
+- data/postgres/base/16384/pg_internal.init (2026-06-15 08:05:00 KST)
+- data/postgres/global/pg_internal.init (2026-06-15 08:05:00 KST)
 - data/postgres/postmaster.pid (2026-06-15 08:04:50 KST)
 - data/postgres/global/pg_control (2026-06-15 08:04:50 KST)
-- data/postgres/pg_wal/000000010000000000000001 (2026-06-15 08:04:50 KST)
 - data/postgres/pg_multixact/offsets/0000 (2026-06-15 08:04:50 KST)
 - data/postgres/pg_subtrans/0000 (2026-06-15 08:04:50 KST)
 - data/postgres/pg_xact/0000 (2026-06-15 08:04:50 KST)
-- data/postgres/pg_logical/replorigin_checkpoint (2026-06-15 08:04:50 KST)
-- data/postgres/postmaster.opts (2026-06-15 08:04:50 KST)
 
 ## 점검 결과 요약
 

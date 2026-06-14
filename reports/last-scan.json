@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-14T23:04:31.995Z",
-  "generatedAtKst": "2026-06-15 08:04:31 KST",
+  "generatedAt": "2026-06-14T23:35:00.193Z",
+  "generatedAtKst": "2026-06-15 08:35:00 KST",
   "summary": {
     "total": 18,
     "frontend": 4,
@@ -10,8 +10,8 @@
     "ai": 5,
     "db": 9,
     "gitRepos": 14,
-    "running": 12,
-    "stopped": 6
+    "running": 13,
+    "stopped": 5
   },
   "gitAuthors": [
     {
@@ -19,10 +19,10 @@
       "emails": [
         {
           "email": "gosky@gosky.kr",
-          "count": 1699
+          "count": 1700
         }
       ],
-      "count": 1699
+      "count": 1700
     },
     {
       "name": "YUNA0222",
@@ -610,19 +610,19 @@
           {
             "name": "chatsilverbridge-api-1",
             "image": "chatsilverbridge-api",
-            "status": "Up Less than a second",
+            "status": "Up 30 minutes",
             "ports": "0.0.0.0:6012->6012/tcp, [::]:6012->6012/tcp"
           },
           {
             "name": "chatsilverbridge-mysql-1",
             "image": "mysql:8.0",
-            "status": "Up 5 seconds (health: starting)",
+            "status": "Up 30 minutes (healthy)",
             "ports": "33060/tcp, 0.0.0.0:3307->3306/tcp, [::]:3307->3306/tcp"
           },
           {
             "name": "chatsilverbridgetest-web-1",
             "image": "chatsilverbridgetest-web",
-            "status": "Up 5 seconds",
+            "status": "Up 30 minutes",
             "ports": "0.0.0.0:6516->6516/tcp, [::]:6516->6516/tcp"
           }
         ],
@@ -840,7 +840,7 @@
           {
             "name": "chatsilverbridgetest-web-1",
             "image": "chatsilverbridgetest-web",
-            "status": "Up 5 seconds",
+            "status": "Up 30 minutes",
             "ports": "0.0.0.0:6516->6516/tcp, [::]:6516->6516/tcp"
           }
         ],
@@ -1202,7 +1202,9 @@
         "docker": [],
         "ports": [
           1433,
-          3306
+          3306,
+          5432,
+          6379
         ],
         "allCandidatePorts": [
           1433,
@@ -1217,28 +1219,28 @@
           "실행 중",
           "PM2 1개",
           "Docker 없음",
-          "포트 1433, 3306"
+          "포트 1433, 3306, 5432, 6379"
         ]
       },
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1557,
+        "commitCount": 1558,
         "authors": [
           {
-            "count": 1557,
+            "count": 1558,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "31149a49",
+          "hash": "94430a95",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-06-14T21:26:20+09:00",
+          "date": "2026-06-15T08:04:58+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1557개 커밋, 상위 계정: gosky(1557), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1558개 커밋, 상위 계정: gosky(1558), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1259,8 +1261,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1557",
-        "Git 상위 계정: gosky(1557)"
+        "Git 커밋 수: 1558",
+        "Git 상위 계정: gosky(1558)"
       ]
     },
     {
@@ -1396,10 +1398,17 @@
         "summary": "DB 사용 흔적 없음"
       },
       "runtime": {
-        "status": "정지",
-        "running": false,
+        "status": "실행 중",
+        "running": true,
         "pm2": [],
-        "docker": [],
+        "docker": [
+          {
+            "name": "silverbridge-ai-server",
+            "image": "silverbridgeaiserver-ai-server",
+            "status": "Up 25 minutes",
+            "ports": ""
+          }
+        ],
         "ports": [],
         "allCandidatePorts": [
           1000,
@@ -1412,7 +1421,10 @@
           8456
         ],
         "summary": [
-          "정지 또는 확인 불가"
+          "실행 중",
+          "PM2 없음",
+          "Docker 1개",
+          "포트 확인 불가"
         ]
       },
       "git": {
@@ -1473,7 +1485,7 @@
         "분류: AI 서버",
         "기술 추정: Python, fastapi, Backend, AI",
         "DB 사용 흔적 없음",
-        "실행 상태: 정지",
+        "실행 상태: 실행 중",
         "Git 커밋 수: 558",
         "Git 상위 계정: Jaehe-he(558)"
       ]
@@ -1579,7 +1591,7 @@
         }
       ],
       "structure": {
-        "fileCount": 1459,
+        "fileCount": 1461,
         "dirCount": 50,
         "mainFolders": [
           "app",
@@ -1625,10 +1637,19 @@
         "status": "실행 중",
         "running": true,
         "pm2": [],
-        "docker": [],
+        "docker": [
+          {
+            "name": "silverbridge-ai-server",
+            "image": "silverbridgeaiserver-ai-server",
+            "status": "Up 25 minutes",
+            "ports": ""
+          }
+        ],
         "ports": [
+          5432,
           6012,
           6015,
+          6017,
           6019
         ],
         "allCandidatePorts": [
@@ -1644,8 +1665,8 @@
         "summary": [
           "실행 중",
           "PM2 없음",
-          "Docker 없음",
-          "포트 6012, 6015, 6019"
+          "Docker 1개",
+          "포트 5432, 6012, 6015, 6017, 6019"
         ]
       },
       "git": {
@@ -1670,16 +1691,24 @@
       },
       "recentFiles": [
         {
+          "path": "data/postgres/pg_wal/000000010000000000000001",
+          "modifiedAt": "2026-06-14T23:05:05.652Z"
+        },
+        {
+          "path": "data/postgres/base/16384/pg_internal.init",
+          "modifiedAt": "2026-06-14T23:05:00.617Z"
+        },
+        {
+          "path": "data/postgres/global/pg_internal.init",
+          "modifiedAt": "2026-06-14T23:05:00.617Z"
+        },
+        {
           "path": "data/postgres/postmaster.pid",
           "modifiedAt": "2026-06-14T23:04:50.787Z"
         },
         {
           "path": "data/postgres/global/pg_control",
           "modifiedAt": "2026-06-14T23:04:50.779Z"
-        },
-        {
-          "path": "data/postgres/pg_wal/000000010000000000000001",
-          "modifiedAt": "2026-06-14T23:04:50.775Z"
         },
         {
           "path": "data/postgres/pg_multixact/offsets/0000",
@@ -1692,14 +1721,6 @@
         {
           "path": "data/postgres/pg_xact/0000",
           "modifiedAt": "2026-06-14T23:04:50.764Z"
-        },
-        {
-          "path": "data/postgres/pg_logical/replorigin_checkpoint",
-          "modifiedAt": "2026-06-14T23:04:50.752Z"
-        },
-        {
-          "path": "data/postgres/postmaster.opts",
-          "modifiedAt": "2026-06-14T23:04:50.622Z"
         }
       ],
       "summary": [
@@ -1854,6 +1875,8 @@
         "pm2": [],
         "docker": [],
         "ports": [
+          5432,
+          6379,
           6511
         ],
         "allCandidatePorts": [
@@ -1870,7 +1893,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 6511"
+          "포트 5432, 6379, 6511"
         ]
       },
       "git": {
@@ -2086,7 +2109,8 @@
         "pm2": [],
         "docker": [],
         "ports": [
-          6000
+          6000,
+          6510
         ],
         "allCandidatePorts": [
           3000,
@@ -2100,7 +2124,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 6000"
+          "포트 6000, 6510"
         ]
       },
       "git": {
@@ -2506,12 +2530,13 @@
           {
             "name": "silverbridgereservation-reservation-api-1",
             "image": "silverbridgereservation-reservation-api",
-            "status": "Up 5 seconds",
+            "status": "Up 30 minutes",
             "ports": "0.0.0.0:6015->6015/tcp, [::]:6015->6015/tcp"
           }
         ],
         "ports": [
           6015,
+          6017,
           6018
         ],
         "allCandidatePorts": [
@@ -2524,7 +2549,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 1개",
-          "포트 6015, 6018"
+          "포트 6015, 6017, 6018"
         ]
       },
       "git": {
@@ -2743,7 +2768,10 @@
           }
         ],
         "docker": [],
-        "ports": [],
+        "ports": [
+          5432,
+          6379
+        ],
         "allCandidatePorts": [
           3000,
           5432,
@@ -2757,7 +2785,7 @@
           "실행 중",
           "PM2 1개",
           "Docker 없음",
-          "포트 확인 불가"
+          "포트 5432, 6379"
         ]
       },
       "git": {
@@ -2960,7 +2988,8 @@
         "pm2": [],
         "docker": [],
         "ports": [
-          3306
+          3306,
+          6379
         ],
         "allCandidatePorts": [
           3306,
@@ -2973,7 +3002,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 3306"
+          "포트 3306, 6379"
         ]
       },
       "git": {
@@ -3546,17 +3575,18 @@
           {
             "name": "whitehousebe-api-1",
             "image": "whitehousebe-api",
-            "status": "Up 5 seconds",
+            "status": "Up 30 minutes",
             "ports": "0.0.0.0:6701->6701/tcp, [::]:6701->6701/tcp"
           },
           {
             "name": "whitehousebe-db-1",
             "image": "postgres:16",
-            "status": "Up 5 seconds (health: starting)",
+            "status": "Up 30 minutes (healthy)",
             "ports": "0.0.0.0:6705->5432/tcp, [::]:6705->5432/tcp"
           }
         ],
         "ports": [
+          5432,
           6701
         ],
         "allCandidatePorts": [
@@ -3568,7 +3598,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 2개",
-          "포트 6701"
+          "포트 5432, 6701"
         ]
       },
       "git": {
@@ -3779,7 +3809,7 @@
           {
             "name": "whitehousefe-web",
             "image": "whitehousefe-web",
-            "status": "Up 5 seconds",
+            "status": "Up 30 minutes",
             "ports": "0.0.0.0:6700->3000/tcp, [::]:6700->3000/tcp"
           }
         ],
