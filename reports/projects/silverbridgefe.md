@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-06-15 16:06:02 KST
+- 점검 시각: 2026-06-15 16:25:27 KST
 
 ## 추정 기술 스택
 
@@ -60,8 +60,9 @@
 - 브랜치: develop
 - 총 커밋 수: 483
 - 계정별 커밋 수:
-  - YUNA0222 <gold8077@gmail.com>: 615
+  - YUNA0222 <gold8077@gmail.com>: 679
   - gosky <gosky@gosky.kr>: 9
+  - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 5
 - 최근 커밋: 8adbe88 / gosky <gosky@gosky.kr> / Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop
 
 ## 최근 수정 파일
@@ -82,4 +83,4 @@
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
 - Git 커밋 수: 483
-- Git 상위 계정: YUNA0222(615), gosky(9)
+- Git 상위 계정: YUNA0222(679), gosky(9), YUNA0222(5)

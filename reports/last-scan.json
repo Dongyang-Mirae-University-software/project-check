@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-15T07:06:00.042Z",
-  "generatedAtKst": "2026-06-15 16:06:00 KST",
+  "generatedAt": "2026-06-15T07:25:25.350Z",
+  "generatedAtKst": "2026-06-15 16:25:25 KST",
   "summary": {
     "total": 18,
     "frontend": 4,
@@ -18,29 +18,43 @@
       "name": "gosky",
       "emails": [
         {
-          "email": "lovesky00317@gmail.com",
-          "count": 1573
+          "email": "gosky@gosky.kr",
+          "count": 141
         },
         {
-          "email": "gosky@gosky.kr",
-          "count": 142
+          "email": "lovesky00317@gmail.com",
+          "count": 1654
         }
       ],
-      "count": 1715
+      "count": 1795
+    },
+    {
+      "name": "skarndaudwls1",
+      "emails": [
+        {
+          "email": "skarndaudwls@gmail.com",
+          "count": 579
+        },
+        {
+          "email": "skarndaudwls1@gmail.com",
+          "count": 242
+        }
+      ],
+      "count": 821
     },
     {
       "name": "YUNA0222",
       "emails": [
         {
           "email": "gold8077@gmail.com",
-          "count": 642
+          "count": 706
         },
         {
           "email": "89885846+yuna0222@users.noreply.github.com",
-          "count": 2
+          "count": 7
         }
       ],
-      "count": 644
+      "count": 713
     },
     {
       "name": "Jaehe-he",
@@ -51,20 +65,6 @@
         }
       ],
       "count": 558
-    },
-    {
-      "name": "skarndaudwls1",
-      "emails": [
-        {
-          "email": "skarndaudwls@gmail.com",
-          "count": 342
-        },
-        {
-          "email": "skarndaudwls1@gmail.com",
-          "count": 133
-        }
-      ],
-      "count": 475
     }
   ],
   "projects": [
@@ -236,7 +236,7 @@
           {
             "count": 1,
             "name": "gosky",
-            "email": "gosky@gosky.kr"
+            "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
@@ -1200,7 +1200,7 @@
             "cwd": "/home/apps/SilverBridgeSky/project-check",
             "script": "/home/apps/SilverBridgeSky/project-check/src/monitor.js",
             "status": "online",
-            "pid": 1907
+            "pid": 4173520
           }
         ],
         "docker": [],
@@ -1229,22 +1229,27 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1573,
+        "commitCount": 1574,
         "authors": [
           {
-            "count": 1573,
+            "count": 1574,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
+          },
+          {
+            "count": 1,
+            "name": "gosky",
+            "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "2790b656",
+          "hash": "b2f92f2f",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-06-15T15:35:58+09:00",
+          "date": "2026-06-15T16:06:02+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1573개 커밋, 상위 계정: gosky(1573), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1574개 커밋, 상위 계정: gosky(1574), gosky(1), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1265,8 +1270,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1573",
-        "Git 상위 계정: gosky(1573)"
+        "Git 커밋 수: 1574",
+        "Git 상위 계정: gosky(1574), gosky(1)"
       ]
     },
     {
@@ -1906,12 +1911,12 @@
         "commitCount": 619,
         "authors": [
           {
-            "count": 265,
+            "count": 502,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
           {
-            "count": 109,
+            "count": 218,
             "name": "skarndaudwls1",
             "email": "skarndaudwls1@gmail.com"
           },
@@ -1919,16 +1924,21 @@
             "count": 2,
             "name": "gosky",
             "email": "gosky@gosky.kr"
+          },
+          {
+            "count": 2,
+            "name": "gosky",
+            "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "c3caca4",
+          "hash": "8db32b2",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
           "date": "2026-06-11T16:28:23+09:00",
           "subject": "Merge pull request #208 from Dongyang-Mirae-University-software/docs/untrack-local-notes"
         },
-        "summary": "총 619개 커밋, 상위 계정: skarndaudwls1(265), skarndaudwls1(109), gosky(2), 최근: Merge pull request #208 from Dongyang-Mirae-University-software/docs/untrack-local-notes"
+        "summary": "총 619개 커밋, 상위 계정: skarndaudwls1(502), skarndaudwls1(218), gosky(2), 최근: Merge pull request #208 from Dongyang-Mirae-University-software/docs/untrack-local-notes"
       },
       "recentFiles": [
         {
@@ -1970,7 +1980,7 @@
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
         "Git 커밋 수: 619",
-        "Git 상위 계정: skarndaudwls1(265), skarndaudwls1(109), gosky(2)"
+        "Git 상위 계정: skarndaudwls1(502), skarndaudwls1(218), gosky(2)"
       ]
     },
     {
@@ -2137,7 +2147,7 @@
         "commitCount": 483,
         "authors": [
           {
-            "count": 615,
+            "count": 679,
             "name": "YUNA0222",
             "email": "gold8077@gmail.com"
           },
@@ -2145,6 +2155,11 @@
             "count": 9,
             "name": "gosky",
             "email": "gosky@gosky.kr"
+          },
+          {
+            "count": 5,
+            "name": "YUNA0222",
+            "email": "89885846+yuna0222@users.noreply.github.com"
           }
         ],
         "latestCommit": {
@@ -2154,7 +2169,7 @@
           "date": "2026-06-05T14:08:16+09:00",
           "subject": "Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
         },
-        "summary": "총 483개 커밋, 상위 계정: YUNA0222(615), gosky(9), 최근: Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
+        "summary": "총 483개 커밋, 상위 계정: YUNA0222(679), gosky(9), YUNA0222(5), 최근: Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
       },
       "recentFiles": [
         {
@@ -2196,7 +2211,7 @@
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
         "Git 커밋 수: 483",
-        "Git 상위 계정: YUNA0222(615), gosky(9)"
+        "Git 상위 계정: YUNA0222(679), gosky(9), YUNA0222(5)"
       ]
     },
     {
@@ -2565,16 +2580,21 @@
             "count": 53,
             "name": "gosky",
             "email": "gosky@gosky.kr"
+          },
+          {
+            "count": 53,
+            "name": "gosky",
+            "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "b0faa32",
+          "hash": "581ac38",
           "author": "gosky",
-          "email": "gosky@gosky.kr",
+          "email": "lovesky00317@gmail.com",
           "date": "2026-05-30T19:04:38+09:00",
           "subject": "docs: add AI context documentation"
         },
-        "summary": "총 53개 커밋, 상위 계정: gosky(53), 최근: docs: add AI context documentation"
+        "summary": "총 53개 커밋, 상위 계정: gosky(53), gosky(53), 최근: docs: add AI context documentation"
       },
       "recentFiles": [
         {
@@ -2616,7 +2636,7 @@
         "DB 사용 추정: SQLite",
         "실행 상태: 실행 중",
         "Git 커밋 수: 53",
-        "Git 상위 계정: gosky(53)"
+        "Git 상위 계정: gosky(53), gosky(53)"
       ]
     },
     {
@@ -2768,7 +2788,7 @@
             "cwd": "/home/apps/SilverBridgeSky/project-check",
             "script": "/home/apps/SilverBridgeSky/project-check/src/monitor.js",
             "status": "online",
-            "pid": 1907
+            "pid": 4173520
           }
         ],
         "docker": [],
@@ -3215,17 +3235,22 @@
           {
             "count": 24,
             "name": "gosky",
+            "email": "lovesky00317@gmail.com"
+          },
+          {
+            "count": 23,
+            "name": "gosky",
             "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "3d8d3ff",
+          "hash": "6e2daf5",
           "author": "gosky",
-          "email": "gosky@gosky.kr",
+          "email": "lovesky00317@gmail.com",
           "date": "2026-06-01T14:43:40+09:00",
           "subject": "feat(ui): expand stream test monitor for all detector outputs"
         },
-        "summary": "총 24개 커밋, 상위 계정: gosky(24), 최근: feat(ui): expand stream test monitor for all detector outputs"
+        "summary": "총 24개 커밋, 상위 계정: gosky(24), gosky(23), 최근: feat(ui): expand stream test monitor for all detector outputs"
       },
       "recentFiles": [
         {
@@ -3267,7 +3292,7 @@
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
         "Git 커밋 수: 24",
-        "Git 상위 계정: gosky(24)"
+        "Git 상위 계정: gosky(24), gosky(23)"
       ]
     },
     {
