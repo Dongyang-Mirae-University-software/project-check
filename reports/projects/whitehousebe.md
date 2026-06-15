@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhitehouseBE`
 - 분류: 백엔드
-- 점검 시각: 2026-06-15 16:25:27 KST
+- 점검 시각: 2026-06-15 16:55:31 KST
 
 ## 추정 기술 스택
 
@@ -60,7 +60,7 @@
 - 총 커밋 수: 29
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 27
-  - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 2
+  - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 7
 - 최근 커밋: 299ff86 / YUNA0222 <89885846+yuna0222@users.noreply.github.com> / Fix: 빌드 수정
 
 ## 최근 수정 파일
@@ -81,4 +81,4 @@
 - DB 사용 추정: PostgreSQL
 - 실행 상태: 실행 중
 - Git 커밋 수: 29
-- Git 상위 계정: YUNA0222(27), YUNA0222(2)
+- Git 상위 계정: YUNA0222(27), YUNA0222(7)

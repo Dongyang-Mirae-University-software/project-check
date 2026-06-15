@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeSky`
 - 분류: 백엔드
-- 점검 시각: 2026-06-15 16:25:27 KST
+- 점검 시각: 2026-06-15 16:55:31 KST
 
 ## 추정 기술 스택
 
@@ -38,10 +38,10 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 63
-- 디렉토리 개수: 61
+- 파일 개수: 41
+- 디렉토리 개수: 52
 - 주요 폴더: docs, next, spring
-- 주요 경로: next/src/app, next/src/app/home, next/src/app/login, next/src/components, next/src/components/common, next/src/components/home, next/src/components/layout, next/src/components/login, next/src/lib, next/src/mock, next/src/types, spring/src/main, spring/src/main/java, spring/src/main/java/com, spring/src/main/java/com/silverbridge, spring/src/main/java/com/silverbridge/api, spring/src/main/resources, spring/src/test, spring/src/test/java, spring/src/test/java/com
+- 주요 경로: next/src/app, next/src/lib, spring/src/main, spring/src/main/java, spring/src/main/java/com, spring/src/main/java/com/silverbridge, spring/src/main/java/com/silverbridge/api, spring/src/main/resources, spring/src/test, spring/src/test/java, spring/src/test/java/com, spring/src/test/java/com/silverbridge, spring/src/test/java/com/silverbridge/api, spring/src/test/resources, spring/target/classes/com/silverbridge/api/auth, spring/target/classes/com/silverbridge/api/client, spring/target/classes/com/silverbridge/api/config, spring/target/classes/com/silverbridge/api/domain, spring/target/classes/com/silverbridge/api/entity, spring/target/classes/com/silverbridge/api/global
 
 ## DB 사용 여부
 
@@ -52,7 +52,7 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 3000, 5432, 6379, 6501, 6502, 8000, 8080
+- 관련 포트: 3000, 5432, 6379, 6501, 8000, 8080
 - 관련 Docker 컨테이너: 확인 불가
 - 관련 PM2 프로세스: project-check
 
@@ -61,19 +61,19 @@
 - 브랜치: main
 - 총 커밋 수: 1
 - 계정별 커밋 수:
-  - gosky <gosky@gosky.kr>: 1
-- 최근 커밋: a7380bb / gosky <gosky@gosky.kr> / update: 기본 셋팅
+  - gosky <lovesky00317@gmail.com>: 1
+- 최근 커밋: 6e7a68a / gosky <lovesky00317@gmail.com> / update: 기본 셋팅
 
 ## 최근 수정 파일
 
-- next/src/components/login/SocialLoginSection.tsx (2026-04-05 22:16:52 KST)
+- docker-compose.yml (2026-06-15 16:30:09 KST)
+- next/src/app/globals.css (2026-06-15 16:30:09 KST)
+- next/src/app/layout.tsx (2026-06-15 16:30:09 KST)
+- spring/pom.xml (2026-06-15 16:30:09 KST)
+- spring/src/main/resources/application.properties (2026-06-15 16:30:09 KST)
 - spring/target/api-0.0.1-SNAPSHOT.jar (2026-04-05 18:22:29 KST)
 - spring/target/api-0.0.1-SNAPSHOT.jar.original (2026-04-05 18:22:29 KST)
 - spring/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst (2026-04-05 18:22:29 KST)
-- spring/target/test-classes/com/silverbridge/api/ApiApplicationTests.class (2026-04-05 18:22:29 KST)
-- spring/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst (2026-04-05 18:22:29 KST)
-- spring/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst (2026-04-05 18:22:29 KST)
-- spring/target/classes/com/silverbridge/api/ApiApplication.class (2026-04-05 18:22:28 KST)
 
 ## 점검 결과 요약
 

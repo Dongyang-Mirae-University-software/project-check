@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeStreamTestFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-06-15 16:25:27 KST
+- 점검 시각: 2026-06-15 16:55:31 KST
 
 ## 추정 기술 스택
 
@@ -60,7 +60,6 @@
 - 총 커밋 수: 24
 - 계정별 커밋 수:
   - gosky <lovesky00317@gmail.com>: 24
-  - gosky <gosky@gosky.kr>: 23
 - 최근 커밋: 6e2daf5 / gosky <lovesky00317@gmail.com> / feat(ui): expand stream test monitor for all detector outputs
 
 ## 최근 수정 파일
@@ -81,4 +80,4 @@
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
 - Git 커밋 수: 24
-- Git 상위 계정: gosky(24), gosky(23)
+- Git 상위 계정: gosky(24)

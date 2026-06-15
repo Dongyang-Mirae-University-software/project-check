@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhitehouseFE`
 - 분류: 프론트엔드
-- 점검 시각: 2026-06-15 16:25:27 KST
+- 점검 시각: 2026-06-15 16:55:31 KST
 
 ## 추정 기술 스택
 
@@ -60,7 +60,7 @@
 - 총 커밋 수: 64
 - 계정별 커밋 수:
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 24
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 15
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 16
 - 최근 커밋: d0f1393 / namgung <skarndaudwls@gmail.com> / Merge pull request #22 from Dongyang-Mirae-University-software/feature/tweet-modal-back-button
 
 ## 최근 수정 파일
@@ -81,4 +81,4 @@
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
 - Git 커밋 수: 64
-- Git 상위 계정: skarndaudwls1(24), skarndaudwls1(15)
+- Git 상위 계정: skarndaudwls1(24), skarndaudwls1(16)

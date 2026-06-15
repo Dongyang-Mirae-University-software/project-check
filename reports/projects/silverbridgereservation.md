@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeReservation`
 - 분류: 백엔드
-- 점검 시각: 2026-06-15 16:25:27 KST
+- 점검 시각: 2026-06-15 16:55:31 KST
 
 ## 추정 기술 스택
 
@@ -65,7 +65,6 @@
 - 브랜치: main
 - 총 커밋 수: 53
 - 계정별 커밋 수:
-  - gosky <gosky@gosky.kr>: 53
   - gosky <lovesky00317@gmail.com>: 53
 - 최근 커밋: 581ac38 / gosky <lovesky00317@gmail.com> / docs: add AI context documentation
 
@@ -87,4 +86,4 @@
 - DB 사용 추정: SQLite
 - 실행 상태: 실행 중
 - Git 커밋 수: 53
-- Git 상위 계정: gosky(53), gosky(53)
+- Git 상위 계정: gosky(53)
