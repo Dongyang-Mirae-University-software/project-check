@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/project-check`
 - 분류: 백엔드
-- 점검 시각: 2026-06-15 17:25:33 KST
+- 점검 시각: 2026-06-15 17:55:36 KST
 
 ## 추정 기술 스택
 
@@ -61,21 +61,21 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 1576
+- 총 커밋 수: 1577
 - 계정별 커밋 수:
-  - gosky <lovesky00317@gmail.com>: 1576
-- 최근 커밋: c7018d07 / gosky <lovesky00317@gmail.com> / docs: 프로젝트 상태 리포트 갱신
+  - gosky <lovesky00317@gmail.com>: 1577
+- 최근 커밋: 1c3c47c4 / gosky <lovesky00317@gmail.com> / docs: 프로젝트 상태 리포트 갱신
 
 ## 최근 수정 파일
 
-- github-org-report/aliases.json (2026-06-15 17:23:00 KST)
-- github-org-report/lib/aggregate.js (2026-06-15 17:09:31 KST)
-- package.json (2026-06-15 17:08:58 KST)
-- github-org-report/README.md (2026-06-15 17:08:56 KST)
-- github-org-report/github-org-report.js (2026-06-15 17:08:35 KST)
-- github-org-report/lib/html.js (2026-06-15 17:08:18 KST)
-- github-org-report/lib/csv.js (2026-06-15 17:07:12 KST)
-- github-org-report/lib/git-log.js (2026-06-15 17:06:30 KST)
+- github-org-report/lib/html.js (2026-06-15 17:39:24 KST)
+- github-org-report/README.md (2026-06-15 17:37:17 KST)
+- package.json (2026-06-15 17:35:29 KST)
+- github-org-report/github-org-report.js (2026-06-15 17:35:29 KST)
+- github-org-report/lib/csv.js (2026-06-15 17:35:29 KST)
+- github-org-report/lib/aggregate.js (2026-06-15 17:35:29 KST)
+- github-org-report/lib/git-log.js (2026-06-15 17:35:29 KST)
+- github-org-report/lib/repos.js (2026-06-15 17:35:29 KST)
 
 ## 점검 결과 요약
 
@@ -83,5 +83,5 @@
 - 기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express
 - DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle
 - 실행 상태: 실행 중
-- Git 커밋 수: 1576
-- Git 상위 계정: gosky(1576)
+- Git 커밋 수: 1577
+- Git 상위 계정: gosky(1577)
