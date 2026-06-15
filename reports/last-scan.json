@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-15T07:55:29.439Z",
-  "generatedAtKst": "2026-06-15 16:55:29 KST",
+  "generatedAt": "2026-06-15T08:25:33.025Z",
+  "generatedAtKst": "2026-06-15 17:25:33 KST",
   "summary": {
     "total": 18,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 1710
+          "count": 1711
         },
         {
           "email": "gosky@gosky.kr",
           "count": 9
         }
       ],
-      "count": 1719
+      "count": 1720
     },
     {
       "name": "YUNA0222",
@@ -1123,9 +1123,10 @@
         }
       ],
       "structure": {
-        "fileCount": 3,
-        "dirCount": 1,
+        "fileCount": 13,
+        "dirCount": 3,
         "mainFolders": [
+          "github-org-report",
           "src"
         ],
         "majorPaths": [
@@ -1170,6 +1171,8 @@
           6379
         ],
         "allCandidatePorts": [
+          1024,
+          1400,
           1433,
           1521,
           3306,
@@ -1188,35 +1191,55 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1575,
+        "commitCount": 1576,
         "authors": [
           {
-            "count": 1575,
+            "count": 1576,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "9d162264",
+          "hash": "c7018d07",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-06-15T16:25:27+09:00",
+          "date": "2026-06-15T16:55:31+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1575개 커밋, 상위 계정: gosky(1575), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1576개 커밋, 상위 계정: gosky(1576), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
-          "path": "src/monitor.js",
-          "modifiedAt": "2026-06-15T07:33:58.180Z"
+          "path": "github-org-report/aliases.json",
+          "modifiedAt": "2026-06-15T08:23:00.435Z"
         },
         {
-          "path": "ecosystem.config.cjs",
-          "modifiedAt": "2026-06-05T04:17:06.881Z"
+          "path": "github-org-report/lib/aggregate.js",
+          "modifiedAt": "2026-06-15T08:09:31.779Z"
         },
         {
           "path": "package.json",
-          "modifiedAt": "2026-06-05T04:15:15.707Z"
+          "modifiedAt": "2026-06-15T08:08:58.387Z"
+        },
+        {
+          "path": "github-org-report/README.md",
+          "modifiedAt": "2026-06-15T08:08:56.943Z"
+        },
+        {
+          "path": "github-org-report/github-org-report.js",
+          "modifiedAt": "2026-06-15T08:08:35.624Z"
+        },
+        {
+          "path": "github-org-report/lib/html.js",
+          "modifiedAt": "2026-06-15T08:08:18.080Z"
+        },
+        {
+          "path": "github-org-report/lib/csv.js",
+          "modifiedAt": "2026-06-15T08:07:12.009Z"
+        },
+        {
+          "path": "github-org-report/lib/git-log.js",
+          "modifiedAt": "2026-06-15T08:06:30.170Z"
         }
       ],
       "summary": [
@@ -1224,8 +1247,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1575",
-        "Git 상위 계정: gosky(1575)"
+        "Git 커밋 수: 1576",
+        "Git 상위 계정: gosky(1576)"
       ]
     },
     {
@@ -1652,36 +1675,36 @@
       },
       "recentFiles": [
         {
-          "path": "app/main.py",
-          "modifiedAt": "2026-06-15T07:31:14.126Z"
-        },
-        {
-          "path": "app/services/fire_smoke_detection_service.py",
-          "modifiedAt": "2026-06-15T07:31:14.126Z"
-        },
-        {
-          "path": "app/services/stream_session_service.py",
-          "modifiedAt": "2026-06-15T07:31:14.126Z"
-        },
-        {
-          "path": ".env.example",
-          "modifiedAt": "2026-06-15T07:31:14.122Z"
-        },
-        {
-          "path": "app/core/config.py",
-          "modifiedAt": "2026-06-15T07:31:14.122Z"
-        },
-        {
           "path": "data/postgres/pg_wal/000000010000000000000001",
-          "modifiedAt": "2026-06-15T06:55:09.036Z"
+          "modifiedAt": "2026-06-15T08:00:08.680Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-06-15T06:55:00.628Z"
+          "modifiedAt": "2026-06-15T08:00:01.473Z"
         },
         {
           "path": "data/postgres/base/16384/16426",
-          "modifiedAt": "2026-06-15T06:55:00.524Z"
+          "modifiedAt": "2026-06-15T08:00:01.369Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16425",
+          "modifiedAt": "2026-06-15T08:00:01.269Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16424",
+          "modifiedAt": "2026-06-15T08:00:01.169Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16422",
+          "modifiedAt": "2026-06-15T08:00:01.069Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16416",
+          "modifiedAt": "2026-06-15T08:00:00.969Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16415",
+          "modifiedAt": "2026-06-15T08:00:00.869Z"
         }
       ],
       "summary": [
