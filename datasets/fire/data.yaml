@@ -1,0 +1,29 @@
+# Fire & Smoke Detection Dataset — 독거노인 안전 시스템 최종본
+# ==========================================
+# 소스 데이터셋
+#   fire/     : 기존 정제 데이터 + Hard Neg 680장
+#   fire_new/ : 화재 전용 대규모 (22,751장, CC BY 4.0)
+#   smoke/    : Fire+Smoke 혼합 (10,042장, CC BY 4.0)
+#              Fire(0)→fire, Other(1)→스킵, Smoke(2)→smoke
+#
+# 품질 처리
+#   MD5 완전 중복 제거
+#   pHash 유사 중복 제거 (Hamming ≤ 8)
+#   빈 라벨 이미지 삭제 (fire 있는데 없음으로 학습 방지)
+#   bbox 클리핑 / 극소(0.2%)·극대(92%) 제거
+# ==========================================
+
+path: ../datasets/fire
+
+train: train/images
+val:   valid/images
+test:  test/images
+
+nc: 2
+names: ['fire', 'smoke']
+
+# Split 통계
+# train : 26,034장
+# valid : 1,172장
+# test  : 547장
+# total : 27,753장

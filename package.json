@@ -1,0 +1,17 @@
+{
+  "name": "project-check",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "description": "Workspace project scanner and report automation",
+  "main": "src/monitor.js",
+  "scripts": {
+    "start": "node src/monitor.js",
+    "scan": "node src/monitor.js --once",
+    "daemon": "node src/monitor.js",
+    "org-report": "node github-org-report/github-org-report.js --org Dongyang-Mirae-University-software --out ./github-org-report/reports"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
