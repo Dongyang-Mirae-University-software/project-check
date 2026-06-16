@@ -1,6 +1,6 @@
 # 실행 상태
 
-- 스캔 시각: 2026-06-16 17:58:09 KST
+- 스캔 시각: 2026-06-16 18:28:12 KST
 
 | 프로젝트 | 분류 | 실행 상태 | PM2 | Docker | 포트 |
 | --- | --- | --- | --- | --- | --- |
@@ -9,7 +9,7 @@
 | ChatSilverBridge | AI 서버 | 실행 중 | 확인 불가 | chatsilverbridge-api-1, chatsilverbridge-mysql-1, chatsilverbridgetest-web-1 | 8010, 8090 |
 | ChatSilverBridgeTest | 프론트엔드 | 실행 중 | 확인 불가 | chatsilverbridgetest-web-1 | 8010 |
 | docs | 기타 | 확인 불가 | 확인 불가 | 확인 불가 | 확인 불가 |
-| project-check | 백엔드 | 실행 중 | project-check | 확인 불가 | 1024, 1400, 1433, 1521, 3306, 5432, 6379, 26214, 27017 |
+| project-check | 백엔드 | 실행 중 | project-check | 확인 불가 | 1000, 1024, 1234, 1280, 1400, 1433, 1500, 1521, 2026, 2700, 3306, 5432, 6379, 8080, 8456, 26214, 27017 |
 | SilverBridgeAi | AI 서버 | 실행 중 | 확인 불가 | silverbridge-ai-server | 1000, 1234, 1280, 1500, 2026, 2700, 8080, 8456 |
 | SilverBridgeAiServer | AI 서버 | 실행 중 | 확인 불가 | silverbridge-ai-server | 1008, 5432, 6012, 6015, 6017, 6019 |
 | SilverBridgeBe | 백엔드 | 실행 중 | 확인 불가 | 확인 불가 | 3000, 5173, 5432, 6379, 6511, 8080, 18000, 60480 |

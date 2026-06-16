@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-16T08:58:07.939Z",
-  "generatedAtKst": "2026-06-16 17:58:07 KST",
+  "generatedAt": "2026-06-16T09:28:11.061Z",
+  "generatedAtKst": "2026-06-16 18:28:11 KST",
   "summary": {
     "total": 18,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 1760
+          "count": 1764
         },
         {
           "email": "gosky@gosky.kr",
           "count": 9
         }
       ],
-      "count": 1769
+      "count": 1773
     },
     {
       "name": "YUNA0222",
@@ -1038,7 +1038,9 @@
         "Next.js",
         "Vite",
         "fastapi",
-        "express"
+        "express",
+        "Backend",
+        "AI"
       ],
       "mainFiles": [
         {
@@ -1075,7 +1077,7 @@
         },
         {
           "file": "requirements.txt",
-          "exists": false
+          "exists": true
         },
         {
           "file": "pyproject.toml",
@@ -1103,7 +1105,7 @@
         },
         {
           "file": ".env.example",
-          "exists": false
+          "exists": true
         },
         {
           "file": ".env",
@@ -1123,13 +1125,30 @@
         }
       ],
       "structure": {
-        "fileCount": 13,
-        "dirCount": 3,
+        "fileCount": 59918,
+        "dirCount": 39,
         "mainFolders": [
+          "datasets",
+          "docs",
+          "fall",
           "github-org-report",
-          "src"
+          "models",
+          "src",
+          "srcs",
+          "tools"
         ],
         "majorPaths": [
+          "datasets/fire/test/images",
+          "datasets/fire/test/labels",
+          "datasets/knife/test/images",
+          "datasets/knife/test/labels",
+          "models",
+          "models/fire_250ep",
+          "models/fire_250ep-2",
+          "models/fire_250ep-2/weights",
+          "models/fire_250ep/weights",
+          "models/knife_250ep",
+          "models/knife_250ep/weights",
           "src"
         ]
       },
@@ -1146,7 +1165,9 @@
         ],
         "clueFiles": [],
         "evidence": [
+          "requirements.txt 확인",
           "package.json 확인",
+          ".env 키 8개 확인",
           "추정 DB: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle"
         ],
         "summary": "MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle 사용 추정"
@@ -1171,13 +1192,21 @@
           6379
         ],
         "allCandidatePorts": [
+          1000,
           1024,
+          1234,
+          1280,
           1400,
           1433,
+          1500,
           1521,
+          2026,
+          2700,
           3306,
           5432,
           6379,
+          8080,
+          8456,
           26214,
           27017
         ],
@@ -1191,64 +1220,64 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1625,
+        "commitCount": 1629,
         "authors": [
           {
-            "count": 1625,
+            "count": 1629,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "6804c209",
+          "hash": "6946a516",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-06-16T17:28:06+09:00",
-          "subject": "docs: 프로젝트 상태 리포트 갱신"
+          "date": "2026-06-16T18:14:37+09:00",
+          "subject": "docs: README UTF-8 인코딩 수정"
         },
-        "summary": "총 1625개 커밋, 상위 계정: gosky(1625), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1629개 커밋, 상위 계정: gosky(1629), 최근: docs: README UTF-8 인코딩 수정"
       },
       "recentFiles": [
         {
-          "path": "github-org-report/lib/html.js",
-          "modifiedAt": "2026-06-15T08:39:24.601Z"
+          "path": "README.md",
+          "modifiedAt": "2026-06-16T09:14:33.456Z"
         },
         {
-          "path": "github-org-report/README.md",
-          "modifiedAt": "2026-06-15T08:37:17.727Z"
+          "path": "yolo26n.pt",
+          "modifiedAt": "2026-06-16T09:08:50.914Z"
         },
         {
-          "path": "package.json",
-          "modifiedAt": "2026-06-15T08:35:29.724Z"
+          "path": "srcs/detection/integrated_detection.py",
+          "modifiedAt": "2026-06-16T09:08:50.894Z"
         },
         {
-          "path": "github-org-report/github-org-report.js",
-          "modifiedAt": "2026-06-15T08:35:29.648Z"
+          "path": "srcs/detection/multi_detection.py",
+          "modifiedAt": "2026-06-16T09:08:50.894Z"
         },
         {
-          "path": "github-org-report/lib/csv.js",
-          "modifiedAt": "2026-06-15T08:35:29.560Z"
+          "path": "srcs/integration/__init__.py",
+          "modifiedAt": "2026-06-16T09:08:50.894Z"
         },
         {
-          "path": "github-org-report/lib/aggregate.js",
-          "modifiedAt": "2026-06-15T08:35:29.524Z"
+          "path": "srcs/integration/api_client.py",
+          "modifiedAt": "2026-06-16T09:08:50.894Z"
         },
         {
-          "path": "github-org-report/lib/git-log.js",
-          "modifiedAt": "2026-06-15T08:35:29.492Z"
+          "path": "srcs/integration/auth_client.py",
+          "modifiedAt": "2026-06-16T09:08:50.894Z"
         },
         {
-          "path": "github-org-report/lib/repos.js",
-          "modifiedAt": "2026-06-15T08:35:29.428Z"
+          "path": "srcs/integration/config.py",
+          "modifiedAt": "2026-06-16T09:08:50.894Z"
         }
       ],
       "summary": [
         "분류: 백엔드",
-        "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express",
+        "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1625",
-        "Git 상위 계정: gosky(1625)"
+        "Git 커밋 수: 1629",
+        "Git 상위 계정: gosky(1629)"
       ]
     },
     {
@@ -3580,7 +3609,7 @@
           {
             "name": "whitehouse-b-app",
             "image": "whitehousebeljh-app",
-            "status": "Up 8 hours",
+            "status": "Up 9 hours",
             "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
           }
         ],
