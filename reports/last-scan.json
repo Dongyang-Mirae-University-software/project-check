@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-16T02:57:31.152Z",
-  "generatedAtKst": "2026-06-16 11:57:31 KST",
+  "generatedAt": "2026-06-16T03:27:34.500Z",
+  "generatedAtKst": "2026-06-16 12:27:34 KST",
   "summary": {
     "total": 18,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 1748
+          "count": 1749
         },
         {
           "email": "gosky@gosky.kr",
           "count": 9
         }
       ],
-      "count": 1757
+      "count": 1758
     },
     {
       "name": "YUNA0222",
@@ -1191,22 +1191,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1613,
+        "commitCount": 1614,
         "authors": [
           {
-            "count": 1613,
+            "count": 1614,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "ca7b88d4",
+          "hash": "0adad527",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-06-16T11:27:29+09:00",
+          "date": "2026-06-16T11:57:32+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1613개 커밋, 상위 계정: gosky(1613), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1614개 커밋, 상위 계정: gosky(1614), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1247,8 +1247,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1613",
-        "Git 상위 계정: gosky(1613)"
+        "Git 커밋 수: 1614",
+        "Git 상위 계정: gosky(1614)"
       ]
     },
     {
@@ -3566,22 +3566,22 @@
         "pm2": [],
         "docker": [
           {
-            "name": "whitehouse-b-app",
-            "image": "whitehousebeljh-app",
-            "status": "Up 2 hours",
-            "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
-          },
-          {
             "name": "whitehousebe-api-1",
             "image": "whitehousebe-api",
-            "status": "Up 2 hours",
+            "status": "Up 15 minutes",
             "ports": "0.0.0.0:6701->6701/tcp, [::]:6701->6701/tcp"
           },
           {
             "name": "whitehousebe-db-1",
             "image": "postgres:16",
-            "status": "Up 2 hours (healthy)",
+            "status": "Up 15 minutes (healthy)",
             "ports": "0.0.0.0:6705->5432/tcp, [::]:6705->5432/tcp"
+          },
+          {
+            "name": "whitehouse-b-app",
+            "image": "whitehousebeljh-app",
+            "status": "Up 3 hours",
+            "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
           }
         ],
         "ports": [
@@ -3627,12 +3627,12 @@
       },
       "recentFiles": [
         {
-          "path": "Dockerfile",
-          "modifiedAt": "2026-06-11T06:31:19.505Z"
+          "path": "src/main/resources/application.yaml",
+          "modifiedAt": "2026-06-16T03:08:54.006Z"
         },
         {
-          "path": "src/main/resources/application.yaml",
-          "modifiedAt": "2026-06-11T03:40:27.424Z"
+          "path": "Dockerfile",
+          "modifiedAt": "2026-06-11T06:31:19.505Z"
         },
         {
           "path": "docker-compose.yml",
