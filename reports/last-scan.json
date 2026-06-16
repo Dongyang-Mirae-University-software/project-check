@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-16T16:59:03.500Z",
-  "generatedAtKst": "2026-06-17 01:59:03 KST",
+  "generatedAt": "2026-06-16T17:29:07.055Z",
+  "generatedAtKst": "2026-06-17 02:29:07 KST",
   "summary": {
     "total": 18,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 1779
+          "count": 1780
         },
         {
           "email": "gosky@gosky.kr",
           "count": 9
         }
       ],
-      "count": 1788
+      "count": 1789
     },
     {
       "name": "YUNA0222",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1644,
+        "commitCount": 1645,
         "authors": [
           {
-            "count": 1644,
+            "count": 1645,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "9b5d4314",
+          "hash": "32c04629",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-06-17T01:29:01+09:00",
+          "date": "2026-06-17T01:59:05+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1644개 커밋, 상위 계정: gosky(1644), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1645개 커밋, 상위 계정: gosky(1645), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1644",
-        "Git 상위 계정: gosky(1644)"
+        "Git 커밋 수: 1645",
+        "Git 상위 계정: gosky(1645)"
       ]
     },
     {
@@ -3609,7 +3609,7 @@
           {
             "name": "whitehouse-b-app",
             "image": "whitehousebeljh-app",
-            "status": "Up 16 hours",
+            "status": "Up 17 hours",
             "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
           }
         ],
