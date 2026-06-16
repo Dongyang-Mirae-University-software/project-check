@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhitehouseBE`
 - 분류: 백엔드
-- 점검 시각: 2026-06-16 12:57:39 KST
+- 점검 시각: 2026-06-16 13:27:41 KST
 
 ## 추정 기술 스택
 
@@ -65,8 +65,8 @@
 
 ## 최근 수정 파일
 
+- Dockerfile (2026-06-16 13:04:14 KST)
 - src/main/resources/application.yaml (2026-06-16 12:08:54 KST)
-- Dockerfile (2026-06-11 15:31:19 KST)
 - docker-compose.yml (2026-06-11 12:38:07 KST)
 - src/test/java/com/example/whitehousebe/WhiteHouseBeApplicationTests.java (2026-06-11 09:54:32 KST)
 - src/main/resources/static/images/angry.svg (2026-06-11 09:54:32 KST)
