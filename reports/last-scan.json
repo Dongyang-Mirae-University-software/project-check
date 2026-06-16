@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-16T09:28:11.061Z",
-  "generatedAtKst": "2026-06-16 18:28:11 KST",
+  "generatedAt": "2026-06-16T09:58:14.508Z",
+  "generatedAtKst": "2026-06-16 18:58:14 KST",
   "summary": {
     "total": 18,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 1764
+          "count": 1765
         },
         {
           "email": "gosky@gosky.kr",
           "count": 9
         }
       ],
-      "count": 1773
+      "count": 1774
     },
     {
       "name": "YUNA0222",
@@ -597,19 +597,19 @@
           {
             "name": "chatsilverbridge-api-1",
             "image": "chatsilverbridge-api",
-            "status": "Up 34 hours",
+            "status": "Up 35 hours",
             "ports": "0.0.0.0:6012->6012/tcp, [::]:6012->6012/tcp"
           },
           {
             "name": "chatsilverbridge-mysql-1",
             "image": "mysql:8.0",
-            "status": "Up 34 hours (healthy)",
+            "status": "Up 35 hours (healthy)",
             "ports": "33060/tcp, 0.0.0.0:3307->3306/tcp, [::]:3307->3306/tcp"
           },
           {
             "name": "chatsilverbridgetest-web-1",
             "image": "chatsilverbridgetest-web",
-            "status": "Up 34 hours",
+            "status": "Up 35 hours",
             "ports": "0.0.0.0:6516->6516/tcp, [::]:6516->6516/tcp"
           }
         ],
@@ -809,7 +809,7 @@
           {
             "name": "chatsilverbridgetest-web-1",
             "image": "chatsilverbridgetest-web",
-            "status": "Up 34 hours",
+            "status": "Up 35 hours",
             "ports": "0.0.0.0:6516->6516/tcp, [::]:6516->6516/tcp"
           }
         ],
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1629,
+        "commitCount": 1630,
         "authors": [
           {
-            "count": 1629,
+            "count": 1630,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "6946a516",
+          "hash": "1c411fba",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-06-16T18:14:37+09:00",
-          "subject": "docs: README UTF-8 인코딩 수정"
+          "date": "2026-06-16T18:28:12+09:00",
+          "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1629개 커밋, 상위 계정: gosky(1629), 최근: docs: README UTF-8 인코딩 수정"
+        "summary": "총 1630개 커밋, 상위 계정: gosky(1630), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1629",
-        "Git 상위 계정: gosky(1629)"
+        "Git 커밋 수: 1630",
+        "Git 상위 계정: gosky(1630)"
       ]
     },
     {
@@ -1420,7 +1420,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 34 hours",
+            "status": "Up 35 hours",
             "ports": ""
           }
         ],
@@ -1656,7 +1656,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 34 hours",
+            "status": "Up 35 hours",
             "ports": ""
           }
         ],
@@ -2553,7 +2553,7 @@
           {
             "name": "silverbridgereservation-reservation-api-1",
             "image": "silverbridgereservation-reservation-api",
-            "status": "Up 34 hours",
+            "status": "Up 35 hours",
             "ports": "0.0.0.0:6015->6015/tcp, [::]:6015->6015/tcp"
           }
         ],
@@ -3597,13 +3597,13 @@
           {
             "name": "whitehousebe-api-1",
             "image": "whitehousebe-api",
-            "status": "Up 6 hours",
+            "status": "Up 7 hours",
             "ports": "0.0.0.0:6701->6701/tcp, [::]:6701->6701/tcp"
           },
           {
             "name": "whitehousebe-db-1",
             "image": "postgres:16",
-            "status": "Up 6 hours (healthy)",
+            "status": "Up 7 hours (healthy)",
             "ports": "0.0.0.0:6705->5432/tcp, [::]:6705->5432/tcp"
           },
           {
@@ -3837,7 +3837,7 @@
           {
             "name": "whitehousefe-web",
             "image": "whitehousefe-web",
-            "status": "Up 18 hours",
+            "status": "Up 19 hours",
             "ports": "0.0.0.0:6700->3000/tcp, [::]:6700->3000/tcp"
           }
         ],
