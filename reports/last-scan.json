@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-16T07:58:01.617Z",
-  "generatedAtKst": "2026-06-16 16:58:01 KST",
+  "generatedAt": "2026-06-16T08:28:04.858Z",
+  "generatedAtKst": "2026-06-16 17:28:04 KST",
   "summary": {
     "total": 18,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 1758
+          "count": 1759
         },
         {
           "email": "gosky@gosky.kr",
           "count": 9
         }
       ],
-      "count": 1767
+      "count": 1768
     },
     {
       "name": "YUNA0222",
@@ -1191,22 +1191,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1623,
+        "commitCount": 1624,
         "authors": [
           {
-            "count": 1623,
+            "count": 1624,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "e33956b6",
+          "hash": "bc33d5c3",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-06-16T16:28:00+09:00",
+          "date": "2026-06-16T16:58:02+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1623개 커밋, 상위 계정: gosky(1623), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1624개 커밋, 상위 계정: gosky(1624), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1247,8 +1247,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1623",
-        "Git 상위 계정: gosky(1623)"
+        "Git 커밋 수: 1624",
+        "Git 상위 계정: gosky(1624)"
       ]
     },
     {
@@ -3580,7 +3580,7 @@
           {
             "name": "whitehouse-b-app",
             "image": "whitehousebeljh-app",
-            "status": "Up 7 hours",
+            "status": "Up 8 hours",
             "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
           }
         ],
