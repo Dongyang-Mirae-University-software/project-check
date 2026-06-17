@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-17T08:00:49.297Z",
-  "generatedAtKst": "2026-06-17 17:00:49 KST",
+  "generatedAt": "2026-06-17T08:30:52.805Z",
+  "generatedAtKst": "2026-06-17 17:30:52 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 1809
+          "count": 1810
         },
         {
           "email": "gosky@gosky.kr",
           "count": 9
         }
       ],
-      "count": 1818
+      "count": 1819
     },
     {
       "name": "YUNA0222",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1674,
+        "commitCount": 1675,
         "authors": [
           {
-            "count": 1674,
+            "count": 1675,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "08298be7",
+          "hash": "ae61faa2",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-06-17T16:30:47+09:00",
+          "date": "2026-06-17T17:00:51+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1674개 커밋, 상위 계정: gosky(1674), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1675개 커밋, 상위 계정: gosky(1675), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1674",
-        "Git 상위 계정: gosky(1674)"
+        "Git 커밋 수: 1675",
+        "Git 상위 계정: gosky(1675)"
       ]
     },
     {
@@ -3609,7 +3609,7 @@
           {
             "name": "whitehouse-b-app",
             "image": "whitehousebeljh-app",
-            "status": "Up 7 hours",
+            "status": "Up 8 hours",
             "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
           }
         ],
@@ -3838,7 +3838,7 @@
           {
             "name": "whitehouse-b-app",
             "image": "whitehousebeljh-app",
-            "status": "Up 7 hours",
+            "status": "Up 8 hours",
             "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
           }
         ],
@@ -3890,35 +3890,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000003",
-          "modifiedAt": "2026-06-17T07:59:52.270Z"
+          "modifiedAt": "2026-06-17T08:29:55.972Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-06-17T07:59:51.670Z"
+          "modifiedAt": "2026-06-17T08:29:53.568Z"
         },
         {
           "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-06-17T07:59:51.570Z"
+          "modifiedAt": "2026-06-17T08:29:53.468Z"
         },
         {
           "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-06-17T07:59:51.470Z"
+          "modifiedAt": "2026-06-17T08:29:53.368Z"
         },
         {
           "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-06-17T07:59:51.370Z"
+          "modifiedAt": "2026-06-17T08:29:53.268Z"
         },
         {
           "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-06-17T07:59:51.266Z"
+          "modifiedAt": "2026-06-17T08:29:53.168Z"
         },
         {
           "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-06-17T07:59:51.166Z"
+          "modifiedAt": "2026-06-17T08:29:53.064Z"
         },
         {
           "path": "data/postgres/base/16384/16402",
-          "modifiedAt": "2026-06-17T07:59:51.066Z"
+          "modifiedAt": "2026-06-17T08:29:52.964Z"
         }
       ],
       "summary": [
@@ -4070,7 +4070,7 @@
           {
             "name": "whitehousefe-web",
             "image": "whitehousefe-web",
-            "status": "Up 5 minutes",
+            "status": "Up 35 minutes",
             "ports": "0.0.0.0:6700->3000/tcp, [::]:6700->3000/tcp"
           }
         ],
