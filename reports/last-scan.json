@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-17T07:30:45.739Z",
-  "generatedAtKst": "2026-06-17 16:30:45 KST",
+  "generatedAt": "2026-06-17T08:00:49.297Z",
+  "generatedAtKst": "2026-06-17 17:00:49 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 1808
+          "count": 1809
         },
         {
           "email": "gosky@gosky.kr",
           "count": 9
         }
       ],
-      "count": 1817
+      "count": 1818
     },
     {
       "name": "YUNA0222",
@@ -57,14 +57,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 370
+          "count": 372
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 133
         }
       ],
-      "count": 503
+      "count": 505
     }
   ],
   "projects": [
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1673,
+        "commitCount": 1674,
         "authors": [
           {
-            "count": 1673,
+            "count": 1674,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "eaf53e21",
+          "hash": "08298be7",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-06-17T16:00:43+09:00",
+          "date": "2026-06-17T16:30:47+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1673개 커밋, 상위 계정: gosky(1673), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1674개 커밋, 상위 계정: gosky(1674), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1673",
-        "Git 상위 계정: gosky(1673)"
+        "Git 커밋 수: 1674",
+        "Git 상위 계정: gosky(1674)"
       ]
     },
     {
@@ -3597,13 +3597,13 @@
           {
             "name": "whitehousebe-api-1",
             "image": "whitehousebe-api",
-            "status": "Up About an hour",
+            "status": "Up 2 hours",
             "ports": "0.0.0.0:6701->6701/tcp, [::]:6701->6701/tcp"
           },
           {
             "name": "whitehousebe-db-1",
             "image": "postgres:16",
-            "status": "Up About an hour (healthy)",
+            "status": "Up 2 hours (healthy)",
             "ports": "0.0.0.0:6705->5432/tcp, [::]:6705->5432/tcp"
           },
           {
@@ -3890,35 +3890,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000003",
-          "modifiedAt": "2026-06-17T07:29:55.581Z"
+          "modifiedAt": "2026-06-17T07:59:52.270Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-06-17T07:29:51.177Z"
+          "modifiedAt": "2026-06-17T07:59:51.670Z"
         },
         {
           "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-06-17T07:29:51.077Z"
+          "modifiedAt": "2026-06-17T07:59:51.570Z"
         },
         {
           "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-06-17T07:29:50.977Z"
+          "modifiedAt": "2026-06-17T07:59:51.470Z"
         },
         {
           "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-06-17T07:29:50.877Z"
+          "modifiedAt": "2026-06-17T07:59:51.370Z"
         },
         {
           "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-06-17T07:29:50.777Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16436_fsm",
-          "modifiedAt": "2026-06-17T07:29:50.677Z"
+          "modifiedAt": "2026-06-17T07:59:51.266Z"
         },
         {
           "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-06-17T07:29:50.577Z"
+          "modifiedAt": "2026-06-17T07:59:51.166Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16402",
+          "modifiedAt": "2026-06-17T07:59:51.066Z"
         }
       ],
       "summary": [
@@ -4070,7 +4070,7 @@
           {
             "name": "whitehousefe-web",
             "image": "whitehousefe-web",
-            "status": "Up About an hour",
+            "status": "Up 5 minutes",
             "ports": "0.0.0.0:6700->3000/tcp, [::]:6700->3000/tcp"
           }
         ],
@@ -4091,10 +4091,10 @@
       "git": {
         "isRepo": true,
         "branch": "prod",
-        "commitCount": 109,
+        "commitCount": 111,
         "authors": [
           {
-            "count": 43,
+            "count": 45,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -4105,22 +4105,22 @@
           }
         ],
         "latestCommit": {
-          "hash": "55dee60",
+          "hash": "0b2a193",
           "author": "skarndaudwls1",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-06-17T15:01:34+09:00",
-          "subject": "design:"
+          "date": "2026-06-17T15:20:27+09:00",
+          "subject": "fix:"
         },
-        "summary": "총 109개 커밋, 상위 계정: skarndaudwls1(43), skarndaudwls1(24), 최근: design:"
+        "summary": "총 111개 커밋, 상위 계정: skarndaudwls1(45), skarndaudwls1(24), 최근: fix:"
       },
       "recentFiles": [
         {
-          "path": "app/(guardian)/dashboard/_components/today-card.tsx",
-          "modifiedAt": "2026-06-17T06:03:45.148Z"
+          "path": "app/(guardian)/dashboard/_components/news-card.tsx",
+          "modifiedAt": "2026-06-17T07:54:31.750Z"
         },
         {
-          "path": "app/(guardian)/dashboard/_components/news-card.tsx",
-          "modifiedAt": "2026-06-17T06:03:45.144Z"
+          "path": "app/(guardian)/dashboard/_components/today-card.tsx",
+          "modifiedAt": "2026-06-17T07:54:31.750Z"
         },
         {
           "path": "lib/data/dashboard-repository.ts",
@@ -4152,8 +4152,8 @@
         "기술 추정: React, Next.js, Node.js, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 109",
-        "Git 상위 계정: skarndaudwls1(43), skarndaudwls1(24)"
+        "Git 커밋 수: 111",
+        "Git 상위 계정: skarndaudwls1(45), skarndaudwls1(24)"
       ]
     }
   ]

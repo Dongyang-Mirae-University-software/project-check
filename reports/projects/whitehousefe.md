@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhitehouseFE`
 - 분류: 프론트엔드
-- 점검 시각: 2026-06-17 16:30:47 KST
+- 점검 시각: 2026-06-17 17:00:51 KST
 
 ## 추정 기술 스택
 
@@ -57,16 +57,16 @@
 ## Git 커밋 현황
 
 - 브랜치: prod
-- 총 커밋 수: 109
+- 총 커밋 수: 111
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 43
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 45
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 24
-- 최근 커밋: 55dee60 / skarndaudwls1 <skarndaudwls@gmail.com> / design:
+- 최근 커밋: 0b2a193 / skarndaudwls1 <skarndaudwls@gmail.com> / fix:
 
 ## 최근 수정 파일
 
-- app/(guardian)/dashboard/_components/today-card.tsx (2026-06-17 15:03:45 KST)
-- app/(guardian)/dashboard/_components/news-card.tsx (2026-06-17 15:03:45 KST)
+- app/(guardian)/dashboard/_components/news-card.tsx (2026-06-17 16:54:31 KST)
+- app/(guardian)/dashboard/_components/today-card.tsx (2026-06-17 16:54:31 KST)
 - lib/data/dashboard-repository.ts (2026-06-17 14:38:02 KST)
 - app/(guardian)/dashboard/_components/modals/news-detail-modal.tsx (2026-06-17 14:23:18 KST)
 - lib/dashboard/adapt.ts (2026-06-17 14:23:18 KST)
@@ -80,5 +80,5 @@
 - 기술 추정: React, Next.js, Node.js, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 109
-- Git 상위 계정: skarndaudwls1(43), skarndaudwls1(24)
+- Git 커밋 수: 111
+- Git 상위 계정: skarndaudwls1(45), skarndaudwls1(24)
