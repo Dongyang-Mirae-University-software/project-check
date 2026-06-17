@@ -1,6 +1,6 @@
 # 실행 상태
 
-- 스캔 시각: 2026-06-17 08:59:55 KST
+- 스캔 시각: 2026-06-17 09:29:58 KST
 
 | 프로젝트 | 분류 | 실행 상태 | PM2 | Docker | 포트 |
 | --- | --- | --- | --- | --- | --- |
@@ -20,7 +20,8 @@
 | SilverBridgeSSOBe | 백엔드 | 실행 중 | 확인 불가 | 확인 불가 | 3306, 6379, 6501, 18000, 60480 |
 | SilverBridgeStreamTestFe | 프론트엔드 | 실행 중 | 확인 불가 | 확인 불가 | 1012, 6018 |
 | TestSilverBridge | 기타 | 확인 불가 | 확인 불가 | 확인 불가 | 확인 불가 |
-| WhitehouseBE | 백엔드 | 실행 중 | 확인 불가 | whitehousebe-api-1, whitehousebe-db-1, whitehouse-b-app | 5432, 6701, 7084 |
+| WhitehouseBE | 백엔드 | 실행 중 | 확인 불가 | whitehousebe-api-1, whitehousebe-db-1 | 5432, 6701, 7084 |
+| WhiteHouseBELJH | 백엔드 | 실행 중 | 확인 불가 | 확인 불가 | 3000, 3001, 5432, 5433, 6700, 6701, 6705, 9090, 10000, 18000 |
 | WhitehouseFE | 프론트엔드 | 실행 중 | 확인 불가 | whitehousefe-web | 1024, 1280, 2026, 3000 |
 
 ## 요약
@@ -41,5 +42,6 @@
 - SilverBridgeSSOBe: 실행 중 / PM2 없음 / Docker 없음 / 포트 3306, 6379
 - SilverBridgeStreamTestFe: 실행 중 / PM2 없음 / Docker 없음 / 포트 6018
 - TestSilverBridge: 정지 또는 확인 불가
-- WhitehouseBE: 실행 중 / PM2 없음 / Docker 3개 / 포트 5432, 6701
+- WhitehouseBE: 실행 중 / PM2 없음 / Docker 2개 / 포트 5432, 6701
+- WhiteHouseBELJH: 실행 중 / PM2 없음 / Docker 없음 / 포트 5432, 6700, 6701, 6705
 - WhitehouseFE: 실행 중 / PM2 없음 / Docker 1개 / 포트 확인 불가

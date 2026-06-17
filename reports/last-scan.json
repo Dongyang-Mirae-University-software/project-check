@@ -1,16 +1,16 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-16T23:59:53.661Z",
-  "generatedAtKst": "2026-06-17 08:59:53 KST",
+  "generatedAt": "2026-06-17T00:29:57.075Z",
+  "generatedAtKst": "2026-06-17 09:29:57 KST",
   "summary": {
-    "total": 18,
+    "total": 19,
     "frontend": 4,
-    "backend": 7,
+    "backend": 8,
     "ai": 5,
-    "db": 7,
-    "gitRepos": 14,
-    "running": 13,
+    "db": 8,
+    "gitRepos": 15,
+    "running": 14,
     "stopped": 5
   },
   "gitAuthors": [
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 1793
+          "count": 1794
         },
         {
           "email": "gosky@gosky.kr",
           "count": 9
         }
       ],
-      "count": 1802
+      "count": 1803
     },
     {
       "name": "YUNA0222",
@@ -47,10 +47,10 @@
       "emails": [
         {
           "email": "hywuljh1@naver.com",
-          "count": 616
+          "count": 627
         }
       ],
-      "count": 616
+      "count": 627
     },
     {
       "name": "skarndaudwls1",
@@ -243,15 +243,15 @@
       "recentFiles": [
         {
           "path": "training/README.md",
-          "modifiedAt": "2026-06-16T04:04:14.857Z"
+          "modifiedAt": "2026-06-17T00:11:40.578Z"
         },
         {
           "path": "training/scripts/prepare_fire_smoke_dataset.py",
-          "modifiedAt": "2026-06-16T04:04:14.857Z"
+          "modifiedAt": "2026-06-17T00:11:40.578Z"
         },
         {
           "path": "training/scripts/train_yolo.py",
-          "modifiedAt": "2026-06-16T04:04:14.857Z"
+          "modifiedAt": "2026-06-17T00:11:40.578Z"
         },
         {
           "path": "training/scripts/prepare_fire_smoke_knife_dataset.py",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1658,
+        "commitCount": 1659,
         "authors": [
           {
-            "count": 1658,
+            "count": 1659,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "e6a97732",
+          "hash": "2283d65d",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-06-17T08:29:52+09:00",
+          "date": "2026-06-17T08:59:55+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1658개 커밋, 상위 계정: gosky(1658), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1659개 커밋, 상위 계정: gosky(1659), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1658",
-        "Git 상위 계정: gosky(1658)"
+        "Git 커밋 수: 1659",
+        "Git 상위 계정: gosky(1659)"
       ]
     },
     {
@@ -1705,35 +1705,35 @@
       "recentFiles": [
         {
           "path": "app/__init__.py",
-          "modifiedAt": "2026-06-16T04:04:14.857Z"
+          "modifiedAt": "2026-06-17T00:11:40.578Z"
         },
         {
           "path": "app/core/__init__.py",
-          "modifiedAt": "2026-06-16T04:04:14.857Z"
+          "modifiedAt": "2026-06-17T00:11:40.578Z"
         },
         {
           "path": "app/core/response.py",
-          "modifiedAt": "2026-06-16T04:04:14.857Z"
+          "modifiedAt": "2026-06-17T00:11:40.578Z"
         },
         {
           "path": "app/core/security.py",
-          "modifiedAt": "2026-06-16T04:04:14.857Z"
+          "modifiedAt": "2026-06-17T00:11:40.578Z"
         },
         {
           "path": "app/database/__init__.py",
-          "modifiedAt": "2026-06-16T04:04:14.857Z"
+          "modifiedAt": "2026-06-17T00:11:40.578Z"
         },
         {
           "path": "app/database/base.py",
-          "modifiedAt": "2026-06-16T04:04:14.857Z"
+          "modifiedAt": "2026-06-17T00:11:40.578Z"
         },
         {
           "path": "app/models/__init__.py",
-          "modifiedAt": "2026-06-16T04:04:14.857Z"
+          "modifiedAt": "2026-06-17T00:11:40.578Z"
         },
         {
           "path": "app/models/stream_session.py",
-          "modifiedAt": "2026-06-16T04:04:14.857Z"
+          "modifiedAt": "2026-06-17T00:11:40.578Z"
         }
       ],
       "summary": [
@@ -3248,7 +3248,7 @@
       "recentFiles": [
         {
           "path": "package.json",
-          "modifiedAt": "2026-06-16T04:04:14.865Z"
+          "modifiedAt": "2026-06-17T00:11:40.578Z"
         },
         {
           "path": "README.md",
@@ -3605,12 +3605,6 @@
             "image": "postgres:16",
             "status": "Up 21 hours (healthy)",
             "ports": "0.0.0.0:6705->5432/tcp, [::]:6705->5432/tcp"
-          },
-          {
-            "name": "whitehouse-b-app",
-            "image": "whitehousebeljh-app",
-            "status": "Up 23 hours",
-            "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
           }
         ],
         "ports": [
@@ -3625,7 +3619,7 @@
         "summary": [
           "실행 중",
           "PM2 없음",
-          "Docker 3개",
+          "Docker 2개",
           "포트 5432, 6701"
         ]
       },
@@ -3657,7 +3651,7 @@
       "recentFiles": [
         {
           "path": "Dockerfile",
-          "modifiedAt": "2026-06-16T04:04:14.857Z"
+          "modifiedAt": "2026-06-17T00:11:40.578Z"
         },
         {
           "path": "src/main/resources/application.yaml",
@@ -3695,6 +3689,232 @@
         "실행 상태: 실행 중",
         "Git 커밋 수: 29",
         "Git 상위 계정: YUNA0222(27), YUNA0222(7)"
+      ]
+    },
+    {
+      "projectName": "WhiteHouseBELJH",
+      "projectPath": "/home/apps/SilverBridgeSky/WhiteHouseBELJH",
+      "classification": "백엔드",
+      "stack": [
+        "Java",
+        "Spring",
+        "Frontend",
+        "Backend"
+      ],
+      "mainFiles": [
+        {
+          "file": "package.json",
+          "exists": false
+        },
+        {
+          "file": "vite.config.js",
+          "exists": false
+        },
+        {
+          "file": "vite.config.ts",
+          "exists": false
+        },
+        {
+          "file": "vite.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "vite.config.cjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.js",
+          "exists": false
+        },
+        {
+          "file": "next.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.ts",
+          "exists": false
+        },
+        {
+          "file": "requirements.txt",
+          "exists": false
+        },
+        {
+          "file": "pyproject.toml",
+          "exists": false
+        },
+        {
+          "file": "Dockerfile",
+          "exists": true
+        },
+        {
+          "file": "docker-compose.yml",
+          "exists": true
+        },
+        {
+          "file": "docker-compose.yaml",
+          "exists": false
+        },
+        {
+          "file": "compose.yml",
+          "exists": false
+        },
+        {
+          "file": "compose.yaml",
+          "exists": false
+        },
+        {
+          "file": ".env.example",
+          "exists": false
+        },
+        {
+          "file": ".env",
+          "exists": true
+        },
+        {
+          "file": "pom.xml",
+          "exists": false
+        },
+        {
+          "file": "build.gradle",
+          "exists": false
+        },
+        {
+          "file": "build.gradle.kts",
+          "exists": true
+        }
+      ],
+      "structure": {
+        "fileCount": 1309,
+        "dirCount": 45,
+        "mainFolders": [
+          "data",
+          "src"
+        ],
+        "majorPaths": [
+          "src",
+          "src/main",
+          "src/main/java",
+          "src/main/java/com",
+          "src/main/java/com/whitehouse",
+          "src/main/java/com/whitehouse/api",
+          "src/main/java/com/whitehouse/api/controller",
+          "src/main/java/com/whitehouse/api/dto",
+          "src/main/java/com/whitehouse/domain",
+          "src/main/java/com/whitehouse/domain/news",
+          "src/main/java/com/whitehouse/domain/statement",
+          "src/main/java/com/whitehouse/global",
+          "src/main/java/com/whitehouse/global/config",
+          "src/main/java/com/whitehouse/global/util",
+          "src/main/resources",
+          "src/main/resources/db",
+          "src/main/resources/db/migration"
+        ]
+      },
+      "database": {
+        "used": true,
+        "types": [
+          "PostgreSQL"
+        ],
+        "clueFiles": [],
+        "evidence": [
+          "docker-compose.yml 확인",
+          "application.yml 확인",
+          ".env 키 3개 확인",
+          "추정 DB: PostgreSQL"
+        ],
+        "summary": "PostgreSQL 사용 추정"
+      },
+      "runtime": {
+        "status": "실행 중",
+        "running": true,
+        "pm2": [],
+        "docker": [],
+        "ports": [
+          5432,
+          6700,
+          6701,
+          6705
+        ],
+        "allCandidatePorts": [
+          3000,
+          3001,
+          5432,
+          5433,
+          6700,
+          6701,
+          6705,
+          9090,
+          10000,
+          18000
+        ],
+        "summary": [
+          "실행 중",
+          "PM2 없음",
+          "Docker 없음",
+          "포트 5432, 6700, 6701, 6705"
+        ]
+      },
+      "git": {
+        "isRepo": true,
+        "branch": "main",
+        "commitCount": 11,
+        "authors": [
+          {
+            "count": 11,
+            "name": "Jaehe-he",
+            "email": "hywuljh1@naver.com"
+          }
+        ],
+        "latestCommit": {
+          "hash": "26f4968",
+          "author": "Jaehe-he",
+          "email": "hywuljh1@naver.com",
+          "date": "2026-06-16T23:17:53+09:00",
+          "subject": "docs: README.md 포트 및 API 프리픽스 정보 업데이트"
+        },
+        "summary": "총 11개 커밋, 상위 계정: Jaehe-he(11), 최근: docs: README.md 포트 및 API 프리픽스 정보 업데이트"
+      },
+      "recentFiles": [
+        {
+          "path": "data/postgres/global/pg_control",
+          "modifiedAt": "2026-06-17T00:16:24.022Z"
+        },
+        {
+          "path": "data/postgres/pg_stat/pgstat.stat",
+          "modifiedAt": "2026-06-17T00:16:24.022Z"
+        },
+        {
+          "path": "data/postgres/pg_wal/000000010000000000000002",
+          "modifiedAt": "2026-06-17T00:16:24.022Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16385",
+          "modifiedAt": "2026-06-17T00:16:24.018Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16386",
+          "modifiedAt": "2026-06-17T00:16:24.018Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16395",
+          "modifiedAt": "2026-06-17T00:16:24.018Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16397",
+          "modifiedAt": "2026-06-17T00:16:24.018Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16399",
+          "modifiedAt": "2026-06-17T00:16:24.018Z"
+        }
+      ],
+      "summary": [
+        "분류: 백엔드",
+        "기술 추정: Java, Spring, Frontend, Backend",
+        "DB 사용 추정: PostgreSQL",
+        "실행 상태: 실행 중",
+        "Git 커밋 수: 11",
+        "Git 상위 계정: Jaehe-he(11)"
       ]
     },
     {

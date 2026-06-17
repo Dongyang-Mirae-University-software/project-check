@@ -1,6 +1,6 @@
 # 데이터베이스 상태
 
-- 스캔 시각: 2026-06-17 08:59:55 KST
+- 스캔 시각: 2026-06-17 09:29:58 KST
 
 | 프로젝트 | DB 사용 여부 | 추정 DB | 실행 상태 | 관련 포트 | 관련 컨테이너 |
 | --- | --- | --- | --- | --- | --- |
@@ -20,7 +20,8 @@
 | SilverBridgeSSOBe | 예 | MySQL, Redis | 실행 중 | 3306, 6379, 6501, 18000, 60480 | 확인 불가 |
 | SilverBridgeStreamTestFe | 아니오 | 확인 불가 | 실행 중 | 1012, 6018 | 확인 불가 |
 | TestSilverBridge | 아니오 | 확인 불가 | 확인 불가 | 확인 불가 | 확인 불가 |
-| WhitehouseBE | 예 | PostgreSQL | 실행 중 | 5432, 6701, 7084 | whitehousebe-api-1, whitehousebe-db-1, whitehouse-b-app |
+| WhitehouseBE | 예 | PostgreSQL | 실행 중 | 5432, 6701, 7084 | whitehousebe-api-1, whitehousebe-db-1 |
+| WhiteHouseBELJH | 예 | PostgreSQL | 실행 중 | 3000, 3001, 5432, 5433, 6700, 6701, 6705, 9090, 10000, 18000 | 확인 불가 |
 | WhitehouseFE | 아니오 | 확인 불가 | 실행 중 | 1024, 1280, 2026, 3000 | whitehousefe-web |
 
 ## 점검 메모
@@ -56,5 +57,7 @@
 - TestSilverBridge: DB 사용 흔적 없음
 - WhitehouseBE: PostgreSQL 사용 추정
   - 근거: docker-compose.yml 확인, application.yml 확인, 추정 DB: PostgreSQL
+- WhiteHouseBELJH: PostgreSQL 사용 추정
+  - 근거: docker-compose.yml 확인, application.yml 확인, .env 키 3개 확인, 추정 DB: PostgreSQL
 - WhitehouseFE: DB 사용 흔적 없음
   - 근거: docker-compose.yml 확인, package.json 확인
