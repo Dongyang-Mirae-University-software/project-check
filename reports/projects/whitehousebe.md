@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhitehouseBE`
 - 분류: 백엔드
-- 점검 시각: 2026-06-17 09:29:58 KST
+- 점검 시각: 2026-06-17 10:00:02 KST
 
 ## 추정 기술 스택
 
@@ -51,7 +51,7 @@
 
 - 상태: 실행 중
 - 관련 포트: 5432, 6701, 7084
-- 관련 Docker 컨테이너: whitehousebe-api-1, whitehousebe-db-1
+- 관련 Docker 컨테이너: whitehouse-b-app, whitehousebe-api-1, whitehousebe-db-1
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
