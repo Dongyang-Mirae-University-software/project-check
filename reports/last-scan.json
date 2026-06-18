@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-18T12:34:12.030Z",
-  "generatedAtKst": "2026-06-18 21:34:12 KST",
+  "generatedAt": "2026-06-18T13:04:15.504Z",
+  "generatedAtKst": "2026-06-18 22:04:15 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 1866
+          "count": 1867
         },
         {
           "email": "gosky@gosky.kr",
           "count": 9
         }
       ],
-      "count": 1875
+      "count": 1876
     },
     {
       "name": "YUNA0222",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1731,
+        "commitCount": 1732,
         "authors": [
           {
-            "count": 1731,
+            "count": 1732,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "0f4ea5e8",
+          "hash": "fecdcd46",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-06-18T21:04:10+09:00",
+          "date": "2026-06-18T21:34:13+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1731개 커밋, 상위 계정: gosky(1731), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1732개 커밋, 상위 계정: gosky(1732), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1731",
-        "Git 상위 계정: gosky(1731)"
+        "Git 커밋 수: 1732",
+        "Git 상위 계정: gosky(1732)"
       ]
     },
     {
@@ -3603,7 +3603,7 @@
           {
             "name": "whitehousebe-db-1",
             "image": "postgres:16",
-            "status": "Up 30 hours (healthy)",
+            "status": "Up 31 hours (healthy)",
             "ports": "0.0.0.0:6705->5432/tcp, [::]:6705->5432/tcp"
           },
           {
@@ -3890,35 +3890,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000005",
-          "modifiedAt": "2026-06-18T12:31:38.735Z"
+          "modifiedAt": "2026-06-18T13:00:34.079Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-06-18T12:15:28.117Z"
+          "modifiedAt": "2026-06-18T13:00:29.271Z"
         },
         {
           "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-06-18T12:15:28.017Z"
+          "modifiedAt": "2026-06-18T13:00:29.171Z"
         },
         {
           "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-06-18T12:15:27.917Z"
+          "modifiedAt": "2026-06-18T13:00:29.071Z"
         },
         {
           "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-06-18T12:15:27.817Z"
+          "modifiedAt": "2026-06-18T13:00:28.971Z"
         },
         {
           "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-06-18T12:15:27.717Z"
+          "modifiedAt": "2026-06-18T13:00:28.871Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16436_fsm",
+          "modifiedAt": "2026-06-18T13:00:28.771Z"
         },
         {
           "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-06-18T12:15:27.617Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16402",
-          "modifiedAt": "2026-06-18T12:15:27.517Z"
+          "modifiedAt": "2026-06-18T13:00:28.671Z"
         }
       ],
       "summary": [
@@ -4070,7 +4070,7 @@
           {
             "name": "whitehousefe-web",
             "image": "whitehousefe-web",
-            "status": "Up About an hour",
+            "status": "Up 2 hours",
             "ports": "0.0.0.0:6700->3000/tcp, [::]:6700->3000/tcp"
           }
         ],
