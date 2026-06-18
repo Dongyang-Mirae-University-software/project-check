@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhitehouseFE`
 - 분류: 프론트엔드
-- 점검 시각: 2026-06-19 24:34:35 KST
+- 점검 시각: 2026-06-19 01:04:39 KST
 
 ## 추정 기술 스택
 
@@ -57,22 +57,22 @@
 ## Git 커밋 현황
 
 - 브랜치: prod
-- 총 커밋 수: 131
+- 총 커밋 수: 133
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 57
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 59
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 24
-- 최근 커밋: 98a38f6 / skarndaudwls1 <skarndaudwls@gmail.com> / feat: POST /api/trump/fetch 주기적 호출로 발언 수집 트리거 추가
+- 최근 커밋: 6e655c4 / skarndaudwls1 <skarndaudwls@gmail.com> / ﻿fix: 어록 % 제거, 기분 텍스트 수정, 한국 주식 색상 적용
 
 ## 최근 수정 파일
 
-- lib/data/whitehouse-api.ts (2026-06-19 24:29:34 KST)
-- app/(guardian)/dashboard/dashboard-view.tsx (2026-06-19 24:29:34 KST)
-- lib/dashboard/adapt.ts (2026-06-18 20:30:15 KST)
-- lib/data/dashboard-repository.ts (2026-06-18 20:30:15 KST)
-- lib/schemas.ts (2026-06-18 20:30:15 KST)
-- app/(guardian)/dashboard/_components/top-bar.tsx (2026-06-18 20:19:28 KST)
-- app/(guardian)/dashboard/_components/today-card.tsx (2026-06-18 18:41:16 KST)
-- app/(guardian)/dashboard/_components/modals/tweet-modal.tsx (2026-06-18 18:31:50 KST)
+- app/_intro/intro-flow.tsx (2026-06-19 01:02:20 KST)
+- app/_intro/lockout-screen.tsx (2026-06-19 01:02:20 KST)
+- app/(guardian)/dashboard/_components/modals/quotes-modal.tsx (2026-06-19 01:02:20 KST)
+- app/(guardian)/dashboard/_components/modals/theme-stocks-modal.tsx (2026-06-19 01:02:20 KST)
+- app/(guardian)/dashboard/_components/modals/tweet-modal.tsx (2026-06-19 01:02:20 KST)
+- app/(guardian)/dashboard/_components/modals/what-if-modal.tsx (2026-06-19 01:02:20 KST)
+- app/(guardian)/dashboard/_components/news-card.tsx (2026-06-19 01:02:20 KST)
+- app/(guardian)/dashboard/_components/today-card.tsx (2026-06-19 01:02:20 KST)
 
 ## 점검 결과 요약
 
@@ -80,5 +80,5 @@
 - 기술 추정: React, Next.js, Node.js, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 131
-- Git 상위 계정: skarndaudwls1(57), skarndaudwls1(24)
+- Git 커밋 수: 133
+- Git 상위 계정: skarndaudwls1(59), skarndaudwls1(24)
