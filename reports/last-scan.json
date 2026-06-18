@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-18T07:03:33.313Z",
-  "generatedAtKst": "2026-06-18 16:03:33 KST",
+  "generatedAt": "2026-06-18T07:33:36.841Z",
+  "generatedAtKst": "2026-06-18 16:33:36 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 1855
+          "count": 1856
         },
         {
           "email": "gosky@gosky.kr",
           "count": 9
         }
       ],
-      "count": 1864
+      "count": 1865
     },
     {
       "name": "YUNA0222",
@@ -243,15 +243,15 @@
       "recentFiles": [
         {
           "path": "training/README.md",
-          "modifiedAt": "2026-06-17T00:49:39.509Z"
+          "modifiedAt": "2026-06-18T07:25:49.450Z"
         },
         {
           "path": "training/scripts/prepare_fire_smoke_dataset.py",
-          "modifiedAt": "2026-06-17T00:49:39.509Z"
+          "modifiedAt": "2026-06-18T07:25:49.450Z"
         },
         {
           "path": "training/scripts/train_yolo.py",
-          "modifiedAt": "2026-06-17T00:49:39.509Z"
+          "modifiedAt": "2026-06-18T07:25:49.450Z"
         },
         {
           "path": "training/scripts/prepare_fire_smoke_knife_dataset.py",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1720,
+        "commitCount": 1721,
         "authors": [
           {
-            "count": 1720,
+            "count": 1721,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "54616a3b",
+          "hash": "be74caf5",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-06-18T15:33:31+09:00",
+          "date": "2026-06-18T16:03:35+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1720개 커밋, 상위 계정: gosky(1720), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1721개 커밋, 상위 계정: gosky(1721), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1720",
-        "Git 상위 계정: gosky(1720)"
+        "Git 커밋 수: 1721",
+        "Git 상위 계정: gosky(1721)"
       ]
     },
     {
@@ -1705,35 +1705,35 @@
       "recentFiles": [
         {
           "path": "app/__init__.py",
-          "modifiedAt": "2026-06-17T00:49:39.509Z"
+          "modifiedAt": "2026-06-18T07:25:49.450Z"
         },
         {
           "path": "app/core/__init__.py",
-          "modifiedAt": "2026-06-17T00:49:39.509Z"
+          "modifiedAt": "2026-06-18T07:25:49.450Z"
         },
         {
           "path": "app/core/response.py",
-          "modifiedAt": "2026-06-17T00:49:39.509Z"
+          "modifiedAt": "2026-06-18T07:25:49.450Z"
         },
         {
           "path": "app/core/security.py",
-          "modifiedAt": "2026-06-17T00:49:39.509Z"
+          "modifiedAt": "2026-06-18T07:25:49.450Z"
         },
         {
           "path": "app/database/__init__.py",
-          "modifiedAt": "2026-06-17T00:49:39.509Z"
+          "modifiedAt": "2026-06-18T07:25:49.450Z"
         },
         {
           "path": "app/database/base.py",
-          "modifiedAt": "2026-06-17T00:49:39.509Z"
+          "modifiedAt": "2026-06-18T07:25:49.450Z"
         },
         {
           "path": "app/models/__init__.py",
-          "modifiedAt": "2026-06-17T00:49:39.509Z"
+          "modifiedAt": "2026-06-18T07:25:49.450Z"
         },
         {
           "path": "app/models/stream_session.py",
-          "modifiedAt": "2026-06-17T00:49:39.509Z"
+          "modifiedAt": "2026-06-18T07:25:49.450Z"
         }
       ],
       "summary": [
@@ -3248,7 +3248,7 @@
       "recentFiles": [
         {
           "path": "package.json",
-          "modifiedAt": "2026-06-17T00:49:39.513Z"
+          "modifiedAt": "2026-06-18T07:25:49.458Z"
         },
         {
           "path": "README.md",
@@ -3597,7 +3597,7 @@
           {
             "name": "whitehousebe-api-1",
             "image": "whitehousebe-api",
-            "status": "Up About an hour",
+            "status": "Up 2 hours",
             "ports": "0.0.0.0:6701->6701/tcp, [::]:6701->6701/tcp"
           },
           {
@@ -3609,7 +3609,7 @@
           {
             "name": "whitehouse-b-app",
             "image": "whitehousebeljh-app",
-            "status": "Up 30 hours",
+            "status": "Up 31 hours",
             "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
           }
         ],
@@ -3838,7 +3838,7 @@
           {
             "name": "whitehouse-b-app",
             "image": "whitehousebeljh-app",
-            "status": "Up 30 hours",
+            "status": "Up 31 hours",
             "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
           }
         ],
@@ -3890,35 +3890,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000004",
-          "modifiedAt": "2026-06-18T07:03:33.355Z"
-        },
-        {
-          "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-06-18T07:00:24.890Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-06-18T07:00:24.790Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-06-18T07:00:24.690Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-06-18T07:00:24.590Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-06-18T07:00:24.486Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16436_fsm",
-          "modifiedAt": "2026-06-18T07:00:24.386Z"
+          "modifiedAt": "2026-06-18T07:31:52.709Z"
         },
         {
           "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-06-18T07:00:24.286Z"
+          "modifiedAt": "2026-06-18T07:31:21.678Z"
+        },
+        {
+          "path": "data/postgres/global/pg_control",
+          "modifiedAt": "2026-06-18T07:30:25.518Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16444",
+          "modifiedAt": "2026-06-18T07:30:25.418Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16443",
+          "modifiedAt": "2026-06-18T07:30:25.318Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16442",
+          "modifiedAt": "2026-06-18T07:30:25.218Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16441",
+          "modifiedAt": "2026-06-18T07:30:25.118Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16436_fsm",
+          "modifiedAt": "2026-06-18T07:30:25.018Z"
         }
       ],
       "summary": [
@@ -4070,7 +4070,7 @@
           {
             "name": "whitehousefe-web",
             "image": "whitehousefe-web",
-            "status": "Up About an hour",
+            "status": "Up 2 hours",
             "ports": "0.0.0.0:6700->3000/tcp, [::]:6700->3000/tcp"
           }
         ],
