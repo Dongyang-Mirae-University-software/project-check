@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-18T01:32:55.822Z",
-  "generatedAtKst": "2026-06-18 10:32:55 KST",
+  "generatedAt": "2026-06-18T02:02:59.249Z",
+  "generatedAtKst": "2026-06-18 11:02:59 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 1844
+          "count": 1845
         },
         {
           "email": "gosky@gosky.kr",
           "count": 9
         }
       ],
-      "count": 1853
+      "count": 1854
     },
     {
       "name": "YUNA0222",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1709,
+        "commitCount": 1710,
         "authors": [
           {
-            "count": 1709,
+            "count": 1710,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "11945fdb",
+          "hash": "1a3a5994",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-06-18T10:02:54+09:00",
+          "date": "2026-06-18T10:32:57+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1709개 커밋, 상위 계정: gosky(1709), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1710개 커밋, 상위 계정: gosky(1710), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1709",
-        "Git 상위 계정: gosky(1709)"
+        "Git 커밋 수: 1710",
+        "Git 상위 계정: gosky(1710)"
       ]
     },
     {
@@ -3597,13 +3597,13 @@
           {
             "name": "whitehousebe-api-1",
             "image": "whitehousebe-api",
-            "status": "Up 19 hours",
+            "status": "Up 20 hours",
             "ports": "0.0.0.0:6701->6701/tcp, [::]:6701->6701/tcp"
           },
           {
             "name": "whitehousebe-db-1",
             "image": "postgres:16",
-            "status": "Up 19 hours (healthy)",
+            "status": "Up 20 hours (healthy)",
             "ports": "0.0.0.0:6705->5432/tcp, [::]:6705->5432/tcp"
           },
           {
@@ -3890,35 +3890,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000004",
-          "modifiedAt": "2026-06-18T01:32:51.745Z"
-        },
-        {
-          "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-06-18T01:30:18.091Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-06-18T01:30:17.991Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-06-18T01:30:17.891Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-06-18T01:30:17.791Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-06-18T01:30:17.691Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16436_fsm",
-          "modifiedAt": "2026-06-18T01:30:17.591Z"
+          "modifiedAt": "2026-06-18T02:02:50.117Z"
         },
         {
           "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-06-18T01:30:17.491Z"
+          "modifiedAt": "2026-06-18T02:01:28.047Z"
+        },
+        {
+          "path": "data/postgres/global/pg_control",
+          "modifiedAt": "2026-06-18T02:00:18.428Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16444",
+          "modifiedAt": "2026-06-18T02:00:18.328Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16443",
+          "modifiedAt": "2026-06-18T02:00:18.228Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16442",
+          "modifiedAt": "2026-06-18T02:00:18.128Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16441",
+          "modifiedAt": "2026-06-18T02:00:18.028Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16402",
+          "modifiedAt": "2026-06-18T02:00:17.828Z"
         }
       ],
       "summary": [
