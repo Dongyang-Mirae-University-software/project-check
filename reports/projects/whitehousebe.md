@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhitehouseBE`
 - 분류: 백엔드
-- 점검 시각: 2026-06-18 18:33:52 KST
+- 점검 시각: 2026-06-18 19:03:56 KST
 
 ## 추정 기술 스택
 
@@ -57,11 +57,11 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 41
+- 총 커밋 수: 42
 - 계정별 커밋 수:
-  - YUNA0222 <gold8077@gmail.com>: 33
+  - YUNA0222 <gold8077@gmail.com>: 34
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 8
-- 최근 커밋: 9b3454f / YUNA0222 <gold8077@gmail.com> / Fix: 스웨거 정보 수정
+- 최근 커밋: e7e8c75 / YUNA0222 <gold8077@gmail.com> / Fix: 이슈 수정
 
 ## 최근 수정 파일
 
@@ -80,5 +80,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL
 - 실행 상태: 실행 중
-- Git 커밋 수: 41
-- Git 상위 계정: YUNA0222(33), YUNA0222(8)
+- Git 커밋 수: 42
+- Git 상위 계정: YUNA0222(34), YUNA0222(8)
