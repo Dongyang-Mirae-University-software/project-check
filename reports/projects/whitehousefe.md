@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhitehouseFE`
 - 분류: 프론트엔드
-- 점검 시각: 2026-06-18 17:33:45 KST
+- 점검 시각: 2026-06-18 18:03:49 KST
 
 ## 추정 기술 스택
 
@@ -57,22 +57,22 @@
 ## Git 커밋 현황
 
 - 브랜치: prod
-- 총 커밋 수: 116
+- 총 커밋 수: 118
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 48
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 49
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 24
-- 최근 커밋: 3a36047 / namgung <skarndaudwls@gmail.com> / Merge pull request #36 from Dongyang-Mirae-University-software/design/fear-slider-q2-update
+- 최근 커밋: 6a15da6 / namgung <skarndaudwls@gmail.com> / Merge pull request #37 from Dongyang-Mirae-University-software/feature/yuna-backend-v2-api
 
 ## 최근 수정 파일
 
+- app/(guardian)/dashboard/_components/modals/theme-stocks-modal.tsx (2026-06-18 17:39:57 KST)
+- lib/dashboard/adapt.ts (2026-06-18 17:39:57 KST)
+- lib/data/dashboard-repository.ts (2026-06-18 17:39:57 KST)
+- lib/data/whitehouse-api.ts (2026-06-18 17:39:57 KST)
+- lib/schemas.ts (2026-06-18 17:39:57 KST)
 - app/_intro/fear-slider.tsx (2026-06-18 14:35:06 KST)
 - app/_intro/intro-flow.tsx (2026-06-18 14:35:06 KST)
 - app/(guardian)/dashboard/_components/top-bar.tsx (2026-06-18 14:35:06 KST)
-- app/_intro/lockout-screen.tsx (2026-06-18 14:19:21 KST)
-- lib/dashboard/adapt.ts (2026-06-18 14:19:21 KST)
-- types/index.ts (2026-06-18 14:19:21 KST)
-- app/(guardian)/dashboard/_components/modals/news-detail-modal.tsx (2026-06-18 14:19:21 KST)
-- app/(guardian)/dashboard/_components/news-card.tsx (2026-06-17 23:48:13 KST)
 
 ## 점검 결과 요약
 
@@ -80,5 +80,5 @@
 - 기술 추정: React, Next.js, Node.js, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 116
-- Git 상위 계정: skarndaudwls1(48), skarndaudwls1(24)
+- Git 커밋 수: 118
+- Git 상위 계정: skarndaudwls1(49), skarndaudwls1(24)
