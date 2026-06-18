@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-18T05:03:19.592Z",
-  "generatedAtKst": "2026-06-18 14:03:19 KST",
+  "generatedAt": "2026-06-18T05:33:22.995Z",
+  "generatedAtKst": "2026-06-18 14:33:22 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,28 +19,28 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 1851
+          "count": 1852
         },
         {
           "email": "gosky@gosky.kr",
           "count": 9
         }
       ],
-      "count": 1860
+      "count": 1861
     },
     {
       "name": "YUNA0222",
       "emails": [
         {
           "email": "gold8077@gmail.com",
-          "count": 1136
+          "count": 1140
         },
         {
           "email": "89885846+yuna0222@users.noreply.github.com",
           "count": 13
         }
       ],
-      "count": 1149
+      "count": 1153
     },
     {
       "name": "Jaehe-he",
@@ -57,14 +57,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 373
+          "count": 374
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 133
         }
       ],
-      "count": 506
+      "count": 507
     }
   ],
   "projects": [
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1716,
+        "commitCount": 1717,
         "authors": [
           {
-            "count": 1716,
+            "count": 1717,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "bce099f2",
+          "hash": "c6d71e91",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-06-18T13:33:18+09:00",
+          "date": "2026-06-18T14:03:21+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1716개 커밋, 상위 계정: gosky(1716), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1717개 커밋, 상위 계정: gosky(1717), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1716",
-        "Git 상위 계정: gosky(1716)"
+        "Git 커밋 수: 1717",
+        "Git 상위 계정: gosky(1717)"
       ]
     },
     {
@@ -3547,7 +3547,7 @@
         }
       ],
       "structure": {
-        "fileCount": 22,
+        "fileCount": 17,
         "dirCount": 22,
         "mainFolders": [
           "gradle",
@@ -3597,7 +3597,7 @@
           {
             "name": "whitehousebe-api-1",
             "image": "whitehousebe-api",
-            "status": "Up 23 hours",
+            "status": "Up 5 minutes",
             "ports": "0.0.0.0:6701->6701/tcp, [::]:6701->6701/tcp"
           },
           {
@@ -3609,7 +3609,7 @@
           {
             "name": "whitehouse-b-app",
             "image": "whitehousebeljh-app",
-            "status": "Up 28 hours",
+            "status": "Up 29 hours",
             "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
           }
         ],
@@ -3632,10 +3632,10 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 37,
+        "commitCount": 41,
         "authors": [
           {
-            "count": 29,
+            "count": 33,
             "name": "YUNA0222",
             "email": "gold8077@gmail.com"
           },
@@ -3646,15 +3646,19 @@
           }
         ],
         "latestCommit": {
-          "hash": "47e4b46",
+          "hash": "9b3454f",
           "author": "YUNA0222",
           "email": "gold8077@gmail.com",
-          "date": "2026-06-16T10:41:30+09:00",
-          "subject": "Fix: parsePubDate 메서드 교체 및 Truth Social URL 가드"
+          "date": "2026-06-18T14:26:58+09:00",
+          "subject": "Fix: 스웨거 정보 수정"
         },
-        "summary": "총 37개 커밋, 상위 계정: YUNA0222(29), YUNA0222(8), 최근: Fix: parsePubDate 메서드 교체 및 Truth Social URL 가드"
+        "summary": "총 41개 커밋, 상위 계정: YUNA0222(33), YUNA0222(8), 최근: Fix: 스웨거 정보 수정"
       },
       "recentFiles": [
+        {
+          "path": "src/main/resources/application.yaml",
+          "modifiedAt": "2026-06-18T05:33:16.871Z"
+        },
         {
           "path": "src/main/resources/static/images/angry.jpeg",
           "modifiedAt": "2026-06-17T06:18:27.725Z"
@@ -3680,10 +3684,6 @@
           "modifiedAt": "2026-06-17T00:11:40.578Z"
         },
         {
-          "path": "src/main/resources/application.yaml",
-          "modifiedAt": "2026-06-16T03:08:54.006Z"
-        },
-        {
           "path": "docker-compose.yml",
           "modifiedAt": "2026-06-11T03:38:07.482Z"
         }
@@ -3693,8 +3693,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 37",
-        "Git 상위 계정: YUNA0222(29), YUNA0222(8)"
+        "Git 커밋 수: 41",
+        "Git 상위 계정: YUNA0222(33), YUNA0222(8)"
       ]
     },
     {
@@ -3838,7 +3838,7 @@
           {
             "name": "whitehouse-b-app",
             "image": "whitehousebeljh-app",
-            "status": "Up 28 hours",
+            "status": "Up 29 hours",
             "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
           }
         ],
@@ -3890,35 +3890,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000004",
-          "modifiedAt": "2026-06-18T05:03:13.005Z"
+          "modifiedAt": "2026-06-18T05:33:16.135Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-06-18T05:00:20.875Z"
+          "modifiedAt": "2026-06-18T05:30:23.598Z"
         },
         {
           "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-06-18T05:00:20.775Z"
+          "modifiedAt": "2026-06-18T05:30:23.498Z"
         },
         {
           "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-06-18T05:00:20.675Z"
+          "modifiedAt": "2026-06-18T05:30:23.398Z"
         },
         {
           "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-06-18T05:00:20.575Z"
+          "modifiedAt": "2026-06-18T05:30:23.298Z"
         },
         {
           "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-06-18T05:00:20.475Z"
+          "modifiedAt": "2026-06-18T05:30:23.198Z"
         },
         {
           "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-06-18T05:00:20.375Z"
+          "modifiedAt": "2026-06-18T05:30:23.098Z"
         },
         {
           "path": "data/postgres/base/16384/16402",
-          "modifiedAt": "2026-06-18T05:00:20.275Z"
+          "modifiedAt": "2026-06-18T05:30:22.998Z"
         }
       ],
       "summary": [
@@ -4070,7 +4070,7 @@
           {
             "name": "whitehousefe-web",
             "image": "whitehousefe-web",
-            "status": "Up 14 hours",
+            "status": "Up 13 minutes",
             "ports": "0.0.0.0:6700->3000/tcp, [::]:6700->3000/tcp"
           }
         ],
@@ -4091,10 +4091,10 @@
       "git": {
         "isRepo": true,
         "branch": "prod",
-        "commitCount": 113,
+        "commitCount": 114,
         "authors": [
           {
-            "count": 46,
+            "count": 47,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -4105,18 +4105,34 @@
           }
         ],
         "latestCommit": {
-          "hash": "8c3cdea",
-          "author": "namgung",
+          "hash": "b4b10cf",
+          "author": "skarndaudwls1",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-06-17T23:46:38+09:00",
-          "subject": "Merge pull request #35 from Dongyang-Mirae-University-software/feature/news-detail-inline-view"
+          "date": "2026-06-18T14:06:07+09:00",
+          "subject": "design: 뉴스 상세 발행시각 표시 및 트럼프 백악관 문구 교체"
         },
-        "summary": "총 113개 커밋, 상위 계정: skarndaudwls1(46), skarndaudwls1(24), 최근: Merge pull request #35 from Dongyang-Mirae-University-software/feature/news-detail-inline-view"
+        "summary": "총 114개 커밋, 상위 계정: skarndaudwls1(47), skarndaudwls1(24), 최근: design: 뉴스 상세 발행시각 표시 및 트럼프 백악관 문구 교체"
       },
       "recentFiles": [
         {
+          "path": "app/_intro/lockout-screen.tsx",
+          "modifiedAt": "2026-06-18T05:19:21.276Z"
+        },
+        {
+          "path": "lib/dashboard/adapt.ts",
+          "modifiedAt": "2026-06-18T05:19:21.276Z"
+        },
+        {
+          "path": "types/index.ts",
+          "modifiedAt": "2026-06-18T05:19:21.276Z"
+        },
+        {
+          "path": "app/_intro/intro-flow.tsx",
+          "modifiedAt": "2026-06-18T05:19:21.272Z"
+        },
+        {
           "path": "app/(guardian)/dashboard/_components/modals/news-detail-modal.tsx",
-          "modifiedAt": "2026-06-17T14:48:13.631Z"
+          "modifiedAt": "2026-06-18T05:19:21.272Z"
         },
         {
           "path": "app/(guardian)/dashboard/_components/news-card.tsx",
@@ -4129,22 +4145,6 @@
         {
           "path": "lib/data/dashboard-repository.ts",
           "modifiedAt": "2026-06-17T05:38:02.345Z"
-        },
-        {
-          "path": "lib/dashboard/adapt.ts",
-          "modifiedAt": "2026-06-17T05:23:18.713Z"
-        },
-        {
-          "path": "lib/schemas.ts",
-          "modifiedAt": "2026-06-17T05:23:18.713Z"
-        },
-        {
-          "path": "types/index.ts",
-          "modifiedAt": "2026-06-17T05:23:18.713Z"
-        },
-        {
-          "path": "app/_intro/intro-flow.tsx",
-          "modifiedAt": "2026-06-17T05:13:35.950Z"
         }
       ],
       "summary": [
@@ -4152,8 +4152,8 @@
         "기술 추정: React, Next.js, Node.js, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 113",
-        "Git 상위 계정: skarndaudwls1(46), skarndaudwls1(24)"
+        "Git 커밋 수: 114",
+        "Git 상위 계정: skarndaudwls1(47), skarndaudwls1(24)"
       ]
     }
   ]
