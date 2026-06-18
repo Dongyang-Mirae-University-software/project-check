@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-18T20:05:07.171Z",
-  "generatedAtKst": "2026-06-19 05:05:07 KST",
+  "generatedAt": "2026-06-18T20:35:10.867Z",
+  "generatedAtKst": "2026-06-19 05:35:10 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 1881
+          "count": 1882
         },
         {
           "email": "gosky@gosky.kr",
           "count": 9
         }
       ],
-      "count": 1890
+      "count": 1891
     },
     {
       "name": "YUNA0222",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1746,
+        "commitCount": 1747,
         "authors": [
           {
-            "count": 1746,
+            "count": 1747,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "d6f6e622",
+          "hash": "92498999",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-06-19T04:35:05+09:00",
+          "date": "2026-06-19T05:05:09+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1746개 커밋, 상위 계정: gosky(1746), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1747개 커밋, 상위 계정: gosky(1747), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1746",
-        "Git 상위 계정: gosky(1746)"
+        "Git 커밋 수: 1747",
+        "Git 상위 계정: gosky(1747)"
       ]
     },
     {
@@ -3597,7 +3597,7 @@
           {
             "name": "whitehousebe-api-1",
             "image": "whitehousebe-api",
-            "status": "Up 9 hours",
+            "status": "Up 10 hours",
             "ports": "0.0.0.0:6701->6701/tcp, [::]:6701->6701/tcp"
           },
           {
@@ -3609,7 +3609,7 @@
           {
             "name": "whitehouse-b-app",
             "image": "whitehousebeljh-app",
-            "status": "Up 43 hours",
+            "status": "Up 44 hours",
             "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
           }
         ],
@@ -3838,7 +3838,7 @@
           {
             "name": "whitehouse-b-app",
             "image": "whitehousebeljh-app",
-            "status": "Up 43 hours",
+            "status": "Up 44 hours",
             "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
           }
         ],
@@ -3890,35 +3890,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000005",
-          "modifiedAt": "2026-06-18T20:04:04.560Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-06-18T20:02:22.069Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16386",
-          "modifiedAt": "2026-06-18T20:01:45.882Z"
+          "modifiedAt": "2026-06-18T20:34:59.733Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-06-18T20:00:40.031Z"
+          "modifiedAt": "2026-06-18T20:30:39.748Z"
         },
         {
           "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-06-18T20:00:39.931Z"
+          "modifiedAt": "2026-06-18T20:30:39.644Z"
         },
         {
           "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-06-18T20:00:39.831Z"
+          "modifiedAt": "2026-06-18T20:30:39.544Z"
         },
         {
           "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-06-18T20:00:39.731Z"
+          "modifiedAt": "2026-06-18T20:30:39.444Z"
         },
         {
           "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-06-18T20:00:39.631Z"
+          "modifiedAt": "2026-06-18T20:30:39.344Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16436",
+          "modifiedAt": "2026-06-18T20:30:39.244Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16402",
+          "modifiedAt": "2026-06-18T20:30:39.144Z"
         }
       ],
       "summary": [
@@ -4070,7 +4070,7 @@
           {
             "name": "whitehousefe-web",
             "image": "whitehousefe-web",
-            "status": "Up 4 hours",
+            "status": "Up 5 hours",
             "ports": "0.0.0.0:6700->3000/tcp, [::]:6700->3000/tcp"
           }
         ],
