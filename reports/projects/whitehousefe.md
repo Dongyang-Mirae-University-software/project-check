@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhitehouseFE`
 - 분류: 프론트엔드
-- 점검 시각: 2026-06-18 20:04:03 KST
+- 점검 시각: 2026-06-18 20:34:06 KST
 
 ## 추정 기술 스택
 
@@ -57,22 +57,22 @@
 ## Git 커밋 현황
 
 - 브랜치: prod
-- 총 커밋 수: 128
+- 총 커밋 수: 130
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 54
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 56
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 24
-- 최근 커밋: fd359f4 / namgung <skarndaudwls@gmail.com> / Merge pull request #42 from Dongyang-Mirae-University-software/design/today-mood-label
+- 최근 커밋: 24666bb / skarndaudwls1 <skarndaudwls@gmail.com> / feat: GET /api/trump/today latestPost 스키마 반영 및 fallback 트윗 추가
 
 ## 최근 수정 파일
 
+- lib/dashboard/adapt.ts (2026-06-18 20:30:15 KST)
+- lib/data/dashboard-repository.ts (2026-06-18 20:30:15 KST)
+- lib/schemas.ts (2026-06-18 20:30:15 KST)
+- app/(guardian)/dashboard/_components/top-bar.tsx (2026-06-18 20:19:28 KST)
+- app/(guardian)/dashboard/dashboard-view.tsx (2026-06-18 20:19:28 KST)
 - app/(guardian)/dashboard/_components/today-card.tsx (2026-06-18 18:41:16 KST)
-- app/(guardian)/dashboard/dashboard-view.tsx (2026-06-18 18:41:16 KST)
 - app/(guardian)/dashboard/_components/modals/tweet-modal.tsx (2026-06-18 18:31:50 KST)
-- lib/data/dashboard-repository.ts (2026-06-18 18:31:50 KST)
 - lib/data/whitehouse-api.ts (2026-06-18 18:31:50 KST)
-- README.md (2026-06-18 18:31:50 KST)
-- app/(guardian)/dashboard/_components/modals/theme-stocks-modal.tsx (2026-06-18 17:39:57 KST)
-- lib/dashboard/adapt.ts (2026-06-18 17:39:57 KST)
 
 ## 점검 결과 요약
 
@@ -80,5 +80,5 @@
 - 기술 추정: React, Next.js, Node.js, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 128
-- Git 상위 계정: skarndaudwls1(54), skarndaudwls1(24)
+- Git 커밋 수: 130
+- Git 상위 계정: skarndaudwls1(56), skarndaudwls1(24)
