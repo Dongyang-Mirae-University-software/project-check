@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-18T19:35:03.652Z",
-  "generatedAtKst": "2026-06-19 04:35:03 KST",
+  "generatedAt": "2026-06-18T20:05:07.171Z",
+  "generatedAtKst": "2026-06-19 05:05:07 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 1880
+          "count": 1881
         },
         {
           "email": "gosky@gosky.kr",
           "count": 9
         }
       ],
-      "count": 1889
+      "count": 1890
     },
     {
       "name": "YUNA0222",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1745,
+        "commitCount": 1746,
         "authors": [
           {
-            "count": 1745,
+            "count": 1746,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "09aaafc9",
+          "hash": "d6f6e622",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-06-19T04:05:01+09:00",
+          "date": "2026-06-19T04:35:05+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1745개 커밋, 상위 계정: gosky(1745), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1746개 커밋, 상위 계정: gosky(1746), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1745",
-        "Git 상위 계정: gosky(1745)"
+        "Git 커밋 수: 1746",
+        "Git 상위 계정: gosky(1746)"
       ]
     },
     {
@@ -3603,7 +3603,7 @@
           {
             "name": "whitehousebe-db-1",
             "image": "postgres:16",
-            "status": "Up 37 hours (healthy)",
+            "status": "Up 38 hours (healthy)",
             "ports": "0.0.0.0:6705->5432/tcp, [::]:6705->5432/tcp"
           },
           {
@@ -3890,35 +3890,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000005",
-          "modifiedAt": "2026-06-18T19:30:40.012Z"
-        },
-        {
-          "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-06-18T19:30:39.612Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-06-18T19:30:39.512Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-06-18T19:30:39.412Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-06-18T19:30:39.312Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-06-18T19:30:39.212Z"
+          "modifiedAt": "2026-06-18T20:04:04.560Z"
         },
         {
           "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-06-18T19:30:39.108Z"
+          "modifiedAt": "2026-06-18T20:02:22.069Z"
         },
         {
-          "path": "data/postgres/base/16384/16402",
-          "modifiedAt": "2026-06-18T19:30:39.008Z"
+          "path": "data/postgres/base/16384/16386",
+          "modifiedAt": "2026-06-18T20:01:45.882Z"
+        },
+        {
+          "path": "data/postgres/global/pg_control",
+          "modifiedAt": "2026-06-18T20:00:40.031Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16444",
+          "modifiedAt": "2026-06-18T20:00:39.931Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16443",
+          "modifiedAt": "2026-06-18T20:00:39.831Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16442",
+          "modifiedAt": "2026-06-18T20:00:39.731Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16441",
+          "modifiedAt": "2026-06-18T20:00:39.631Z"
         }
       ],
       "summary": [
