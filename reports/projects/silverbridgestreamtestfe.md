@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeStreamTestFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-06-19 13:06:05 KST
+- 점검 시각: 2026-06-19 13:36:08 KST
 
 ## 추정 기술 스택
 
@@ -64,7 +64,7 @@
 
 ## 최근 수정 파일
 
-- package.json (2026-06-18 16:25:49 KST)
+- package.json (2026-06-19 13:11:50 KST)
 - README.md (2026-06-01 14:42:21 KST)
 - src/App.jsx (2026-06-01 14:40:49 KST)
 - src/ChatConsultPanel.jsx (2026-06-01 09:57:47 KST)
