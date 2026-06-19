@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-19T10:36:48.647Z",
-  "generatedAtKst": "2026-06-19 19:36:48 KST",
+  "generatedAt": "2026-06-19T11:06:52.124Z",
+  "generatedAtKst": "2026-06-19 20:06:52 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 1910
+          "count": 1911
         },
         {
           "email": "gosky@gosky.kr",
           "count": 9
         }
       ],
-      "count": 1919
+      "count": 1920
     },
     {
       "name": "YUNA0222",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1775,
+        "commitCount": 1776,
         "authors": [
           {
-            "count": 1775,
+            "count": 1776,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "3ee00463",
+          "hash": "4dd41209",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-06-19T19:06:47+09:00",
+          "date": "2026-06-19T19:36:50+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1775개 커밋, 상위 계정: gosky(1775), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1776개 커밋, 상위 계정: gosky(1776), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1775",
-        "Git 상위 계정: gosky(1775)"
+        "Git 커밋 수: 1776",
+        "Git 상위 계정: gosky(1776)"
       ]
     },
     {
@@ -3597,13 +3597,13 @@
           {
             "name": "whitehousebe-api-1",
             "image": "whitehousebe-api",
-            "status": "Up 10 hours",
+            "status": "Up 11 hours",
             "ports": "0.0.0.0:6701->6701/tcp, [::]:6701->6701/tcp"
           },
           {
             "name": "whitehousebe-db-1",
             "image": "postgres:16",
-            "status": "Up 10 hours (healthy)",
+            "status": "Up 11 hours (healthy)",
             "ports": "0.0.0.0:6705->5432/tcp, [::]:6705->5432/tcp"
           },
           {
@@ -3890,35 +3890,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000006",
-          "modifiedAt": "2026-06-19T10:35:58.881Z"
+          "modifiedAt": "2026-06-19T11:06:04.603Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-06-19T10:35:52.874Z"
+          "modifiedAt": "2026-06-19T11:05:54.591Z"
         },
         {
           "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-06-19T10:35:52.774Z"
+          "modifiedAt": "2026-06-19T11:05:54.491Z"
         },
         {
           "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-06-19T10:35:52.674Z"
+          "modifiedAt": "2026-06-19T11:05:54.391Z"
         },
         {
           "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-06-19T10:35:52.574Z"
+          "modifiedAt": "2026-06-19T11:05:54.291Z"
         },
         {
           "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-06-19T10:35:52.474Z"
+          "modifiedAt": "2026-06-19T11:05:54.191Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16436_fsm",
+          "modifiedAt": "2026-06-19T11:05:54.091Z"
         },
         {
           "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-06-19T10:35:52.374Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16402",
-          "modifiedAt": "2026-06-19T10:35:52.274Z"
+          "modifiedAt": "2026-06-19T11:05:53.991Z"
         }
       ],
       "summary": [
