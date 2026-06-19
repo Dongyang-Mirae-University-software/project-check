@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhitehouseFE`
 - 분류: 프론트엔드
-- 점검 시각: 2026-06-19 10:35:47 KST
+- 점검 시각: 2026-06-19 11:05:51 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 52
+- 파일 개수: 51
 - 디렉토리 개수: 19
 - 주요 폴더: app, components, docker, docs, lib, public, types
 - 주요 경로: app, app/_intro, app/(guardian), app/(guardian)/dashboard, app/(guardian)/dashboard/_components, app/(guardian)/dashboard/_components/modals, app/(guardian)/dashboard/_lib, components, components/ui, lib, lib/ai, lib/dashboard, lib/data, lib/utils, public
@@ -57,22 +57,22 @@
 ## Git 커밋 현황
 
 - 브랜치: prod
-- 총 커밋 수: 134
+- 총 커밋 수: 138
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 60
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 63
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 24
-- 최근 커밋: d4fca5c / skarndaudwls1 <skarndaudwls@gmail.com> / ﻿docs: CLAUDE.md, README.md, 설명서 전반 업데이트
+- 최근 커밋: fe924c9 / namgung <skarndaudwls@gmail.com> / Merge pull request #43 from Dongyang-Mirae-University-software/chore/frontend-audit-fixes
 
 ## 최근 수정 파일
 
-- docs/프로젝트_설명_백엔드_윤아.txt (2026-06-19 09:17:58 KST)
-- docs/프로젝트_설명_백엔드_재희.txt (2026-06-19 09:17:58 KST)
-- CLAUDE.md (2026-06-19 09:17:58 KST)
-- docs/프로젝트_설명.txt (2026-06-19 09:17:58 KST)
-- README.md (2026-06-19 09:17:58 KST)
-- app/_intro/intro-flow.tsx (2026-06-19 01:02:20 KST)
-- app/_intro/lockout-screen.tsx (2026-06-19 01:02:20 KST)
-- app/(guardian)/dashboard/_components/modals/quotes-modal.tsx (2026-06-19 01:02:20 KST)
+- app/_intro/intro-flow.tsx (2026-06-19 10:53:44 KST)
+- app/_intro/question-card.tsx (2026-06-19 10:53:44 KST)
+- app/(guardian)/dashboard/_components/modals/theme-stocks-modal.tsx (2026-06-19 10:53:44 KST)
+- app/(guardian)/dashboard/_components/modals/tweet-modal.tsx (2026-06-19 10:53:44 KST)
+- app/(guardian)/dashboard/_components/news-card.tsx (2026-06-19 10:53:44 KST)
+- app/(guardian)/dashboard/dashboard-view.tsx (2026-06-19 10:53:44 KST)
+- CLAUDE.md (2026-06-19 10:53:44 KST)
+- docs/프로젝트_설명.txt (2026-06-19 10:53:44 KST)
 
 ## 점검 결과 요약
 
@@ -80,5 +80,5 @@
 - 기술 추정: React, Next.js, Node.js, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 134
-- Git 상위 계정: skarndaudwls1(60), skarndaudwls1(24)
+- Git 커밋 수: 138
+- Git 상위 계정: skarndaudwls1(63), skarndaudwls1(24)

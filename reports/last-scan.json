@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-19T01:35:45.860Z",
-  "generatedAtKst": "2026-06-19 10:35:45 KST",
+  "generatedAt": "2026-06-19T02:05:49.689Z",
+  "generatedAtKst": "2026-06-19 11:05:49 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 1892
+          "count": 1893
         },
         {
           "email": "gosky@gosky.kr",
           "count": 9
         }
       ],
-      "count": 1901
+      "count": 1902
     },
     {
       "name": "YUNA0222",
@@ -57,14 +57,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 387
+          "count": 390
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 133
         }
       ],
-      "count": 520
+      "count": 523
     }
   ],
   "projects": [
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1757,
+        "commitCount": 1758,
         "authors": [
           {
-            "count": 1757,
+            "count": 1758,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "3d9eee3a",
+          "hash": "cef212ca",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-06-19T10:05:44+09:00",
+          "date": "2026-06-19T10:35:47+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1757개 커밋, 상위 계정: gosky(1757), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1758개 커밋, 상위 계정: gosky(1758), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1757",
-        "Git 상위 계정: gosky(1757)"
+        "Git 커밋 수: 1758",
+        "Git 상위 계정: gosky(1758)"
       ]
     },
     {
@@ -3597,13 +3597,13 @@
           {
             "name": "whitehousebe-api-1",
             "image": "whitehousebe-api",
-            "status": "Up About an hour",
+            "status": "Up 2 hours",
             "ports": "0.0.0.0:6701->6701/tcp, [::]:6701->6701/tcp"
           },
           {
             "name": "whitehousebe-db-1",
             "image": "postgres:16",
-            "status": "Up About an hour (healthy)",
+            "status": "Up 2 hours (healthy)",
             "ports": "0.0.0.0:6705->5432/tcp, [::]:6705->5432/tcp"
           },
           {
@@ -3889,36 +3889,36 @@
       },
       "recentFiles": [
         {
-          "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-06-19T01:35:43.630Z"
+          "path": "data/postgres/pg_wal/000000010000000000000005",
+          "modifiedAt": "2026-06-19T02:05:51.077Z"
         },
         {
-          "path": "data/postgres/pg_wal/000000010000000000000005",
-          "modifiedAt": "2026-06-19T01:35:43.630Z"
+          "path": "data/postgres/global/pg_control",
+          "modifiedAt": "2026-06-19T02:05:44.469Z"
         },
         {
           "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-06-19T01:35:43.526Z"
+          "modifiedAt": "2026-06-19T02:05:44.369Z"
         },
         {
           "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-06-19T01:35:43.426Z"
+          "modifiedAt": "2026-06-19T02:05:44.269Z"
         },
         {
           "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-06-19T01:35:43.326Z"
+          "modifiedAt": "2026-06-19T02:05:44.169Z"
         },
         {
           "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-06-19T01:35:43.226Z"
+          "modifiedAt": "2026-06-19T02:05:44.065Z"
         },
         {
           "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-06-19T01:35:43.126Z"
+          "modifiedAt": "2026-06-19T02:05:43.965Z"
         },
         {
           "path": "data/postgres/base/16384/16402",
-          "modifiedAt": "2026-06-19T01:35:43.026Z"
+          "modifiedAt": "2026-06-19T02:05:43.865Z"
         }
       ],
       "summary": [
@@ -4023,7 +4023,7 @@
         }
       ],
       "structure": {
-        "fileCount": 52,
+        "fileCount": 51,
         "dirCount": 19,
         "mainFolders": [
           "app",
@@ -4070,7 +4070,7 @@
           {
             "name": "whitehousefe-web",
             "image": "whitehousefe-web",
-            "status": "Up 10 hours",
+            "status": "Up 11 minutes",
             "ports": "0.0.0.0:6700->3000/tcp, [::]:6700->3000/tcp"
           }
         ],
@@ -4091,10 +4091,10 @@
       "git": {
         "isRepo": true,
         "branch": "prod",
-        "commitCount": 134,
+        "commitCount": 138,
         "authors": [
           {
-            "count": 60,
+            "count": 63,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -4105,46 +4105,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "d4fca5c",
-          "author": "skarndaudwls1",
+          "hash": "fe924c9",
+          "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-06-19T01:14:54+09:00",
-          "subject": "﻿docs: CLAUDE.md, README.md, 설명서 전반 업데이트"
+          "date": "2026-06-19T10:50:28+09:00",
+          "subject": "Merge pull request #43 from Dongyang-Mirae-University-software/chore/frontend-audit-fixes"
         },
-        "summary": "총 134개 커밋, 상위 계정: skarndaudwls1(60), skarndaudwls1(24), 최근: ﻿docs: CLAUDE.md, README.md, 설명서 전반 업데이트"
+        "summary": "총 138개 커밋, 상위 계정: skarndaudwls1(63), skarndaudwls1(24), 최근: Merge pull request #43 from Dongyang-Mirae-University-software/chore/frontend-audit-fixes"
       },
       "recentFiles": [
         {
-          "path": "docs/프로젝트_설명_백엔드_윤아.txt",
-          "modifiedAt": "2026-06-19T00:17:58.220Z"
+          "path": "app/_intro/intro-flow.tsx",
+          "modifiedAt": "2026-06-19T01:53:44.568Z"
         },
         {
-          "path": "docs/프로젝트_설명_백엔드_재희.txt",
-          "modifiedAt": "2026-06-19T00:17:58.220Z"
+          "path": "app/_intro/question-card.tsx",
+          "modifiedAt": "2026-06-19T01:53:44.568Z"
+        },
+        {
+          "path": "app/(guardian)/dashboard/_components/modals/theme-stocks-modal.tsx",
+          "modifiedAt": "2026-06-19T01:53:44.568Z"
+        },
+        {
+          "path": "app/(guardian)/dashboard/_components/modals/tweet-modal.tsx",
+          "modifiedAt": "2026-06-19T01:53:44.568Z"
+        },
+        {
+          "path": "app/(guardian)/dashboard/_components/news-card.tsx",
+          "modifiedAt": "2026-06-19T01:53:44.568Z"
+        },
+        {
+          "path": "app/(guardian)/dashboard/dashboard-view.tsx",
+          "modifiedAt": "2026-06-19T01:53:44.568Z"
         },
         {
           "path": "CLAUDE.md",
-          "modifiedAt": "2026-06-19T00:17:58.216Z"
+          "modifiedAt": "2026-06-19T01:53:44.568Z"
         },
         {
           "path": "docs/프로젝트_설명.txt",
-          "modifiedAt": "2026-06-19T00:17:58.216Z"
-        },
-        {
-          "path": "README.md",
-          "modifiedAt": "2026-06-19T00:17:58.216Z"
-        },
-        {
-          "path": "app/_intro/intro-flow.tsx",
-          "modifiedAt": "2026-06-18T16:02:20.868Z"
-        },
-        {
-          "path": "app/_intro/lockout-screen.tsx",
-          "modifiedAt": "2026-06-18T16:02:20.868Z"
-        },
-        {
-          "path": "app/(guardian)/dashboard/_components/modals/quotes-modal.tsx",
-          "modifiedAt": "2026-06-18T16:02:20.868Z"
+          "modifiedAt": "2026-06-19T01:53:44.568Z"
         }
       ],
       "summary": [
@@ -4152,8 +4152,8 @@
         "기술 추정: React, Next.js, Node.js, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 134",
-        "Git 상위 계정: skarndaudwls1(60), skarndaudwls1(24)"
+        "Git 커밋 수: 138",
+        "Git 상위 계정: skarndaudwls1(63), skarndaudwls1(24)"
       ]
     }
   ]
