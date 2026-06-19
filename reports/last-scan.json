@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-19T12:06:58.897Z",
-  "generatedAtKst": "2026-06-19 21:06:58 KST",
+  "generatedAt": "2026-06-19T12:37:02.561Z",
+  "generatedAtKst": "2026-06-19 21:37:02 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -10,8 +10,8 @@
     "ai": 5,
     "db": 8,
     "gitRepos": 15,
-    "running": 14,
-    "stopped": 5
+    "running": 13,
+    "stopped": 6
   },
   "gitAuthors": [
     {
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 1913
+          "count": 1914
         },
         {
           "email": "gosky@gosky.kr",
           "count": 9
         }
       ],
-      "count": 1922
+      "count": 1923
     },
     {
       "name": "YUNA0222",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1778,
+        "commitCount": 1779,
         "authors": [
           {
-            "count": 1778,
+            "count": 1779,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "57165c5f",
+          "hash": "c4e94692",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-06-19T20:36:57+09:00",
+          "date": "2026-06-19T21:07:00+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1778개 커밋, 상위 계정: gosky(1778), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1779개 커밋, 상위 계정: gosky(1779), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1778",
-        "Git 상위 계정: gosky(1778)"
+        "Git 커밋 수: 1779",
+        "Git 상위 계정: gosky(1779)"
       ]
     },
     {
@@ -3593,29 +3593,9 @@
         "status": "실행 중",
         "running": true,
         "pm2": [],
-        "docker": [
-          {
-            "name": "whitehousebe-api-1",
-            "image": "whitehousebe-api",
-            "status": "Up 12 hours",
-            "ports": "0.0.0.0:6701->6701/tcp, [::]:6701->6701/tcp"
-          },
-          {
-            "name": "whitehousebe-db-1",
-            "image": "postgres:16",
-            "status": "Up 12 hours (healthy)",
-            "ports": "0.0.0.0:6705->5432/tcp, [::]:6705->5432/tcp"
-          },
-          {
-            "name": "whitehouse-b-app",
-            "image": "whitehousebeljh-app",
-            "status": "Up 2 days",
-            "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
-          }
-        ],
+        "docker": [],
         "ports": [
-          5432,
-          6701
+          5432
         ],
         "allCandidatePorts": [
           5432,
@@ -3625,8 +3605,8 @@
         "summary": [
           "실행 중",
           "PM2 없음",
-          "Docker 3개",
-          "포트 5432, 6701"
+          "Docker 없음",
+          "포트 5432"
         ]
       },
       "git": {
@@ -3834,19 +3814,9 @@
         "status": "실행 중",
         "running": true,
         "pm2": [],
-        "docker": [
-          {
-            "name": "whitehouse-b-app",
-            "image": "whitehousebeljh-app",
-            "status": "Up 2 days",
-            "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
-          }
-        ],
+        "docker": [],
         "ports": [
-          5432,
-          6700,
-          6701,
-          6705
+          5432
         ],
         "allCandidatePorts": [
           3000,
@@ -3863,8 +3833,8 @@
         "summary": [
           "실행 중",
           "PM2 없음",
-          "Docker 1개",
-          "포트 5432, 6700, 6701, 6705"
+          "Docker 없음",
+          "포트 5432"
         ]
       },
       "git": {
@@ -3889,36 +3859,36 @@
       },
       "recentFiles": [
         {
-          "path": "data/postgres/pg_wal/000000010000000000000006",
-          "modifiedAt": "2026-06-19T12:05:59.025Z"
+          "path": "data/postgres/pg_stat/pgstat.stat",
+          "modifiedAt": "2026-06-19T12:18:44.417Z"
         },
         {
-          "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-06-19T12:05:55.021Z"
+          "path": "data/postgres/base/16384/16385",
+          "modifiedAt": "2026-06-19T12:18:44.413Z"
         },
         {
-          "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-06-19T12:05:54.921Z"
+          "path": "data/postgres/base/16384/16386",
+          "modifiedAt": "2026-06-19T12:18:44.413Z"
         },
         {
-          "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-06-19T12:05:54.821Z"
+          "path": "data/postgres/base/16384/16395",
+          "modifiedAt": "2026-06-19T12:18:44.413Z"
         },
         {
-          "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-06-19T12:05:54.721Z"
+          "path": "data/postgres/base/16384/16397",
+          "modifiedAt": "2026-06-19T12:18:44.413Z"
         },
         {
-          "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-06-19T12:05:54.621Z"
+          "path": "data/postgres/base/16384/16399",
+          "modifiedAt": "2026-06-19T12:18:44.413Z"
         },
         {
-          "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-06-19T12:05:54.517Z"
+          "path": "data/postgres/base/16384/16400",
+          "modifiedAt": "2026-06-19T12:18:44.413Z"
         },
         {
-          "path": "data/postgres/base/16384/16402",
-          "modifiedAt": "2026-06-19T12:05:54.417Z"
+          "path": "data/postgres/base/16384/16401",
+          "modifiedAt": "2026-06-19T12:18:44.413Z"
         }
       ],
       "summary": [
@@ -4063,17 +4033,10 @@
         "summary": "DB 사용 흔적 없음"
       },
       "runtime": {
-        "status": "실행 중",
-        "running": true,
+        "status": "정지",
+        "running": false,
         "pm2": [],
-        "docker": [
-          {
-            "name": "whitehousefe-web",
-            "image": "whitehousefe-web",
-            "status": "Up 3 hours",
-            "ports": "0.0.0.0:6700->3000/tcp, [::]:6700->3000/tcp"
-          }
-        ],
+        "docker": [],
         "ports": [],
         "allCandidatePorts": [
           1024,
@@ -4082,10 +4045,7 @@
           3000
         ],
         "summary": [
-          "실행 중",
-          "PM2 없음",
-          "Docker 1개",
-          "포트 확인 불가"
+          "정지 또는 확인 불가"
         ]
       },
       "git": {
@@ -4151,7 +4111,7 @@
         "분류: 프론트엔드",
         "기술 추정: React, Next.js, Node.js, Frontend",
         "DB 사용 흔적 없음",
-        "실행 상태: 실행 중",
+        "실행 상태: 정지",
         "Git 커밋 수: 138",
         "Git 상위 계정: skarndaudwls1(63), skarndaudwls1(24)"
       ]
