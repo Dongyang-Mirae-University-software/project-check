@@ -1,6 +1,6 @@
 # 데이터베이스 상태
 
-- 스캔 시각: 2026-06-19 09:05:37 KST
+- 스캔 시각: 2026-06-19 09:35:40 KST
 
 | 프로젝트 | DB 사용 여부 | 추정 DB | 실행 상태 | 관련 포트 | 관련 컨테이너 |
 | --- | --- | --- | --- | --- | --- |
@@ -20,7 +20,7 @@
 | SilverBridgeSSOBe | 예 | MySQL, Redis | 실행 중 | 3306, 6379, 6501, 18000, 60480 | 확인 불가 |
 | SilverBridgeStreamTestFe | 아니오 | 확인 불가 | 실행 중 | 1012, 6018 | 확인 불가 |
 | TestSilverBridge | 아니오 | 확인 불가 | 확인 불가 | 확인 불가 | 확인 불가 |
-| WhitehouseBE | 예 | PostgreSQL | 실행 중 | 5432, 6701, 7084 | whitehousebe-db-1, whitehouse-b-app |
+| WhitehouseBE | 예 | PostgreSQL | 실행 중 | 5432, 6701, 7084 | whitehousebe-api-1, whitehousebe-db-1, whitehouse-b-app |
 | WhiteHouseBELJH | 예 | PostgreSQL | 실행 중 | 3000, 3001, 5432, 5433, 6700, 6701, 6705, 9090, 10000, 18000 | whitehouse-b-app |
 | WhitehouseFE | 아니오 | 확인 불가 | 실행 중 | 1024, 1280, 2026, 3000 | whitehousefe-web |
 
