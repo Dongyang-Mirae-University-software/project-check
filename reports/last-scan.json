@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-18T23:35:32.163Z",
-  "generatedAtKst": "2026-06-19 08:35:32 KST",
+  "generatedAt": "2026-06-19T00:05:35.570Z",
+  "generatedAtKst": "2026-06-19 09:05:35 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,28 +19,28 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 1888
+          "count": 1889
         },
         {
           "email": "gosky@gosky.kr",
           "count": 9
         }
       ],
-      "count": 1897
+      "count": 1898
     },
     {
       "name": "YUNA0222",
       "emails": [
         {
           "email": "gold8077@gmail.com",
-          "count": 1142
+          "count": 1144
         },
         {
           "email": "89885846+yuna0222@users.noreply.github.com",
           "count": 13
         }
       ],
-      "count": 1155
+      "count": 1157
     },
     {
       "name": "Jaehe-he",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1753,
+        "commitCount": 1754,
         "authors": [
           {
-            "count": 1753,
+            "count": 1754,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "2174490f",
+          "hash": "e1439e05",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-06-19T08:05:30+09:00",
+          "date": "2026-06-19T08:35:34+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1753개 커밋, 상위 계정: gosky(1753), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1754개 커밋, 상위 계정: gosky(1754), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1753",
-        "Git 상위 계정: gosky(1753)"
+        "Git 커밋 수: 1754",
+        "Git 상위 계정: gosky(1754)"
       ]
     },
     {
@@ -3595,15 +3595,9 @@
         "pm2": [],
         "docker": [
           {
-            "name": "whitehousebe-api-1",
-            "image": "whitehousebe-api",
-            "status": "Up 13 hours",
-            "ports": "0.0.0.0:6701->6701/tcp, [::]:6701->6701/tcp"
-          },
-          {
             "name": "whitehousebe-db-1",
             "image": "postgres:16",
-            "status": "Up 41 hours (healthy)",
+            "status": "Up 4 seconds (health: starting)",
             "ports": "0.0.0.0:6705->5432/tcp, [::]:6705->5432/tcp"
           },
           {
@@ -3614,8 +3608,7 @@
           }
         ],
         "ports": [
-          5432,
-          6701
+          5432
         ],
         "allCandidatePorts": [
           5432,
@@ -3625,17 +3618,17 @@
         "summary": [
           "실행 중",
           "PM2 없음",
-          "Docker 3개",
-          "포트 5432, 6701"
+          "Docker 2개",
+          "포트 5432"
         ]
       },
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 43,
+        "commitCount": 45,
         "authors": [
           {
-            "count": 35,
+            "count": 37,
             "name": "YUNA0222",
             "email": "gold8077@gmail.com"
           },
@@ -3646,13 +3639,13 @@
           }
         ],
         "latestCommit": {
-          "hash": "eb91f3c",
+          "hash": "e3cbd9b",
           "author": "YUNA0222",
           "email": "gold8077@gmail.com",
-          "date": "2026-06-18T19:57:43+09:00",
-          "subject": "Fix: 롤백"
+          "date": "2026-06-19T09:03:16+09:00",
+          "subject": "Fix:"
         },
-        "summary": "총 43개 커밋, 상위 계정: YUNA0222(35), YUNA0222(8), 최근: Fix: 롤백"
+        "summary": "총 45개 커밋, 상위 계정: YUNA0222(37), YUNA0222(8), 최근: Fix:"
       },
       "recentFiles": [
         {
@@ -3693,8 +3686,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 43",
-        "Git 상위 계정: YUNA0222(35), YUNA0222(8)"
+        "Git 커밋 수: 45",
+        "Git 상위 계정: YUNA0222(37), YUNA0222(8)"
       ]
     },
     {
@@ -3845,7 +3838,6 @@
         "ports": [
           5432,
           6700,
-          6701,
           6705
         ],
         "allCandidatePorts": [
@@ -3864,7 +3856,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 1개",
-          "포트 5432, 6700, 6701, 6705"
+          "포트 5432, 6700, 6705"
         ]
       },
       "git": {
@@ -3890,35 +3882,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000005",
-          "modifiedAt": "2026-06-18T23:31:53.998Z"
-        },
-        {
-          "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-06-18T23:30:41.611Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-06-18T23:30:41.511Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-06-18T23:30:41.411Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-06-18T23:30:41.311Z"
+          "modifiedAt": "2026-06-19T00:03:17.649Z"
         },
         {
           "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-06-18T23:30:41.211Z"
+          "modifiedAt": "2026-06-19T00:02:56.630Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16442",
+          "modifiedAt": "2026-06-19T00:02:56.630Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16443",
+          "modifiedAt": "2026-06-19T00:02:56.630Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16444",
+          "modifiedAt": "2026-06-19T00:02:56.630Z"
+        },
+        {
+          "path": "data/postgres/global/pg_control",
+          "modifiedAt": "2026-06-19T00:00:41.141Z"
         },
         {
           "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-06-18T23:30:41.111Z"
+          "modifiedAt": "2026-06-19T00:00:40.641Z"
         },
         {
           "path": "data/postgres/base/16384/16402",
-          "modifiedAt": "2026-06-18T23:30:41.011Z"
+          "modifiedAt": "2026-06-19T00:00:40.541Z"
         }
       ],
       "summary": [

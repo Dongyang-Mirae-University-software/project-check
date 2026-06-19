@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhitehouseBE`
 - 분류: 백엔드
-- 점검 시각: 2026-06-19 08:35:34 KST
+- 점검 시각: 2026-06-19 09:05:37 KST
 
 ## 추정 기술 스택
 
@@ -51,17 +51,17 @@
 
 - 상태: 실행 중
 - 관련 포트: 5432, 6701, 7084
-- 관련 Docker 컨테이너: whitehousebe-api-1, whitehousebe-db-1, whitehouse-b-app
+- 관련 Docker 컨테이너: whitehousebe-db-1, whitehouse-b-app
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 43
+- 총 커밋 수: 45
 - 계정별 커밋 수:
-  - YUNA0222 <gold8077@gmail.com>: 35
+  - YUNA0222 <gold8077@gmail.com>: 37
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 8
-- 최근 커밋: eb91f3c / YUNA0222 <gold8077@gmail.com> / Fix: 롤백
+- 최근 커밋: e3cbd9b / YUNA0222 <gold8077@gmail.com> / Fix:
 
 ## 최근 수정 파일
 
@@ -80,5 +80,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL
 - 실행 상태: 실행 중
-- Git 커밋 수: 43
-- Git 상위 계정: YUNA0222(35), YUNA0222(8)
+- Git 커밋 수: 45
+- Git 상위 계정: YUNA0222(37), YUNA0222(8)
