@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-21T22:13:32.716Z",
-  "generatedAtKst": "2026-06-22 07:13:32 KST",
+  "generatedAt": "2026-06-21T22:43:36.177Z",
+  "generatedAtKst": "2026-06-22 07:43:36 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 2029
+          "count": 2030
         },
         {
           "email": "gosky@gosky.kr",
           "count": 9
         }
       ],
-      "count": 2038
+      "count": 2039
     },
     {
       "name": "YUNA0222",
@@ -597,19 +597,19 @@
           {
             "name": "chatsilverbridge-api-1",
             "image": "chatsilverbridge-api",
-            "status": "Up 6 days",
+            "status": "Up 7 days",
             "ports": "0.0.0.0:6012->6012/tcp, [::]:6012->6012/tcp"
           },
           {
             "name": "chatsilverbridge-mysql-1",
             "image": "mysql:8.0",
-            "status": "Up 6 days (healthy)",
+            "status": "Up 7 days (healthy)",
             "ports": "33060/tcp, 0.0.0.0:3307->3306/tcp, [::]:3307->3306/tcp"
           },
           {
             "name": "chatsilverbridgetest-web-1",
             "image": "chatsilverbridgetest-web",
-            "status": "Up 6 days",
+            "status": "Up 7 days",
             "ports": "0.0.0.0:6516->6516/tcp, [::]:6516->6516/tcp"
           }
         ],
@@ -809,7 +809,7 @@
           {
             "name": "chatsilverbridgetest-web-1",
             "image": "chatsilverbridgetest-web",
-            "status": "Up 6 days",
+            "status": "Up 7 days",
             "ports": "0.0.0.0:6516->6516/tcp, [::]:6516->6516/tcp"
           }
         ],
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1894,
+        "commitCount": 1895,
         "authors": [
           {
-            "count": 1894,
+            "count": 1895,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "4792f7ac",
+          "hash": "83f12d29",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-06-22T06:43:31+09:00",
+          "date": "2026-06-22T07:13:34+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1894개 커밋, 상위 계정: gosky(1894), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1895개 커밋, 상위 계정: gosky(1895), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1894",
-        "Git 상위 계정: gosky(1894)"
+        "Git 커밋 수: 1895",
+        "Git 상위 계정: gosky(1895)"
       ]
     },
     {
@@ -1420,7 +1420,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 6 days",
+            "status": "Up 7 days",
             "ports": ""
           }
         ],
@@ -1656,7 +1656,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 6 days",
+            "status": "Up 7 days",
             "ports": ""
           }
         ],
@@ -2553,7 +2553,7 @@
           {
             "name": "silverbridgereservation-reservation-api-1",
             "image": "silverbridgereservation-reservation-api",
-            "status": "Up 6 days",
+            "status": "Up 7 days",
             "ports": "0.0.0.0:6015->6015/tcp, [::]:6015->6015/tcp"
           }
         ],
