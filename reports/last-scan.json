@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-21T23:43:43.263Z",
-  "generatedAtKst": "2026-06-22 08:43:43 KST",
+  "generatedAt": "2026-06-22T00:13:46.729Z",
+  "generatedAtKst": "2026-06-22 09:13:46 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 2032
+          "count": 2033
         },
         {
           "email": "gosky@gosky.kr",
           "count": 9
         }
       ],
-      "count": 2041
+      "count": 2042
     },
     {
       "name": "YUNA0222",
@@ -242,16 +242,16 @@
       },
       "recentFiles": [
         {
+          "path": "training/README.md",
+          "modifiedAt": "2026-06-22T00:11:21.350Z"
+        },
+        {
           "path": "training/scripts/prepare_fire_smoke_dataset.py",
-          "modifiedAt": "2026-06-19T04:11:50.892Z"
+          "modifiedAt": "2026-06-22T00:11:21.350Z"
         },
         {
           "path": "training/scripts/train_yolo.py",
-          "modifiedAt": "2026-06-19T04:11:50.892Z"
-        },
-        {
-          "path": "training/README.md",
-          "modifiedAt": "2026-06-19T04:11:50.884Z"
+          "modifiedAt": "2026-06-22T00:11:21.350Z"
         },
         {
           "path": "training/scripts/prepare_fire_smoke_knife_dataset.py",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1897,
+        "commitCount": 1898,
         "authors": [
           {
-            "count": 1897,
+            "count": 1898,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "40d479ba",
+          "hash": "cfd20286",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-06-22T08:13:41+09:00",
+          "date": "2026-06-22T08:43:45+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1897개 커밋, 상위 계정: gosky(1897), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1898개 커밋, 상위 계정: gosky(1898), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1897",
-        "Git 상위 계정: gosky(1897)"
+        "Git 커밋 수: 1898",
+        "Git 상위 계정: gosky(1898)"
       ]
     },
     {
@@ -1705,35 +1705,35 @@
       "recentFiles": [
         {
           "path": "app/__init__.py",
-          "modifiedAt": "2026-06-19T04:11:50.884Z"
+          "modifiedAt": "2026-06-22T00:11:21.350Z"
         },
         {
           "path": "app/core/__init__.py",
-          "modifiedAt": "2026-06-19T04:11:50.884Z"
+          "modifiedAt": "2026-06-22T00:11:21.350Z"
         },
         {
           "path": "app/core/response.py",
-          "modifiedAt": "2026-06-19T04:11:50.884Z"
+          "modifiedAt": "2026-06-22T00:11:21.350Z"
         },
         {
           "path": "app/core/security.py",
-          "modifiedAt": "2026-06-19T04:11:50.884Z"
+          "modifiedAt": "2026-06-22T00:11:21.350Z"
         },
         {
           "path": "app/database/__init__.py",
-          "modifiedAt": "2026-06-19T04:11:50.884Z"
+          "modifiedAt": "2026-06-22T00:11:21.350Z"
         },
         {
           "path": "app/database/base.py",
-          "modifiedAt": "2026-06-19T04:11:50.884Z"
+          "modifiedAt": "2026-06-22T00:11:21.350Z"
         },
         {
           "path": "app/models/__init__.py",
-          "modifiedAt": "2026-06-19T04:11:50.884Z"
+          "modifiedAt": "2026-06-22T00:11:21.350Z"
         },
         {
           "path": "app/models/stream_session.py",
-          "modifiedAt": "2026-06-19T04:11:50.884Z"
+          "modifiedAt": "2026-06-22T00:11:21.350Z"
         }
       ],
       "summary": [
@@ -3248,7 +3248,7 @@
       "recentFiles": [
         {
           "path": "package.json",
-          "modifiedAt": "2026-06-19T04:11:50.892Z"
+          "modifiedAt": "2026-06-22T00:11:21.358Z"
         },
         {
           "path": "README.md",

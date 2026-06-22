@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/AiSilverBridgeSky`
 - 분류: AI 서버
-- 점검 시각: 2026-06-22 08:43:43 KST
+- 점검 시각: 2026-06-22 09:13:47 KST
 
 ## 추정 기술 스택
 
@@ -69,9 +69,9 @@
 
 ## 최근 수정 파일
 
-- training/scripts/prepare_fire_smoke_dataset.py (2026-06-19 13:11:50 KST)
-- training/scripts/train_yolo.py (2026-06-19 13:11:50 KST)
-- training/README.md (2026-06-19 13:11:50 KST)
+- training/README.md (2026-06-22 09:11:21 KST)
+- training/scripts/prepare_fire_smoke_dataset.py (2026-06-22 09:11:21 KST)
+- training/scripts/train_yolo.py (2026-06-22 09:11:21 KST)
 - training/scripts/prepare_fire_smoke_knife_dataset.py (2026-06-15 16:30:07 KST)
 - training/runs/train_session.log (2026-06-15 16:30:07 KST)
 - training/scripts/export_yolo.py (2026-06-15 16:30:07 KST)
