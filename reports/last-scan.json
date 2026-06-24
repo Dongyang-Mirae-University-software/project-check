@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-23T23:49:29.780Z",
-  "generatedAtKst": "2026-06-24 08:49:29 KST",
+  "generatedAt": "2026-06-24T00:19:33.243Z",
+  "generatedAtKst": "2026-06-24 09:19:33 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 2128
+          "count": 2129
         },
         {
           "email": "gosky@gosky.kr",
           "count": 9
         }
       ],
-      "count": 2137
+      "count": 2138
     },
     {
       "name": "YUNA0222",
@@ -243,15 +243,15 @@
       "recentFiles": [
         {
           "path": "training/README.md",
-          "modifiedAt": "2026-06-22T00:11:21.350Z"
+          "modifiedAt": "2026-06-23T23:54:46.146Z"
         },
         {
           "path": "training/scripts/prepare_fire_smoke_dataset.py",
-          "modifiedAt": "2026-06-22T00:11:21.350Z"
+          "modifiedAt": "2026-06-23T23:54:46.146Z"
         },
         {
           "path": "training/scripts/train_yolo.py",
-          "modifiedAt": "2026-06-22T00:11:21.350Z"
+          "modifiedAt": "2026-06-23T23:54:46.146Z"
         },
         {
           "path": "training/scripts/prepare_fire_smoke_knife_dataset.py",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 1993,
+        "commitCount": 1994,
         "authors": [
           {
-            "count": 1993,
+            "count": 1994,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "a546ed20",
+          "hash": "6ee5d29b",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-06-24T08:19:28+09:00",
+          "date": "2026-06-24T08:49:31+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 1993개 커밋, 상위 계정: gosky(1993), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 1994개 커밋, 상위 계정: gosky(1994), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1993",
-        "Git 상위 계정: gosky(1993)"
+        "Git 커밋 수: 1994",
+        "Git 상위 계정: gosky(1994)"
       ]
     },
     {
@@ -1705,35 +1705,35 @@
       "recentFiles": [
         {
           "path": "app/__init__.py",
-          "modifiedAt": "2026-06-22T00:11:21.350Z"
+          "modifiedAt": "2026-06-23T23:54:46.146Z"
         },
         {
           "path": "app/core/__init__.py",
-          "modifiedAt": "2026-06-22T00:11:21.350Z"
+          "modifiedAt": "2026-06-23T23:54:46.146Z"
         },
         {
           "path": "app/core/response.py",
-          "modifiedAt": "2026-06-22T00:11:21.350Z"
+          "modifiedAt": "2026-06-23T23:54:46.146Z"
         },
         {
           "path": "app/core/security.py",
-          "modifiedAt": "2026-06-22T00:11:21.350Z"
+          "modifiedAt": "2026-06-23T23:54:46.146Z"
         },
         {
           "path": "app/database/__init__.py",
-          "modifiedAt": "2026-06-22T00:11:21.350Z"
+          "modifiedAt": "2026-06-23T23:54:46.146Z"
         },
         {
           "path": "app/database/base.py",
-          "modifiedAt": "2026-06-22T00:11:21.350Z"
+          "modifiedAt": "2026-06-23T23:54:46.146Z"
         },
         {
           "path": "app/models/__init__.py",
-          "modifiedAt": "2026-06-22T00:11:21.350Z"
+          "modifiedAt": "2026-06-23T23:54:46.146Z"
         },
         {
           "path": "app/models/stream_session.py",
-          "modifiedAt": "2026-06-22T00:11:21.350Z"
+          "modifiedAt": "2026-06-23T23:54:46.146Z"
         }
       ],
       "summary": [
@@ -1888,6 +1888,7 @@
         "pm2": [],
         "docker": [],
         "ports": [
+          5173,
           5432,
           6379,
           6511
@@ -1906,7 +1907,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 5432, 6379, 6511"
+          "포트 5173, 5432, 6379, 6511"
         ]
       },
       "git": {
@@ -2558,6 +2559,7 @@
           }
         ],
         "ports": [
+          5173,
           6015,
           6017,
           6018
@@ -2572,7 +2574,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 1개",
-          "포트 6015, 6017, 6018"
+          "포트 5173, 6015, 6017, 6018"
         ]
       },
       "git": {
@@ -3248,7 +3250,7 @@
       "recentFiles": [
         {
           "path": "package.json",
-          "modifiedAt": "2026-06-22T00:11:21.358Z"
+          "modifiedAt": "2026-06-23T23:54:46.158Z"
         },
         {
           "path": "README.md",
