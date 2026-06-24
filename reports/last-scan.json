@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-24T07:20:21.722Z",
-  "generatedAtKst": "2026-06-24 16:20:21 KST",
+  "generatedAt": "2026-06-24T07:50:25.267Z",
+  "generatedAtKst": "2026-06-24 16:50:25 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 2143
+          "count": 2144
         },
         {
           "email": "gosky@gosky.kr",
           "count": 9
         }
       ],
-      "count": 2152
+      "count": 2153
     },
     {
       "name": "YUNA0222",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 2008,
+        "commitCount": 2009,
         "authors": [
           {
-            "count": 2008,
+            "count": 2009,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "eb2f00a6",
+          "hash": "8a09ecd9",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-06-24T15:50:20+09:00",
+          "date": "2026-06-24T16:20:23+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 2008개 커밋, 상위 계정: gosky(2008), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 2009개 커밋, 상위 계정: gosky(2009), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 2008",
-        "Git 상위 계정: gosky(2008)"
+        "Git 커밋 수: 2009",
+        "Git 상위 계정: gosky(2009)"
       ]
     },
     {
@@ -1888,7 +1888,6 @@
         "pm2": [],
         "docker": [],
         "ports": [
-          5173,
           5432,
           6379,
           6511
@@ -1907,7 +1906,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 5173, 5432, 6379, 6511"
+          "포트 5432, 6379, 6511"
         ]
       },
       "git": {
@@ -2559,7 +2558,6 @@
           }
         ],
         "ports": [
-          5173,
           6015,
           6017,
           6018
@@ -2574,7 +2572,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 1개",
-          "포트 5173, 6015, 6017, 6018"
+          "포트 6015, 6017, 6018"
         ]
       },
       "git": {
@@ -3892,35 +3890,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000006",
-          "modifiedAt": "2026-06-24T07:19:08.932Z"
+          "modifiedAt": "2026-06-24T07:49:01.341Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-06-24T07:18:59.320Z"
+          "modifiedAt": "2026-06-24T07:48:59.737Z"
         },
         {
           "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-06-24T07:18:59.220Z"
+          "modifiedAt": "2026-06-24T07:48:59.637Z"
         },
         {
           "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-06-24T07:18:59.120Z"
+          "modifiedAt": "2026-06-24T07:48:59.537Z"
         },
         {
           "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-06-24T07:18:59.020Z"
+          "modifiedAt": "2026-06-24T07:48:59.437Z"
         },
         {
           "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-06-24T07:18:58.920Z"
+          "modifiedAt": "2026-06-24T07:48:59.337Z"
         },
         {
           "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-06-24T07:18:58.820Z"
+          "modifiedAt": "2026-06-24T07:48:59.237Z"
         },
         {
           "path": "data/postgres/base/16384/16402",
-          "modifiedAt": "2026-06-24T07:18:58.720Z"
+          "modifiedAt": "2026-06-24T07:48:59.137Z"
         }
       ],
       "summary": [
