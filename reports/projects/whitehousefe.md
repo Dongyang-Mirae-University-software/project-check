@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhitehouseFE`
 - 분류: 프론트엔드
-- 점검 시각: 2026-06-24 12:19:55 KST
+- 점검 시각: 2026-06-24 12:49:59 KST
 
 ## 추정 기술 스택
 
@@ -49,9 +49,9 @@
 
 ## 실행 상태
 
-- 상태: 정지
+- 상태: 실행 중
 - 관련 포트: 1024, 1280, 2026, 3000
-- 관련 Docker 컨테이너: 확인 불가
+- 관련 Docker 컨테이너: whitehousefe-web
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
@@ -79,6 +79,6 @@
 - 분류: 프론트엔드
 - 기술 추정: React, Next.js, Node.js, Frontend
 - DB 사용 흔적 없음
-- 실행 상태: 정지
+- 실행 상태: 실행 중
 - Git 커밋 수: 138
 - Git 상위 계정: skarndaudwls1(63), skarndaudwls1(24)

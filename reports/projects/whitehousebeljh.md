@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhiteHouseBELJH`
 - 분류: 백엔드
-- 점검 시각: 2026-06-24 12:19:55 KST
+- 점검 시각: 2026-06-24 12:49:58 KST
 
 ## 추정 기술 스택
 
@@ -51,7 +51,7 @@
 
 - 상태: 실행 중
 - 관련 포트: 3000, 3001, 5432, 5433, 6700, 6701, 6705, 9090, 10000, 18000
-- 관련 Docker 컨테이너: 확인 불가
+- 관련 Docker 컨테이너: whitehouse-b-app
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
@@ -64,14 +64,14 @@
 
 ## 최근 수정 파일
 
-- data/postgres/pg_stat/pgstat.stat (2026-06-19 21:18:44 KST)
-- data/postgres/base/16384/16385 (2026-06-19 21:18:44 KST)
-- data/postgres/base/16384/16386 (2026-06-19 21:18:44 KST)
-- data/postgres/base/16384/16395 (2026-06-19 21:18:44 KST)
-- data/postgres/base/16384/16397 (2026-06-19 21:18:44 KST)
-- data/postgres/base/16384/16399 (2026-06-19 21:18:44 KST)
-- data/postgres/base/16384/16400 (2026-06-19 21:18:44 KST)
-- data/postgres/base/16384/16401 (2026-06-19 21:18:44 KST)
+- data/postgres/pg_wal/000000010000000000000006 (2026-06-24 12:49:00 KST)
+- data/postgres/global/pg_control (2026-06-24 12:48:54 KST)
+- data/postgres/base/16384/16444 (2026-06-24 12:48:54 KST)
+- data/postgres/base/16384/16443 (2026-06-24 12:48:54 KST)
+- data/postgres/base/16384/16442 (2026-06-24 12:48:54 KST)
+- data/postgres/base/16384/16441 (2026-06-24 12:48:54 KST)
+- data/postgres/base/16384/16436 (2026-06-24 12:48:54 KST)
+- data/postgres/base/16384/16402 (2026-06-24 12:48:53 KST)
 
 ## 점검 결과 요약
 
