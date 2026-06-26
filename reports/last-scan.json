@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-06-26T22:27:56.026Z",
-  "generatedAtKst": "2026-06-27 07:27:56 KST",
+  "generatedAt": "2026-06-26T22:57:59.495Z",
+  "generatedAtKst": "2026-06-27 07:57:59 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 2269
+          "count": 2270
         },
         {
           "email": "gosky@gosky.kr",
           "count": 9
         }
       ],
-      "count": 2278
+      "count": 2279
     },
     {
       "name": "YUNA0222",
@@ -597,19 +597,19 @@
           {
             "name": "chatsilverbridge-api-1",
             "image": "chatsilverbridge-api",
-            "status": "Up 11 days",
+            "status": "Up 12 days",
             "ports": "0.0.0.0:6012->6012/tcp, [::]:6012->6012/tcp"
           },
           {
             "name": "chatsilverbridge-mysql-1",
             "image": "mysql:8.0",
-            "status": "Up 11 days (healthy)",
+            "status": "Up 12 days (healthy)",
             "ports": "33060/tcp, 0.0.0.0:3307->3306/tcp, [::]:3307->3306/tcp"
           },
           {
             "name": "chatsilverbridgetest-web-1",
             "image": "chatsilverbridgetest-web",
-            "status": "Up 11 days",
+            "status": "Up 12 days",
             "ports": "0.0.0.0:6516->6516/tcp, [::]:6516->6516/tcp"
           }
         ],
@@ -809,7 +809,7 @@
           {
             "name": "chatsilverbridgetest-web-1",
             "image": "chatsilverbridgetest-web",
-            "status": "Up 11 days",
+            "status": "Up 12 days",
             "ports": "0.0.0.0:6516->6516/tcp, [::]:6516->6516/tcp"
           }
         ],
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 2134,
+        "commitCount": 2135,
         "authors": [
           {
-            "count": 2134,
+            "count": 2135,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "316b51c1",
+          "hash": "91176026",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-06-27T06:57:54+09:00",
+          "date": "2026-06-27T07:27:58+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 2134개 커밋, 상위 계정: gosky(2134), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 2135개 커밋, 상위 계정: gosky(2135), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 2134",
-        "Git 상위 계정: gosky(2134)"
+        "Git 커밋 수: 2135",
+        "Git 상위 계정: gosky(2135)"
       ]
     },
     {
@@ -1420,7 +1420,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 11 days",
+            "status": "Up 12 days",
             "ports": ""
           }
         ],
@@ -1656,7 +1656,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 11 days",
+            "status": "Up 12 days",
             "ports": ""
           }
         ],
@@ -2553,7 +2553,7 @@
           {
             "name": "silverbridgereservation-reservation-api-1",
             "image": "silverbridgereservation-reservation-api",
-            "status": "Up 11 days",
+            "status": "Up 12 days",
             "ports": "0.0.0.0:6015->6015/tcp, [::]:6015->6015/tcp"
           }
         ],
@@ -3890,35 +3890,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000008",
-          "modifiedAt": "2026-06-26T22:25:19.057Z"
+          "modifiedAt": "2026-06-26T22:55:15.769Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-06-26T22:25:15.053Z"
+          "modifiedAt": "2026-06-26T22:55:14.769Z"
         },
         {
           "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-06-26T22:25:14.953Z"
+          "modifiedAt": "2026-06-26T22:55:14.665Z"
         },
         {
           "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-06-26T22:25:14.853Z"
+          "modifiedAt": "2026-06-26T22:55:14.565Z"
         },
         {
           "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-06-26T22:25:14.753Z"
+          "modifiedAt": "2026-06-26T22:55:14.465Z"
         },
         {
           "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-06-26T22:25:14.653Z"
+          "modifiedAt": "2026-06-26T22:55:14.365Z"
         },
         {
           "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-06-26T22:25:14.553Z"
+          "modifiedAt": "2026-06-26T22:55:14.265Z"
         },
         {
           "path": "data/postgres/base/16384/16402",
-          "modifiedAt": "2026-06-26T22:25:14.453Z"
+          "modifiedAt": "2026-06-26T22:55:14.165Z"
         }
       ],
       "summary": [
