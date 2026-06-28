@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhiteHouseBELJH`
 - 분류: 백엔드
-- 점검 시각: 2026-06-28 15:01:39 KST
+- 점검 시각: 2026-06-28 15:31:43 KST
 
 ## 추정 기술 스택
 
@@ -64,14 +64,14 @@
 
 ## 최근 수정 파일
 
-- data/postgres/pg_wal/000000010000000000000009 (2026-06-28 15:00:58 KST)
-- data/postgres/global/pg_control (2026-06-28 15:00:55 KST)
-- data/postgres/base/16384/16444 (2026-06-28 15:00:55 KST)
-- data/postgres/base/16384/16443 (2026-06-28 15:00:55 KST)
-- data/postgres/base/16384/16442 (2026-06-28 15:00:55 KST)
-- data/postgres/base/16384/16441 (2026-06-28 15:00:54 KST)
-- data/postgres/base/16384/16436_fsm (2026-06-28 15:00:54 KST)
-- data/postgres/base/16384/16436 (2026-06-28 15:00:54 KST)
+- data/postgres/pg_wal/000000010000000000000009 (2026-06-28 15:30:57 KST)
+- data/postgres/global/pg_control (2026-06-28 15:30:54 KST)
+- data/postgres/base/16384/2619 (2026-06-28 15:30:54 KST)
+- data/postgres/pg_logical/replorigin_checkpoint (2026-06-28 15:30:54 KST)
+- data/postgres/base/16384/16444 (2026-06-28 15:26:06 KST)
+- data/postgres/base/16384/16443 (2026-06-28 15:26:06 KST)
+- data/postgres/base/16384/16442 (2026-06-28 15:26:06 KST)
+- data/postgres/base/16384/16441 (2026-06-28 15:26:06 KST)
 
 ## 점검 결과 요약
 
