@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhitehouseFE`
 - 분류: 프론트엔드
-- 점검 시각: 2026-06-29 08:33:42 KST
+- 점검 시각: 2026-06-29 09:03:45 KST
 
 ## 추정 기술 스택
 
