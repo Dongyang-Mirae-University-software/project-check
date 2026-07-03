@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-07-03T04:16:42.508Z",
-  "generatedAtKst": "2026-07-03 13:16:42 KST",
+  "generatedAt": "2026-07-03T04:46:46.538Z",
+  "generatedAtKst": "2026-07-03 13:46:46 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,28 +19,28 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 2568
+          "count": 2569
         },
         {
           "email": "gosky@gosky.kr",
-          "count": 9
+          "count": 6
         }
       ],
-      "count": 2577
+      "count": 2575
     },
     {
       "name": "YUNA0222",
       "emails": [
         {
           "email": "gold8077@gmail.com",
-          "count": 1148
+          "count": 1441
         },
         {
           "email": "89885846+yuna0222@users.noreply.github.com",
-          "count": 13
+          "count": 18
         }
       ],
-      "count": 1161
+      "count": 1459
     },
     {
       "name": "Jaehe-he",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 2433,
+        "commitCount": 2434,
         "authors": [
           {
-            "count": 2433,
+            "count": 2434,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "9f6dfd8f",
+          "hash": "3461b40b",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-07-03T12:46:41+09:00",
+          "date": "2026-07-03T13:16:45+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 2433개 커밋, 상위 계정: gosky(2433), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 2434개 커밋, 상위 계정: gosky(2434), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 2433",
-        "Git 상위 계정: gosky(2433)"
+        "Git 커밋 수: 2434",
+        "Git 상위 계정: gosky(2434)"
       ]
     },
     {
@@ -2076,9 +2076,10 @@
         }
       ],
       "structure": {
-        "fileCount": 224,
-        "dirCount": 78,
+        "fileCount": 279,
+        "dirCount": 85,
         "mainFolders": [
+          "docs",
           "public",
           "src"
         ],
@@ -2126,8 +2127,8 @@
           6510
         ],
         "allCandidatePorts": [
+          1900,
           3000,
-          5000,
           6000,
           6510,
           60480,
@@ -2143,15 +2144,20 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 483,
+        "commitCount": 746,
         "authors": [
           {
-            "count": 1107,
+            "count": 1400,
             "name": "YUNA0222",
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 9,
+            "count": 10,
+            "name": "YUNA0222",
+            "email": "89885846+yuna0222@users.noreply.github.com"
+          },
+          {
+            "count": 6,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           },
@@ -2159,54 +2165,49 @@
             "count": 6,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
-          },
-          {
-            "count": 5,
-            "name": "YUNA0222",
-            "email": "89885846+yuna0222@users.noreply.github.com"
           }
         ],
         "latestCommit": {
-          "hash": "8adbe88",
-          "author": "gosky",
-          "email": "gosky@gosky.kr",
-          "date": "2026-06-05T14:08:16+09:00",
-          "subject": "Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
+          "hash": "e160256",
+          "author": "YUNA0222",
+          "email": "gold8077@gmail.com",
+          "date": "2026-06-16T21:09:35+09:00",
+          "subject": "Docs: 리드미 작성"
         },
-        "summary": "총 483개 커밋, 상위 계정: YUNA0222(1107), gosky(9), gosky(6), 최근: Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
+        "summary": "총 746개 커밋, 상위 계정: YUNA0222(1400), YUNA0222(10), gosky(6), 최근: Docs: 리드미 작성"
       },
       "recentFiles": [
         {
-          "path": "package-lock.json",
-          "modifiedAt": "2026-06-11T04:13:24.758Z"
+          "path": "src/components/layout/dashboard/DashboardSidebar.module.css",
+          "modifiedAt": "2026-07-03T04:26:29.741Z"
         },
         {
-          "path": "src/service/interface/user.ts",
-          "modifiedAt": "2026-06-09T07:34:06.080Z"
+          "path": "src/components/layout/dashboard/DashboardSidebar.tsx",
+          "modifiedAt": "2026-07-03T04:26:29.741Z"
         },
         {
-          "path": "src/service/query/user/index.ts",
-          "modifiedAt": "2026-06-09T07:34:06.080Z"
+          "path": "src/components/layout/dashboard/ProfileInfoPanel.module.css",
+          "modifiedAt": "2026-07-03T04:26:29.741Z"
         },
         {
-          "path": "src/service/query/user/notification-settings.ts",
-          "modifiedAt": "2026-06-09T07:34:06.080Z"
+          "path": "src/components/layout/dashboard/ProfileInfoPanel.tsx",
+          "modifiedAt": "2026-07-03T04:26:29.741Z"
         },
         {
-          "path": "src/lib/dashboard/profile.ts",
-          "modifiedAt": "2026-06-09T07:34:06.076Z"
+          "path": "src/components/layout/dashboard/ProfileModal.module.css",
+          "modifiedAt": "2026-07-03T04:26:29.741Z"
         },
         {
-          "path": "src/service/api/connect/ward.ts",
-          "modifiedAt": "2026-06-09T07:34:06.076Z"
+          "path": "src/components/layout/dashboard/ProfileModal.tsx",
+          "modifiedAt": "2026-07-03T04:26:29.741Z"
         },
         {
-          "path": "src/service/api/user.ts",
-          "modifiedAt": "2026-06-09T07:34:06.076Z"
+          "path": "src/components/layout/dashboard/ProfileModalControls.module.css",
+          "modifiedAt": "2026-07-03T04:26:29.741Z"
         },
         {
-          "path": "src/components/notices/NoticesPanel.module.css",
-          "modifiedAt": "2026-06-09T07:34:06.072Z"
+          "path": "src/components/layout/dashboard/ProfileModalControls.tsx",
+          "modifiedAt": "2026-07-03T04:26:29.741Z"
         }
       ],
       "summary": [
@@ -2214,8 +2215,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 483",
-        "Git 상위 계정: YUNA0222(1107), gosky(9), gosky(6)"
+        "Git 커밋 수: 746",
+        "Git 상위 계정: YUNA0222(1400), YUNA0222(10), gosky(6)"
       ]
     },
     {
@@ -3890,35 +3891,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/00000001000000000000000D",
-          "modifiedAt": "2026-07-03T04:13:23.228Z"
-        },
-        {
-          "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-07-03T04:13:17.420Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-07-03T04:13:17.320Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-07-03T04:13:17.220Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-07-03T04:13:17.120Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-07-03T04:13:17.020Z"
+          "modifiedAt": "2026-07-03T04:46:37.034Z"
         },
         {
           "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-07-03T04:13:16.920Z"
+          "modifiedAt": "2026-07-03T04:46:26.430Z"
         },
         {
-          "path": "data/postgres/base/16384/16402",
-          "modifiedAt": "2026-07-03T04:13:16.820Z"
+          "path": "data/postgres/base/16384/16386",
+          "modifiedAt": "2026-07-03T04:46:23.474Z"
+        },
+        {
+          "path": "data/postgres/global/pg_control",
+          "modifiedAt": "2026-07-03T04:38:18.654Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16444",
+          "modifiedAt": "2026-07-03T04:38:18.550Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16443",
+          "modifiedAt": "2026-07-03T04:38:18.450Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16442",
+          "modifiedAt": "2026-07-03T04:38:18.350Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16441",
+          "modifiedAt": "2026-07-03T04:38:18.250Z"
         }
       ],
       "summary": [
