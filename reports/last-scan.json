@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-07-14T17:56:56.052Z",
-  "generatedAtKst": "2026-07-15 02:56:56 KST",
+  "generatedAt": "2026-07-14T18:27:00.532Z",
+  "generatedAtKst": "2026-07-15 03:27:00 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 3124
+          "count": 3125
         },
         {
           "email": "gosky@gosky.kr",
           "count": 6
         }
       ],
-      "count": 3130
+      "count": 3131
     },
     {
       "name": "YUNA0222",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 2987,
+        "commitCount": 2988,
         "authors": [
           {
-            "count": 2987,
+            "count": 2988,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "5f01c983c",
+          "hash": "e13b5a49f",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-07-15T02:26:54+09:00",
+          "date": "2026-07-15T02:56:58+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 2987개 커밋, 상위 계정: gosky(2987), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 2988개 커밋, 상위 계정: gosky(2988), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 2987",
-        "Git 상위 계정: gosky(2987)"
+        "Git 커밋 수: 2988",
+        "Git 상위 계정: gosky(2988)"
       ]
     },
     {
@@ -1420,7 +1420,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 15 hours",
+            "status": "Up 16 hours",
             "ports": ""
           }
         ],
@@ -1656,7 +1656,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 15 hours",
+            "status": "Up 16 hours",
             "ports": ""
           }
         ],
@@ -3891,35 +3891,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000018",
-          "modifiedAt": "2026-07-14T17:56:52.476Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-07-14T17:56:11.113Z"
+          "modifiedAt": "2026-07-14T18:25:25.737Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-07-14T17:48:44.958Z"
+          "modifiedAt": "2026-07-14T18:13:47.437Z"
         },
         {
           "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-07-14T17:48:44.858Z"
+          "modifiedAt": "2026-07-14T18:13:47.333Z"
         },
         {
           "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-07-14T17:48:44.758Z"
+          "modifiedAt": "2026-07-14T18:13:47.233Z"
         },
         {
           "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-07-14T17:48:44.654Z"
+          "modifiedAt": "2026-07-14T18:13:47.133Z"
         },
         {
           "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-07-14T17:48:44.554Z"
+          "modifiedAt": "2026-07-14T18:13:47.033Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16436",
+          "modifiedAt": "2026-07-14T18:13:46.933Z"
         },
         {
           "path": "data/postgres/base/16384/16402",
-          "modifiedAt": "2026-07-14T17:48:44.354Z"
+          "modifiedAt": "2026-07-14T18:13:46.833Z"
         }
       ],
       "summary": [
