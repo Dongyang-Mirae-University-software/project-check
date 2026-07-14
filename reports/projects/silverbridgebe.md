@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-07-14 09:54:28 KST
+- 점검 시각: 2026-07-14 10:24:32 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 91
+- 파일 개수: 92
 - 디렉토리 개수: 25
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration, src/test, src/test/java, src/test/java/kr, src/test/java/kr/silverbridge, src/test/java/kr/silverbridge/main, src/test/java/kr/silverbridge/main/domain, src/test/java/kr/silverbridge/main/global
@@ -57,23 +57,23 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 637
+- 총 커밋 수: 639
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 603
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 604
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
-- 최근 커밋: f15d427 / namgung <skarndaudwls@gmail.com> / Merge pull request #214 from Dongyang-Mirae-University-software/feature/anomaly-detection-receiver
+- 최근 커밋: feb3100 / namgung <skarndaudwls@gmail.com> / Merge pull request #215 from Dongyang-Mirae-University-software/refactor/singular-table-names
 
 ## 최근 수정 파일
 
-- 프로젝트_설명.txt (2026-07-14 09:38:54 KST)
+- 프로젝트_설명.txt (2026-07-14 09:56:10 KST)
+- src/main/resources/db/migration/V31__rename_tables_to_singular.sql (2026-07-14 09:56:10 KST)
+- CLAUDE.md (2026-07-14 09:56:10 KST)
+- docs/progress.md (2026-07-14 09:56:10 KST)
 - src/main/resources/application.yaml (2026-07-14 09:38:54 KST)
 - src/main/resources/db/migration/V28__add_inquiries.sql (2026-07-14 09:38:54 KST)
 - src/main/resources/db/migration/V29__add_cameras.sql (2026-07-14 09:38:54 KST)
 - src/main/resources/db/migration/V30__add_anomaly_events.sql (2026-07-14 09:38:54 KST)
-- docs/프로젝트_설명_AI서버.txt (2026-07-14 09:38:54 KST)
-- docs/progress.md (2026-07-14 09:38:54 KST)
-- CLAUDE.md (2026-07-14 09:38:54 KST)
 
 ## 점검 결과 요약
 
@@ -81,5 +81,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 637
-- Git 상위 계정: skarndaudwls1(603), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 639
+- Git 상위 계정: skarndaudwls1(604), skarndaudwls1(65), gosky(4)
