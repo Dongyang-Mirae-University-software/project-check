@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAi`
 - 분류: AI 서버
-- 점검 시각: 2026-07-14 11:24:41 KST
+- 점검 시각: 2026-07-14 11:54:45 KST
 
 ## 추정 기술 스택
 
@@ -57,21 +57,21 @@
 ## Git 커밋 현황
 
 - 브랜치: developing
-- 총 커밋 수: 558
+- 총 커밋 수: 686
 - 계정별 커밋 수:
-  - Jaehe-he <hywuljh1@naver.com>: 616
-- 최근 커밋: 947583797 / Jaehe-he <hywuljh1@naver.com> / docs: 2026-06-04 업데이트
+  - Jaehe-he <hywuljh1@naver.com>: 686
+- 최근 커밋: a99aaca4e / Jaehe-he <hywuljh1@naver.com> / feat: 로깅 기능 추가 - 인물 감지
 
 ## 최근 수정 파일
 
-- models/fire_250ep/weights/last.pt (2026-06-05 14:07:28 KST)
-- src/detection/check_camera.py (2026-06-05 14:07:28 KST)
-- src/detection/integrated_detection.py (2026-06-05 14:07:28 KST)
-- src/detection/multi_detection.py (2026-06-05 14:07:28 KST)
-- src/integration/__init__.py (2026-06-05 14:07:28 KST)
-- src/integration/api_client.py (2026-06-05 14:07:28 KST)
-- src/integration/auth_client.py (2026-06-05 14:07:28 KST)
-- src/integration/config.py (2026-06-05 14:07:28 KST)
+- src/integration/fastapi_client.py (2026-07-14 11:52:13 KST)
+- src/integration/test_fastapi_connection.py (2026-07-14 11:52:13 KST)
+- src/tools/download_frames.py (2026-07-14 11:52:13 KST)
+- src/tools/download_hardneg.py (2026-07-14 11:52:13 KST)
+- src/tools/merge_datasets.py (2026-07-14 11:52:13 KST)
+- src/training/train.py (2026-07-14 11:52:13 KST)
+- docs/experiments_log.md (2026-07-14 11:52:13 KST)
+- docs/model_analysis_table.md (2026-07-14 11:52:13 KST)
 
 ## 점검 결과 요약
 
@@ -79,5 +79,5 @@
 - 기술 추정: Python, fastapi, Backend, AI
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 558
-- Git 상위 계정: Jaehe-he(616)
+- Git 커밋 수: 686
+- Git 상위 계정: Jaehe-he(686)

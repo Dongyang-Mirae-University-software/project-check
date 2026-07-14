@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-07-14T02:24:39.287Z",
-  "generatedAtKst": "2026-07-14 11:24:39 KST",
+  "generatedAt": "2026-07-14T02:54:43.627Z",
+  "generatedAtKst": "2026-07-14 11:54:43 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 3093
+          "count": 3094
         },
         {
           "email": "gosky@gosky.kr",
           "count": 6
         }
       ],
-      "count": 3099
+      "count": 3100
     },
     {
       "name": "YUNA0222",
@@ -47,24 +47,24 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 731
+          "count": 733
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 820
+      "count": 822
     },
     {
       "name": "Jaehe-he",
       "emails": [
         {
           "email": "hywuljh1@naver.com",
-          "count": 627
+          "count": 701
         }
       ],
-      "count": 627
+      "count": 701
     }
   ],
   "projects": [
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 2956,
+        "commitCount": 2957,
         "authors": [
           {
-            "count": 2956,
+            "count": 2957,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "1a710f2e5",
+          "hash": "19338098d",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-07-14T10:54:37+09:00",
+          "date": "2026-07-14T11:24:42+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 2956개 커밋, 상위 계정: gosky(2956), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 2957개 커밋, 상위 계정: gosky(2957), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 2956",
-        "Git 상위 계정: gosky(2956)"
+        "Git 커밋 수: 2957",
+        "Git 상위 계정: gosky(2957)"
       ]
     },
     {
@@ -1420,7 +1420,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 4 weeks",
+            "status": "Up 5 minutes",
             "ports": ""
           }
         ],
@@ -1445,55 +1445,55 @@
       "git": {
         "isRepo": true,
         "branch": "developing",
-        "commitCount": 558,
+        "commitCount": 686,
         "authors": [
           {
-            "count": 616,
+            "count": 686,
             "name": "Jaehe-he",
             "email": "hywuljh1@naver.com"
           }
         ],
         "latestCommit": {
-          "hash": "947583797",
+          "hash": "a99aaca4e",
           "author": "Jaehe-he",
           "email": "hywuljh1@naver.com",
-          "date": "2026-06-04T22:05:32+09:00",
-          "subject": "docs: 2026-06-04 업데이트"
+          "date": "2026-06-15T23:00:56+09:00",
+          "subject": "feat: 로깅 기능 추가 - 인물 감지"
         },
-        "summary": "총 558개 커밋, 상위 계정: Jaehe-he(616), 최근: docs: 2026-06-04 업데이트"
+        "summary": "총 686개 커밋, 상위 계정: Jaehe-he(686), 최근: feat: 로깅 기능 추가 - 인물 감지"
       },
       "recentFiles": [
         {
-          "path": "models/fire_250ep/weights/last.pt",
-          "modifiedAt": "2026-06-05T05:07:28.025Z"
+          "path": "src/integration/fastapi_client.py",
+          "modifiedAt": "2026-07-14T02:52:13.008Z"
         },
         {
-          "path": "src/detection/check_camera.py",
-          "modifiedAt": "2026-06-05T05:07:28.025Z"
+          "path": "src/integration/test_fastapi_connection.py",
+          "modifiedAt": "2026-07-14T02:52:13.008Z"
         },
         {
-          "path": "src/detection/integrated_detection.py",
-          "modifiedAt": "2026-06-05T05:07:28.025Z"
+          "path": "src/tools/download_frames.py",
+          "modifiedAt": "2026-07-14T02:52:13.008Z"
         },
         {
-          "path": "src/detection/multi_detection.py",
-          "modifiedAt": "2026-06-05T05:07:28.025Z"
+          "path": "src/tools/download_hardneg.py",
+          "modifiedAt": "2026-07-14T02:52:13.008Z"
         },
         {
-          "path": "src/integration/__init__.py",
-          "modifiedAt": "2026-06-05T05:07:28.025Z"
+          "path": "src/tools/merge_datasets.py",
+          "modifiedAt": "2026-07-14T02:52:13.008Z"
         },
         {
-          "path": "src/integration/api_client.py",
-          "modifiedAt": "2026-06-05T05:07:28.025Z"
+          "path": "src/training/train.py",
+          "modifiedAt": "2026-07-14T02:52:13.008Z"
         },
         {
-          "path": "src/integration/auth_client.py",
-          "modifiedAt": "2026-06-05T05:07:28.025Z"
+          "path": "docs/experiments_log.md",
+          "modifiedAt": "2026-07-14T02:52:13.004Z"
         },
         {
-          "path": "src/integration/config.py",
-          "modifiedAt": "2026-06-05T05:07:28.025Z"
+          "path": "docs/model_analysis_table.md",
+          "modifiedAt": "2026-07-14T02:52:13.004Z"
         }
       ],
       "summary": [
@@ -1501,8 +1501,8 @@
         "기술 추정: Python, fastapi, Backend, AI",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 558",
-        "Git 상위 계정: Jaehe-he(616)"
+        "Git 커밋 수: 686",
+        "Git 상위 계정: Jaehe-he(686)"
       ]
     },
     {
@@ -1642,7 +1642,7 @@
         "evidence": [
           "docker-compose.yml 확인",
           "requirements.txt 확인",
-          ".env 키 101개 확인",
+          ".env 키 103개 확인",
           "DB 관련 파일 3개 확인",
           "추정 DB: PostgreSQL, SQLite"
         ],
@@ -1656,7 +1656,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 4 weeks",
+            "status": "Up 5 minutes",
             "ports": ""
           }
         ],
@@ -1704,35 +1704,35 @@
       },
       "recentFiles": [
         {
+          "path": "requirements.txt",
+          "modifiedAt": "2026-07-14T02:43:54.423Z"
+        },
+        {
+          "path": "Dockerfile",
+          "modifiedAt": "2026-07-14T02:43:38.699Z"
+        },
+        {
+          "path": ".env",
+          "modifiedAt": "2026-07-14T02:36:16.725Z"
+        },
+        {
+          "path": "app/services/fire_smoke_detection_service.py",
+          "modifiedAt": "2026-07-14T02:32:18.159Z"
+        },
+        {
+          "path": ".env.example",
+          "modifiedAt": "2026-07-14T02:31:02.464Z"
+        },
+        {
+          "path": "app/services/stream_session_service.py",
+          "modifiedAt": "2026-07-14T02:30:44.988Z"
+        },
+        {
+          "path": "app/core/config.py",
+          "modifiedAt": "2026-07-14T02:30:25.004Z"
+        },
+        {
           "path": "app/__init__.py",
-          "modifiedAt": "2026-06-23T23:54:46.146Z"
-        },
-        {
-          "path": "app/core/__init__.py",
-          "modifiedAt": "2026-06-23T23:54:46.146Z"
-        },
-        {
-          "path": "app/core/response.py",
-          "modifiedAt": "2026-06-23T23:54:46.146Z"
-        },
-        {
-          "path": "app/core/security.py",
-          "modifiedAt": "2026-06-23T23:54:46.146Z"
-        },
-        {
-          "path": "app/database/__init__.py",
-          "modifiedAt": "2026-06-23T23:54:46.146Z"
-        },
-        {
-          "path": "app/database/base.py",
-          "modifiedAt": "2026-06-23T23:54:46.146Z"
-        },
-        {
-          "path": "app/models/__init__.py",
-          "modifiedAt": "2026-06-23T23:54:46.146Z"
-        },
-        {
-          "path": "app/models/stream_session.py",
           "modifiedAt": "2026-06-23T23:54:46.146Z"
         }
       ],
@@ -1912,10 +1912,10 @@
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 642,
+        "commitCount": 644,
         "authors": [
           {
-            "count": 606,
+            "count": 608,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -1931,15 +1931,23 @@
           }
         ],
         "latestCommit": {
-          "hash": "78094e3",
-          "author": "namgung",
+          "hash": "baf3bc8",
+          "author": "skarndaudwls1",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-07-14T10:16:38+09:00",
-          "subject": "Merge pull request #216 from Dongyang-Mirae-University-software/refactor/build-cache"
+          "date": "2026-07-14T11:24:14+09:00",
+          "subject": "docs: 이상감지 알림 설계안을 1단계 구현 결과에 맞게 정정"
         },
-        "summary": "총 642개 커밋, 상위 계정: skarndaudwls1(606), skarndaudwls1(65), gosky(4), 최근: Merge pull request #216 from Dongyang-Mirae-University-software/refactor/build-cache"
+        "summary": "총 644개 커밋, 상위 계정: skarndaudwls1(608), skarndaudwls1(65), gosky(4), 최근: docs: 이상감지 알림 설계안을 1단계 구현 결과에 맞게 정정"
       },
       "recentFiles": [
+        {
+          "path": "CLAUDE.md",
+          "modifiedAt": "2026-07-14T02:52:14.112Z"
+        },
+        {
+          "path": "docs/(2026-07-13) design-anomaly-notification.md",
+          "modifiedAt": "2026-07-14T02:52:14.112Z"
+        },
         {
           "path": "Dockerfile",
           "modifiedAt": "2026-07-14T01:26:54.583Z"
@@ -1961,15 +1969,7 @@
           "modifiedAt": "2026-07-14T00:56:10.600Z"
         },
         {
-          "path": "CLAUDE.md",
-          "modifiedAt": "2026-07-14T00:56:10.596Z"
-        },
-        {
           "path": "src/main/resources/application.yaml",
-          "modifiedAt": "2026-07-14T00:38:54.347Z"
-        },
-        {
-          "path": "src/main/resources/db/migration/V28__add_inquiries.sql",
           "modifiedAt": "2026-07-14T00:38:54.347Z"
         }
       ],
@@ -1978,8 +1978,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 642",
-        "Git 상위 계정: skarndaudwls1(606), skarndaudwls1(65), gosky(4)"
+        "Git 커밋 수: 644",
+        "Git 상위 계정: skarndaudwls1(608), skarndaudwls1(65), gosky(4)"
       ]
     },
     {
@@ -3874,7 +3874,7 @@
         "commitCount": 11,
         "authors": [
           {
-            "count": 11,
+            "count": 15,
             "name": "Jaehe-he",
             "email": "hywuljh1@naver.com"
           }
@@ -3886,40 +3886,40 @@
           "date": "2026-06-16T23:17:53+09:00",
           "subject": "docs: README.md 포트 및 API 프리픽스 정보 업데이트"
         },
-        "summary": "총 11개 커밋, 상위 계정: Jaehe-he(11), 최근: docs: README.md 포트 및 API 프리픽스 정보 업데이트"
+        "summary": "총 11개 커밋, 상위 계정: Jaehe-he(15), 최근: docs: README.md 포트 및 API 프리픽스 정보 업데이트"
       },
       "recentFiles": [
         {
-          "path": "data/postgres/pg_wal/000000010000000000000017",
-          "modifiedAt": "2026-07-14T02:23:35.682Z"
+          "path": "data/postgres/pg_wal/000000010000000000000018",
+          "modifiedAt": "2026-07-14T02:53:35.455Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-07-14T02:23:33.478Z"
+          "modifiedAt": "2026-07-14T02:53:33.651Z"
         },
         {
           "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-07-14T02:23:33.374Z"
+          "modifiedAt": "2026-07-14T02:53:33.547Z"
         },
         {
           "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-07-14T02:23:33.274Z"
+          "modifiedAt": "2026-07-14T02:53:33.447Z"
         },
         {
           "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-07-14T02:23:33.174Z"
+          "modifiedAt": "2026-07-14T02:53:33.347Z"
         },
         {
           "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-07-14T02:23:33.074Z"
+          "modifiedAt": "2026-07-14T02:53:33.243Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16436_fsm",
+          "modifiedAt": "2026-07-14T02:53:33.143Z"
         },
         {
           "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-07-14T02:23:32.974Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16402",
-          "modifiedAt": "2026-07-14T02:23:32.874Z"
+          "modifiedAt": "2026-07-14T02:53:33.043Z"
         }
       ],
       "summary": [
@@ -3928,7 +3928,7 @@
         "DB 사용 추정: PostgreSQL",
         "실행 상태: 실행 중",
         "Git 커밋 수: 11",
-        "Git 상위 계정: Jaehe-he(11)"
+        "Git 상위 계정: Jaehe-he(15)"
       ]
     },
     {

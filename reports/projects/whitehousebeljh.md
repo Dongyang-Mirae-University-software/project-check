@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhiteHouseBELJH`
 - 분류: 백엔드
-- 점검 시각: 2026-07-14 11:24:42 KST
+- 점검 시각: 2026-07-14 11:54:45 KST
 
 ## 추정 기술 스택
 
@@ -59,19 +59,19 @@
 - 브랜치: main
 - 총 커밋 수: 11
 - 계정별 커밋 수:
-  - Jaehe-he <hywuljh1@naver.com>: 11
+  - Jaehe-he <hywuljh1@naver.com>: 15
 - 최근 커밋: 26f4968 / Jaehe-he <hywuljh1@naver.com> / docs: README.md 포트 및 API 프리픽스 정보 업데이트
 
 ## 최근 수정 파일
 
-- data/postgres/pg_wal/000000010000000000000017 (2026-07-14 11:23:35 KST)
-- data/postgres/global/pg_control (2026-07-14 11:23:33 KST)
-- data/postgres/base/16384/16444 (2026-07-14 11:23:33 KST)
-- data/postgres/base/16384/16443 (2026-07-14 11:23:33 KST)
-- data/postgres/base/16384/16442 (2026-07-14 11:23:33 KST)
-- data/postgres/base/16384/16441 (2026-07-14 11:23:33 KST)
-- data/postgres/base/16384/16436 (2026-07-14 11:23:32 KST)
-- data/postgres/base/16384/16402 (2026-07-14 11:23:32 KST)
+- data/postgres/pg_wal/000000010000000000000018 (2026-07-14 11:53:35 KST)
+- data/postgres/global/pg_control (2026-07-14 11:53:33 KST)
+- data/postgres/base/16384/16444 (2026-07-14 11:53:33 KST)
+- data/postgres/base/16384/16443 (2026-07-14 11:53:33 KST)
+- data/postgres/base/16384/16442 (2026-07-14 11:53:33 KST)
+- data/postgres/base/16384/16441 (2026-07-14 11:53:33 KST)
+- data/postgres/base/16384/16436_fsm (2026-07-14 11:53:33 KST)
+- data/postgres/base/16384/16436 (2026-07-14 11:53:33 KST)
 
 ## 점검 결과 요약
 
@@ -80,4 +80,4 @@
 - DB 사용 추정: PostgreSQL
 - 실행 상태: 실행 중
 - Git 커밋 수: 11
-- Git 상위 계정: Jaehe-he(11)
+- Git 상위 계정: Jaehe-he(15)

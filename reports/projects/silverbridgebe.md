@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-07-14 11:24:41 KST
+- 점검 시각: 2026-07-14 11:54:45 KST
 
 ## 추정 기술 스택
 
@@ -57,23 +57,23 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 642
+- 총 커밋 수: 644
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 606
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 608
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
-- 최근 커밋: 78094e3 / namgung <skarndaudwls@gmail.com> / Merge pull request #216 from Dongyang-Mirae-University-software/refactor/build-cache
+- 최근 커밋: baf3bc8 / skarndaudwls1 <skarndaudwls@gmail.com> / docs: 이상감지 알림 설계안을 1단계 구현 결과에 맞게 정정
 
 ## 최근 수정 파일
 
+- CLAUDE.md (2026-07-14 11:52:14 KST)
+- docs/(2026-07-13) design-anomaly-notification.md (2026-07-14 11:52:14 KST)
 - Dockerfile (2026-07-14 10:26:54 KST)
 - docs/progress.md (2026-07-14 10:26:54 KST)
 - gradle.properties (2026-07-14 10:26:54 KST)
 - 프로젝트_설명.txt (2026-07-14 09:56:10 KST)
 - src/main/resources/db/migration/V31__rename_tables_to_singular.sql (2026-07-14 09:56:10 KST)
-- CLAUDE.md (2026-07-14 09:56:10 KST)
 - src/main/resources/application.yaml (2026-07-14 09:38:54 KST)
-- src/main/resources/db/migration/V28__add_inquiries.sql (2026-07-14 09:38:54 KST)
 
 ## 점검 결과 요약
 
@@ -81,5 +81,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 642
-- Git 상위 계정: skarndaudwls1(606), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 644
+- Git 상위 계정: skarndaudwls1(608), skarndaudwls1(65), gosky(4)

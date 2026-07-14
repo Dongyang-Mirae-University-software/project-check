@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-07-14 11:24:41 KST
+- 점검 시각: 2026-07-14 11:54:45 KST
 
 ## 추정 기술 스택
 
@@ -53,7 +53,7 @@
 
 - 사용 여부: 예
 - 연결 추정 DB: PostgreSQL, SQLite
-- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 101개 확인, DB 관련 파일 3개 확인, 추정 DB: PostgreSQL, SQLite
+- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 103개 확인, DB 관련 파일 3개 확인, 추정 DB: PostgreSQL, SQLite
 
 ## 실행 상태
 
@@ -72,14 +72,14 @@
 
 ## 최근 수정 파일
 
+- requirements.txt (2026-07-14 11:43:54 KST)
+- Dockerfile (2026-07-14 11:43:38 KST)
+- .env (2026-07-14 11:36:16 KST)
+- app/services/fire_smoke_detection_service.py (2026-07-14 11:32:18 KST)
+- .env.example (2026-07-14 11:31:02 KST)
+- app/services/stream_session_service.py (2026-07-14 11:30:44 KST)
+- app/core/config.py (2026-07-14 11:30:25 KST)
 - app/__init__.py (2026-06-24 08:54:46 KST)
-- app/core/__init__.py (2026-06-24 08:54:46 KST)
-- app/core/response.py (2026-06-24 08:54:46 KST)
-- app/core/security.py (2026-06-24 08:54:46 KST)
-- app/database/__init__.py (2026-06-24 08:54:46 KST)
-- app/database/base.py (2026-06-24 08:54:46 KST)
-- app/models/__init__.py (2026-06-24 08:54:46 KST)
-- app/models/stream_session.py (2026-06-24 08:54:46 KST)
 
 ## 점검 결과 요약
 
