@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-07-14T22:57:41.528Z",
-  "generatedAtKst": "2026-07-15 07:57:41 KST",
+  "generatedAt": "2026-07-14T23:27:45.861Z",
+  "generatedAtKst": "2026-07-15 08:27:45 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 3134
+          "count": 3135
         },
         {
           "email": "gosky@gosky.kr",
           "count": 6
         }
       ],
-      "count": 3140
+      "count": 3141
     },
     {
       "name": "YUNA0222",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 2997,
+        "commitCount": 2998,
         "authors": [
           {
-            "count": 2997,
+            "count": 2998,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "15af8bf81",
+          "hash": "2f8f65b0e",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-07-15T07:27:39+09:00",
+          "date": "2026-07-15T07:57:44+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 2997개 커밋, 상위 계정: gosky(2997), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 2998개 커밋, 상위 계정: gosky(2998), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 2997",
-        "Git 상위 계정: gosky(2997)"
+        "Git 커밋 수: 2998",
+        "Git 상위 계정: gosky(2998)"
       ]
     },
     {
@@ -1420,7 +1420,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 20 hours",
+            "status": "Up 21 hours",
             "ports": ""
           }
         ],
@@ -1656,7 +1656,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 20 hours",
+            "status": "Up 21 hours",
             "ports": ""
           }
         ],
@@ -3891,35 +3891,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000019",
-          "modifiedAt": "2026-07-14T22:57:31.572Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-07-14T22:56:50.336Z"
+          "modifiedAt": "2026-07-14T23:27:29.116Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-07-14T22:53:53.637Z"
+          "modifiedAt": "2026-07-14T23:23:50.736Z"
         },
         {
           "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-07-14T22:53:53.533Z"
+          "modifiedAt": "2026-07-14T23:23:50.632Z"
         },
         {
           "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-07-14T22:53:53.433Z"
+          "modifiedAt": "2026-07-14T23:23:50.532Z"
         },
         {
           "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-07-14T22:53:53.329Z"
+          "modifiedAt": "2026-07-14T23:23:50.432Z"
         },
         {
           "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-07-14T22:53:53.225Z"
+          "modifiedAt": "2026-07-14T23:23:50.332Z"
         },
         {
-          "path": "data/postgres/base/16384/16436_fsm",
-          "modifiedAt": "2026-07-14T22:53:53.125Z"
+          "path": "data/postgres/base/16384/16436",
+          "modifiedAt": "2026-07-14T23:23:50.232Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16402",
+          "modifiedAt": "2026-07-14T23:23:50.132Z"
         }
       ],
       "summary": [
