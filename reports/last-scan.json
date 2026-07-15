@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-07-15T16:30:12.802Z",
-  "generatedAtKst": "2026-07-16 01:30:12 KST",
+  "generatedAt": "2026-07-15T17:00:17.384Z",
+  "generatedAtKst": "2026-07-16 02:00:17 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 3169
+          "count": 3170
         },
         {
           "email": "gosky@gosky.kr",
           "count": 6
         }
       ],
-      "count": 3175
+      "count": 3176
     },
     {
       "name": "YUNA0222",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 3032,
+        "commitCount": 3033,
         "authors": [
           {
-            "count": 3032,
+            "count": 3033,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "bd5f8be62",
+          "hash": "9362e6611",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-07-16T01:00:11+09:00",
+          "date": "2026-07-16T01:30:15+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 3032개 커밋, 상위 계정: gosky(3032), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 3033개 커밋, 상위 계정: gosky(3033), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 3032",
-        "Git 상위 계정: gosky(3032)"
+        "Git 커밋 수: 3033",
+        "Git 상위 계정: gosky(3033)"
       ]
     },
     {
@@ -3891,7 +3891,11 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/00000001000000000000001A",
-          "modifiedAt": "2026-07-15T16:19:23.100Z"
+          "modifiedAt": "2026-07-15T17:00:19.438Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16386",
+          "modifiedAt": "2026-07-15T16:59:58.622Z"
         },
         {
           "path": "data/postgres/global/pg_control",
@@ -3916,10 +3920,6 @@
         {
           "path": "data/postgres/base/16384/16436",
           "modifiedAt": "2026-07-15T16:19:07.056Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16402",
-          "modifiedAt": "2026-07-15T16:19:06.956Z"
         }
       ],
       "summary": [
