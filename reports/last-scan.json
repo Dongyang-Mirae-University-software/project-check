@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-07-22T02:53:39.138Z",
-  "generatedAtKst": "2026-07-22 11:53:39 KST",
+  "generatedAt": "2026-07-22T03:23:43.740Z",
+  "generatedAtKst": "2026-07-22 12:23:43 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 3477
+          "count": 3478
         },
         {
           "email": "gosky@gosky.kr",
           "count": 6
         }
       ],
-      "count": 3483
+      "count": 3484
     },
     {
       "name": "YUNA0222",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 3340,
+        "commitCount": 3341,
         "authors": [
           {
-            "count": 3340,
+            "count": 3341,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "7288cfb5e",
+          "hash": "66815b5ac",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-07-22T11:23:37+09:00",
+          "date": "2026-07-22T11:53:42+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 3340개 커밋, 상위 계정: gosky(3340), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 3341개 커밋, 상위 계정: gosky(3341), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 3340",
-        "Git 상위 계정: gosky(3340)"
+        "Git 커밋 수: 3341",
+        "Git 상위 계정: gosky(3341)"
       ]
     },
     {
@@ -3598,19 +3598,19 @@
           {
             "name": "whitehousebe-api-1",
             "image": "whitehousebe-api",
-            "status": "Up 3 weeks",
+            "status": "Up 4 weeks",
             "ports": "0.0.0.0:6701->6701/tcp, [::]:6701->6701/tcp"
           },
           {
             "name": "whitehousebe-db-1",
             "image": "postgres:16",
-            "status": "Up 3 weeks (healthy)",
+            "status": "Up 4 weeks (healthy)",
             "ports": "0.0.0.0:6705->5432/tcp, [::]:6705->5432/tcp"
           },
           {
             "name": "whitehouse-b-app",
             "image": "whitehousebeljh-app",
-            "status": "Up 3 weeks",
+            "status": "Up 4 weeks",
             "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
           }
         ],
@@ -3839,7 +3839,7 @@
           {
             "name": "whitehouse-b-app",
             "image": "whitehousebeljh-app",
-            "status": "Up 3 weeks",
+            "status": "Up 4 weeks",
             "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
           }
         ],
@@ -4071,7 +4071,7 @@
           {
             "name": "whitehousefe-web",
             "image": "whitehousefe-web",
-            "status": "Up 3 weeks",
+            "status": "Up 4 weeks",
             "ports": "0.0.0.0:6700->3000/tcp, [::]:6700->3000/tcp"
           }
         ],
