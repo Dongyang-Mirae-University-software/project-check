@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-07-23T03:57:31.601Z",
-  "generatedAtKst": "2026-07-23 12:57:31 KST",
+  "generatedAt": "2026-07-23T04:27:36.438Z",
+  "generatedAtKst": "2026-07-23 13:27:36 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -10,8 +10,8 @@
     "ai": 5,
     "db": 8,
     "gitRepos": 15,
-    "running": 14,
-    "stopped": 5
+    "running": 5,
+    "stopped": 14
   },
   "gitAuthors": [
     {
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 3527
+          "count": 3528
         },
         {
           "email": "gosky@gosky.kr",
           "count": 6
         }
       ],
-      "count": 3533
+      "count": 3534
     },
     {
       "name": "YUNA0222",
@@ -590,39 +590,17 @@
         "summary": "DB 사용 흔적 없음"
       },
       "runtime": {
-        "status": "실행 중",
-        "running": true,
+        "status": "정지",
+        "running": false,
         "pm2": [],
-        "docker": [
-          {
-            "name": "chatsilverbridge-api-1",
-            "image": "chatsilverbridge-api",
-            "status": "Up 5 weeks",
-            "ports": "0.0.0.0:6012->6012/tcp, [::]:6012->6012/tcp"
-          },
-          {
-            "name": "chatsilverbridge-mysql-1",
-            "image": "mysql:8.0",
-            "status": "Up 5 weeks (healthy)",
-            "ports": "33060/tcp, 0.0.0.0:3307->3306/tcp, [::]:3307->3306/tcp"
-          },
-          {
-            "name": "chatsilverbridgetest-web-1",
-            "image": "chatsilverbridgetest-web",
-            "status": "Up 5 weeks",
-            "ports": "0.0.0.0:6516->6516/tcp, [::]:6516->6516/tcp"
-          }
-        ],
+        "docker": [],
         "ports": [],
         "allCandidatePorts": [
           8010,
           8090
         ],
         "summary": [
-          "실행 중",
-          "PM2 없음",
-          "Docker 3개",
-          "포트 확인 불가"
+          "정지 또는 확인 불가"
         ]
       },
       "git": {
@@ -683,7 +661,7 @@
         "분류: AI 서버",
         "기술 추정: FastAPI, Uvicorn, Pydantic, PyTorch, Transformers, Python, fastapi, Frontend, Backend, AI",
         "DB 사용 흔적 없음",
-        "실행 상태: 실행 중",
+        "실행 상태: 정지",
         "Git 커밋 수: 2",
         "Git 상위 계정: gosky(2)"
       ]
@@ -802,26 +780,16 @@
         "summary": "DB 사용 흔적 없음"
       },
       "runtime": {
-        "status": "실행 중",
-        "running": true,
+        "status": "정지",
+        "running": false,
         "pm2": [],
-        "docker": [
-          {
-            "name": "chatsilverbridgetest-web-1",
-            "image": "chatsilverbridgetest-web",
-            "status": "Up 5 weeks",
-            "ports": "0.0.0.0:6516->6516/tcp, [::]:6516->6516/tcp"
-          }
-        ],
+        "docker": [],
         "ports": [],
         "allCandidatePorts": [
           8010
         ],
         "summary": [
-          "실행 중",
-          "PM2 없음",
-          "Docker 1개",
-          "포트 확인 불가"
+          "정지 또는 확인 불가"
         ]
       },
       "git": {
@@ -882,7 +850,7 @@
         "분류: 프론트엔드",
         "기술 추정: Next.js, React, Frontend",
         "DB 사용 흔적 없음",
-        "실행 상태: 실행 중",
+        "실행 상태: 정지",
         "Git 커밋 수: 1",
         "Git 상위 계정: gosky(1)"
       ]
@@ -1186,10 +1154,7 @@
         ],
         "docker": [],
         "ports": [
-          1433,
-          3306,
-          5432,
-          6379
+          3306
         ],
         "allCandidatePorts": [
           1000,
@@ -1214,28 +1179,28 @@
           "실행 중",
           "PM2 1개",
           "Docker 없음",
-          "포트 1433, 3306, 5432, 6379"
+          "포트 3306"
         ]
       },
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 3390,
+        "commitCount": 3391,
         "authors": [
           {
-            "count": 3390,
+            "count": 3391,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "f02b5a09d",
+          "hash": "4e98f0dc8",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-07-23T12:27:29+09:00",
+          "date": "2026-07-23T12:57:34+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 3390개 커밋, 상위 계정: gosky(3390), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 3391개 커밋, 상위 계정: gosky(3391), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1241,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 3390",
-        "Git 상위 계정: gosky(3390)"
+        "Git 커밋 수: 3391",
+        "Git 상위 계정: gosky(3391)"
       ]
     },
     {
@@ -1413,17 +1378,10 @@
         "summary": "DB 사용 흔적 없음"
       },
       "runtime": {
-        "status": "실행 중",
-        "running": true,
+        "status": "정지",
+        "running": false,
         "pm2": [],
-        "docker": [
-          {
-            "name": "silverbridge-ai-server",
-            "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 9 days",
-            "ports": ""
-          }
-        ],
+        "docker": [],
         "ports": [],
         "allCandidatePorts": [
           1000,
@@ -1436,10 +1394,7 @@
           8456
         ],
         "summary": [
-          "실행 중",
-          "PM2 없음",
-          "Docker 1개",
-          "포트 확인 불가"
+          "정지 또는 확인 불가"
         ]
       },
       "git": {
@@ -1500,7 +1455,7 @@
         "분류: AI 서버",
         "기술 추정: Python, fastapi, Backend, AI",
         "DB 사용 흔적 없음",
-        "실행 상태: 실행 중",
+        "실행 상태: 정지",
         "Git 커밋 수: 686",
         "Git 상위 계정: Jaehe-he(686)"
       ]
@@ -1652,20 +1607,9 @@
         "status": "실행 중",
         "running": true,
         "pm2": [],
-        "docker": [
-          {
-            "name": "silverbridge-ai-server",
-            "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 9 days",
-            "ports": ""
-          }
-        ],
+        "docker": [],
         "ports": [
-          5432,
-          6012,
-          6015,
-          6017,
-          6019
+          6017
         ],
         "allCandidatePorts": [
           1008,
@@ -1678,8 +1622,8 @@
         "summary": [
           "실행 중",
           "PM2 없음",
-          "Docker 1개",
-          "포트 5432, 6012, 6015, 6017, 6019"
+          "Docker 없음",
+          "포트 6017"
         ]
       },
       "git": {
@@ -1883,15 +1827,11 @@
         "summary": "PostgreSQL, Redis 사용 추정"
       },
       "runtime": {
-        "status": "실행 중",
-        "running": true,
+        "status": "정지",
+        "running": false,
         "pm2": [],
         "docker": [],
-        "ports": [
-          5432,
-          6379,
-          6511
-        ],
+        "ports": [],
         "allCandidatePorts": [
           3000,
           5173,
@@ -1903,10 +1843,7 @@
           60480
         ],
         "summary": [
-          "실행 중",
-          "PM2 없음",
-          "Docker 없음",
-          "포트 5432, 6379, 6511"
+          "정지 또는 확인 불가"
         ]
       },
       "git": {
@@ -1977,7 +1914,7 @@
         "분류: 백엔드",
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
-        "실행 상태: 실행 중",
+        "실행 상태: 정지",
         "Git 커밋 수: 647",
         "Git 상위 계정: skarndaudwls1(610), skarndaudwls1(65), gosky(4)"
       ]
@@ -2118,14 +2055,11 @@
         "summary": "DB 사용 흔적 없음"
       },
       "runtime": {
-        "status": "실행 중",
-        "running": true,
+        "status": "정지",
+        "running": false,
         "pm2": [],
         "docker": [],
-        "ports": [
-          6000,
-          6510
-        ],
+        "ports": [],
         "allCandidatePorts": [
           1900,
           3000,
@@ -2135,10 +2069,7 @@
           60836
         ],
         "summary": [
-          "실행 중",
-          "PM2 없음",
-          "Docker 없음",
-          "포트 6000, 6510"
+          "정지 또는 확인 불가"
         ]
       },
       "git": {
@@ -2214,7 +2145,7 @@
         "분류: 프론트엔드",
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
-        "실행 상태: 실행 중",
+        "실행 상태: 정지",
         "Git 커밋 수: 746",
         "Git 상위 계정: YUNA0222(1400), YUNA0222(10), gosky(6)"
       ]
@@ -2550,18 +2481,9 @@
         "status": "실행 중",
         "running": true,
         "pm2": [],
-        "docker": [
-          {
-            "name": "silverbridgereservation-reservation-api-1",
-            "image": "silverbridgereservation-reservation-api",
-            "status": "Up 5 weeks",
-            "ports": "0.0.0.0:6015->6015/tcp, [::]:6015->6015/tcp"
-          }
-        ],
+        "docker": [],
         "ports": [
-          6015,
-          6017,
-          6018
+          6017
         ],
         "allCandidatePorts": [
           5173,
@@ -2572,8 +2494,8 @@
         "summary": [
           "실행 중",
           "PM2 없음",
-          "Docker 1개",
-          "포트 6015, 6017, 6018"
+          "Docker 없음",
+          "포트 6017"
         ]
       },
       "git": {
@@ -2792,10 +2714,7 @@
           }
         ],
         "docker": [],
-        "ports": [
-          5432,
-          6379
-        ],
+        "ports": [],
         "allCandidatePorts": [
           3000,
           5432,
@@ -2808,7 +2727,7 @@
           "실행 중",
           "PM2 1개",
           "Docker 없음",
-          "포트 5432, 6379"
+          "포트 확인 불가"
         ]
       },
       "git": {
@@ -3011,8 +2930,7 @@
         "pm2": [],
         "docker": [],
         "ports": [
-          3306,
-          6379
+          3306
         ],
         "allCandidatePorts": [
           3306,
@@ -3025,7 +2943,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 3306, 6379"
+          "포트 3306"
         ]
       },
       "git": {
@@ -3208,22 +3126,17 @@
         "summary": "DB 사용 흔적 없음"
       },
       "runtime": {
-        "status": "실행 중",
-        "running": true,
+        "status": "정지",
+        "running": false,
         "pm2": [],
         "docker": [],
-        "ports": [
-          6018
-        ],
+        "ports": [],
         "allCandidatePorts": [
           1012,
           6018
         ],
         "summary": [
-          "실행 중",
-          "PM2 없음",
-          "Docker 없음",
-          "포트 6018"
+          "정지 또는 확인 불가"
         ]
       },
       "git": {
@@ -3284,7 +3197,7 @@
         "분류: 프론트엔드",
         "기술 추정: Node.js, React, Vite, Frontend",
         "DB 사용 흔적 없음",
-        "실행 상태: 실행 중",
+        "실행 상태: 정지",
         "Git 커밋 수: 24",
         "Git 상위 계정: gosky(24)"
       ]
@@ -3591,43 +3504,18 @@
         "summary": "PostgreSQL 사용 추정"
       },
       "runtime": {
-        "status": "실행 중",
-        "running": true,
+        "status": "정지",
+        "running": false,
         "pm2": [],
-        "docker": [
-          {
-            "name": "whitehousebe-api-1",
-            "image": "whitehousebe-api",
-            "status": "Up 4 weeks",
-            "ports": "0.0.0.0:6701->6701/tcp, [::]:6701->6701/tcp"
-          },
-          {
-            "name": "whitehousebe-db-1",
-            "image": "postgres:16",
-            "status": "Up 4 weeks (healthy)",
-            "ports": "0.0.0.0:6705->5432/tcp, [::]:6705->5432/tcp"
-          },
-          {
-            "name": "whitehouse-b-app",
-            "image": "whitehousebeljh-app",
-            "status": "Up 4 weeks",
-            "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
-          }
-        ],
-        "ports": [
-          5432,
-          6701
-        ],
+        "docker": [],
+        "ports": [],
         "allCandidatePorts": [
           5432,
           6701,
           7084
         ],
         "summary": [
-          "실행 중",
-          "PM2 없음",
-          "Docker 3개",
-          "포트 5432, 6701"
+          "정지 또는 확인 불가"
         ]
       },
       "git": {
@@ -3693,7 +3581,7 @@
         "분류: 백엔드",
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL",
-        "실행 상태: 실행 중",
+        "실행 상태: 정지",
         "Git 커밋 수: 49",
         "Git 상위 계정: YUNA0222(41), YUNA0222(8)"
       ]
@@ -3832,23 +3720,11 @@
         "summary": "PostgreSQL 사용 추정"
       },
       "runtime": {
-        "status": "실행 중",
-        "running": true,
+        "status": "정지",
+        "running": false,
         "pm2": [],
-        "docker": [
-          {
-            "name": "whitehouse-b-app",
-            "image": "whitehousebeljh-app",
-            "status": "Up 4 weeks",
-            "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
-          }
-        ],
-        "ports": [
-          5432,
-          6700,
-          6701,
-          6705
-        ],
+        "docker": [],
+        "ports": [],
         "allCandidatePorts": [
           3000,
           3001,
@@ -3862,10 +3738,7 @@
           18000
         ],
         "summary": [
-          "실행 중",
-          "PM2 없음",
-          "Docker 1개",
-          "포트 5432, 6700, 6701, 6705"
+          "정지 또는 확인 불가"
         ]
       },
       "git": {
@@ -3926,7 +3799,7 @@
         "분류: 백엔드",
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL",
-        "실행 상태: 실행 중",
+        "실행 상태: 정지",
         "Git 커밋 수: 11",
         "Git 상위 계정: Jaehe-he(15)"
       ]
@@ -4064,17 +3937,10 @@
         "summary": "DB 사용 흔적 없음"
       },
       "runtime": {
-        "status": "실행 중",
-        "running": true,
+        "status": "정지",
+        "running": false,
         "pm2": [],
-        "docker": [
-          {
-            "name": "whitehousefe-web",
-            "image": "whitehousefe-web",
-            "status": "Up 4 weeks",
-            "ports": "0.0.0.0:6700->3000/tcp, [::]:6700->3000/tcp"
-          }
-        ],
+        "docker": [],
         "ports": [],
         "allCandidatePorts": [
           1024,
@@ -4083,10 +3949,7 @@
           3000
         ],
         "summary": [
-          "실행 중",
-          "PM2 없음",
-          "Docker 1개",
-          "포트 확인 불가"
+          "정지 또는 확인 불가"
         ]
       },
       "git": {
@@ -4152,7 +4015,7 @@
         "분류: 프론트엔드",
         "기술 추정: React, Next.js, Node.js, Frontend",
         "DB 사용 흔적 없음",
-        "실행 상태: 실행 중",
+        "실행 상태: 정지",
         "Git 커밋 수: 138",
         "Git 상위 계정: skarndaudwls1(63), skarndaudwls1(24)"
       ]

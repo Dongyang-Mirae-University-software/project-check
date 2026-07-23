@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/ChatSilverBridge`
 - 분류: AI 서버
-- 점검 시각: 2026-07-23 12:57:32 KST
+- 점검 시각: 2026-07-23 13:27:42 KST
 
 ## 추정 기술 스택
 
@@ -55,9 +55,9 @@
 
 ## 실행 상태
 
-- 상태: 실행 중
+- 상태: 정지
 - 관련 포트: 8010, 8090
-- 관련 Docker 컨테이너: chatsilverbridge-api-1, chatsilverbridge-mysql-1, chatsilverbridgetest-web-1
+- 관련 Docker 컨테이너: 확인 불가
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
@@ -84,6 +84,6 @@
 - 분류: AI 서버
 - 기술 추정: FastAPI, Uvicorn, Pydantic, PyTorch, Transformers, Python, fastapi, Frontend, Backend, AI
 - DB 사용 흔적 없음
-- 실행 상태: 실행 중
+- 실행 상태: 정지
 - Git 커밋 수: 2
 - Git 상위 계정: gosky(2)

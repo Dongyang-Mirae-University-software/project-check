@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-07-23 12:57:33 KST
+- 점검 시각: 2026-07-23 13:27:44 KST
 
 ## 추정 기술 스택
 
@@ -49,7 +49,7 @@
 
 ## 실행 상태
 
-- 상태: 실행 중
+- 상태: 정지
 - 관련 포트: 3000, 5173, 5432, 6379, 6511, 8080, 18000, 60480
 - 관련 Docker 컨테이너: 확인 불가
 - 관련 PM2 프로세스: 확인 불가
@@ -80,6 +80,6 @@
 - 분류: 백엔드
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
-- 실행 상태: 실행 중
+- 실행 상태: 정지
 - Git 커밋 수: 647
 - Git 상위 계정: skarndaudwls1(610), skarndaudwls1(65), gosky(4)

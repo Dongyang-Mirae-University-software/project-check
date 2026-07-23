@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeReservation`
 - 분류: 백엔드
-- 점검 시각: 2026-07-23 12:57:34 KST
+- 점검 시각: 2026-07-23 13:27:44 KST
 
 ## 추정 기술 스택
 
@@ -57,7 +57,7 @@
 
 - 상태: 실행 중
 - 관련 포트: 5173, 6015, 6017, 6018
-- 관련 Docker 컨테이너: silverbridgereservation-reservation-api-1
+- 관련 Docker 컨테이너: 확인 불가
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
