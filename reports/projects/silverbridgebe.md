@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-07-23 17:58:10 KST
+- 점검 시각: 2026-07-23 18:28:13 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 94
+- 파일 개수: 100
 - 디렉토리 개수: 25
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration, src/test, src/test/java, src/test/java/kr, src/test/java/kr/silverbridge, src/test/java/kr/silverbridge/main, src/test/java/kr/silverbridge/main/domain, src/test/java/kr/silverbridge/main/global
@@ -57,23 +57,23 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 647
+- 총 커밋 수: 656
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 610
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 616
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
-- 최근 커밋: 9c902dc / namgung <skarndaudwls@gmail.com> / Merge pull request #217 from Dongyang-Mirae-University-software/feature/anomaly-notification
+- 최근 커밋: 57d4c5d / namgung <skarndaudwls@gmail.com> / Merge pull request #219 from Dongyang-Mirae-University-software/feature/sos-action-setting
 
 ## 최근 수정 파일
 
-- src/main/resources/application.yaml (2026-07-14 14:40:52 KST)
-- CLAUDE.md (2026-07-14 14:40:52 KST)
-- docs/(2026-07-14) feature-anomaly-notification-phase2.md (2026-07-14 14:40:52 KST)
-- docs/progress.md (2026-07-14 14:40:52 KST)
-- docs/(2026-07-13) design-anomaly-notification.md (2026-07-14 11:52:14 KST)
-- Dockerfile (2026-07-14 10:26:54 KST)
-- gradle.properties (2026-07-14 10:26:54 KST)
-- 프로젝트_설명.txt (2026-07-14 09:56:10 KST)
+- src/main/resources/application.yaml (2026-07-23 18:02:16 KST)
+- src/main/resources/db/migration/V32__add_sos_setting.sql (2026-07-23 18:02:16 KST)
+- CLAUDE.md (2026-07-23 18:02:16 KST)
+- docs/(2026-07-14) audit-sos-to-anomaly-cumulative.md (2026-07-23 18:02:16 KST)
+- docs/(2026-07-14) fix-audit-findings.md (2026-07-23 18:02:16 KST)
+- docs/(2026-07-23) alimtalk-template-review-history.md (2026-07-23 18:02:16 KST)
+- docs/(2026-07-23) feature-sos-action-setting.md (2026-07-23 18:02:16 KST)
+- docs/audit-index.md (2026-07-23 18:02:16 KST)
 
 ## 점검 결과 요약
 
@@ -81,5 +81,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 정지
-- Git 커밋 수: 647
-- Git 상위 계정: skarndaudwls1(610), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 656
+- Git 상위 계정: skarndaudwls1(616), skarndaudwls1(65), gosky(4)
