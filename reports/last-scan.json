@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-07-23T04:27:36.438Z",
-  "generatedAtKst": "2026-07-23 13:27:36 KST",
+  "generatedAt": "2026-07-23T04:57:46.654Z",
+  "generatedAtKst": "2026-07-23 13:57:46 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 3528
+          "count": 3529
         },
         {
           "email": "gosky@gosky.kr",
           "count": 6
         }
       ],
-      "count": 3534
+      "count": 3535
     },
     {
       "name": "YUNA0222",
@@ -1185,22 +1185,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 3391,
+        "commitCount": 3392,
         "authors": [
           {
-            "count": 3391,
+            "count": 3392,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "4e98f0dc8",
+          "hash": "fb9f5ea36",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-07-23T12:57:34+09:00",
+          "date": "2026-07-23T13:27:45+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 3391개 커밋, 상위 계정: gosky(3391), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 3392개 커밋, 상위 계정: gosky(3392), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1241,8 +1241,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 3391",
-        "Git 상위 계정: gosky(3391)"
+        "Git 커밋 수: 3392",
+        "Git 상위 계정: gosky(3392)"
       ]
     },
     {
@@ -2013,7 +2013,7 @@
         }
       ],
       "structure": {
-        "fileCount": 279,
+        "fileCount": 280,
         "dirCount": 85,
         "mainFolders": [
           "docs",
@@ -2109,6 +2109,10 @@
       },
       "recentFiles": [
         {
+          "path": "core.1084",
+          "modifiedAt": "2026-07-23T04:28:18.508Z"
+        },
+        {
           "path": "src/components/layout/dashboard/DashboardSidebar.module.css",
           "modifiedAt": "2026-07-03T04:26:29.741Z"
         },
@@ -2134,10 +2138,6 @@
         },
         {
           "path": "src/components/layout/dashboard/ProfileModalControls.module.css",
-          "modifiedAt": "2026-07-03T04:26:29.741Z"
-        },
-        {
-          "path": "src/components/layout/dashboard/ProfileModalControls.tsx",
           "modifiedAt": "2026-07-03T04:26:29.741Z"
         }
       ],

@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-07-23 13:27:44 KST
+- 점검 시각: 2026-07-23 13:57:47 KST
 
 ## 추정 기술 스택
 
@@ -37,7 +37,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 279
+- 파일 개수: 280
 - 디렉토리 개수: 85
 - 주요 폴더: docs, public, src
 - 주요 경로: public, public/images, src, src/app, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/auth, src/app/(auth)/auth/kakao, src/app/(auth)/auth/kakao/callback, src/app/(auth)/find-email, src/app/(auth)/find-email/_components, src/app/(auth)/find-email/_hooks, src/app/(auth)/find-password, src/app/(auth)/find-password/_components, src/app/(auth)/find-password/_hooks, src/app/(auth)/login, src/app/(auth)/login/_components, src/app/(auth)/signup, src/app/(auth)/signup/_components, src/app/(guardian)
@@ -68,6 +68,7 @@
 
 ## 최근 수정 파일
 
+- core.1084 (2026-07-23 13:28:18 KST)
 - src/components/layout/dashboard/DashboardSidebar.module.css (2026-07-03 13:26:29 KST)
 - src/components/layout/dashboard/DashboardSidebar.tsx (2026-07-03 13:26:29 KST)
 - src/components/layout/dashboard/ProfileInfoPanel.module.css (2026-07-03 13:26:29 KST)
@@ -75,7 +76,6 @@
 - src/components/layout/dashboard/ProfileModal.module.css (2026-07-03 13:26:29 KST)
 - src/components/layout/dashboard/ProfileModal.tsx (2026-07-03 13:26:29 KST)
 - src/components/layout/dashboard/ProfileModalControls.module.css (2026-07-03 13:26:29 KST)
-- src/components/layout/dashboard/ProfileModalControls.tsx (2026-07-03 13:26:29 KST)
 
 ## 점검 결과 요약
 
