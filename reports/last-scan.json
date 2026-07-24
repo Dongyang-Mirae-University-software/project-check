@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-07-24T16:31:55.533Z",
-  "generatedAtKst": "2026-07-25 01:31:55 KST",
+  "generatedAt": "2026-07-24T17:01:59.890Z",
+  "generatedAtKst": "2026-07-25 02:01:59 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 3600
+          "count": 3601
         },
         {
           "email": "gosky@gosky.kr",
           "count": 6
         }
       ],
-      "count": 3606
+      "count": 3607
     },
     {
       "name": "YUNA0222",
@@ -603,7 +603,7 @@
           {
             "name": "chatsilverbridge-mysql-1",
             "image": "mysql:8.0",
-            "status": "Up 14 hours (healthy)",
+            "status": "Up 15 hours (healthy)",
             "ports": "33060/tcp, 0.0.0.0:3307->3306/tcp, [::]:3307->3306/tcp"
           },
           {
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 3463,
+        "commitCount": 3464,
         "authors": [
           {
-            "count": 3463,
+            "count": 3464,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "111cd83a5",
+          "hash": "d6a0e4e3e",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-07-25T01:01:53+09:00",
+          "date": "2026-07-25T01:31:58+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 3463개 커밋, 상위 계정: gosky(3463), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 3464개 커밋, 상위 계정: gosky(3464), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 3463",
-        "Git 상위 계정: gosky(3463)"
+        "Git 커밋 수: 3464",
+        "Git 상위 계정: gosky(3464)"
       ]
     },
     {
@@ -3604,7 +3604,7 @@
           {
             "name": "whitehousebe-db-1",
             "image": "postgres:16",
-            "status": "Up 14 hours (healthy)",
+            "status": "Up 15 hours (healthy)",
             "ports": "0.0.0.0:6705->5432/tcp, [::]:6705->5432/tcp"
           },
           {
@@ -3891,35 +3891,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/00000001000000000000001B",
-          "modifiedAt": "2026-07-24T16:27:25.981Z"
+          "modifiedAt": "2026-07-24T16:57:18.452Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-07-24T16:27:14.018Z"
+          "modifiedAt": "2026-07-24T16:57:14.248Z"
         },
         {
           "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-07-24T16:27:13.918Z"
+          "modifiedAt": "2026-07-24T16:57:14.148Z"
         },
         {
           "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-07-24T16:27:13.818Z"
+          "modifiedAt": "2026-07-24T16:57:14.044Z"
         },
         {
           "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-07-24T16:27:13.718Z"
+          "modifiedAt": "2026-07-24T16:57:13.944Z"
         },
         {
           "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-07-24T16:27:13.618Z"
+          "modifiedAt": "2026-07-24T16:57:13.844Z"
         },
         {
           "path": "data/postgres/base/16384/16436_fsm",
-          "modifiedAt": "2026-07-24T16:27:13.518Z"
+          "modifiedAt": "2026-07-24T16:57:13.744Z"
         },
         {
           "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-07-24T16:27:13.418Z"
+          "modifiedAt": "2026-07-24T16:57:13.644Z"
         }
       ],
       "summary": [
