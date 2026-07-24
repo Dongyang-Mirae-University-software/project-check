@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhitehouseBE`
 - 분류: 백엔드
-- 점검 시각: 2026-07-24 11:29:56 KST
+- 점검 시각: 2026-07-24 12:00:00 KST
 
 ## 추정 기술 스택
 
@@ -49,9 +49,9 @@
 
 ## 실행 상태
 
-- 상태: 정지
+- 상태: 실행 중
 - 관련 포트: 5432, 6701, 7084
-- 관련 Docker 컨테이너: 확인 불가
+- 관련 Docker 컨테이너: whitehousebe-api-1, whitehousebe-db-1, whitehouse-b-app
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
@@ -79,6 +79,6 @@
 - 분류: 백엔드
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL
-- 실행 상태: 정지
+- 실행 상태: 실행 중
 - Git 커밋 수: 49
 - Git 상위 계정: YUNA0222(41), YUNA0222(8)

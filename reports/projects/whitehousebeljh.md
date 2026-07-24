@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhiteHouseBELJH`
 - 분류: 백엔드
-- 점검 시각: 2026-07-24 11:29:56 KST
+- 점검 시각: 2026-07-24 12:00:00 KST
 
 ## 추정 기술 스택
 
@@ -49,9 +49,9 @@
 
 ## 실행 상태
 
-- 상태: 정지
+- 상태: 실행 중
 - 관련 포트: 3000, 3001, 5432, 5433, 6700, 6701, 6705, 9090, 10000, 18000
-- 관련 Docker 컨테이너: 확인 불가
+- 관련 Docker 컨테이너: whitehouse-b-app
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
@@ -64,20 +64,20 @@
 
 ## 최근 수정 파일
 
-- data/postgres/global/pg_control (2026-07-24 11:28:55 KST)
-- data/postgres/pg_stat/pgstat.stat (2026-07-24 11:28:55 KST)
-- data/postgres/pg_wal/00000001000000000000001A (2026-07-24 11:28:55 KST)
-- data/postgres/pg_logical/replorigin_checkpoint (2026-07-24 11:28:55 KST)
-- data/postgres/base/16384/16444 (2026-07-16 13:14:17 KST)
-- data/postgres/base/16384/16443 (2026-07-16 13:14:17 KST)
-- data/postgres/base/16384/16442 (2026-07-16 13:14:17 KST)
-- data/postgres/base/16384/16441 (2026-07-16 13:14:17 KST)
+- data/postgres/pg_wal/00000001000000000000001A (2026-07-24 11:57:22 KST)
+- data/postgres/global/pg_control (2026-07-24 11:56:56 KST)
+- data/postgres/base/16384/16401 (2026-07-24 11:56:56 KST)
+- data/postgres/base/16384/16400 (2026-07-24 11:56:56 KST)
+- data/postgres/base/16384/16399 (2026-07-24 11:56:56 KST)
+- data/postgres/base/16384/16397 (2026-07-24 11:56:56 KST)
+- data/postgres/base/16384/16395 (2026-07-24 11:56:56 KST)
+- data/postgres/base/16384/16386 (2026-07-24 11:56:56 KST)
 
 ## 점검 결과 요약
 
 - 분류: 백엔드
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL
-- 실행 상태: 정지
+- 실행 상태: 실행 중
 - Git 커밋 수: 11
 - Git 상위 계정: Jaehe-he(15)
