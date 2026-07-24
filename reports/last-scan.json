@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-07-24T01:59:52.073Z",
-  "generatedAtKst": "2026-07-24 10:59:52 KST",
+  "generatedAt": "2026-07-24T02:29:54.958Z",
+  "generatedAtKst": "2026-07-24 11:29:54 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -10,8 +10,8 @@
     "ai": 5,
     "db": 8,
     "gitRepos": 15,
-    "running": 5,
-    "stopped": 14
+    "running": 3,
+    "stopped": 16
   },
   "gitAuthors": [
     {
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 3571
+          "count": 3572
         },
         {
           "email": "gosky@gosky.kr",
           "count": 6
         }
       ],
-      "count": 3577
+      "count": 3578
     },
     {
       "name": "YUNA0222",
@@ -1154,6 +1154,7 @@
         ],
         "docker": [],
         "ports": [
+          1433,
           3306
         ],
         "allCandidatePorts": [
@@ -1179,28 +1180,28 @@
           "실행 중",
           "PM2 1개",
           "Docker 없음",
-          "포트 3306"
+          "포트 1433, 3306"
         ]
       },
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 3434,
+        "commitCount": 3435,
         "authors": [
           {
-            "count": 3434,
+            "count": 3435,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "7abd42356",
+          "hash": "45dfa4a63",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-07-24T10:29:50+09:00",
+          "date": "2026-07-24T10:59:53+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 3434개 커밋, 상위 계정: gosky(3434), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 3435개 커밋, 상위 계정: gosky(3435), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1241,8 +1242,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 3434",
-        "Git 상위 계정: gosky(3434)"
+        "Git 커밋 수: 3435",
+        "Git 상위 계정: gosky(3435)"
       ]
     },
     {
@@ -1604,13 +1605,11 @@
         "summary": "PostgreSQL, SQLite 사용 추정"
       },
       "runtime": {
-        "status": "실행 중",
-        "running": true,
+        "status": "정지",
+        "running": false,
         "pm2": [],
         "docker": [],
-        "ports": [
-          6017
-        ],
+        "ports": [],
         "allCandidatePorts": [
           1008,
           5432,
@@ -1620,10 +1619,7 @@
           6019
         ],
         "summary": [
-          "실행 중",
-          "PM2 없음",
-          "Docker 없음",
-          "포트 6017"
+          "정지 또는 확인 불가"
         ]
       },
       "git": {
@@ -1648,6 +1644,22 @@
       },
       "recentFiles": [
         {
+          "path": "data/postgres/global/pg_control",
+          "modifiedAt": "2026-07-24T02:28:55.239Z"
+        },
+        {
+          "path": "data/postgres/pg_stat/pgstat.stat",
+          "modifiedAt": "2026-07-24T02:28:55.239Z"
+        },
+        {
+          "path": "data/postgres/pg_wal/000000010000000000000001",
+          "modifiedAt": "2026-07-24T02:28:55.239Z"
+        },
+        {
+          "path": "data/postgres/pg_logical/replorigin_checkpoint",
+          "modifiedAt": "2026-07-24T02:28:55.231Z"
+        },
+        {
           "path": "requirements.txt",
           "modifiedAt": "2026-07-14T02:43:54.423Z"
         },
@@ -1662,29 +1674,13 @@
         {
           "path": "app/services/fire_smoke_detection_service.py",
           "modifiedAt": "2026-07-14T02:32:18.159Z"
-        },
-        {
-          "path": ".env.example",
-          "modifiedAt": "2026-07-14T02:31:02.464Z"
-        },
-        {
-          "path": "app/services/stream_session_service.py",
-          "modifiedAt": "2026-07-14T02:30:44.988Z"
-        },
-        {
-          "path": "app/core/config.py",
-          "modifiedAt": "2026-07-14T02:30:25.004Z"
-        },
-        {
-          "path": "app/__init__.py",
-          "modifiedAt": "2026-06-23T23:54:46.146Z"
         }
       ],
       "summary": [
         "분류: AI 서버",
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI",
         "DB 사용 추정: PostgreSQL, SQLite",
-        "실행 상태: 실행 중",
+        "실행 상태: 정지",
         "Git 커밋 수: 37",
         "Git 상위 계정: gosky(37)"
       ]
@@ -2478,13 +2474,11 @@
         "summary": "SQLite 사용 추정"
       },
       "runtime": {
-        "status": "실행 중",
-        "running": true,
+        "status": "정지",
+        "running": false,
         "pm2": [],
         "docker": [],
-        "ports": [
-          6017
-        ],
+        "ports": [],
         "allCandidatePorts": [
           5173,
           6015,
@@ -2492,10 +2486,7 @@
           6018
         ],
         "summary": [
-          "실행 중",
-          "PM2 없음",
-          "Docker 없음",
-          "포트 6017"
+          "정지 또는 확인 불가"
         ]
       },
       "git": {
@@ -2556,7 +2547,7 @@
         "분류: 백엔드",
         "기술 추정: Node.js, Prisma, React, Vue, Vite, nestjs, NestJS, Express, express, Frontend",
         "DB 사용 추정: SQLite",
-        "실행 상태: 실행 중",
+        "실행 상태: 정지",
         "Git 커밋 수: 53",
         "Git 상위 계정: gosky(53)"
       ]
@@ -3763,12 +3754,20 @@
       },
       "recentFiles": [
         {
-          "path": "data/postgres/pg_wal/00000001000000000000001A",
-          "modifiedAt": "2026-07-16T04:14:20.437Z"
+          "path": "data/postgres/global/pg_control",
+          "modifiedAt": "2026-07-24T02:28:55.275Z"
         },
         {
-          "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-07-16T04:14:18.033Z"
+          "path": "data/postgres/pg_stat/pgstat.stat",
+          "modifiedAt": "2026-07-24T02:28:55.275Z"
+        },
+        {
+          "path": "data/postgres/pg_wal/00000001000000000000001A",
+          "modifiedAt": "2026-07-24T02:28:55.271Z"
+        },
+        {
+          "path": "data/postgres/pg_logical/replorigin_checkpoint",
+          "modifiedAt": "2026-07-24T02:28:55.267Z"
         },
         {
           "path": "data/postgres/base/16384/16444",
@@ -3785,14 +3784,6 @@
         {
           "path": "data/postgres/base/16384/16441",
           "modifiedAt": "2026-07-16T04:14:17.629Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16436_fsm",
-          "modifiedAt": "2026-07-16T04:14:17.529Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-07-16T04:14:17.429Z"
         }
       ],
       "summary": [

@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeReservation`
 - 분류: 백엔드
-- 점검 시각: 2026-07-24 10:59:53 KST
+- 점검 시각: 2026-07-24 11:29:56 KST
 
 ## 추정 기술 스택
 
@@ -55,7 +55,7 @@
 
 ## 실행 상태
 
-- 상태: 실행 중
+- 상태: 정지
 - 관련 포트: 5173, 6015, 6017, 6018
 - 관련 Docker 컨테이너: 확인 불가
 - 관련 PM2 프로세스: 확인 불가
@@ -84,6 +84,6 @@
 - 분류: 백엔드
 - 기술 추정: Node.js, Prisma, React, Vue, Vite, nestjs, NestJS, Express, express, Frontend
 - DB 사용 추정: SQLite
-- 실행 상태: 실행 중
+- 실행 상태: 정지
 - Git 커밋 수: 53
 - Git 상위 계정: gosky(53)

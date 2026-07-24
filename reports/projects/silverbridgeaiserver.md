@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-07-24 10:59:52 KST
+- 점검 시각: 2026-07-24 11:29:55 KST
 
 ## 추정 기술 스택
 
@@ -57,7 +57,7 @@
 
 ## 실행 상태
 
-- 상태: 실행 중
+- 상태: 정지
 - 관련 포트: 1008, 5432, 6012, 6015, 6017, 6019
 - 관련 Docker 컨테이너: 확인 불가
 - 관련 PM2 프로세스: 확인 불가
@@ -72,20 +72,20 @@
 
 ## 최근 수정 파일
 
+- data/postgres/global/pg_control (2026-07-24 11:28:55 KST)
+- data/postgres/pg_stat/pgstat.stat (2026-07-24 11:28:55 KST)
+- data/postgres/pg_wal/000000010000000000000001 (2026-07-24 11:28:55 KST)
+- data/postgres/pg_logical/replorigin_checkpoint (2026-07-24 11:28:55 KST)
 - requirements.txt (2026-07-14 11:43:54 KST)
 - Dockerfile (2026-07-14 11:43:38 KST)
 - .env (2026-07-14 11:36:16 KST)
 - app/services/fire_smoke_detection_service.py (2026-07-14 11:32:18 KST)
-- .env.example (2026-07-14 11:31:02 KST)
-- app/services/stream_session_service.py (2026-07-14 11:30:44 KST)
-- app/core/config.py (2026-07-14 11:30:25 KST)
-- app/__init__.py (2026-06-24 08:54:46 KST)
 
 ## 점검 결과 요약
 
 - 분류: AI 서버
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
-- 실행 상태: 실행 중
+- 실행 상태: 정지
 - Git 커밋 수: 37
 - Git 상위 계정: gosky(37)
