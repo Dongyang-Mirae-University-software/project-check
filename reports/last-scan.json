@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-07-24T17:32:04.210Z",
-  "generatedAtKst": "2026-07-25 02:32:04 KST",
+  "generatedAt": "2026-07-24T18:02:08.309Z",
+  "generatedAtKst": "2026-07-25 03:02:08 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 3602
+          "count": 3603
         },
         {
           "email": "gosky@gosky.kr",
           "count": 6
         }
       ],
-      "count": 3608
+      "count": 3609
     },
     {
       "name": "YUNA0222",
@@ -603,7 +603,7 @@
           {
             "name": "chatsilverbridge-mysql-1",
             "image": "mysql:8.0",
-            "status": "Up 15 hours (healthy)",
+            "status": "Up 16 hours (healthy)",
             "ports": "33060/tcp, 0.0.0.0:3307->3306/tcp, [::]:3307->3306/tcp"
           },
           {
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 3465,
+        "commitCount": 3466,
         "authors": [
           {
-            "count": 3465,
+            "count": 3466,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "00d26720b",
+          "hash": "6c86f1ade",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-07-25T02:02:02+09:00",
+          "date": "2026-07-25T02:32:06+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 3465개 커밋, 상위 계정: gosky(3465), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 3466개 커밋, 상위 계정: gosky(3466), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 3465",
-        "Git 상위 계정: gosky(3465)"
+        "Git 커밋 수: 3466",
+        "Git 상위 계정: gosky(3466)"
       ]
     },
     {
@@ -3604,7 +3604,7 @@
           {
             "name": "whitehousebe-db-1",
             "image": "postgres:16",
-            "status": "Up 15 hours (healthy)",
+            "status": "Up 16 hours (healthy)",
             "ports": "0.0.0.0:6705->5432/tcp, [::]:6705->5432/tcp"
           },
           {
@@ -3891,35 +3891,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/00000001000000000000001B",
-          "modifiedAt": "2026-07-24T17:31:26.058Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-07-24T17:28:22.005Z"
+          "modifiedAt": "2026-07-24T17:52:23.389Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-07-24T17:27:14.165Z"
+          "modifiedAt": "2026-07-24T17:52:14.181Z"
         },
         {
           "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-07-24T17:27:14.061Z"
+          "modifiedAt": "2026-07-24T17:52:14.081Z"
         },
         {
           "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-07-24T17:27:13.961Z"
+          "modifiedAt": "2026-07-24T17:52:13.981Z"
         },
         {
           "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-07-24T17:27:13.861Z"
+          "modifiedAt": "2026-07-24T17:52:13.881Z"
         },
         {
           "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-07-24T17:27:13.761Z"
+          "modifiedAt": "2026-07-24T17:52:13.781Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16436",
+          "modifiedAt": "2026-07-24T17:52:13.681Z"
         },
         {
           "path": "data/postgres/base/16384/16402",
-          "modifiedAt": "2026-07-24T17:27:13.561Z"
+          "modifiedAt": "2026-07-24T17:52:13.581Z"
         }
       ],
       "summary": [
