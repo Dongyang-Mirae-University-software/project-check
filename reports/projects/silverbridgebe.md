@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-07-27 16:40:50 KST
+- 점검 시각: 2026-07-27 17:10:54 KST
 
 ## 추정 기술 스택
 
@@ -57,23 +57,23 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 656
+- 총 커밋 수: 660
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 616
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 619
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
-- 최근 커밋: 57d4c5d / namgung <skarndaudwls@gmail.com> / Merge pull request #219 from Dongyang-Mirae-University-software/feature/sos-action-setting
+- 최근 커밋: da5786d / skarndaudwls1 <skarndaudwls@gmail.com> / chore: Claude Code worktree 디렉터리를 gitignore에 추가
 
 ## 최근 수정 파일
 
-- src/main/resources/application.yaml (2026-07-23 18:02:16 KST)
+- docs/progress.md (2026-07-27 17:01:34 KST)
+- src/main/resources/application.yaml (2026-07-27 17:01:34 KST)
+- CLAUDE.md (2026-07-27 17:01:34 KST)
+- docs/(2026-07-23) alimtalk-template-review-history.md (2026-07-27 17:01:34 KST)
 - src/main/resources/db/migration/V32__add_sos_setting.sql (2026-07-23 18:02:16 KST)
-- CLAUDE.md (2026-07-23 18:02:16 KST)
 - docs/(2026-07-14) audit-sos-to-anomaly-cumulative.md (2026-07-23 18:02:16 KST)
 - docs/(2026-07-14) fix-audit-findings.md (2026-07-23 18:02:16 KST)
-- docs/(2026-07-23) alimtalk-template-review-history.md (2026-07-23 18:02:16 KST)
 - docs/(2026-07-23) feature-sos-action-setting.md (2026-07-23 18:02:16 KST)
-- docs/audit-index.md (2026-07-23 18:02:16 KST)
 
 ## 점검 결과 요약
 
@@ -81,5 +81,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 656
-- Git 상위 계정: skarndaudwls1(616), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 660
+- Git 상위 계정: skarndaudwls1(619), skarndaudwls1(65), gosky(4)

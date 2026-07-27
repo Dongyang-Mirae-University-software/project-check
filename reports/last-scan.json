@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-07-27T07:40:48.128Z",
-  "generatedAtKst": "2026-07-27 16:40:48 KST",
+  "generatedAt": "2026-07-27T08:10:52.237Z",
+  "generatedAtKst": "2026-07-27 17:10:52 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 3726
+          "count": 3727
         },
         {
           "email": "gosky@gosky.kr",
           "count": 6
         }
       ],
-      "count": 3732
+      "count": 3733
     },
     {
       "name": "YUNA0222",
@@ -47,14 +47,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 741
+          "count": 744
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 830
+      "count": 833
     },
     {
       "name": "Jaehe-he",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 3589,
+        "commitCount": 3590,
         "authors": [
           {
-            "count": 3589,
+            "count": 3590,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "3875dda59",
+          "hash": "146e8ece3",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-07-27T16:10:46+09:00",
+          "date": "2026-07-27T16:40:50+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 3589개 커밋, 상위 계정: gosky(3589), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 3590개 커밋, 상위 계정: gosky(3590), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 3589",
-        "Git 상위 계정: gosky(3589)"
+        "Git 커밋 수: 3590",
+        "Git 상위 계정: gosky(3590)"
       ]
     },
     {
@@ -1912,10 +1912,10 @@
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 656,
+        "commitCount": 660,
         "authors": [
           {
-            "count": 616,
+            "count": 619,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -1931,26 +1931,34 @@
           }
         ],
         "latestCommit": {
-          "hash": "57d4c5d",
-          "author": "namgung",
+          "hash": "da5786d",
+          "author": "skarndaudwls1",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-07-23T18:01:44+09:00",
-          "subject": "Merge pull request #219 from Dongyang-Mirae-University-software/feature/sos-action-setting"
+          "date": "2026-07-27T16:59:48+09:00",
+          "subject": "chore: Claude Code worktree 디렉터리를 gitignore에 추가"
         },
-        "summary": "총 656개 커밋, 상위 계정: skarndaudwls1(616), skarndaudwls1(65), gosky(4), 최근: Merge pull request #219 from Dongyang-Mirae-University-software/feature/sos-action-setting"
+        "summary": "총 660개 커밋, 상위 계정: skarndaudwls1(619), skarndaudwls1(65), gosky(4), 최근: chore: Claude Code worktree 디렉터리를 gitignore에 추가"
       },
       "recentFiles": [
         {
+          "path": "docs/progress.md",
+          "modifiedAt": "2026-07-27T08:01:34.681Z"
+        },
+        {
           "path": "src/main/resources/application.yaml",
-          "modifiedAt": "2026-07-23T09:02:16.974Z"
+          "modifiedAt": "2026-07-27T08:01:34.681Z"
+        },
+        {
+          "path": "CLAUDE.md",
+          "modifiedAt": "2026-07-27T08:01:34.677Z"
+        },
+        {
+          "path": "docs/(2026-07-23) alimtalk-template-review-history.md",
+          "modifiedAt": "2026-07-27T08:01:34.677Z"
         },
         {
           "path": "src/main/resources/db/migration/V32__add_sos_setting.sql",
           "modifiedAt": "2026-07-23T09:02:16.974Z"
-        },
-        {
-          "path": "CLAUDE.md",
-          "modifiedAt": "2026-07-23T09:02:16.970Z"
         },
         {
           "path": "docs/(2026-07-14) audit-sos-to-anomaly-cumulative.md",
@@ -1961,15 +1969,7 @@
           "modifiedAt": "2026-07-23T09:02:16.970Z"
         },
         {
-          "path": "docs/(2026-07-23) alimtalk-template-review-history.md",
-          "modifiedAt": "2026-07-23T09:02:16.970Z"
-        },
-        {
           "path": "docs/(2026-07-23) feature-sos-action-setting.md",
-          "modifiedAt": "2026-07-23T09:02:16.970Z"
-        },
-        {
-          "path": "docs/audit-index.md",
           "modifiedAt": "2026-07-23T09:02:16.970Z"
         }
       ],
@@ -1978,8 +1978,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 656",
-        "Git 상위 계정: skarndaudwls1(616), skarndaudwls1(65), gosky(4)"
+        "Git 커밋 수: 660",
+        "Git 상위 계정: skarndaudwls1(619), skarndaudwls1(65), gosky(4)"
       ]
     },
     {
@@ -3892,35 +3892,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/00000001000000000000001D",
-          "modifiedAt": "2026-07-27T07:38:28.944Z"
+          "modifiedAt": "2026-07-27T08:10:10.371Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-07-27T07:38:23.136Z"
+          "modifiedAt": "2026-07-27T08:08:23.553Z"
         },
         {
           "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-07-27T07:38:23.036Z"
+          "modifiedAt": "2026-07-27T08:08:23.453Z"
         },
         {
           "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-07-27T07:38:22.936Z"
+          "modifiedAt": "2026-07-27T08:08:23.353Z"
         },
         {
           "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-07-27T07:38:22.836Z"
+          "modifiedAt": "2026-07-27T08:08:23.253Z"
         },
         {
           "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-07-27T07:38:22.736Z"
+          "modifiedAt": "2026-07-27T08:08:23.153Z"
         },
         {
           "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-07-27T07:38:22.632Z"
+          "modifiedAt": "2026-07-27T08:08:23.053Z"
         },
         {
           "path": "data/postgres/base/16384/16402",
-          "modifiedAt": "2026-07-27T07:38:22.532Z"
+          "modifiedAt": "2026-07-27T08:08:22.953Z"
         }
       ],
       "summary": [
