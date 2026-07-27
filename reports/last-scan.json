@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-07-27T01:09:52.262Z",
-  "generatedAtKst": "2026-07-27 10:09:52 KST",
+  "generatedAt": "2026-07-27T01:39:56.670Z",
+  "generatedAtKst": "2026-07-27 10:39:56 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 3713
+          "count": 3714
         },
         {
           "email": "gosky@gosky.kr",
           "count": 6
         }
       ],
-      "count": 3719
+      "count": 3720
     },
     {
       "name": "YUNA0222",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 3576,
+        "commitCount": 3577,
         "authors": [
           {
-            "count": 3576,
+            "count": 3577,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "05585935c",
+          "hash": "b0d202e33",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-07-27T09:39:50+09:00",
+          "date": "2026-07-27T10:09:55+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 3576개 커밋, 상위 계정: gosky(3576), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 3577개 커밋, 상위 계정: gosky(3577), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 3576",
-        "Git 상위 계정: gosky(3576)"
+        "Git 커밋 수: 3577",
+        "Git 상위 계정: gosky(3577)"
       ]
     },
     {
@@ -3844,6 +3844,7 @@
           }
         ],
         "ports": [
+          3001,
           5432,
           6700,
           6701,
@@ -3865,7 +3866,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 1개",
-          "포트 5432, 6700, 6701, 6705"
+          "포트 3001, 5432, 6700, 6701, 6705"
         ]
       },
       "git": {
@@ -3891,35 +3892,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/00000001000000000000001D",
-          "modifiedAt": "2026-07-27T01:08:17.065Z"
+          "modifiedAt": "2026-07-27T01:39:50.953Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-07-27T01:08:16.261Z"
+          "modifiedAt": "2026-07-27T01:33:15.577Z"
         },
         {
           "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-07-27T01:08:16.161Z"
+          "modifiedAt": "2026-07-27T01:33:15.477Z"
         },
         {
           "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-07-27T01:08:16.061Z"
+          "modifiedAt": "2026-07-27T01:33:15.377Z"
         },
         {
           "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-07-27T01:08:15.961Z"
+          "modifiedAt": "2026-07-27T01:33:15.277Z"
         },
         {
           "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-07-27T01:08:15.861Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16436_fsm",
-          "modifiedAt": "2026-07-27T01:08:15.761Z"
+          "modifiedAt": "2026-07-27T01:33:15.177Z"
         },
         {
           "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-07-27T01:08:15.661Z"
+          "modifiedAt": "2026-07-27T01:33:15.077Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16402",
+          "modifiedAt": "2026-07-27T01:33:14.977Z"
         }
       ],
       "summary": [

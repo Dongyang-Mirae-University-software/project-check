@@ -1,6 +1,6 @@
 # 실행 상태
 
-- 스캔 시각: 2026-07-27 10:09:54 KST
+- 스캔 시각: 2026-07-27 10:39:59 KST
 
 | 프로젝트 | 분류 | 실행 상태 | PM2 | Docker | 포트 |
 | --- | --- | --- | --- | --- | --- |
@@ -43,5 +43,5 @@
 - SilverBridgeStreamTestFe: 실행 중 / PM2 없음 / Docker 없음 / 포트 6018
 - TestSilverBridge: 정지 또는 확인 불가
 - WhitehouseBE: 실행 중 / PM2 없음 / Docker 3개 / 포트 5432, 6701
-- WhiteHouseBELJH: 실행 중 / PM2 없음 / Docker 1개 / 포트 5432, 6700, 6701, 6705
+- WhiteHouseBELJH: 실행 중 / PM2 없음 / Docker 1개 / 포트 3001, 5432, 6700, 6701, 6705
 - WhitehouseFE: 실행 중 / PM2 없음 / Docker 1개 / 포트 확인 불가
