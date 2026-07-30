@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeReservation`
 - 분류: 백엔드
-- 점검 시각: 2026-07-30 18:51:32 KST
+- 점검 시각: 2026-07-30 19:21:36 KST
 
 ## 추정 기술 스택
 
