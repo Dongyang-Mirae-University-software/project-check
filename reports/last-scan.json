@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-07-30T00:50:15.476Z",
-  "generatedAtKst": "2026-07-30 09:50:15 KST",
+  "generatedAt": "2026-07-30T01:20:19.896Z",
+  "generatedAtKst": "2026-07-30 10:20:19 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 3856
+          "count": 3857
         },
         {
           "email": "gosky@gosky.kr",
           "count": 6
         }
       ],
-      "count": 3862
+      "count": 3863
     },
     {
       "name": "YUNA0222",
@@ -47,14 +47,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 744
+          "count": 746
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 833
+      "count": 835
     },
     {
       "name": "Jaehe-he",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 3719,
+        "commitCount": 3720,
         "authors": [
           {
-            "count": 3719,
+            "count": 3720,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "0a49f5909",
+          "hash": "73b52380a",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-07-30T09:20:13+09:00",
+          "date": "2026-07-30T09:50:18+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 3719개 커밋, 상위 계정: gosky(3719), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 3720개 커밋, 상위 계정: gosky(3720), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 3719",
-        "Git 상위 계정: gosky(3719)"
+        "Git 커밋 수: 3720",
+        "Git 상위 계정: gosky(3720)"
       ]
     },
     {
@@ -1912,10 +1912,10 @@
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 660,
+        "commitCount": 663,
         "authors": [
           {
-            "count": 619,
+            "count": 621,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -1931,26 +1931,26 @@
           }
         ],
         "latestCommit": {
-          "hash": "da5786d",
-          "author": "skarndaudwls1",
+          "hash": "a5a3b8d",
+          "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-07-27T16:59:48+09:00",
-          "subject": "chore: Claude Code worktree 디렉터리를 gitignore에 추가"
+          "date": "2026-07-30T09:52:01+09:00",
+          "subject": "Merge pull request #222 from Dongyang-Mirae-University-software/chore/anomaly-cooldown-defaults"
         },
-        "summary": "총 660개 커밋, 상위 계정: skarndaudwls1(619), skarndaudwls1(65), gosky(4), 최근: chore: Claude Code worktree 디렉터리를 gitignore에 추가"
+        "summary": "총 663개 커밋, 상위 계정: skarndaudwls1(621), skarndaudwls1(65), gosky(4), 최근: Merge pull request #222 from Dongyang-Mirae-University-software/chore/anomaly-cooldown-defaults"
       },
       "recentFiles": [
         {
+          "path": "CLAUDE.md",
+          "modifiedAt": "2026-07-30T00:55:43.503Z"
+        },
+        {
           "path": "docs/progress.md",
-          "modifiedAt": "2026-07-27T08:01:34.681Z"
+          "modifiedAt": "2026-07-30T00:55:43.503Z"
         },
         {
           "path": "src/main/resources/application.yaml",
-          "modifiedAt": "2026-07-27T08:01:34.681Z"
-        },
-        {
-          "path": "CLAUDE.md",
-          "modifiedAt": "2026-07-27T08:01:34.677Z"
+          "modifiedAt": "2026-07-30T00:55:43.503Z"
         },
         {
           "path": "docs/(2026-07-23) alimtalk-template-review-history.md",
@@ -1978,8 +1978,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 660",
-        "Git 상위 계정: skarndaudwls1(619), skarndaudwls1(65), gosky(4)"
+        "Git 커밋 수: 663",
+        "Git 상위 계정: skarndaudwls1(621), skarndaudwls1(65), gosky(4)"
       ]
     },
     {
@@ -3892,35 +3892,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/00000001000000000000001F",
-          "modifiedAt": "2026-07-30T00:49:53.083Z"
+          "modifiedAt": "2026-07-30T01:19:52.399Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-07-30T00:49:46.675Z"
+          "modifiedAt": "2026-07-30T01:19:44.991Z"
         },
         {
           "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-07-30T00:49:46.575Z"
+          "modifiedAt": "2026-07-30T01:19:44.891Z"
         },
         {
           "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-07-30T00:49:46.471Z"
+          "modifiedAt": "2026-07-30T01:19:44.791Z"
         },
         {
           "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-07-30T00:49:46.371Z"
+          "modifiedAt": "2026-07-30T01:19:44.691Z"
         },
         {
           "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-07-30T00:49:46.271Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16436_fsm",
-          "modifiedAt": "2026-07-30T00:49:46.171Z"
+          "modifiedAt": "2026-07-30T01:19:44.591Z"
         },
         {
           "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-07-30T00:49:46.071Z"
+          "modifiedAt": "2026-07-30T01:19:44.491Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16402",
+          "modifiedAt": "2026-07-30T01:19:44.391Z"
         }
       ],
       "summary": [
