@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-07-31 13:54:14 KST
+- 점검 시각: 2026-07-31 14:24:18 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 100
+- 파일 개수: 103
 - 디렉토리 개수: 25
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration, src/test, src/test/java, src/test/java/kr, src/test/java/kr/silverbridge, src/test/java/kr/silverbridge/main, src/test/java/kr/silverbridge/main/domain, src/test/java/kr/silverbridge/main/global
@@ -57,23 +57,23 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 663
+- 총 커밋 수: 667
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 621
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 624
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
-- 최근 커밋: a5a3b8d / namgung <skarndaudwls@gmail.com> / Merge pull request #222 from Dongyang-Mirae-University-software/chore/anomaly-cooldown-defaults
+- 최근 커밋: af64f7c / namgung <skarndaudwls@gmail.com> / Merge pull request #223 from Dongyang-Mirae-University-software/feature/sos-history-ack
 
 ## 최근 수정 파일
 
+- 프로젝트_설명.txt (2026-07-31 14:15:24 KST)
+- src/main/resources/db/migration/V33__add_sos_event_ack.sql (2026-07-31 14:15:24 KST)
+- src/main/resources/db/migration/V34__add_sos_event_location.sql (2026-07-31 14:15:24 KST)
+- docs/(2026-07-30) feature-sos-history-ack.md (2026-07-31 14:15:24 KST)
+- docs/progress.md (2026-07-31 14:15:24 KST)
 - CLAUDE.md (2026-07-30 09:55:43 KST)
-- docs/progress.md (2026-07-30 09:55:43 KST)
 - src/main/resources/application.yaml (2026-07-30 09:55:43 KST)
 - docs/(2026-07-23) alimtalk-template-review-history.md (2026-07-27 17:01:34 KST)
-- src/main/resources/db/migration/V32__add_sos_setting.sql (2026-07-23 18:02:16 KST)
-- docs/(2026-07-14) audit-sos-to-anomaly-cumulative.md (2026-07-23 18:02:16 KST)
-- docs/(2026-07-14) fix-audit-findings.md (2026-07-23 18:02:16 KST)
-- docs/(2026-07-23) feature-sos-action-setting.md (2026-07-23 18:02:16 KST)
 
 ## 점검 결과 요약
 
@@ -81,5 +81,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 663
-- Git 상위 계정: skarndaudwls1(621), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 667
+- Git 상위 계정: skarndaudwls1(624), skarndaudwls1(65), gosky(4)
