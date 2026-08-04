@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-08-04T07:09:24.081Z",
-  "generatedAtKst": "2026-08-04 16:09:24 KST",
+  "generatedAt": "2026-08-04T07:39:28.277Z",
+  "generatedAtKst": "2026-08-04 16:39:28 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 4108
+          "count": 4109
         },
         {
           "email": "gosky@gosky.kr",
           "count": 6
         }
       ],
-      "count": 4114
+      "count": 4115
     },
     {
       "name": "YUNA0222",
@@ -47,14 +47,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 749
+          "count": 753
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 838
+      "count": 842
     },
     {
       "name": "Jaehe-he",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 3971,
+        "commitCount": 3972,
         "authors": [
           {
-            "count": 3971,
+            "count": 3972,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "14be12360",
+          "hash": "94271702b",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-08-04T15:39:22+09:00",
+          "date": "2026-08-04T16:09:26+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 3971개 커밋, 상위 계정: gosky(3971), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 3972개 커밋, 상위 계정: gosky(3972), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 3971",
-        "Git 상위 계정: gosky(3971)"
+        "Git 커밋 수: 3972",
+        "Git 상위 계정: gosky(3972)"
       ]
     },
     {
@@ -1838,7 +1838,7 @@
         }
       ],
       "structure": {
-        "fileCount": 103,
+        "fileCount": 105,
         "dirCount": 25,
         "mainFolders": [
           "db",
@@ -1912,10 +1912,10 @@
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 667,
+        "commitCount": 672,
         "authors": [
           {
-            "count": 624,
+            "count": 628,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -1931,18 +1931,34 @@
           }
         ],
         "latestCommit": {
-          "hash": "af64f7c",
+          "hash": "53b647e",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-07-31T10:20:11+09:00",
-          "subject": "Merge pull request #223 from Dongyang-Mirae-University-software/feature/sos-history-ack"
+          "date": "2026-08-04T16:12:45+09:00",
+          "subject": "Merge pull request #224 from Dongyang-Mirae-University-software/feature/medication-reminder"
         },
-        "summary": "총 667개 커밋, 상위 계정: skarndaudwls1(624), skarndaudwls1(65), gosky(4), 최근: Merge pull request #223 from Dongyang-Mirae-University-software/feature/sos-history-ack"
+        "summary": "총 672개 커밋, 상위 계정: skarndaudwls1(628), skarndaudwls1(65), gosky(4), 최근: Merge pull request #224 from Dongyang-Mirae-University-software/feature/medication-reminder"
       },
       "recentFiles": [
         {
           "path": "프로젝트_설명.txt",
-          "modifiedAt": "2026-07-31T05:15:24.028Z"
+          "modifiedAt": "2026-08-04T07:21:27.943Z"
+        },
+        {
+          "path": "src/main/resources/db/migration/V35__create_medication.sql",
+          "modifiedAt": "2026-08-04T07:21:27.943Z"
+        },
+        {
+          "path": "CLAUDE.md",
+          "modifiedAt": "2026-08-04T07:21:27.939Z"
+        },
+        {
+          "path": "docs/(2026-08-04) feature-medication-reminder.md",
+          "modifiedAt": "2026-08-04T07:21:27.939Z"
+        },
+        {
+          "path": "docs/progress.md",
+          "modifiedAt": "2026-08-04T07:21:27.939Z"
         },
         {
           "path": "src/main/resources/db/migration/V33__add_sos_event_ack.sql",
@@ -1955,22 +1971,6 @@
         {
           "path": "docs/(2026-07-30) feature-sos-history-ack.md",
           "modifiedAt": "2026-07-31T05:15:24.024Z"
-        },
-        {
-          "path": "docs/progress.md",
-          "modifiedAt": "2026-07-31T05:15:24.024Z"
-        },
-        {
-          "path": "CLAUDE.md",
-          "modifiedAt": "2026-07-30T00:55:43.503Z"
-        },
-        {
-          "path": "src/main/resources/application.yaml",
-          "modifiedAt": "2026-07-30T00:55:43.503Z"
-        },
-        {
-          "path": "docs/(2026-07-23) alimtalk-template-review-history.md",
-          "modifiedAt": "2026-07-27T08:01:34.677Z"
         }
       ],
       "summary": [
@@ -1978,8 +1978,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 667",
-        "Git 상위 계정: skarndaudwls1(624), skarndaudwls1(65), gosky(4)"
+        "Git 커밋 수: 672",
+        "Git 상위 계정: skarndaudwls1(628), skarndaudwls1(65), gosky(4)"
       ]
     },
     {
@@ -3891,36 +3891,36 @@
       },
       "recentFiles": [
         {
-          "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-08-04T07:09:20.114Z"
-        },
-        {
           "path": "data/postgres/pg_wal/000000010000000000000024",
-          "modifiedAt": "2026-08-04T07:09:20.114Z"
+          "modifiedAt": "2026-08-04T07:37:18.997Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-08-04T07:07:09.252Z"
+          "modifiedAt": "2026-08-04T07:37:08.985Z"
         },
         {
           "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-08-04T07:07:09.152Z"
+          "modifiedAt": "2026-08-04T07:37:08.885Z"
         },
         {
           "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-08-04T07:07:09.052Z"
+          "modifiedAt": "2026-08-04T07:37:08.785Z"
         },
         {
           "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-08-04T07:07:08.952Z"
+          "modifiedAt": "2026-08-04T07:37:08.685Z"
         },
         {
           "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-08-04T07:07:08.852Z"
+          "modifiedAt": "2026-08-04T07:37:08.585Z"
         },
         {
-          "path": "data/postgres/base/16384/16436_fsm",
-          "modifiedAt": "2026-08-04T07:07:08.752Z"
+          "path": "data/postgres/base/16384/16436",
+          "modifiedAt": "2026-08-04T07:37:08.481Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16402",
+          "modifiedAt": "2026-08-04T07:37:08.381Z"
         }
       ],
       "summary": [
