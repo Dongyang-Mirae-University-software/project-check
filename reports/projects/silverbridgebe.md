@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-08-05 14:42:49 KST
+- 점검 시각: 2026-08-05 15:12:53 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 107
+- 파일 개수: 109
 - 디렉토리 개수: 25
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration, src/test, src/test/java, src/test/java/kr, src/test/java/kr/silverbridge, src/test/java/kr/silverbridge/main, src/test/java/kr/silverbridge/main/domain, src/test/java/kr/silverbridge/main/global
@@ -57,23 +57,23 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 674
+- 총 커밋 수: 676
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 629
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 630
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
-- 최근 커밋: 4d6c962 / namgung <skarndaudwls@gmail.com> / Merge pull request #225 from Dongyang-Mirae-University-software/feature/medication-reminder-scheduler
+- 최근 커밋: af6490d / namgung <skarndaudwls@gmail.com> / Merge pull request #226 from Dongyang-Mirae-University-software/feature/medication-missed-alert
 
 ## 최근 수정 파일
 
-- 프로젝트_설명.txt (2026-08-05 13:32:29 KST)
-- src/main/resources/application.yaml (2026-08-05 13:32:29 KST)
+- 프로젝트_설명.txt (2026-08-05 14:52:30 KST)
+- CLAUDE.md (2026-08-05 14:52:30 KST)
+- docs/(2026-08-05) feature-medication-missed-alert.md (2026-08-05 14:52:30 KST)
+- docs/progress.md (2026-08-05 14:52:30 KST)
+- src/main/resources/application.yaml (2026-08-05 14:52:30 KST)
+- src/main/resources/db/migration/V37__add_medication_missed_alert.sql (2026-08-05 14:52:30 KST)
 - src/main/resources/db/migration/V36__add_medication_reminder.sql (2026-08-05 13:32:29 KST)
-- CLAUDE.md (2026-08-05 13:32:29 KST)
 - docs/(2026-08-05) feature-medication-reminder-scheduler.md (2026-08-05 13:32:29 KST)
-- docs/progress.md (2026-08-05 13:32:29 KST)
-- src/main/resources/db/migration/V35__create_medication.sql (2026-08-04 16:21:27 KST)
-- docs/(2026-08-04) feature-medication-reminder.md (2026-08-04 16:21:27 KST)
 
 ## 점검 결과 요약
 
@@ -81,5 +81,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 674
-- Git 상위 계정: skarndaudwls1(629), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 676
+- Git 상위 계정: skarndaudwls1(630), skarndaudwls1(65), gosky(4)
