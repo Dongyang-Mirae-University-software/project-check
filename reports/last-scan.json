@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-08-07T21:22:27.272Z",
-  "generatedAtKst": "2026-08-08 06:22:27 KST",
+  "generatedAt": "2026-08-07T21:52:31.753Z",
+  "generatedAtKst": "2026-08-08 06:52:31 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 4280
+          "count": 4281
         },
         {
           "email": "gosky@gosky.kr",
           "count": 6
         }
       ],
-      "count": 4286
+      "count": 4287
     },
     {
       "name": "YUNA0222",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 4143,
+        "commitCount": 4144,
         "authors": [
           {
-            "count": 4143,
+            "count": 4144,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "561289c01",
+          "hash": "249d9db85",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-08-08T05:52:24+09:00",
+          "date": "2026-08-08T06:22:30+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 4143개 커밋, 상위 계정: gosky(4143), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 4144개 커밋, 상위 계정: gosky(4144), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 4143",
-        "Git 상위 계정: gosky(4143)"
+        "Git 커밋 수: 4144",
+        "Git 상위 계정: gosky(4144)"
       ]
     },
     {
@@ -3892,35 +3892,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000026",
-          "modifiedAt": "2026-08-07T21:08:48.466Z"
+          "modifiedAt": "2026-08-07T21:52:04.302Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16397",
+          "modifiedAt": "2026-08-07T21:51:43.487Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-08-07T21:08:42.858Z"
+          "modifiedAt": "2026-08-07T21:48:45.272Z"
         },
         {
           "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-08-07T21:08:42.758Z"
+          "modifiedAt": "2026-08-07T21:48:45.172Z"
         },
         {
           "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-08-07T21:08:42.658Z"
+          "modifiedAt": "2026-08-07T21:48:45.072Z"
         },
         {
           "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-08-07T21:08:42.558Z"
+          "modifiedAt": "2026-08-07T21:48:44.972Z"
         },
         {
           "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-08-07T21:08:42.458Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16436_fsm",
-          "modifiedAt": "2026-08-07T21:08:42.358Z"
+          "modifiedAt": "2026-08-07T21:48:44.872Z"
         },
         {
           "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-08-07T21:08:42.258Z"
+          "modifiedAt": "2026-08-07T21:48:44.772Z"
         }
       ],
       "summary": [
