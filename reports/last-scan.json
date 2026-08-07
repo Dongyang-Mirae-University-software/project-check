@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-08-07T05:50:01.260Z",
-  "generatedAtKst": "2026-08-07 14:50:01 KST",
+  "generatedAt": "2026-08-07T06:20:05.714Z",
+  "generatedAtKst": "2026-08-07 15:20:05 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 4249
+          "count": 4250
         },
         {
           "email": "gosky@gosky.kr",
           "count": 6
         }
       ],
-      "count": 4255
+      "count": 4256
     },
     {
       "name": "YUNA0222",
@@ -47,14 +47,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 758
+          "count": 759
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 847
+      "count": 848
     },
     {
       "name": "Jaehe-he",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 4112,
+        "commitCount": 4113,
         "authors": [
           {
-            "count": 4112,
+            "count": 4113,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "f38d1adc2",
+          "hash": "e235c8a7a",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-08-07T14:19:59+09:00",
+          "date": "2026-08-07T14:50:04+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 4112개 커밋, 상위 계정: gosky(4112), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 4113개 커밋, 상위 계정: gosky(4113), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 4112",
-        "Git 상위 계정: gosky(4112)"
+        "Git 커밋 수: 4113",
+        "Git 상위 계정: gosky(4113)"
       ]
     },
     {
@@ -1838,7 +1838,7 @@
         }
       ],
       "structure": {
-        "fileCount": 113,
+        "fileCount": 114,
         "dirCount": 25,
         "mainFolders": [
           "db",
@@ -1912,10 +1912,10 @@
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 682,
+        "commitCount": 684,
         "authors": [
           {
-            "count": 633,
+            "count": 634,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -1931,15 +1931,23 @@
           }
         ],
         "latestCommit": {
-          "hash": "d872654",
+          "hash": "74849e8",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-08-06T16:30:07+09:00",
-          "subject": "Merge pull request #229 from Dongyang-Mirae-University-software/fix/audit-findings-2026-08"
+          "date": "2026-08-07T14:35:45+09:00",
+          "subject": "Merge pull request #230 from Dongyang-Mirae-University-software/refactor/swagger-tags"
         },
-        "summary": "총 682개 커밋, 상위 계정: skarndaudwls1(633), skarndaudwls1(65), gosky(4), 최근: Merge pull request #229 from Dongyang-Mirae-University-software/fix/audit-findings-2026-08"
+        "summary": "총 684개 커밋, 상위 계정: skarndaudwls1(634), skarndaudwls1(65), gosky(4), 최근: Merge pull request #230 from Dongyang-Mirae-University-software/refactor/swagger-tags"
       },
       "recentFiles": [
+        {
+          "path": "docs/(2026-08-07) refactor-swagger-tags.md",
+          "modifiedAt": "2026-08-07T05:59:36.537Z"
+        },
+        {
+          "path": "docs/progress.md",
+          "modifiedAt": "2026-08-07T05:59:36.537Z"
+        },
         {
           "path": "src/main/resources/db/migration/V38__add_medication_dose_time_index.sql",
           "modifiedAt": "2026-08-06T08:25:28.726Z"
@@ -1957,19 +1965,11 @@
           "modifiedAt": "2026-08-06T08:25:28.722Z"
         },
         {
-          "path": "docs/progress.md",
-          "modifiedAt": "2026-08-06T08:25:28.722Z"
-        },
-        {
           "path": "프로젝트_설명.txt",
           "modifiedAt": "2026-08-05T07:29:04.513Z"
         },
         {
           "path": "CLAUDE.md",
-          "modifiedAt": "2026-08-05T07:29:04.509Z"
-        },
-        {
-          "path": "docs/(2026-08-05) feature-medication-update.md",
           "modifiedAt": "2026-08-05T07:29:04.509Z"
         }
       ],
@@ -1978,8 +1978,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 682",
-        "Git 상위 계정: skarndaudwls1(633), skarndaudwls1(65), gosky(4)"
+        "Git 커밋 수: 684",
+        "Git 상위 계정: skarndaudwls1(634), skarndaudwls1(65), gosky(4)"
       ]
     },
     {
@@ -3892,35 +3892,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000026",
-          "modifiedAt": "2026-08-07T05:49:34.403Z"
+          "modifiedAt": "2026-08-07T06:18:43.593Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-08-07T05:48:27.600Z"
+          "modifiedAt": "2026-08-07T06:18:29.637Z"
         },
         {
-          "path": "data/postgres/base/16384/16401",
-          "modifiedAt": "2026-08-07T05:48:27.496Z"
+          "path": "data/postgres/base/16384/16444",
+          "modifiedAt": "2026-08-07T06:18:29.533Z"
         },
         {
-          "path": "data/postgres/base/16384/16400",
-          "modifiedAt": "2026-08-07T05:48:27.396Z"
+          "path": "data/postgres/base/16384/16443",
+          "modifiedAt": "2026-08-07T06:18:29.433Z"
         },
         {
-          "path": "data/postgres/base/16384/16399",
-          "modifiedAt": "2026-08-07T05:48:27.296Z"
+          "path": "data/postgres/base/16384/16442",
+          "modifiedAt": "2026-08-07T06:18:29.333Z"
         },
         {
-          "path": "data/postgres/base/16384/16397",
-          "modifiedAt": "2026-08-07T05:48:27.196Z"
+          "path": "data/postgres/base/16384/16441",
+          "modifiedAt": "2026-08-07T06:18:29.233Z"
         },
         {
-          "path": "data/postgres/base/16384/16395",
-          "modifiedAt": "2026-08-07T05:48:26.796Z"
+          "path": "data/postgres/base/16384/16436_fsm",
+          "modifiedAt": "2026-08-07T06:18:29.133Z"
         },
         {
-          "path": "data/postgres/base/16384/16386",
-          "modifiedAt": "2026-08-07T05:48:26.696Z"
+          "path": "data/postgres/base/16384/16436",
+          "modifiedAt": "2026-08-07T06:18:29.033Z"
         }
       ],
       "summary": [

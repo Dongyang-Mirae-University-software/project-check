@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-08-07 14:50:03 KST
+- 점검 시각: 2026-08-07 15:20:07 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 113
+- 파일 개수: 114
 - 디렉토리 개수: 25
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration, src/test, src/test/java, src/test/java/kr, src/test/java/kr/silverbridge, src/test/java/kr/silverbridge/main, src/test/java/kr/silverbridge/main/domain, src/test/java/kr/silverbridge/main/global
@@ -57,23 +57,23 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 682
+- 총 커밋 수: 684
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 633
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 634
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
-- 최근 커밋: d872654 / namgung <skarndaudwls@gmail.com> / Merge pull request #229 from Dongyang-Mirae-University-software/fix/audit-findings-2026-08
+- 최근 커밋: 74849e8 / namgung <skarndaudwls@gmail.com> / Merge pull request #230 from Dongyang-Mirae-University-software/refactor/swagger-tags
 
 ## 최근 수정 파일
 
+- docs/(2026-08-07) refactor-swagger-tags.md (2026-08-07 14:59:36 KST)
+- docs/progress.md (2026-08-07 14:59:36 KST)
 - src/main/resources/db/migration/V38__add_medication_dose_time_index.sql (2026-08-06 17:25:28 KST)
 - docs/(2026-08-05) audit-medication-sos-notification.md (2026-08-06 17:25:28 KST)
 - docs/(2026-08-06) fix-audit-findings.md (2026-08-06 17:25:28 KST)
 - docs/audit-index.md (2026-08-06 17:25:28 KST)
-- docs/progress.md (2026-08-06 17:25:28 KST)
 - 프로젝트_설명.txt (2026-08-05 16:29:04 KST)
 - CLAUDE.md (2026-08-05 16:29:04 KST)
-- docs/(2026-08-05) feature-medication-update.md (2026-08-05 16:29:04 KST)
 
 ## 점검 결과 요약
 
@@ -81,5 +81,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 682
-- Git 상위 계정: skarndaudwls1(633), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 684
+- Git 상위 계정: skarndaudwls1(634), skarndaudwls1(65), gosky(4)
