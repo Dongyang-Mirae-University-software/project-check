@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhiteHouseBELJH`
 - 분류: 백엔드
-- 점검 시각: 2026-08-17 11:57:23 KST
+- 점검 시각: 2026-08-17 12:27:28 KST
 
 ## 추정 기술 스택
 
@@ -37,7 +37,7 @@
 ## 주요 폴더 구조
 
 - 파일 개수: 1312
-- 디렉토리 개수: 45
+- 디렉토리 개수: 46
 - 주요 폴더: data, src
 - 주요 경로: src, src/main, src/main/java, src/main/java/com, src/main/java/com/whitehouse, src/main/java/com/whitehouse/api, src/main/java/com/whitehouse/api/controller, src/main/java/com/whitehouse/api/dto, src/main/java/com/whitehouse/domain, src/main/java/com/whitehouse/domain/news, src/main/java/com/whitehouse/domain/statement, src/main/java/com/whitehouse/global, src/main/java/com/whitehouse/global/config, src/main/java/com/whitehouse/global/util, src/main/resources, src/main/resources/db, src/main/resources/db/migration
 
@@ -64,14 +64,14 @@
 
 ## 최근 수정 파일
 
-- data/postgres/pg_wal/00000001000000000000002E (2026-08-17 11:53:07 KST)
-- data/postgres/global/pg_control (2026-08-17 11:53:04 KST)
-- data/postgres/base/16384/16444 (2026-08-17 11:53:04 KST)
-- data/postgres/base/16384/16443 (2026-08-17 11:53:04 KST)
-- data/postgres/base/16384/16442 (2026-08-17 11:53:04 KST)
-- data/postgres/base/16384/16441 (2026-08-17 11:53:04 KST)
-- data/postgres/base/16384/16436 (2026-08-17 11:53:04 KST)
-- data/postgres/base/16384/16402 (2026-08-17 11:53:03 KST)
+- data/postgres/pg_wal/00000001000000000000002E (2026-08-17 12:18:08 KST)
+- data/postgres/global/pg_control (2026-08-17 12:18:04 KST)
+- data/postgres/base/16384/16444 (2026-08-17 12:18:04 KST)
+- data/postgres/base/16384/16443 (2026-08-17 12:18:04 KST)
+- data/postgres/base/16384/16442 (2026-08-17 12:18:04 KST)
+- data/postgres/base/16384/16441 (2026-08-17 12:18:03 KST)
+- data/postgres/base/16384/16436_fsm (2026-08-17 12:18:03 KST)
+- data/postgres/base/16384/16436 (2026-08-17 12:18:03 KST)
 
 ## 점검 결과 요약
 
