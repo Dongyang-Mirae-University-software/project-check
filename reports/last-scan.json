@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-08-18T19:00:54.666Z",
-  "generatedAtKst": "2026-08-19 04:00:54 KST",
+  "generatedAt": "2026-08-18T19:31:29.062Z",
+  "generatedAtKst": "2026-08-19 04:31:29 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 4794
+          "count": 4795
         },
         {
           "email": "gosky@gosky.kr",
           "count": 6
         }
       ],
-      "count": 4800
+      "count": 4801
     },
     {
       "name": "YUNA0222",
@@ -597,19 +597,19 @@
           {
             "name": "chatsilverbridge-api-1",
             "image": "chatsilverbridge-api",
-            "status": "Up 2 seconds",
+            "status": "Up 30 minutes",
             "ports": "0.0.0.0:6012->6012/tcp, [::]:6012->6012/tcp"
           },
           {
             "name": "chatsilverbridge-mysql-1",
             "image": "mysql:8.0",
-            "status": "Up 7 seconds (health: starting)",
+            "status": "Up 30 minutes (healthy)",
             "ports": "33060/tcp, 0.0.0.0:3307->3306/tcp, [::]:3307->3306/tcp"
           },
           {
             "name": "chatsilverbridgetest-web-1",
             "image": "chatsilverbridgetest-web",
-            "status": "Up 7 seconds",
+            "status": "Up 30 minutes",
             "ports": "0.0.0.0:6516->6516/tcp, [::]:6516->6516/tcp"
           }
         ],
@@ -809,7 +809,7 @@
           {
             "name": "chatsilverbridgetest-web-1",
             "image": "chatsilverbridgetest-web",
-            "status": "Up 7 seconds",
+            "status": "Up 30 minutes",
             "ports": "0.0.0.0:6516->6516/tcp, [::]:6516->6516/tcp"
           }
         ],
@@ -1218,22 +1218,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 4657,
+        "commitCount": 4658,
         "authors": [
           {
-            "count": 4657,
+            "count": 4658,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "4f91b2114",
+          "hash": "30f777dd3",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-08-18T23:33:24+09:00",
+          "date": "2026-08-19T04:01:26+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 4657개 커밋, 상위 계정: gosky(4657), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 4658개 커밋, 상위 계정: gosky(4658), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1274,8 +1274,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 4657",
-        "Git 상위 계정: gosky(4657)"
+        "Git 커밋 수: 4658",
+        "Git 상위 계정: gosky(4658)"
       ]
     },
     {
@@ -1418,7 +1418,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 7 seconds",
+            "status": "Up 30 minutes",
             "ports": ""
           }
         ],
@@ -1654,12 +1654,14 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 7 seconds",
+            "status": "Up 30 minutes",
             "ports": ""
           }
         ],
         "ports": [
+          6012,
           6015,
+          6017,
           6019
         ],
         "allCandidatePorts": [
@@ -1674,7 +1676,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 1개",
-          "포트 6015, 6019"
+          "포트 6012, 6015, 6017, 6019"
         ]
       },
       "git": {
@@ -1699,6 +1701,10 @@
       },
       "recentFiles": [
         {
+          "path": "data/postgres/pg_wal/000000010000000000000001",
+          "modifiedAt": "2026-08-18T19:01:32.315Z"
+        },
+        {
           "path": "data/postgres/base/16384/pg_internal.init",
           "modifiedAt": "2026-08-18T19:01:18.856Z"
         },
@@ -1713,10 +1719,6 @@
         {
           "path": "data/postgres/global/pg_control",
           "modifiedAt": "2026-08-18T19:01:17.974Z"
-        },
-        {
-          "path": "data/postgres/pg_wal/000000010000000000000001",
-          "modifiedAt": "2026-08-18T19:01:17.966Z"
         },
         {
           "path": "data/postgres/pg_multixact/offsets/0000",
@@ -2546,12 +2548,13 @@
           {
             "name": "silverbridgereservation-reservation-api-1",
             "image": "silverbridgereservation-reservation-api",
-            "status": "Up 7 seconds",
+            "status": "Up 30 minutes",
             "ports": "0.0.0.0:6015->6015/tcp, [::]:6015->6015/tcp"
           }
         ],
         "ports": [
           6015,
+          6017,
           6018
         ],
         "allCandidatePorts": [
@@ -2564,7 +2567,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 1개",
-          "포트 6015, 6018"
+          "포트 6015, 6017, 6018"
         ]
       },
       "git": {
@@ -3585,13 +3588,13 @@
           {
             "name": "whitehousebe-api-1",
             "image": "whitehousebe-api",
-            "status": "Up 7 seconds",
+            "status": "Up 30 minutes",
             "ports": "0.0.0.0:6701->6701/tcp, [::]:6701->6701/tcp"
           },
           {
             "name": "whitehousebe-db-1",
             "image": "postgres:16",
-            "status": "Up 7 seconds (healthy)",
+            "status": "Up 30 minutes (healthy)",
             "ports": "0.0.0.0:6705->5432/tcp, [::]:6705->5432/tcp"
           }
         ],
@@ -4043,7 +4046,7 @@
           {
             "name": "whitehousefe-web",
             "image": "whitehousefe-web",
-            "status": "Up 7 seconds",
+            "status": "Up 30 minutes",
             "ports": "0.0.0.0:6700->3000/tcp, [::]:6700->3000/tcp"
           }
         ],
