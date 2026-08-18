@@ -1,6 +1,6 @@
 # 실행 상태
 
-- 스캔 시각: 2026-08-18 23:33:24 KST
+- 스캔 시각: 2026-08-19 04:01:26 KST
 
 | 프로젝트 | 분류 | 실행 상태 | PM2 | Docker | 포트 |
 | --- | --- | --- | --- | --- | --- |
@@ -20,8 +20,8 @@
 | SilverBridgeSSOBe | 백엔드 | 실행 중 | 확인 불가 | 확인 불가 | 3306, 6379, 6501, 18000, 60480 |
 | SilverBridgeStreamTestFe | 프론트엔드 | 실행 중 | 확인 불가 | 확인 불가 | 1012, 6018 |
 | TestSilverBridge | 기타 | 확인 불가 | 확인 불가 | 확인 불가 | 확인 불가 |
-| WhitehouseBE | 백엔드 | 실행 중 | 확인 불가 | whitehousebe-api-1, whitehousebe-db-1, whitehouse-b-app | 5432, 6701, 7084 |
-| WhiteHouseBELJH | 백엔드 | 실행 중 | 확인 불가 | whitehouse-b-app | 3000, 3001, 5432, 5433, 6700, 6701, 6705, 9090, 10000, 18000 |
+| WhitehouseBE | 백엔드 | 실행 중 | 확인 불가 | whitehousebe-api-1, whitehousebe-db-1 | 5432, 6701, 7084 |
+| WhiteHouseBELJH | 백엔드 | 실행 중 | 확인 불가 | 확인 불가 | 3000, 3001, 5432, 5433, 6700, 6701, 6705, 9090, 10000, 18000 |
 | WhitehouseFE | 프론트엔드 | 실행 중 | 확인 불가 | whitehousefe-web | 1024, 1280, 2026, 3000 |
 
 ## 요약
@@ -31,17 +31,17 @@
 - ChatSilverBridge: 실행 중 / PM2 없음 / Docker 3개 / 포트 확인 불가
 - ChatSilverBridgeTest: 실행 중 / PM2 없음 / Docker 1개 / 포트 확인 불가
 - docs: 정지 또는 확인 불가
-- project-check: 실행 중 / PM2 1개 / Docker 없음 / 포트 1433, 3306, 5432, 6379
+- project-check: 실행 중 / PM2 1개 / Docker 없음 / 포트 1433, 3306
 - SilverBridgeAi: 실행 중 / PM2 없음 / Docker 1개 / 포트 확인 불가
-- SilverBridgeAiServer: 실행 중 / PM2 없음 / Docker 1개 / 포트 5432, 6012, 6015, 6017, 6019
-- SilverBridgeBe: 실행 중 / PM2 없음 / Docker 없음 / 포트 5432, 6379, 6511
-- SilverBridgeFe: 실행 중 / PM2 없음 / Docker 없음 / 포트 6000, 6510
+- SilverBridgeAiServer: 실행 중 / PM2 없음 / Docker 1개 / 포트 6015, 6019
+- SilverBridgeBe: 실행 중 / PM2 없음 / Docker 없음 / 포트 6511
+- SilverBridgeFe: 실행 중 / PM2 없음 / Docker 없음 / 포트 6000
 - SilverBridgeJH: 정지 또는 확인 불가
-- SilverBridgeReservation: 실행 중 / PM2 없음 / Docker 1개 / 포트 6015, 6017, 6018
-- SilverBridgeSky: 실행 중 / PM2 1개 / Docker 없음 / 포트 5432, 6379
-- SilverBridgeSSOBe: 실행 중 / PM2 없음 / Docker 없음 / 포트 3306, 6379
+- SilverBridgeReservation: 실행 중 / PM2 없음 / Docker 1개 / 포트 6015, 6018
+- SilverBridgeSky: 실행 중 / PM2 1개 / Docker 없음 / 포트 확인 불가
+- SilverBridgeSSOBe: 실행 중 / PM2 없음 / Docker 없음 / 포트 3306
 - SilverBridgeStreamTestFe: 실행 중 / PM2 없음 / Docker 없음 / 포트 6018
 - TestSilverBridge: 정지 또는 확인 불가
-- WhitehouseBE: 실행 중 / PM2 없음 / Docker 3개 / 포트 5432, 6701
-- WhiteHouseBELJH: 실행 중 / PM2 없음 / Docker 1개 / 포트 3001, 5432, 6700, 6701, 6705
+- WhitehouseBE: 실행 중 / PM2 없음 / Docker 2개 / 포트 6701
+- WhiteHouseBELJH: 실행 중 / PM2 없음 / Docker 없음 / 포트 6700, 6701, 6705
 - WhitehouseFE: 실행 중 / PM2 없음 / Docker 1개 / 포트 확인 불가
