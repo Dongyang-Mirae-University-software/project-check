@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-08-19T21:35:35.337Z",
-  "generatedAtKst": "2026-08-20 06:35:35 KST",
+  "generatedAt": "2026-08-19T22:05:39.753Z",
+  "generatedAtKst": "2026-08-20 07:05:39 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 4847
+          "count": 4848
         },
         {
           "email": "gosky@gosky.kr",
           "count": 6
         }
       ],
-      "count": 4853
+      "count": 4854
     },
     {
       "name": "YUNA0222",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 4710,
+        "commitCount": 4711,
         "authors": [
           {
-            "count": 4710,
+            "count": 4711,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "f45158a2c",
+          "hash": "bd005800d",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-08-20T06:05:33+09:00",
+          "date": "2026-08-20T06:35:37+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 4710개 커밋, 상위 계정: gosky(4710), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 4711개 커밋, 상위 계정: gosky(4711), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 4710",
-        "Git 상위 계정: gosky(4710)"
+        "Git 커밋 수: 4711",
+        "Git 상위 계정: gosky(4711)"
       ]
     },
     {
@@ -3610,7 +3610,7 @@
           {
             "name": "whitehouse-b-app",
             "image": "whitehousebeljh-app",
-            "status": "Up 17 hours",
+            "status": "Up 18 hours",
             "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
           }
         ],
@@ -3839,7 +3839,7 @@
           {
             "name": "whitehouse-b-app",
             "image": "whitehousebeljh-app",
-            "status": "Up 17 hours",
+            "status": "Up 18 hours",
             "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
           }
         ],
@@ -3891,35 +3891,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000032",
-          "modifiedAt": "2026-08-19T21:35:16.808Z"
+          "modifiedAt": "2026-08-19T22:04:52.333Z"
         },
         {
-          "path": "data/postgres/base/16384/16386",
-          "modifiedAt": "2026-08-19T21:33:34.325Z"
+          "path": "data/postgres/base/16384/16436",
+          "modifiedAt": "2026-08-19T22:04:41.721Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-08-19T21:32:41.298Z"
+          "modifiedAt": "2026-08-19T22:02:40.438Z"
         },
         {
           "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-08-19T21:32:41.194Z"
+          "modifiedAt": "2026-08-19T22:02:40.338Z"
         },
         {
           "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-08-19T21:32:41.094Z"
+          "modifiedAt": "2026-08-19T22:02:40.238Z"
         },
         {
           "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-08-19T21:32:40.994Z"
+          "modifiedAt": "2026-08-19T22:02:40.138Z"
         },
         {
           "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-08-19T21:32:40.894Z"
+          "modifiedAt": "2026-08-19T22:02:40.038Z"
         },
         {
-          "path": "data/postgres/base/16384/16436_fsm",
-          "modifiedAt": "2026-08-19T21:32:40.794Z"
+          "path": "data/postgres/base/16384/16402",
+          "modifiedAt": "2026-08-19T22:02:39.838Z"
         }
       ],
       "summary": [
