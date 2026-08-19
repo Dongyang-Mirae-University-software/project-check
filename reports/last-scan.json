@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-08-19T04:32:53.186Z",
-  "generatedAtKst": "2026-08-19 13:32:53 KST",
+  "generatedAt": "2026-08-19T05:02:57.629Z",
+  "generatedAtKst": "2026-08-19 14:02:57 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 4813
+          "count": 4814
         },
         {
           "email": "gosky@gosky.kr",
           "count": 6
         }
       ],
-      "count": 4819
+      "count": 4820
     },
     {
       "name": "YUNA0222",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 4676,
+        "commitCount": 4677,
         "authors": [
           {
-            "count": 4676,
+            "count": 4677,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "c60747ae2",
+          "hash": "ab80de37d",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-08-19T13:02:51+09:00",
+          "date": "2026-08-19T13:32:55+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 4676개 커밋, 상위 계정: gosky(4676), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 4677개 커밋, 상위 계정: gosky(4677), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 4676",
-        "Git 상위 계정: gosky(4676)"
+        "Git 커밋 수: 4677",
+        "Git 상위 계정: gosky(4677)"
       ]
     },
     {
@@ -3610,7 +3610,7 @@
           {
             "name": "whitehouse-b-app",
             "image": "whitehousebeljh-app",
-            "status": "Up 20 minutes",
+            "status": "Up 50 minutes",
             "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
           }
         ],
@@ -3839,7 +3839,7 @@
           {
             "name": "whitehouse-b-app",
             "image": "whitehousebeljh-app",
-            "status": "Up 20 minutes",
+            "status": "Up 50 minutes",
             "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
           }
         ],
@@ -3891,35 +3891,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000031",
-          "modifiedAt": "2026-08-19T04:32:25.600Z"
+          "modifiedAt": "2026-08-19T05:02:29.134Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-08-19T04:32:22.996Z"
+          "modifiedAt": "2026-08-19T05:02:25.530Z"
         },
         {
           "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-08-19T04:32:22.896Z"
+          "modifiedAt": "2026-08-19T05:02:25.426Z"
         },
         {
           "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-08-19T04:32:22.796Z"
+          "modifiedAt": "2026-08-19T05:02:25.326Z"
         },
         {
           "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-08-19T04:32:22.696Z"
+          "modifiedAt": "2026-08-19T05:02:25.226Z"
         },
         {
           "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-08-19T04:32:22.596Z"
+          "modifiedAt": "2026-08-19T05:02:25.126Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16436_fsm",
+          "modifiedAt": "2026-08-19T05:02:25.026Z"
         },
         {
           "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-08-19T04:32:22.496Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16402",
-          "modifiedAt": "2026-08-19T04:32:22.396Z"
+          "modifiedAt": "2026-08-19T05:02:24.926Z"
         }
       ],
       "summary": [
