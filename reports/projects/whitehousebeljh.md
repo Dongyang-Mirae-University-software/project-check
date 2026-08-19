@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhiteHouseBELJH`
 - 분류: 백엔드
-- 점검 시각: 2026-08-19 13:02:51 KST
+- 점검 시각: 2026-08-19 13:32:55 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 1312
+- 파일 개수: 1310
 - 디렉토리 개수: 46
 - 주요 폴더: data, src
 - 주요 경로: src, src/main, src/main/java, src/main/java/com, src/main/java/com/whitehouse, src/main/java/com/whitehouse/api, src/main/java/com/whitehouse/api/controller, src/main/java/com/whitehouse/api/dto, src/main/java/com/whitehouse/domain, src/main/java/com/whitehouse/domain/news, src/main/java/com/whitehouse/domain/statement, src/main/java/com/whitehouse/global, src/main/java/com/whitehouse/global/config, src/main/java/com/whitehouse/global/util, src/main/resources, src/main/resources/db, src/main/resources/db/migration
@@ -51,7 +51,7 @@
 
 - 상태: 실행 중
 - 관련 포트: 3000, 3001, 5432, 5433, 6700, 6701, 6705, 9090, 10000, 18000
-- 관련 Docker 컨테이너: 확인 불가
+- 관련 Docker 컨테이너: whitehouse-b-app
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
@@ -64,14 +64,14 @@
 
 ## 최근 수정 파일
 
-- data/postgres/pg_wal/000000010000000000000030 (2026-08-19 24:01:58 KST)
-- data/postgres/global/pg_control (2026-08-18 23:53:38 KST)
-- data/postgres/base/16384/16444 (2026-08-18 23:53:38 KST)
-- data/postgres/base/16384/16443 (2026-08-18 23:53:38 KST)
-- data/postgres/base/16384/16442 (2026-08-18 23:53:38 KST)
-- data/postgres/base/16384/16441 (2026-08-18 23:53:38 KST)
-- data/postgres/base/16384/16436 (2026-08-18 23:53:38 KST)
-- data/postgres/base/16384/16402 (2026-08-18 23:53:38 KST)
+- data/postgres/pg_wal/000000010000000000000031 (2026-08-19 13:32:25 KST)
+- data/postgres/global/pg_control (2026-08-19 13:32:22 KST)
+- data/postgres/base/16384/16444 (2026-08-19 13:32:22 KST)
+- data/postgres/base/16384/16443 (2026-08-19 13:32:22 KST)
+- data/postgres/base/16384/16442 (2026-08-19 13:32:22 KST)
+- data/postgres/base/16384/16441 (2026-08-19 13:32:22 KST)
+- data/postgres/base/16384/16436 (2026-08-19 13:32:22 KST)
+- data/postgres/base/16384/16402 (2026-08-19 13:32:22 KST)
 
 ## 점검 결과 요약
 
