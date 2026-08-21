@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-08-20T23:39:31.712Z",
-  "generatedAtKst": "2026-08-21 08:39:31 KST",
+  "generatedAt": "2026-08-21T00:09:35.955Z",
+  "generatedAtKst": "2026-08-21 09:09:35 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 4899
+          "count": 4900
         },
         {
           "email": "gosky@gosky.kr",
           "count": 6
         }
       ],
-      "count": 4905
+      "count": 4906
     },
     {
       "name": "YUNA0222",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 4762,
+        "commitCount": 4763,
         "authors": [
           {
-            "count": 4762,
+            "count": 4763,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "0050a7ee1",
+          "hash": "d8e27878c",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-08-21T08:09:29+09:00",
+          "date": "2026-08-21T08:39:34+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 4762개 커밋, 상위 계정: gosky(4762), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 4763개 커밋, 상위 계정: gosky(4763), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 4762",
-        "Git 상위 계정: gosky(4762)"
+        "Git 커밋 수: 4763",
+        "Git 상위 계정: gosky(4763)"
       ]
     },
     {
@@ -3609,7 +3609,7 @@
           {
             "name": "whitehouse-b-app",
             "image": "whitehousebeljh-app",
-            "status": "Up 43 hours",
+            "status": "Up 44 hours",
             "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
           }
         ],
@@ -3838,7 +3838,7 @@
           {
             "name": "whitehouse-b-app",
             "image": "whitehousebeljh-app",
-            "status": "Up 43 hours",
+            "status": "Up 44 hours",
             "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
           }
         ],
@@ -3890,35 +3890,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000033",
-          "modifiedAt": "2026-08-20T23:39:04.659Z"
+          "modifiedAt": "2026-08-21T00:09:32.521Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-08-20T23:38:06.540Z"
+          "modifiedAt": "2026-08-21T00:08:05.603Z"
         },
         {
           "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-08-20T23:38:06.440Z"
+          "modifiedAt": "2026-08-21T00:08:05.503Z"
         },
         {
           "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-08-20T23:38:06.340Z"
+          "modifiedAt": "2026-08-21T00:08:05.403Z"
         },
         {
           "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-08-20T23:38:06.240Z"
+          "modifiedAt": "2026-08-21T00:08:05.303Z"
         },
         {
           "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-08-20T23:38:06.140Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16436_fsm",
-          "modifiedAt": "2026-08-20T23:38:06.040Z"
+          "modifiedAt": "2026-08-21T00:08:05.203Z"
         },
         {
           "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-08-20T23:38:05.940Z"
+          "modifiedAt": "2026-08-21T00:08:05.103Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16402",
+          "modifiedAt": "2026-08-21T00:08:05.003Z"
         }
       ],
       "summary": [
