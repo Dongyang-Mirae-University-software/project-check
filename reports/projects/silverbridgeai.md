@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAi`
 - 분류: AI 서버
-- 점검 시각: 2026-08-21 16:40:43 KST
+- 점검 시각: 2026-08-21 17:10:47 KST
 
 ## 추정 기술 스택
 
