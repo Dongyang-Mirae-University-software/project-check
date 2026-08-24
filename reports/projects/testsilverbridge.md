@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/TestSilverBridge`
 - 분류: 기타
-- 점검 시각: 2026-08-24 21:22:13 KST
+- 점검 시각: 2026-08-24 21:52:17 KST
 
 ## 추정 기술 스택
 
