@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-08-25T10:55:42.847Z",
-  "generatedAtKst": "2026-08-25 19:55:42 KST",
+  "generatedAt": "2026-08-25T11:25:47.498Z",
+  "generatedAtKst": "2026-08-25 20:25:47 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 5113
+          "count": 5114
         },
         {
           "email": "gosky@gosky.kr",
           "count": 6
         }
       ],
-      "count": 5119
+      "count": 5120
     },
     {
       "name": "YUNA0222",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 4976,
+        "commitCount": 4977,
         "authors": [
           {
-            "count": 4976,
+            "count": 4977,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "df003a10e",
+          "hash": "c1a7a3c09",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-08-25T19:25:40+09:00",
+          "date": "2026-08-25T19:55:45+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 4976개 커밋, 상위 계정: gosky(4976), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 4977개 커밋, 상위 계정: gosky(4977), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 4976",
-        "Git 상위 계정: gosky(4976)"
+        "Git 커밋 수: 4977",
+        "Git 상위 계정: gosky(4977)"
       ]
     },
     {
@@ -2120,10 +2120,19 @@
       "runtime": {
         "status": "실행 중",
         "running": true,
-        "pm2": [],
+        "pm2": [
+          {
+            "name": "silverbridgefe",
+            "cwd": "/home/apps/SilverBridgeSky/SilverBridgeFe",
+            "script": "/root/.nvm/versions/node/v20.20.2/bin/npm",
+            "status": "online",
+            "pid": 2377954
+          }
+        ],
         "docker": [],
         "ports": [
-          6000
+          6000,
+          6510
         ],
         "allCandidatePorts": [
           1900,
@@ -2135,9 +2144,9 @@
         ],
         "summary": [
           "실행 중",
-          "PM2 없음",
+          "PM2 1개",
           "Docker 없음",
-          "포트 6000"
+          "포트 6000, 6510"
         ]
       },
       "git": {
@@ -2788,6 +2797,13 @@
             "script": "/home/apps/SilverBridgeSky/project-check/src/monitor.js",
             "status": "online",
             "pid": 1915
+          },
+          {
+            "name": "silverbridgefe",
+            "cwd": "/home/apps/SilverBridgeSky/SilverBridgeFe",
+            "script": "/root/.nvm/versions/node/v20.20.2/bin/npm",
+            "status": "online",
+            "pid": 2377954
           }
         ],
         "docker": [],
@@ -2805,7 +2821,7 @@
         ],
         "summary": [
           "실행 중",
-          "PM2 1개",
+          "PM2 2개",
           "Docker 없음",
           "포트 5432, 6379"
         ]
@@ -3890,35 +3906,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000037",
-          "modifiedAt": "2026-08-25T10:55:13.111Z"
+          "modifiedAt": "2026-08-25T11:25:26.254Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-08-25T10:54:58.599Z"
+          "modifiedAt": "2026-08-25T11:24:59.606Z"
         },
         {
           "path": "data/postgres/base/16384/16444",
-          "modifiedAt": "2026-08-25T10:54:58.499Z"
+          "modifiedAt": "2026-08-25T11:24:59.506Z"
         },
         {
           "path": "data/postgres/base/16384/16443",
-          "modifiedAt": "2026-08-25T10:54:58.399Z"
+          "modifiedAt": "2026-08-25T11:24:59.406Z"
         },
         {
           "path": "data/postgres/base/16384/16442",
-          "modifiedAt": "2026-08-25T10:54:58.299Z"
+          "modifiedAt": "2026-08-25T11:24:59.306Z"
         },
         {
           "path": "data/postgres/base/16384/16441",
-          "modifiedAt": "2026-08-25T10:54:58.199Z"
+          "modifiedAt": "2026-08-25T11:24:59.206Z"
         },
         {
           "path": "data/postgres/base/16384/16436",
-          "modifiedAt": "2026-08-25T10:54:58.095Z"
+          "modifiedAt": "2026-08-25T11:24:59.106Z"
         },
         {
           "path": "data/postgres/base/16384/16402",
-          "modifiedAt": "2026-08-25T10:54:57.995Z"
+          "modifiedAt": "2026-08-25T11:24:59.006Z"
         }
       ],
       "summary": [

@@ -1,6 +1,6 @@
 # 실행 상태
 
-- 스캔 시각: 2026-08-25 19:55:45 KST
+- 스캔 시각: 2026-08-25 20:25:50 KST
 
 | 프로젝트 | 분류 | 실행 상태 | PM2 | Docker | 포트 |
 | --- | --- | --- | --- | --- | --- |
@@ -13,10 +13,10 @@
 | SilverBridgeAi | AI 서버 | 실행 중 | 확인 불가 | silverbridge-ai-server | 1000, 1234, 1280, 1500, 2026, 2700, 8080, 8456 |
 | SilverBridgeAiServer | AI 서버 | 실행 중 | 확인 불가 | silverbridge-ai-server | 1008, 5432, 6012, 6015, 6017, 6019 |
 | SilverBridgeBe | 백엔드 | 실행 중 | 확인 불가 | 확인 불가 | 3000, 5173, 5432, 6379, 6511, 8080, 18000, 60480 |
-| SilverBridgeFe | 프론트엔드 | 실행 중 | 확인 불가 | 확인 불가 | 1900, 3000, 6000, 6510, 60480, 60836 |
+| SilverBridgeFe | 프론트엔드 | 실행 중 | silverbridgefe | 확인 불가 | 1900, 3000, 6000, 6510, 60480, 60836 |
 | SilverBridgeJH | 백엔드 | 정지 | 확인 불가 | 확인 불가 | 확인 불가 |
 | SilverBridgeReservation | 백엔드 | 실행 중 | 확인 불가 | silverbridgereservation-reservation-api-1 | 5173, 6015, 6017, 6018 |
-| SilverBridgeSky | 백엔드 | 실행 중 | project-check | 확인 불가 | 3000, 5432, 6379, 6501, 8000, 8080 |
+| SilverBridgeSky | 백엔드 | 실행 중 | project-check, silverbridgefe | 확인 불가 | 3000, 5432, 6379, 6501, 8000, 8080 |
 | SilverBridgeSSOBe | 백엔드 | 실행 중 | 확인 불가 | 확인 불가 | 3306, 6379, 6501, 18000, 60480 |
 | SilverBridgeStreamTestFe | 프론트엔드 | 실행 중 | 확인 불가 | 확인 불가 | 1012, 6018 |
 | TestSilverBridge | 기타 | 확인 불가 | 확인 불가 | 확인 불가 | 확인 불가 |
@@ -35,10 +35,10 @@
 - SilverBridgeAi: 실행 중 / PM2 없음 / Docker 1개 / 포트 확인 불가
 - SilverBridgeAiServer: 실행 중 / PM2 없음 / Docker 1개 / 포트 5432, 6012, 6015, 6017, 6019
 - SilverBridgeBe: 실행 중 / PM2 없음 / Docker 없음 / 포트 5432, 6379, 6511
-- SilverBridgeFe: 실행 중 / PM2 없음 / Docker 없음 / 포트 6000
+- SilverBridgeFe: 실행 중 / PM2 1개 / Docker 없음 / 포트 6000, 6510
 - SilverBridgeJH: 정지 또는 확인 불가
 - SilverBridgeReservation: 실행 중 / PM2 없음 / Docker 1개 / 포트 6015, 6017, 6018
-- SilverBridgeSky: 실행 중 / PM2 1개 / Docker 없음 / 포트 5432, 6379
+- SilverBridgeSky: 실행 중 / PM2 2개 / Docker 없음 / 포트 5432, 6379
 - SilverBridgeSSOBe: 실행 중 / PM2 없음 / Docker 없음 / 포트 3306, 6379
 - SilverBridgeStreamTestFe: 실행 중 / PM2 없음 / Docker 없음 / 포트 6018
 - TestSilverBridge: 정지 또는 확인 불가
