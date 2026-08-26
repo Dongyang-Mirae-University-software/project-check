@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-08-26T03:28:23.454Z",
-  "generatedAtKst": "2026-08-26 12:28:23 KST",
+  "generatedAt": "2026-08-26T03:58:28.231Z",
+  "generatedAtKst": "2026-08-26 12:58:28 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 5146
+          "count": 5147
         },
         {
           "email": "gosky@gosky.kr",
           "count": 6
         }
       ],
-      "count": 5152
+      "count": 5153
     },
     {
       "name": "YUNA0222",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 5009,
+        "commitCount": 5010,
         "authors": [
           {
-            "count": 5009,
+            "count": 5010,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "b53da2fd3",
+          "hash": "d671ff83c",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-08-26T11:58:21+09:00",
+          "date": "2026-08-26T12:28:26+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 5009개 커밋, 상위 계정: gosky(5009), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 5010개 커밋, 상위 계정: gosky(5010), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 5009",
-        "Git 상위 계정: gosky(5009)"
+        "Git 커밋 수: 5010",
+        "Git 상위 계정: gosky(5010)"
       ]
     },
     {
@@ -3625,7 +3625,7 @@
           {
             "name": "whitehouse-b-app",
             "image": "whitehousebeljh-app",
-            "status": "Up 6 days",
+            "status": "Up 7 days",
             "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
           }
         ],
@@ -3854,7 +3854,7 @@
           {
             "name": "whitehouse-b-app",
             "image": "whitehousebeljh-app",
-            "status": "Up 6 days",
+            "status": "Up 7 days",
             "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
           }
         ],
