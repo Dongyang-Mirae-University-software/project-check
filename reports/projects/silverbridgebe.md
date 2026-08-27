@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-08-27 14:32:36 KST
+- 점검 시각: 2026-08-27 15:02:41 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 118
+- 파일 개수: 120
 - 디렉토리 개수: 25
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration, src/test, src/test/java, src/test/java/kr, src/test/java/kr/silverbridge, src/test/java/kr/silverbridge/main, src/test/java/kr/silverbridge/main/domain, src/test/java/kr/silverbridge/main/global
@@ -57,23 +57,23 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 690
+- 총 커밋 수: 692
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 638
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 639
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
-- 최근 커밋: 8fff65d / namgung <skarndaudwls@gmail.com> / Merge pull request #232 from Dongyang-Mirae-University-software/feature/medication-missed-alert-time
+- 최근 커밋: 37cad0e / namgung <skarndaudwls@gmail.com> / Merge pull request #233 from Dongyang-Mirae-University-software/refactor/medication-missed-alert-per-ward
 
 ## 최근 수정 파일
 
-- 프로젝트_설명.txt (2026-08-27 11:19:44 KST)
+- 프로젝트_설명.txt (2026-08-27 14:54:20 KST)
+- docs/progress.md (2026-08-27 14:54:20 KST)
+- src/main/resources/db/migration/V41__change_missed_alert_setting_to_per_ward.sql (2026-08-27 14:54:20 KST)
+- CLAUDE.md (2026-08-27 14:54:20 KST)
+- docs/(2026-08-27) refactor-medication-missed-alert-per-ward.md (2026-08-27 14:54:20 KST)
 - src/main/resources/application.yaml (2026-08-27 11:19:44 KST)
 - src/main/resources/db/migration/V40__add_guardian_missed_alert_time.sql (2026-08-27 11:19:44 KST)
-- CLAUDE.md (2026-08-27 11:19:44 KST)
 - docs/(2026-08-27) feature-medication-missed-alert-time.md (2026-08-27 11:19:44 KST)
-- docs/progress.md (2026-08-27 11:19:44 KST)
-- src/main/resources/db/migration/V39__drop_sos_event_ack_add_trigger_type.sql (2026-08-27 09:39:20 KST)
-- docs/(2026-08-26) refactor-sos-flow.md (2026-08-27 09:39:20 KST)
 
 ## 점검 결과 요약
 
@@ -81,5 +81,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 690
-- Git 상위 계정: skarndaudwls1(638), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 692
+- Git 상위 계정: skarndaudwls1(639), skarndaudwls1(65), gosky(4)

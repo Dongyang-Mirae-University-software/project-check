@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-08-27T05:32:34.813Z",
-  "generatedAtKst": "2026-08-27 14:32:34 KST",
+  "generatedAt": "2026-08-27T06:02:39.575Z",
+  "generatedAtKst": "2026-08-27 15:02:39 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 5198
+          "count": 5199
         },
         {
           "email": "gosky@gosky.kr",
           "count": 6
         }
       ],
-      "count": 5204
+      "count": 5205
     },
     {
       "name": "YUNA0222",
@@ -47,14 +47,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 763
+          "count": 764
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 852
+      "count": 853
     },
     {
       "name": "Jaehe-he",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 5061,
+        "commitCount": 5062,
         "authors": [
           {
-            "count": 5061,
+            "count": 5062,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "1ca4e0a4f",
+          "hash": "bc52929be",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-08-27T14:02:33+09:00",
+          "date": "2026-08-27T14:32:37+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 5061개 커밋, 상위 계정: gosky(5061), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 5062개 커밋, 상위 계정: gosky(5062), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 5061",
-        "Git 상위 계정: gosky(5061)"
+        "Git 커밋 수: 5062",
+        "Git 상위 계정: gosky(5062)"
       ]
     },
     {
@@ -1838,7 +1838,7 @@
         }
       ],
       "structure": {
-        "fileCount": 118,
+        "fileCount": 120,
         "dirCount": 25,
         "mainFolders": [
           "db",
@@ -1912,10 +1912,10 @@
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 690,
+        "commitCount": 692,
         "authors": [
           {
-            "count": 638,
+            "count": 639,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -1931,18 +1931,34 @@
           }
         ],
         "latestCommit": {
-          "hash": "8fff65d",
+          "hash": "37cad0e",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-08-27T11:13:48+09:00",
-          "subject": "Merge pull request #232 from Dongyang-Mirae-University-software/feature/medication-missed-alert-time"
+          "date": "2026-08-27T14:48:51+09:00",
+          "subject": "Merge pull request #233 from Dongyang-Mirae-University-software/refactor/medication-missed-alert-per-ward"
         },
-        "summary": "총 690개 커밋, 상위 계정: skarndaudwls1(638), skarndaudwls1(65), gosky(4), 최근: Merge pull request #232 from Dongyang-Mirae-University-software/feature/medication-missed-alert-time"
+        "summary": "총 692개 커밋, 상위 계정: skarndaudwls1(639), skarndaudwls1(65), gosky(4), 최근: Merge pull request #233 from Dongyang-Mirae-University-software/refactor/medication-missed-alert-per-ward"
       },
       "recentFiles": [
         {
           "path": "프로젝트_설명.txt",
-          "modifiedAt": "2026-08-27T02:19:44.854Z"
+          "modifiedAt": "2026-08-27T05:54:20.591Z"
+        },
+        {
+          "path": "docs/progress.md",
+          "modifiedAt": "2026-08-27T05:54:20.591Z"
+        },
+        {
+          "path": "src/main/resources/db/migration/V41__change_missed_alert_setting_to_per_ward.sql",
+          "modifiedAt": "2026-08-27T05:54:20.591Z"
+        },
+        {
+          "path": "CLAUDE.md",
+          "modifiedAt": "2026-08-27T05:54:20.587Z"
+        },
+        {
+          "path": "docs/(2026-08-27) refactor-medication-missed-alert-per-ward.md",
+          "modifiedAt": "2026-08-27T05:54:20.587Z"
         },
         {
           "path": "src/main/resources/application.yaml",
@@ -1953,24 +1969,8 @@
           "modifiedAt": "2026-08-27T02:19:44.854Z"
         },
         {
-          "path": "CLAUDE.md",
-          "modifiedAt": "2026-08-27T02:19:44.850Z"
-        },
-        {
           "path": "docs/(2026-08-27) feature-medication-missed-alert-time.md",
           "modifiedAt": "2026-08-27T02:19:44.850Z"
-        },
-        {
-          "path": "docs/progress.md",
-          "modifiedAt": "2026-08-27T02:19:44.850Z"
-        },
-        {
-          "path": "src/main/resources/db/migration/V39__drop_sos_event_ack_add_trigger_type.sql",
-          "modifiedAt": "2026-08-27T00:39:20.747Z"
-        },
-        {
-          "path": "docs/(2026-08-26) refactor-sos-flow.md",
-          "modifiedAt": "2026-08-27T00:39:20.743Z"
         }
       ],
       "summary": [
@@ -1978,8 +1978,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 690",
-        "Git 상위 계정: skarndaudwls1(638), skarndaudwls1(65), gosky(4)"
+        "Git 커밋 수: 692",
+        "Git 상위 계정: skarndaudwls1(639), skarndaudwls1(65), gosky(4)"
       ]
     },
     {
