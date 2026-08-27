@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-08-27T00:31:50.072Z",
-  "generatedAtKst": "2026-08-27 09:31:50 KST",
+  "generatedAt": "2026-08-27T01:01:54.585Z",
+  "generatedAtKst": "2026-08-27 10:01:54 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 5188
+          "count": 5189
         },
         {
           "email": "gosky@gosky.kr",
           "count": 6
         }
       ],
-      "count": 5194
+      "count": 5195
     },
     {
       "name": "YUNA0222",
@@ -47,14 +47,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 759
+          "count": 762
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 848
+      "count": 851
     },
     {
       "name": "Jaehe-he",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 5051,
+        "commitCount": 5052,
         "authors": [
           {
-            "count": 5051,
+            "count": 5052,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "db4aa7e16",
+          "hash": "dfe143275",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-08-27T09:01:48+09:00",
+          "date": "2026-08-27T09:31:52+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 5051개 커밋, 상위 계정: gosky(5051), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 5052개 커밋, 상위 계정: gosky(5052), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 5051",
-        "Git 상위 계정: gosky(5051)"
+        "Git 커밋 수: 5052",
+        "Git 상위 계정: gosky(5052)"
       ]
     },
     {
@@ -1838,7 +1838,7 @@
         }
       ],
       "structure": {
-        "fileCount": 114,
+        "fileCount": 116,
         "dirCount": 25,
         "mainFolders": [
           "db",
@@ -1912,10 +1912,10 @@
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 684,
+        "commitCount": 688,
         "authors": [
           {
-            "count": 634,
+            "count": 637,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -1931,21 +1931,33 @@
           }
         ],
         "latestCommit": {
-          "hash": "74849e8",
+          "hash": "db2926d",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-08-07T14:35:45+09:00",
-          "subject": "Merge pull request #230 from Dongyang-Mirae-University-software/refactor/swagger-tags"
+          "date": "2026-08-27T09:35:29+09:00",
+          "subject": "Merge pull request #231 from Dongyang-Mirae-University-software/refactor/sos-remove-ack"
         },
-        "summary": "총 684개 커밋, 상위 계정: skarndaudwls1(634), skarndaudwls1(65), gosky(4), 최근: Merge pull request #230 from Dongyang-Mirae-University-software/refactor/swagger-tags"
+        "summary": "총 688개 커밋, 상위 계정: skarndaudwls1(637), skarndaudwls1(65), gosky(4), 최근: Merge pull request #231 from Dongyang-Mirae-University-software/refactor/sos-remove-ack"
       },
       "recentFiles": [
         {
-          "path": "docs/(2026-08-07) refactor-swagger-tags.md",
-          "modifiedAt": "2026-08-07T05:59:36.537Z"
+          "path": "프로젝트_설명.txt",
+          "modifiedAt": "2026-08-27T00:39:20.747Z"
         },
         {
           "path": "docs/progress.md",
+          "modifiedAt": "2026-08-27T00:39:20.747Z"
+        },
+        {
+          "path": "src/main/resources/db/migration/V39__drop_sos_event_ack_add_trigger_type.sql",
+          "modifiedAt": "2026-08-27T00:39:20.747Z"
+        },
+        {
+          "path": "docs/(2026-08-26) refactor-sos-flow.md",
+          "modifiedAt": "2026-08-27T00:39:20.743Z"
+        },
+        {
+          "path": "docs/(2026-08-07) refactor-swagger-tags.md",
           "modifiedAt": "2026-08-07T05:59:36.537Z"
         },
         {
@@ -1959,18 +1971,6 @@
         {
           "path": "docs/(2026-08-06) fix-audit-findings.md",
           "modifiedAt": "2026-08-06T08:25:28.722Z"
-        },
-        {
-          "path": "docs/audit-index.md",
-          "modifiedAt": "2026-08-06T08:25:28.722Z"
-        },
-        {
-          "path": "프로젝트_설명.txt",
-          "modifiedAt": "2026-08-05T07:29:04.513Z"
-        },
-        {
-          "path": "CLAUDE.md",
-          "modifiedAt": "2026-08-05T07:29:04.509Z"
         }
       ],
       "summary": [
@@ -1978,8 +1978,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 684",
-        "Git 상위 계정: skarndaudwls1(634), skarndaudwls1(65), gosky(4)"
+        "Git 커밋 수: 688",
+        "Git 상위 계정: skarndaudwls1(637), skarndaudwls1(65), gosky(4)"
       ]
     },
     {
