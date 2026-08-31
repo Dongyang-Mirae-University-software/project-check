@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-08-31T04:47:17.170Z",
-  "generatedAtKst": "2026-08-31 13:47:17 KST",
+  "generatedAt": "2026-08-31T05:17:21.702Z",
+  "generatedAtKst": "2026-08-31 14:17:21 KST",
   "summary": {
     "total": 19,
     "frontend": 4,
@@ -19,14 +19,14 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 5388
+          "count": 5389
         },
         {
           "email": "gosky@gosky.kr",
           "count": 6
         }
       ],
-      "count": 5394
+      "count": 5395
     },
     {
       "name": "YUNA0222",
@@ -47,14 +47,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 764
+          "count": 766
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 853
+      "count": 855
     },
     {
       "name": "Jaehe-he",
@@ -1220,22 +1220,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 5251,
+        "commitCount": 5252,
         "authors": [
           {
-            "count": 5251,
+            "count": 5252,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "d33e22e3b",
+          "hash": "31048fe70",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-08-31T13:17:15+09:00",
+          "date": "2026-08-31T13:47:19+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 5251개 커밋, 상위 계정: gosky(5251), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 5252개 커밋, 상위 계정: gosky(5252), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1276,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 5251",
-        "Git 상위 계정: gosky(5251)"
+        "Git 커밋 수: 5252",
+        "Git 상위 계정: gosky(5252)"
       ]
     },
     {
@@ -1838,7 +1838,7 @@
         }
       ],
       "structure": {
-        "fileCount": 120,
+        "fileCount": 123,
         "dirCount": 25,
         "mainFolders": [
           "db",
@@ -1912,10 +1912,10 @@
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 692,
+        "commitCount": 696,
         "authors": [
           {
-            "count": 639,
+            "count": 641,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -1931,15 +1931,27 @@
           }
         ],
         "latestCommit": {
-          "hash": "37cad0e",
+          "hash": "3dcb42c",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-08-27T14:48:51+09:00",
-          "subject": "Merge pull request #233 from Dongyang-Mirae-University-software/refactor/medication-missed-alert-per-ward"
+          "date": "2026-08-31T13:51:32+09:00",
+          "subject": "Merge pull request #235 from Dongyang-Mirae-University-software/refactor/rollback-anomaly-incident"
         },
-        "summary": "총 692개 커밋, 상위 계정: skarndaudwls1(639), skarndaudwls1(65), gosky(4), 최근: Merge pull request #233 from Dongyang-Mirae-University-software/refactor/medication-missed-alert-per-ward"
+        "summary": "총 696개 커밋, 상위 계정: skarndaudwls1(641), skarndaudwls1(65), gosky(4), 최근: Merge pull request #235 from Dongyang-Mirae-University-software/refactor/rollback-anomaly-incident"
       },
       "recentFiles": [
+        {
+          "path": "docs/(2026-08-31) api-contract-anomaly-dashboard.md",
+          "modifiedAt": "2026-08-31T05:09:04.037Z"
+        },
+        {
+          "path": "src/main/resources/db/migration/V42__add_anomaly_incident.sql",
+          "modifiedAt": "2026-08-31T05:09:04.037Z"
+        },
+        {
+          "path": "src/main/resources/db/migration/V43__drop_anomaly_incident.sql",
+          "modifiedAt": "2026-08-31T05:09:04.037Z"
+        },
         {
           "path": "프로젝트_설명.txt",
           "modifiedAt": "2026-08-27T05:54:20.591Z"
@@ -1959,18 +1971,6 @@
         {
           "path": "docs/(2026-08-27) refactor-medication-missed-alert-per-ward.md",
           "modifiedAt": "2026-08-27T05:54:20.587Z"
-        },
-        {
-          "path": "src/main/resources/application.yaml",
-          "modifiedAt": "2026-08-27T02:19:44.854Z"
-        },
-        {
-          "path": "src/main/resources/db/migration/V40__add_guardian_missed_alert_time.sql",
-          "modifiedAt": "2026-08-27T02:19:44.854Z"
-        },
-        {
-          "path": "docs/(2026-08-27) feature-medication-missed-alert-time.md",
-          "modifiedAt": "2026-08-27T02:19:44.850Z"
         }
       ],
       "summary": [
@@ -1978,8 +1978,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 692",
-        "Git 상위 계정: skarndaudwls1(639), skarndaudwls1(65), gosky(4)"
+        "Git 커밋 수: 696",
+        "Git 상위 계정: skarndaudwls1(641), skarndaudwls1(65), gosky(4)"
       ]
     },
     {
