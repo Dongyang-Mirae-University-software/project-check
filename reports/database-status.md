@@ -1,6 +1,6 @@
 # 데이터베이스 상태
 
-- 스캔 시각: 2026-09-02 09:24:19 KST
+- 스캔 시각: 2026-09-02 09:54:24 KST
 
 | 프로젝트 | DB 사용 여부 | 추정 DB | 실행 상태 | 관련 포트 | 관련 컨테이너 |
 | --- | --- | --- | --- | --- | --- |
@@ -12,7 +12,7 @@
 | project-check | 예 | MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle | 실행 중 | 1000, 1024, 1234, 1280, 1400, 1433, 1500, 1521, 2026, 2700, 3306, 5432, 6379, 8080, 8456, 26214, 27017 | 확인 불가 |
 | SilverBridgeAi | 아니오 | 확인 불가 | 실행 중 | 1000, 1234, 1280, 1500, 2026, 2700, 8080, 8456 | silverbridge-ai-server |
 | SilverBridgeAiServer | 예 | PostgreSQL, SQLite | 실행 중 | 1008, 5432, 6012, 6015, 6017, 6019 | silverbridge-ai-server |
-| SilverBridgeBe | 예 | PostgreSQL, Redis | 실행 중 | 3000, 5173, 5432, 6379, 6511, 8080, 18000, 60480 | 확인 불가 |
+| SilverBridgeBe | 예 | PostgreSQL, Redis | 실행 중 | 3000, 5173, 5432, 6379, 6510, 6511, 8080, 18000, 60480 | 확인 불가 |
 | SilverBridgeFe | 아니오 | 확인 불가 | 실행 중 | 1900, 3000, 6000, 6510, 60480, 60836 | 확인 불가 |
 | SilverBridgeJH | 아니오 | 확인 불가 | 정지 | 확인 불가 | 확인 불가 |
 | SilverBridgeReservation | 예 | SQLite | 실행 중 | 5173, 6015, 6017, 6018 | silverbridgereservation-reservation-api-1 |
