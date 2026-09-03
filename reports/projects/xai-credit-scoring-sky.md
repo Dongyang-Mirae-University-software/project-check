@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/xai-credit-scoring_sky`
 - 분류: AI 서버
-- 점검 시각: 2026-09-03 20:29:52 KST
+- 점검 시각: 2026-09-03 20:59:57 KST
 
 ## 추정 기술 스택
 
@@ -53,10 +53,10 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 4
+- 총 커밋 수: 5
 - 계정별 커밋 수:
-  - gosky <gosky.dev@gmail.com>: 4
-- 최근 커밋: 63162c7 / gosky <gosky.dev@gmail.com> / chore(auto): CLAUDE.md 외 2개 파일
+  - gosky <gosky.dev@gmail.com>: 5
+- 최근 커밋: 56db96f / gosky <gosky.dev@gmail.com> / chore(auto): .claude/hooks/auto-commit.sh 외 1개 파일
 
 ## 최근 수정 파일
 
@@ -75,5 +75,5 @@
 - 기술 추정: AI
 - DB 사용 흔적 없음
 - 실행 상태: 확인 불가
-- Git 커밋 수: 4
-- Git 상위 계정: gosky(4)
+- Git 커밋 수: 5
+- Git 상위 계정: gosky(5)
