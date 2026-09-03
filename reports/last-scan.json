@@ -1,17 +1,17 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-03T10:59:45.235Z",
-  "generatedAtKst": "2026-09-03 19:59:45 KST",
+  "generatedAt": "2026-09-03T11:29:49.803Z",
+  "generatedAtKst": "2026-09-03 20:29:49 KST",
   "summary": {
-    "total": 19,
+    "total": 20,
     "frontend": 4,
     "backend": 8,
-    "ai": 5,
+    "ai": 6,
     "db": 8,
-    "gitRepos": 15,
+    "gitRepos": 16,
     "running": 14,
-    "stopped": 5
+    "stopped": 6
   },
   "gitAuthors": [
     {
@@ -19,14 +19,18 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 5544
+          "count": 5545
         },
         {
           "email": "gosky@gosky.kr",
           "count": 6
+        },
+        {
+          "email": "gosky.dev@gmail.com",
+          "count": 4
         }
       ],
-      "count": 5550
+      "count": 5555
     },
     {
       "name": "YUNA0222",
@@ -1220,22 +1224,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 5407,
+        "commitCount": 5408,
         "authors": [
           {
-            "count": 5407,
+            "count": 5408,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "47aad10fa",
+          "hash": "7947dfa92",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-03T19:29:43+09:00",
+          "date": "2026-09-03T19:59:48+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 5407개 커밋, 상위 계정: gosky(5407), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 5408개 커밋, 상위 계정: gosky(5408), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1276,8 +1280,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 5407",
-        "Git 상위 계정: gosky(5407)"
+        "Git 커밋 수: 5408",
+        "Git 상위 계정: gosky(5408)"
       ]
     },
     {
@@ -4172,6 +4176,184 @@
         "실행 상태: 실행 중",
         "Git 커밋 수: 138",
         "Git 상위 계정: skarndaudwls1(63), skarndaudwls1(24)"
+      ]
+    },
+    {
+      "projectName": "xai-credit-scoring_sky",
+      "projectPath": "/home/apps/SilverBridgeSky/xai-credit-scoring_sky",
+      "classification": "AI 서버",
+      "stack": [
+        "AI"
+      ],
+      "mainFiles": [
+        {
+          "file": "package.json",
+          "exists": false
+        },
+        {
+          "file": "vite.config.js",
+          "exists": false
+        },
+        {
+          "file": "vite.config.ts",
+          "exists": false
+        },
+        {
+          "file": "vite.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "vite.config.cjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.js",
+          "exists": false
+        },
+        {
+          "file": "next.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.ts",
+          "exists": false
+        },
+        {
+          "file": "requirements.txt",
+          "exists": false
+        },
+        {
+          "file": "pyproject.toml",
+          "exists": false
+        },
+        {
+          "file": "Dockerfile",
+          "exists": false
+        },
+        {
+          "file": "docker-compose.yml",
+          "exists": false
+        },
+        {
+          "file": "docker-compose.yaml",
+          "exists": false
+        },
+        {
+          "file": "compose.yml",
+          "exists": false
+        },
+        {
+          "file": "compose.yaml",
+          "exists": false
+        },
+        {
+          "file": ".env.example",
+          "exists": false
+        },
+        {
+          "file": ".env",
+          "exists": false
+        },
+        {
+          "file": "pom.xml",
+          "exists": false
+        },
+        {
+          "file": "build.gradle",
+          "exists": false
+        },
+        {
+          "file": "build.gradle.kts",
+          "exists": false
+        }
+      ],
+      "structure": {
+        "fileCount": 27,
+        "dirCount": 2,
+        "mainFolders": [
+          "docs"
+        ],
+        "majorPaths": []
+      },
+      "database": {
+        "used": false,
+        "types": [],
+        "clueFiles": [],
+        "evidence": [],
+        "summary": "DB 사용 흔적 없음"
+      },
+      "runtime": {
+        "status": "확인 불가",
+        "running": false,
+        "pm2": [],
+        "docker": [],
+        "ports": [],
+        "allCandidatePorts": [],
+        "summary": [
+          "정지 또는 확인 불가"
+        ]
+      },
+      "git": {
+        "isRepo": true,
+        "branch": "main",
+        "commitCount": 4,
+        "authors": [
+          {
+            "count": 4,
+            "name": "gosky",
+            "email": "gosky.dev@gmail.com"
+          }
+        ],
+        "latestCommit": {
+          "hash": "63162c7",
+          "author": "gosky",
+          "email": "gosky.dev@gmail.com",
+          "date": "2026-09-03T20:05:32+09:00",
+          "subject": "chore(auto): CLAUDE.md 외 2개 파일"
+        },
+        "summary": "총 4개 커밋, 상위 계정: gosky(4), 최근: chore(auto): CLAUDE.md 외 2개 파일"
+      },
+      "recentFiles": [
+        {
+          "path": "docs/slides/p23.png",
+          "modifiedAt": "2026-09-03T11:24:53.520Z"
+        },
+        {
+          "path": "docs/slides/p22.png",
+          "modifiedAt": "2026-09-03T11:24:53.392Z"
+        },
+        {
+          "path": "docs/slides/p08.png",
+          "modifiedAt": "2026-09-03T11:24:53.388Z"
+        },
+        {
+          "path": "docs/slides/p20.png",
+          "modifiedAt": "2026-09-03T11:24:53.272Z"
+        },
+        {
+          "path": "docs/slides/p21.png",
+          "modifiedAt": "2026-09-03T11:24:53.272Z"
+        },
+        {
+          "path": "docs/slides/p09.png",
+          "modifiedAt": "2026-09-03T11:24:53.128Z"
+        },
+        {
+          "path": "docs/slides/p19.png",
+          "modifiedAt": "2026-09-03T11:24:53.120Z"
+        },
+        {
+          "path": "docs/slides/p18.png",
+          "modifiedAt": "2026-09-03T11:24:52.996Z"
+        }
+      ],
+      "summary": [
+        "분류: AI 서버",
+        "기술 추정: AI",
+        "DB 사용 흔적 없음",
+        "실행 상태: 확인 불가",
+        "Git 커밋 수: 4",
+        "Git 상위 계정: gosky(4)"
       ]
     }
   ]
