@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-09-07 12:43:49 KST
+- 점검 시각: 2026-09-07 13:13:54 KST
 
 ## 추정 기술 스택
 
@@ -51,7 +51,7 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1900, 3000, 6000, 60480, 60836
+- 관련 포트: 1900, 3000, 6000, 6510, 60480, 60836
 - 관련 Docker 컨테이너: 확인 불가
 - 관련 PM2 프로세스: silverbridgefe
 
@@ -69,6 +69,7 @@
 
 ## 최근 수정 파일
 
+- docker-compose.dev.yml (2026-09-07 13:13:00 KST)
 - src/app/(ward)/ward/notices/page.tsx (2026-09-07 11:45:52 KST)
 - src/app/(ward)/ward/settings/_components/WardBasicSettingsSection.module.css (2026-09-07 11:45:52 KST)
 - src/app/(ward)/ward/settings/_components/WardBasicSettingsSection.tsx (2026-09-07 11:45:52 KST)
@@ -76,7 +77,6 @@
 - src/app/(ward)/ward/settings/_components/WardSettingsContent.tsx (2026-09-07 11:45:52 KST)
 - src/app/(ward)/ward/sos/_components/WardSosContent.module.css (2026-09-07 11:45:52 KST)
 - src/app/(ward)/ward/stream/_components/WardStreamContent.module.css (2026-09-07 11:45:52 KST)
-- src/app/layout.tsx (2026-09-07 11:45:52 KST)
 
 ## 점검 결과 요약
 

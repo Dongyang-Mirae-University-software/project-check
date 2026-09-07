@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-07T03:43:47.724Z",
-  "generatedAtKst": "2026-09-07 12:43:47 KST",
+  "generatedAt": "2026-09-07T04:13:52.416Z",
+  "generatedAtKst": "2026-09-07 13:13:52 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 5721
+          "count": 5722
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 5732
+      "count": 5733
     },
     {
       "name": "YUNA0222",
@@ -1234,22 +1234,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 5584,
+        "commitCount": 5585,
         "authors": [
           {
-            "count": 5584,
+            "count": 5585,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "a961dc82c",
+          "hash": "d26598618",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-07T12:13:45+09:00",
+          "date": "2026-09-07T12:43:50+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 5584개 커밋, 상위 계정: gosky(5584), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 5585개 커밋, 상위 계정: gosky(5585), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1290,8 +1290,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 5584",
-        "Git 상위 계정: gosky(5584)"
+        "Git 커밋 수: 5585",
+        "Git 상위 계정: gosky(5585)"
       ]
     },
     {
@@ -1904,7 +1904,6 @@
         "ports": [
           5432,
           6379,
-          6510,
           6511
         ],
         "allCandidatePorts": [
@@ -1922,7 +1921,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 5432, 6379, 6510, 6511"
+          "포트 5432, 6379, 6511"
         ]
       },
       "git": {
@@ -2142,7 +2141,7 @@
             "cwd": "/home/apps/SilverBridgeSky/SilverBridgeFe",
             "script": "/root/.nvm/versions/node/v20.20.2/bin/npm",
             "status": "online",
-            "pid": 2377954
+            "pid": null
           }
         ],
         "docker": [],
@@ -2153,6 +2152,7 @@
           1900,
           3000,
           6000,
+          6510,
           60480,
           60836
         ],
@@ -2205,6 +2205,10 @@
       },
       "recentFiles": [
         {
+          "path": "docker-compose.dev.yml",
+          "modifiedAt": "2026-09-07T04:13:00.922Z"
+        },
+        {
           "path": "src/app/(ward)/ward/notices/page.tsx",
           "modifiedAt": "2026-09-07T02:45:52.530Z"
         },
@@ -2230,10 +2234,6 @@
         },
         {
           "path": "src/app/(ward)/ward/stream/_components/WardStreamContent.module.css",
-          "modifiedAt": "2026-09-07T02:45:52.530Z"
-        },
-        {
-          "path": "src/app/layout.tsx",
           "modifiedAt": "2026-09-07T02:45:52.530Z"
         }
       ],
@@ -2822,7 +2822,7 @@
             "cwd": "/home/apps/SilverBridgeSky/SilverBridgeFe",
             "script": "/root/.nvm/versions/node/v20.20.2/bin/npm",
             "status": "online",
-            "pid": 2377954
+            "pid": null
           }
         ],
         "docker": [],
