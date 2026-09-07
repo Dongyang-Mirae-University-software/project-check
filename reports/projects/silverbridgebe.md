@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-09-07 10:43:30 KST
+- 점검 시각: 2026-09-07 11:13:35 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 131
+- 파일 개수: 132
 - 디렉토리 개수: 25
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration, src/test, src/test/java, src/test/java/kr, src/test/java/kr/silverbridge, src/test/java/kr/silverbridge/main, src/test/java/kr/silverbridge/main/domain, src/test/java/kr/silverbridge/main/global
@@ -57,23 +57,23 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 719
+- 총 커밋 수: 723
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 658
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 661
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
-- 최근 커밋: 935f77b / namgung <skarndaudwls@gmail.com> / Merge pull request #241 from Dongyang-Mirae-University-software/feature/admin-anomaly-review
+- 최근 커밋: 20250d2 / namgung <skarndaudwls@gmail.com> / Merge pull request #242 from Dongyang-Mirae-University-software/feature/connection-select-status-filter
 
 ## 최근 수정 파일
 
+- docs/progress.md (2026-09-07 11:10:25 KST)
+- docs/(2026-09-07) feature-connection-select-status-filter.md (2026-09-07 11:10:25 KST)
 - 프로젝트_설명.txt (2026-09-02 17:48:48 KST)
 - src/main/resources/application.yaml (2026-09-02 17:48:48 KST)
 - src/main/resources/db/migration/V46__add_anomaly_review_audit_action.sql (2026-09-02 17:48:48 KST)
 - CLAUDE.md (2026-09-02 17:48:48 KST)
 - docs/(2026-09-02) feature-admin-anomaly-review.md (2026-09-02 17:48:48 KST)
 - docs/(2026-09-02) feature-admin-dashboard-aggregation.md (2026-09-02 17:48:48 KST)
-- docs/(2026-09-02) fix-fcm-token-accumulation.md (2026-09-02 17:48:48 KST)
-- docs/progress.md (2026-09-02 17:48:48 KST)
 
 ## 점검 결과 요약
 
@@ -81,5 +81,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 719
-- Git 상위 계정: skarndaudwls1(658), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 723
+- Git 상위 계정: skarndaudwls1(661), skarndaudwls1(65), gosky(4)
