@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-07T04:13:52.416Z",
-  "generatedAtKst": "2026-09-07 13:13:52 KST",
+  "generatedAt": "2026-09-07T04:43:56.816Z",
+  "generatedAtKst": "2026-09-07 13:43:56 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 5722
+          "count": 5723
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 5733
+      "count": 5734
     },
     {
       "name": "YUNA0222",
@@ -1234,22 +1234,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 5585,
+        "commitCount": 5586,
         "authors": [
           {
-            "count": 5585,
+            "count": 5586,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "d26598618",
+          "hash": "7b292c5f5",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-07T12:43:50+09:00",
+          "date": "2026-09-07T13:13:55+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 5585개 커밋, 상위 계정: gosky(5585), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 5586개 커밋, 상위 계정: gosky(5586), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1290,8 +1290,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 5585",
-        "Git 상위 계정: gosky(5585)"
+        "Git 커밋 수: 5586",
+        "Git 상위 계정: gosky(5586)"
       ]
     },
     {
@@ -1904,6 +1904,7 @@
         "ports": [
           5432,
           6379,
+          6510,
           6511
         ],
         "allCandidatePorts": [
@@ -1921,7 +1922,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 5432, 6379, 6511"
+          "포트 5432, 6379, 6510, 6511"
         ]
       },
       "git": {
@@ -2091,8 +2092,8 @@
         }
       ],
       "structure": {
-        "fileCount": 287,
-        "dirCount": 86,
+        "fileCount": 305,
+        "dirCount": 103,
         "mainFolders": [
           "docs",
           "public",
@@ -2135,38 +2136,33 @@
       "runtime": {
         "status": "실행 중",
         "running": true,
-        "pm2": [
-          {
-            "name": "silverbridgefe",
-            "cwd": "/home/apps/SilverBridgeSky/SilverBridgeFe",
-            "script": "/root/.nvm/versions/node/v20.20.2/bin/npm",
-            "status": "online",
-            "pid": null
-          }
-        ],
+        "pm2": [],
         "docker": [],
         "ports": [
-          6000
+          6000,
+          6510
         ],
         "allCandidatePorts": [
           1900,
           3000,
+          5000,
           6000,
           6510,
+          8000,
           60480,
           60836
         ],
         "summary": [
           "실행 중",
-          "PM2 1개",
+          "PM2 없음",
           "Docker 없음",
-          "포트 6000"
+          "포트 6000, 6510"
         ]
       },
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 768,
+        "commitCount": 825,
         "authors": [
           {
             "count": 1400,
@@ -2195,46 +2191,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "e1127d1",
+          "hash": "8988c61",
           "author": "yuna0222",
           "email": "gold8077@gmail.com",
-          "date": "2026-09-01T19:28:21+09:00",
-          "subject": "Merge pull request #21 from Dongyang-Mirae-University-software/feature/alert-api-add"
+          "date": "2026-09-07T12:45:15+09:00",
+          "subject": "Merge pull request #22 from Dongyang-Mirae-University-software/feature/sos-api"
         },
-        "summary": "총 768개 커밋, 상위 계정: YUNA0222(1400), yuna0222(77), YUNA0222(10), 최근: Merge pull request #21 from Dongyang-Mirae-University-software/feature/alert-api-add"
+        "summary": "총 825개 커밋, 상위 계정: YUNA0222(1400), yuna0222(77), YUNA0222(10), 최근: Merge pull request #22 from Dongyang-Mirae-University-software/feature/sos-api"
       },
       "recentFiles": [
         {
-          "path": "docker-compose.dev.yml",
-          "modifiedAt": "2026-09-07T04:13:00.922Z"
+          "path": "next-env.d.ts",
+          "modifiedAt": "2026-09-07T04:23:00.446Z"
         },
         {
-          "path": "src/app/(ward)/ward/notices/page.tsx",
-          "modifiedAt": "2026-09-07T02:45:52.530Z"
+          "path": "src/service/query/common/announcement.ts",
+          "modifiedAt": "2026-09-07T04:22:25.826Z"
         },
         {
-          "path": "src/app/(ward)/ward/settings/_components/WardBasicSettingsSection.module.css",
-          "modifiedAt": "2026-09-07T02:45:52.530Z"
+          "path": "src/service/query/guardian/connection.ts",
+          "modifiedAt": "2026-09-07T04:22:25.826Z"
         },
         {
-          "path": "src/app/(ward)/ward/settings/_components/WardBasicSettingsSection.tsx",
-          "modifiedAt": "2026-09-07T02:45:52.530Z"
+          "path": "src/service/query/guardian/index.ts",
+          "modifiedAt": "2026-09-07T04:22:25.826Z"
         },
         {
-          "path": "src/app/(ward)/ward/settings/_components/WardSettingsContent.module.css",
-          "modifiedAt": "2026-09-07T02:45:52.530Z"
+          "path": "src/service/query/guardian/sosHistory.ts",
+          "modifiedAt": "2026-09-07T04:22:25.826Z"
         },
         {
-          "path": "src/app/(ward)/ward/settings/_components/WardSettingsContent.tsx",
-          "modifiedAt": "2026-09-07T02:45:52.530Z"
+          "path": "src/service/query/user/mutations.ts",
+          "modifiedAt": "2026-09-07T04:22:25.826Z"
         },
         {
-          "path": "src/app/(ward)/ward/sos/_components/WardSosContent.module.css",
-          "modifiedAt": "2026-09-07T02:45:52.530Z"
+          "path": "src/service/query/user/notification-settings.ts",
+          "modifiedAt": "2026-09-07T04:22:25.826Z"
         },
         {
-          "path": "src/app/(ward)/ward/stream/_components/WardStreamContent.module.css",
-          "modifiedAt": "2026-09-07T02:45:52.530Z"
+          "path": "src/service/query/user/profile.ts",
+          "modifiedAt": "2026-09-07T04:22:25.826Z"
         }
       ],
       "summary": [
@@ -2242,7 +2238,7 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 768",
+        "Git 커밋 수: 825",
         "Git 상위 계정: YUNA0222(1400), yuna0222(77), YUNA0222(10)"
       ]
     },
@@ -2816,13 +2812,6 @@
             "script": "/home/apps/SilverBridgeSky/project-check/src/monitor.js",
             "status": "online",
             "pid": 1915
-          },
-          {
-            "name": "silverbridgefe",
-            "cwd": "/home/apps/SilverBridgeSky/SilverBridgeFe",
-            "script": "/root/.nvm/versions/node/v20.20.2/bin/npm",
-            "status": "online",
-            "pid": null
           }
         ],
         "docker": [],
@@ -2840,7 +2829,7 @@
         ],
         "summary": [
           "실행 중",
-          "PM2 2개",
+          "PM2 1개",
           "Docker 없음",
           "포트 5432, 6379"
         ]
