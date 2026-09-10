@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-09-10 16:26:30 KST
+- 점검 시각: 2026-09-10 16:56:35 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 138
+- 파일 개수: 142
 - 디렉토리 개수: 25
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration, src/test, src/test/java, src/test/java/kr, src/test/java/kr/silverbridge, src/test/java/kr/silverbridge/main, src/test/java/kr/silverbridge/main/domain, src/test/java/kr/silverbridge/main/global
@@ -57,23 +57,23 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 730
+- 총 커밋 수: 736
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 665
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 669
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
-- 최근 커밋: 11f399d / namgung <skarndaudwls@gmail.com> / Merge pull request #245 from Dongyang-Mirae-University-software/feature/admin-force-connection
+- 최근 커밋: 418d1c3 / namgung <skarndaudwls@gmail.com> / Merge pull request #247 from Dongyang-Mirae-University-software/feature/inquiry-answer-audit
 
 ## 최근 수정 파일
 
-- docs/progress.md (2026-09-10 15:13:21 KST)
-- CLAUDE.md (2026-09-10 15:13:21 KST)
-- docs/(2026-09-09) fix-notification-restricted-user.md (2026-09-10 15:13:21 KST)
-- docs/(2026-09-10) feature-admin-force-connection.md (2026-09-10 15:13:21 KST)
-- src/main/resources/db/migration/V49__add_user_status_reason.sql (2026-09-09 16:42:22 KST)
-- 프로젝트_설명.txt (2026-09-09 15:25:13 KST)
-- src/main/resources/db/migration/V47__add_user_restricted_status.sql (2026-09-09 15:25:13 KST)
-- src/main/resources/db/migration/V48__add_user_name_change_audit_action.sql (2026-09-09 15:25:13 KST)
+- 프로젝트_설명.txt (2026-09-10 16:33:25 KST)
+- CLAUDE.md (2026-09-10 16:33:25 KST)
+- docs/(2026-09-10) audit-role-boundary-guardian-ward-admin.md (2026-09-10 16:33:25 KST)
+- docs/(2026-09-10) audit-unaudited-prs-230-245.md (2026-09-10 16:33:25 KST)
+- docs/(2026-09-10) fix-audit-findings.md (2026-09-10 16:33:25 KST)
+- docs/audit-index.md (2026-09-10 16:33:25 KST)
+- docs/progress.md (2026-09-10 16:33:25 KST)
+- src/main/resources/db/migration/V50__add_inquiry_answer_audit_action.sql (2026-09-10 16:33:25 KST)
 
 ## 점검 결과 요약
 
@@ -81,5 +81,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 730
-- Git 상위 계정: skarndaudwls1(665), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 736
+- Git 상위 계정: skarndaudwls1(669), skarndaudwls1(65), gosky(4)
