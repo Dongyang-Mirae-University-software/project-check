@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-13T11:39:06.397Z",
-  "generatedAtKst": "2026-09-13 20:39:06 KST",
+  "generatedAt": "2026-09-13T12:09:11.525Z",
+  "generatedAtKst": "2026-09-13 21:09:11 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6024
+          "count": 6025
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 6035
+      "count": 6036
     },
     {
       "name": "YUNA0222",
@@ -1234,22 +1234,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 5887,
+        "commitCount": 5888,
         "authors": [
           {
-            "count": 5887,
+            "count": 5888,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "ccfb003f0",
+          "hash": "ffe21ae3a",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-13T20:09:04+09:00",
+          "date": "2026-09-13T20:39:09+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 5887개 커밋, 상위 계정: gosky(5887), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 5888개 커밋, 상위 계정: gosky(5888), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1290,8 +1290,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 5887",
-        "Git 상위 계정: gosky(5887)"
+        "Git 커밋 수: 5888",
+        "Git 상위 계정: gosky(5888)"
       ]
     },
     {
@@ -2335,8 +2335,8 @@
         }
       ],
       "structure": {
-        "fileCount": 91867,
-        "dirCount": 76,
+        "fileCount": 91866,
+        "dirCount": 74,
         "mainFolders": [
           "datasets",
           "fall",
@@ -2388,23 +2388,27 @@
       "recentFiles": [
         {
           "path": "ModelTraining/fire_training.log",
-          "modifiedAt": "2026-09-13T08:57:30.611Z"
+          "modifiedAt": "2026-09-13T11:46:41.828Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v2-2/train_batch2.jpg",
-          "modifiedAt": "2026-09-13T08:57:23.391Z"
+          "path": "ModelTraining/runs/fire_smoke_v2/train_batch2.jpg",
+          "modifiedAt": "2026-09-13T11:41:25.402Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v2-2/train_batch1.jpg",
-          "modifiedAt": "2026-09-13T08:57:23.075Z"
+          "path": "ModelTraining/runs/fire_smoke_v2/train_batch1.jpg",
+          "modifiedAt": "2026-09-13T11:41:25.394Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v2-2/train_batch0.jpg",
-          "modifiedAt": "2026-09-13T08:57:22.935Z"
+          "path": "ModelTraining/runs/fire_smoke_v2/train_batch0.jpg",
+          "modifiedAt": "2026-09-13T11:41:25.326Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v2-2/labels.jpg",
-          "modifiedAt": "2026-09-13T08:57:18.719Z"
+          "path": "ModelTraining/runs/fire_smoke_v2/labels.jpg",
+          "modifiedAt": "2026-09-13T11:41:23.078Z"
+        },
+        {
+          "path": "ModelTraining/runs/fire_smoke_v2/args.yaml",
+          "modifiedAt": "2026-09-13T11:41:11.994Z"
         },
         {
           "path": "new_datasets/fire_smoke/labels/val.cache",
@@ -2413,10 +2417,6 @@
         {
           "path": "new_datasets/fire_smoke/labels/train.cache",
           "modifiedAt": "2026-09-13T08:56:44.307Z"
-        },
-        {
-          "path": "ModelTraining/runs/fire_smoke_v2-2/args.yaml",
-          "modifiedAt": "2026-09-13T08:56:41.471Z"
         }
       ],
       "summary": [
