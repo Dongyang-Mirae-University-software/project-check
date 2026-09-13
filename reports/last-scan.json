@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-13T06:38:15.379Z",
-  "generatedAtKst": "2026-09-13 15:38:15 KST",
+  "generatedAt": "2026-09-13T07:08:20.169Z",
+  "generatedAtKst": "2026-09-13 16:08:20 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6014
+          "count": 6015
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 6025
+      "count": 6026
     },
     {
       "name": "YUNA0222",
@@ -1234,22 +1234,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 5877,
+        "commitCount": 5878,
         "authors": [
           {
-            "count": 5877,
+            "count": 5878,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "6838b5767",
+          "hash": "b9f9e12b2",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-13T15:08:13+09:00",
+          "date": "2026-09-13T15:38:18+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 5877개 커밋, 상위 계정: gosky(5877), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 5878개 커밋, 상위 계정: gosky(5878), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1290,8 +1290,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 5877",
-        "Git 상위 계정: gosky(5877)"
+        "Git 커밋 수: 5878",
+        "Git 상위 계정: gosky(5878)"
       ]
     },
     {
@@ -2335,13 +2335,14 @@
         }
       ],
       "structure": {
-        "fileCount": 59877,
-        "dirCount": 51,
+        "fileCount": 72430,
+        "dirCount": 61,
         "mainFolders": [
           "datasets",
           "fall",
           "models",
-          "ModelTraining"
+          "ModelTraining",
+          "new_datasets"
         ],
         "majorPaths": [
           "datasets/fire/test/images",
@@ -2385,36 +2386,36 @@
       },
       "recentFiles": [
         {
-          "path": "ModelTraining/fire2.log",
-          "modifiedAt": "2026-05-31T17:22:24.406Z"
+          "path": "new_datasets/fire_smoke/images/train/middle_-3294-_jpg.rf.6e62bef5c97adb476fd348f62853f460.jpg",
+          "modifiedAt": "2026-09-13T07:08:22.958Z"
         },
         {
-          "path": "models/fire_250ep-2/results.png",
-          "modifiedAt": "2026-05-31T17:22:24.106Z"
+          "path": "new_datasets/fire_smoke/images/train/middle_-3295-_jpg.rf.879ed02944b1de5ed9064e074318698d.jpg",
+          "modifiedAt": "2026-09-13T07:08:22.890Z"
         },
         {
-          "path": "models/fire_250ep-2/confusion_matrix.png",
-          "modifiedAt": "2026-05-31T17:22:23.318Z"
+          "path": "new_datasets/fire_smoke/images/train/middle_-3296-_jpg.rf.5dc94330dbf602ff96c031f528c01ae1.jpg",
+          "modifiedAt": "2026-09-13T07:08:22.626Z"
         },
         {
-          "path": "models/fire_250ep-2/confusion_matrix_normalized.png",
-          "modifiedAt": "2026-05-31T17:22:23.034Z"
+          "path": "new_datasets/fire_smoke/images/train/middle_-3298-_jpg.rf.8a5e5ad95cc51f3d2c7bdf04519c417e.jpg",
+          "modifiedAt": "2026-09-13T07:08:22.506Z"
         },
         {
-          "path": "models/fire_250ep-2/BoxR_curve.png",
-          "modifiedAt": "2026-05-31T17:22:22.630Z"
+          "path": "new_datasets/fire_smoke/images/train/middle_-3299-_jpg.rf.87f2a3a52e1211498091f9001d92a15f.jpg",
+          "modifiedAt": "2026-09-13T07:08:22.382Z"
         },
         {
-          "path": "models/fire_250ep-2/BoxP_curve.png",
-          "modifiedAt": "2026-05-31T17:22:22.458Z"
+          "path": "new_datasets/fire_smoke/images/train/middle_-33-_jpg.rf.d96dee8333616629f279467386ffe32b.jpg",
+          "modifiedAt": "2026-09-13T07:08:22.258Z"
         },
         {
-          "path": "models/fire_250ep-2/BoxF1_curve.png",
-          "modifiedAt": "2026-05-31T17:22:22.258Z"
+          "path": "new_datasets/fire_smoke/images/train/middle_-330-_jpg.rf.1689e4cbcda6b4113e355f8688e7a897.jpg",
+          "modifiedAt": "2026-09-13T07:08:22.138Z"
         },
         {
-          "path": "models/fire_250ep-2/BoxPR_curve.png",
-          "modifiedAt": "2026-05-31T17:22:22.066Z"
+          "path": "new_datasets/fire_smoke/images/train/middle_-3300-_jpg.rf.e321fdb5b5f834d9717a07d8485ba42d.jpg",
+          "modifiedAt": "2026-09-13T07:08:21.914Z"
         }
       ],
       "summary": [

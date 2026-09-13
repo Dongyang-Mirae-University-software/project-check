@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeJH`
 - 분류: 백엔드
-- 점검 시각: 2026-09-13 15:38:18 KST
+- 점검 시각: 2026-09-13 16:08:23 KST
 
 ## 추정 기술 스택
 
@@ -35,9 +35,9 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 59877
-- 디렉토리 개수: 51
-- 주요 폴더: datasets, fall, models, ModelTraining
+- 파일 개수: 72430
+- 디렉토리 개수: 61
+- 주요 폴더: datasets, fall, models, ModelTraining, new_datasets
 - 주요 경로: datasets/fire/test/images, datasets/fire/test/labels, datasets/knife/test/images, datasets/knife/test/labels, models, models/fire_250ep, models/fire_250ep-2, models/fire_250ep-2/weights, models/fire_250ep/weights, models/knife_250ep, models/knife_250ep/weights
 
 ## DB 사용 여부
@@ -58,14 +58,14 @@
 
 ## 최근 수정 파일
 
-- ModelTraining/fire2.log (2026-06-01 02:22:24 KST)
-- models/fire_250ep-2/results.png (2026-06-01 02:22:24 KST)
-- models/fire_250ep-2/confusion_matrix.png (2026-06-01 02:22:23 KST)
-- models/fire_250ep-2/confusion_matrix_normalized.png (2026-06-01 02:22:23 KST)
-- models/fire_250ep-2/BoxR_curve.png (2026-06-01 02:22:22 KST)
-- models/fire_250ep-2/BoxP_curve.png (2026-06-01 02:22:22 KST)
-- models/fire_250ep-2/BoxF1_curve.png (2026-06-01 02:22:22 KST)
-- models/fire_250ep-2/BoxPR_curve.png (2026-06-01 02:22:22 KST)
+- new_datasets/fire_smoke/images/train/middle_-3294-_jpg.rf.6e62bef5c97adb476fd348f62853f460.jpg (2026-09-13 16:08:22 KST)
+- new_datasets/fire_smoke/images/train/middle_-3295-_jpg.rf.879ed02944b1de5ed9064e074318698d.jpg (2026-09-13 16:08:22 KST)
+- new_datasets/fire_smoke/images/train/middle_-3296-_jpg.rf.5dc94330dbf602ff96c031f528c01ae1.jpg (2026-09-13 16:08:22 KST)
+- new_datasets/fire_smoke/images/train/middle_-3298-_jpg.rf.8a5e5ad95cc51f3d2c7bdf04519c417e.jpg (2026-09-13 16:08:22 KST)
+- new_datasets/fire_smoke/images/train/middle_-3299-_jpg.rf.87f2a3a52e1211498091f9001d92a15f.jpg (2026-09-13 16:08:22 KST)
+- new_datasets/fire_smoke/images/train/middle_-33-_jpg.rf.d96dee8333616629f279467386ffe32b.jpg (2026-09-13 16:08:22 KST)
+- new_datasets/fire_smoke/images/train/middle_-330-_jpg.rf.1689e4cbcda6b4113e355f8688e7a897.jpg (2026-09-13 16:08:22 KST)
+- new_datasets/fire_smoke/images/train/middle_-3300-_jpg.rf.e321fdb5b5f834d9717a07d8485ba42d.jpg (2026-09-13 16:08:21 KST)
 
 ## 점검 결과 요약
 
