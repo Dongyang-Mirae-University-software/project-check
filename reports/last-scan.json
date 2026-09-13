@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-13T12:09:11.525Z",
-  "generatedAtKst": "2026-09-13 21:09:11 KST",
+  "generatedAt": "2026-09-13T12:39:16.706Z",
+  "generatedAtKst": "2026-09-13 21:39:16 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6025
+          "count": 6026
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 6036
+      "count": 6037
     },
     {
       "name": "YUNA0222",
@@ -611,7 +611,7 @@
           {
             "name": "chatsilverbridge-api-1",
             "image": "chatsilverbridge-api",
-            "status": "Up 3 weeks",
+            "status": "Up 12 minutes",
             "ports": "0.0.0.0:6012->6012/tcp, [::]:6012->6012/tcp"
           },
           {
@@ -1234,22 +1234,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 5888,
+        "commitCount": 5889,
         "authors": [
           {
-            "count": 5888,
+            "count": 5889,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "ffe21ae3a",
+          "hash": "24de455d1",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-13T20:39:09+09:00",
+          "date": "2026-09-13T21:09:14+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 5888개 커밋, 상위 계정: gosky(5888), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 5889개 커밋, 상위 계정: gosky(5889), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1290,8 +1290,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 5888",
-        "Git 상위 계정: gosky(5888)"
+        "Git 커밋 수: 5889",
+        "Git 상위 계정: gosky(5889)"
       ]
     },
     {
@@ -2335,8 +2335,8 @@
         }
       ],
       "structure": {
-        "fileCount": 91866,
-        "dirCount": 74,
+        "fileCount": 91874,
+        "dirCount": 76,
         "mainFolders": [
           "datasets",
           "fall",
@@ -2388,35 +2388,35 @@
       "recentFiles": [
         {
           "path": "ModelTraining/fire_training.log",
-          "modifiedAt": "2026-09-13T11:46:41.828Z"
+          "modifiedAt": "2026-09-13T12:29:00.405Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v2/train_batch2.jpg",
-          "modifiedAt": "2026-09-13T11:41:25.402Z"
+          "path": "ModelTraining/runs/fire_smoke_v2-2/weights/best.pt",
+          "modifiedAt": "2026-09-13T12:28:52.493Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v2/train_batch1.jpg",
-          "modifiedAt": "2026-09-13T11:41:25.394Z"
+          "path": "ModelTraining/runs/fire_smoke_v2-2/weights/last.pt",
+          "modifiedAt": "2026-09-13T12:28:52.485Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v2/train_batch0.jpg",
-          "modifiedAt": "2026-09-13T11:41:25.326Z"
+          "path": "ModelTraining/runs/fire_smoke_v2-2/results.csv",
+          "modifiedAt": "2026-09-13T12:28:52.369Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v2/labels.jpg",
-          "modifiedAt": "2026-09-13T11:41:23.078Z"
+          "path": "ModelTraining/runs/fire_smoke_v2-2/train_batch1.jpg",
+          "modifiedAt": "2026-09-13T12:28:21.982Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v2/args.yaml",
-          "modifiedAt": "2026-09-13T11:41:11.994Z"
+          "path": "ModelTraining/runs/fire_smoke_v2-2/train_batch2.jpg",
+          "modifiedAt": "2026-09-13T12:28:21.978Z"
         },
         {
-          "path": "new_datasets/fire_smoke/labels/val.cache",
-          "modifiedAt": "2026-09-13T08:56:45.175Z"
+          "path": "ModelTraining/runs/fire_smoke_v2-2/train_batch0.jpg",
+          "modifiedAt": "2026-09-13T12:28:21.906Z"
         },
         {
-          "path": "new_datasets/fire_smoke/labels/train.cache",
-          "modifiedAt": "2026-09-13T08:56:44.307Z"
+          "path": "ModelTraining/runs/fire_smoke_v2-2/labels.jpg",
+          "modifiedAt": "2026-09-13T12:28:19.266Z"
         }
       ],
       "summary": [
