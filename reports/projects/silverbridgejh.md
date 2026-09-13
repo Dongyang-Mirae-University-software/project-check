@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeJH`
 - 분류: 백엔드
-- 점검 시각: 2026-09-13 17:08:33 KST
+- 점검 시각: 2026-09-13 17:38:38 KST
 
 ## 추정 기술 스택
 
@@ -35,7 +35,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 85754
+- 파일 개수: 90091
 - 디렉토리 개수: 70
 - 주요 폴더: datasets, fall, models, ModelTraining, new_datasets
 - 주요 경로: datasets/fire/test/images, datasets/fire/test/labels, datasets/knife/test/images, datasets/knife/test/labels, models, models/fire_250ep, models/fire_250ep-2, models/fire_250ep-2/weights, models/fire_250ep/weights, models/knife_250ep, models/knife_250ep/weights
@@ -58,14 +58,14 @@
 
 ## 최근 수정 파일
 
-- new_datasets/knife/images/val/knife-117-_jpg.rf.4471a6ae0be56a38c96a33e420021fc7.jpg (2026-09-13 17:08:33 KST)
-- new_datasets/knife/images/val/knife-1175-_jpg.rf.89ff7436c8a1d526495fad0f190a6f26.jpg (2026-09-13 17:08:33 KST)
-- new_datasets/knife/images/val/knife-1176-_jpg.rf.607555dc54ce2e96b415345246a2cb8c.jpg (2026-09-13 17:08:33 KST)
-- new_datasets/knife/images/val/knife-1177-_jpg.rf.7f46741423756097f7fa41be5f7a3643.jpg (2026-09-13 17:08:32 KST)
-- new_datasets/knife/images/val/knife-1180-_jpg.rf.4293d2d16fcf389353d8bc24c8bfa8a8.jpg (2026-09-13 17:08:32 KST)
-- new_datasets/knife/images/val/knife-119-_jpg.rf.b22a1eafef4421b909916d93bd422e50.jpg (2026-09-13 17:08:32 KST)
-- new_datasets/knife/images/val/knife-1191-_jpg.rf.cc9055d901eef15a8b707e6f91269a1f.jpg (2026-09-13 17:08:32 KST)
-- new_datasets/knife/images/val/knife-1195-_jpg.rf.bb23caf5401a968563511c2d2c380e25.jpg (2026-09-13 17:08:32 KST)
+- new_datasets/knife/images/train/10505_bmp.rf.7fa9430a12a09ec397d1c1587399f3f2.jpg (2026-09-13 17:38:14 KST)
+- new_datasets/knife/images/train/10507_bmp.rf.83c6b722d62e9cb2fd5624e081d38170.jpg (2026-09-13 17:37:58 KST)
+- new_datasets/knife/images/train/10508_bmp.rf.6ee24c5beec9e3d3fa5b46852c158010.jpg (2026-09-13 17:37:45 KST)
+- new_datasets/knife/images/train/10509_bmp.rf.994bf0b7d11311a376db4008e1455f8a.jpg (2026-09-13 17:37:14 KST)
+- new_datasets/knife/images/train/10511_bmp.rf.5179af9f7b37d1d2c4f01532589a02d7.jpg (2026-09-13 17:37:11 KST)
+- new_datasets/knife/images/train/10512_bmp.rf.f5f727ffe51a303b201052b8be3d9978.jpg (2026-09-13 17:37:10 KST)
+- new_datasets/knife/images/train/10517_bmp.rf.639b1d30caaf61b66fec8fbf74a8a4dd.jpg (2026-09-13 17:37:09 KST)
+- new_datasets/knife/images/train/10518_bmp.rf.b47db1fd165dcd9c1e5e46ca0145747f.jpg (2026-09-13 17:37:07 KST)
 
 ## 점검 결과 요약
 
