@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeJH`
 - 분류: 백엔드
-- 점검 시각: 2026-09-13 16:38:28 KST
+- 점검 시각: 2026-09-13 17:08:33 KST
 
 ## 추정 기술 스택
 
@@ -35,8 +35,8 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 77759
-- 디렉토리 개수: 61
+- 파일 개수: 85754
+- 디렉토리 개수: 70
 - 주요 폴더: datasets, fall, models, ModelTraining, new_datasets
 - 주요 경로: datasets/fire/test/images, datasets/fire/test/labels, datasets/knife/test/images, datasets/knife/test/labels, models, models/fire_250ep, models/fire_250ep-2, models/fire_250ep-2/weights, models/fire_250ep/weights, models/knife_250ep, models/knife_250ep/weights
 
@@ -58,14 +58,14 @@
 
 ## 최근 수정 파일
 
-- new_datasets/fire_smoke/data.yaml (2026-09-13 16:23:11 KST)
-- new_datasets/fire_smoke/images/test/large_-1003-_jpg.rf.6116225c4c52b57ae7dd9b1b6b51c3c8.jpg (2026-09-13 16:23:11 KST)
-- new_datasets/fire_smoke/images/test/large_-1006-_jpg.rf.82ec978214cb02e1d74bc1c52f9cd2b3.jpg (2026-09-13 16:23:11 KST)
-- new_datasets/fire_smoke/images/test/large_-1022-_jpg.rf.a3b1122f250329527e5bd38eae79f630.jpg (2026-09-13 16:23:10 KST)
-- new_datasets/fire_smoke/images/test/large_-103-_jpg.rf.79c9c66424ec3d44fd4c6dac5508555d.jpg (2026-09-13 16:23:10 KST)
-- new_datasets/fire_smoke/images/test/large_-1037-_jpg.rf.318286d444a5a4a5725871ec5cab71a3.jpg (2026-09-13 16:23:10 KST)
-- new_datasets/fire_smoke/images/test/large_-1046-_jpg.rf.94235b3568c492058691c9424ad2f505.jpg (2026-09-13 16:23:10 KST)
-- new_datasets/fire_smoke/images/test/large_-1050-_jpg.rf.49d5bc81e83a431796c79719476bcfec.jpg (2026-09-13 16:23:10 KST)
+- new_datasets/knife/images/val/knife-117-_jpg.rf.4471a6ae0be56a38c96a33e420021fc7.jpg (2026-09-13 17:08:33 KST)
+- new_datasets/knife/images/val/knife-1175-_jpg.rf.89ff7436c8a1d526495fad0f190a6f26.jpg (2026-09-13 17:08:33 KST)
+- new_datasets/knife/images/val/knife-1176-_jpg.rf.607555dc54ce2e96b415345246a2cb8c.jpg (2026-09-13 17:08:33 KST)
+- new_datasets/knife/images/val/knife-1177-_jpg.rf.7f46741423756097f7fa41be5f7a3643.jpg (2026-09-13 17:08:32 KST)
+- new_datasets/knife/images/val/knife-1180-_jpg.rf.4293d2d16fcf389353d8bc24c8bfa8a8.jpg (2026-09-13 17:08:32 KST)
+- new_datasets/knife/images/val/knife-119-_jpg.rf.b22a1eafef4421b909916d93bd422e50.jpg (2026-09-13 17:08:32 KST)
+- new_datasets/knife/images/val/knife-1191-_jpg.rf.cc9055d901eef15a8b707e6f91269a1f.jpg (2026-09-13 17:08:32 KST)
+- new_datasets/knife/images/val/knife-1195-_jpg.rf.bb23caf5401a968563511c2d2c380e25.jpg (2026-09-13 17:08:32 KST)
 
 ## 점검 결과 요약
 
