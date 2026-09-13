@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeJH`
 - 분류: 백엔드
-- 점검 시각: 2026-09-13 17:38:38 KST
+- 점검 시각: 2026-09-13 18:08:43 KST
 
 ## 추정 기술 스택
 
@@ -35,10 +35,10 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 90091
-- 디렉토리 개수: 70
+- 파일 개수: 91867
+- 디렉토리 개수: 76
 - 주요 폴더: datasets, fall, models, ModelTraining, new_datasets
-- 주요 경로: datasets/fire/test/images, datasets/fire/test/labels, datasets/knife/test/images, datasets/knife/test/labels, models, models/fire_250ep, models/fire_250ep-2, models/fire_250ep-2/weights, models/fire_250ep/weights, models/knife_250ep, models/knife_250ep/weights
+- 주요 경로: datasets/fire/test/images, datasets/fire/test/labels, datasets/knife/test/images, datasets/knife/test/labels, models, models/fire_250ep, models/fire_250ep-2, models/fire_250ep-2/weights, models/fire_250ep/weights, models/knife_250ep, models/knife_250ep/weights, ModelTraining/models/fire_smoke
 
 ## DB 사용 여부
 
@@ -58,14 +58,14 @@
 
 ## 최근 수정 파일
 
-- new_datasets/knife/images/train/10505_bmp.rf.7fa9430a12a09ec397d1c1587399f3f2.jpg (2026-09-13 17:38:14 KST)
-- new_datasets/knife/images/train/10507_bmp.rf.83c6b722d62e9cb2fd5624e081d38170.jpg (2026-09-13 17:37:58 KST)
-- new_datasets/knife/images/train/10508_bmp.rf.6ee24c5beec9e3d3fa5b46852c158010.jpg (2026-09-13 17:37:45 KST)
-- new_datasets/knife/images/train/10509_bmp.rf.994bf0b7d11311a376db4008e1455f8a.jpg (2026-09-13 17:37:14 KST)
-- new_datasets/knife/images/train/10511_bmp.rf.5179af9f7b37d1d2c4f01532589a02d7.jpg (2026-09-13 17:37:11 KST)
-- new_datasets/knife/images/train/10512_bmp.rf.f5f727ffe51a303b201052b8be3d9978.jpg (2026-09-13 17:37:10 KST)
-- new_datasets/knife/images/train/10517_bmp.rf.639b1d30caaf61b66fec8fbf74a8a4dd.jpg (2026-09-13 17:37:09 KST)
-- new_datasets/knife/images/train/10518_bmp.rf.b47db1fd165dcd9c1e5e46ca0145747f.jpg (2026-09-13 17:37:07 KST)
+- ModelTraining/fire_training.log (2026-09-13 17:57:30 KST)
+- ModelTraining/runs/fire_smoke_v2-2/train_batch2.jpg (2026-09-13 17:57:23 KST)
+- ModelTraining/runs/fire_smoke_v2-2/train_batch1.jpg (2026-09-13 17:57:23 KST)
+- ModelTraining/runs/fire_smoke_v2-2/train_batch0.jpg (2026-09-13 17:57:22 KST)
+- ModelTraining/runs/fire_smoke_v2-2/labels.jpg (2026-09-13 17:57:18 KST)
+- new_datasets/fire_smoke/labels/val.cache (2026-09-13 17:56:45 KST)
+- new_datasets/fire_smoke/labels/train.cache (2026-09-13 17:56:44 KST)
+- ModelTraining/runs/fire_smoke_v2-2/args.yaml (2026-09-13 17:56:41 KST)
 
 ## 점검 결과 요약
 
