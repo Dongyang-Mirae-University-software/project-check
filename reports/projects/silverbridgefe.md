@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-09-14 22:31:41 KST
+- 점검 시각: 2026-09-14 23:01:47 KST
 
 ## 추정 기술 스택
 
