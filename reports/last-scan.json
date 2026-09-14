@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-14T11:13:12.865Z",
-  "generatedAtKst": "2026-09-14 20:13:12 KST",
+  "generatedAt": "2026-09-14T11:31:18.169Z",
+  "generatedAtKst": "2026-09-14 20:31:18 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6071
+          "count": 6072
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 6082
+      "count": 6083
     },
     {
       "name": "YUNA0222",
@@ -1195,7 +1195,7 @@
             "cwd": "/home/apps/SilverBridgeSky/project-check",
             "script": "/home/apps/SilverBridgeSky/project-check/src/monitor.js",
             "status": "online",
-            "pid": 1915
+            "pid": 1284107
           }
         ],
         "docker": [],
@@ -1234,22 +1234,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 5934,
+        "commitCount": 5935,
         "authors": [
           {
-            "count": 5934,
+            "count": 5935,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "99916e908",
+          "hash": "c00393b04",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-14T19:43:10+09:00",
+          "date": "2026-09-14T20:13:16+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 5934개 커밋, 상위 계정: gosky(5934), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 5935개 커밋, 상위 계정: gosky(5935), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1290,8 +1290,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 5934",
-        "Git 상위 계정: gosky(5934)"
+        "Git 커밋 수: 5935",
+        "Git 상위 계정: gosky(5935)"
       ]
     },
     {
@@ -2317,8 +2317,8 @@
         }
       ],
       "structure": {
-        "fileCount": 91874,
-        "dirCount": 76,
+        "fileCount": 91880,
+        "dirCount": 78,
         "mainFolders": [
           "datasets",
           "fall",
@@ -2369,36 +2369,36 @@
       },
       "recentFiles": [
         {
+          "path": "ModelTraining/fire_training260914.log",
+          "modifiedAt": "2026-09-14T11:19:36.661Z"
+        },
+        {
+          "path": "ModelTraining/runs/fire_smoke_v2-3/train_batch2.jpg",
+          "modifiedAt": "2026-09-14T11:16:10.832Z"
+        },
+        {
+          "path": "ModelTraining/runs/fire_smoke_v2-3/train_batch1.jpg",
+          "modifiedAt": "2026-09-14T11:16:10.428Z"
+        },
+        {
+          "path": "ModelTraining/runs/fire_smoke_v2-3/train_batch0.jpg",
+          "modifiedAt": "2026-09-14T11:16:10.368Z"
+        },
+        {
+          "path": "ModelTraining/runs/fire_smoke_v2-3/labels.jpg",
+          "modifiedAt": "2026-09-14T11:16:04.984Z"
+        },
+        {
+          "path": "ModelTraining/runs/fire_smoke_v2-3/args.yaml",
+          "modifiedAt": "2026-09-14T11:16:00.032Z"
+        },
+        {
           "path": "ModelTraining/fire_training.log",
           "modifiedAt": "2026-09-14T10:19:11.283Z"
         },
         {
           "path": "ModelTraining/runs/fire_smoke_v2-2/weights/best.pt",
           "modifiedAt": "2026-09-13T12:28:52.493Z"
-        },
-        {
-          "path": "ModelTraining/runs/fire_smoke_v2-2/weights/last.pt",
-          "modifiedAt": "2026-09-13T12:28:52.485Z"
-        },
-        {
-          "path": "ModelTraining/runs/fire_smoke_v2-2/results.csv",
-          "modifiedAt": "2026-09-13T12:28:52.369Z"
-        },
-        {
-          "path": "ModelTraining/runs/fire_smoke_v2-2/train_batch1.jpg",
-          "modifiedAt": "2026-09-13T12:28:21.982Z"
-        },
-        {
-          "path": "ModelTraining/runs/fire_smoke_v2-2/train_batch2.jpg",
-          "modifiedAt": "2026-09-13T12:28:21.978Z"
-        },
-        {
-          "path": "ModelTraining/runs/fire_smoke_v2-2/train_batch0.jpg",
-          "modifiedAt": "2026-09-13T12:28:21.906Z"
-        },
-        {
-          "path": "ModelTraining/runs/fire_smoke_v2-2/labels.jpg",
-          "modifiedAt": "2026-09-13T12:28:19.266Z"
         }
       ],
       "summary": [
@@ -2795,7 +2795,7 @@
             "cwd": "/home/apps/SilverBridgeSky/project-check",
             "script": "/home/apps/SilverBridgeSky/project-check/src/monitor.js",
             "status": "online",
-            "pid": 1915
+            "pid": 1284107
           }
         ],
         "docker": [],
