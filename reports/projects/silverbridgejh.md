@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeJH`
 - 분류: 백엔드
-- 점검 시각: 2026-09-14 19:13:05 KST
+- 점검 시각: 2026-09-14 19:43:10 KST
 
 ## 추정 기술 스택
 
@@ -58,7 +58,7 @@
 
 ## 최근 수정 파일
 
-- ModelTraining/fire_training.log (2026-09-13 21:29:00 KST)
+- ModelTraining/fire_training.log (2026-09-14 19:19:11 KST)
 - ModelTraining/runs/fire_smoke_v2-2/weights/best.pt (2026-09-13 21:28:52 KST)
 - ModelTraining/runs/fire_smoke_v2-2/weights/last.pt (2026-09-13 21:28:52 KST)
 - ModelTraining/runs/fire_smoke_v2-2/results.csv (2026-09-13 21:28:52 KST)
