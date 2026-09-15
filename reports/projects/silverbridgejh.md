@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeJH`
 - 분류: 백엔드
-- 점검 시각: 2026-09-16 02:06:31 KST
+- 점검 시각: 2026-09-16 02:36:36 KST
 
 ## 추정 기술 스택
 
@@ -35,7 +35,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 91920
+- 파일 개수: 91933
 - 디렉토리 개수: 86
 - 주요 폴더: datasets, fall, models, ModelTraining, new_datasets
 - 주요 경로: datasets/fire/test/images, datasets/fire/test/labels, datasets/knife/test/images, datasets/knife/test/labels, models, models/fire_250ep, models/fire_250ep-2, models/fire_250ep-2/weights, models/fire_250ep/weights, models/knife_250ep, models/knife_250ep/weights, ModelTraining/models/fire_smoke
@@ -58,14 +58,14 @@
 
 ## 최근 수정 파일
 
-- ModelTraining/runs/knife_v1/weights/last.pt (2026-09-16 02:06:30 KST)
-- ModelTraining/runs/knife_v1/results.csv (2026-09-16 02:06:30 KST)
-- ModelTraining/runs/knife_v1/weights/best.pt (2026-09-16 02:01:11 KST)
-- ModelTraining/runs/knife_v1/train_batch2.jpg (2026-09-16 01:03:35 KST)
-- ModelTraining/runs/knife_v1/train_batch1.jpg (2026-09-16 01:03:35 KST)
-- ModelTraining/runs/knife_v1/train_batch0.jpg (2026-09-16 01:03:35 KST)
-- ModelTraining/runs/knife_v1/labels.jpg (2026-09-16 01:03:34 KST)
-- new_datasets/knife/labels/val.cache (2026-09-16 01:03:32 KST)
+- ModelTraining/runs/knife_v1/results.png (2026-09-16 02:21:14 KST)
+- ModelTraining/runs/knife_v1/confusion_matrix.png (2026-09-16 02:21:14 KST)
+- ModelTraining/runs/knife_v1/confusion_matrix_normalized.png (2026-09-16 02:21:12 KST)
+- ModelTraining/runs/knife_v1/BoxR_curve.png (2026-09-16 02:21:10 KST)
+- ModelTraining/runs/knife_v1/BoxP_curve.png (2026-09-16 02:21:10 KST)
+- ModelTraining/runs/knife_v1/BoxF1_curve.png (2026-09-16 02:21:10 KST)
+- ModelTraining/runs/knife_v1/BoxPR_curve.png (2026-09-16 02:21:10 KST)
+- ModelTraining/runs/knife_v1/val_batch2_labels.jpg (2026-09-16 02:21:07 KST)
 
 ## 점검 결과 요약
 

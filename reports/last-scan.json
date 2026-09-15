@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-15T17:06:28.380Z",
-  "generatedAtKst": "2026-09-16 02:06:28 KST",
+  "generatedAt": "2026-09-15T17:36:33.876Z",
+  "generatedAtKst": "2026-09-16 02:36:33 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6131
+          "count": 6132
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 6142
+      "count": 6143
     },
     {
       "name": "YUNA0222",
@@ -1234,22 +1234,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 5994,
+        "commitCount": 5995,
         "authors": [
           {
-            "count": 5994,
+            "count": 5995,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "055c85abc",
+          "hash": "4dc7fd268",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-16T01:36:26+09:00",
+          "date": "2026-09-16T02:06:31+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 5994개 커밋, 상위 계정: gosky(5994), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 5995개 커밋, 상위 계정: gosky(5995), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1290,8 +1290,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 5994",
-        "Git 상위 계정: gosky(5994)"
+        "Git 커밋 수: 5995",
+        "Git 상위 계정: gosky(5995)"
       ]
     },
     {
@@ -2317,7 +2317,7 @@
         }
       ],
       "structure": {
-        "fileCount": 91920,
+        "fileCount": 91933,
         "dirCount": 86,
         "mainFolders": [
           "datasets",
@@ -2369,36 +2369,36 @@
       },
       "recentFiles": [
         {
-          "path": "ModelTraining/runs/knife_v1/weights/last.pt",
-          "modifiedAt": "2026-09-15T17:06:30.339Z"
+          "path": "ModelTraining/runs/knife_v1/results.png",
+          "modifiedAt": "2026-09-15T17:21:14.714Z"
         },
         {
-          "path": "ModelTraining/runs/knife_v1/results.csv",
-          "modifiedAt": "2026-09-15T17:06:30.151Z"
+          "path": "ModelTraining/runs/knife_v1/confusion_matrix.png",
+          "modifiedAt": "2026-09-15T17:21:14.146Z"
         },
         {
-          "path": "ModelTraining/runs/knife_v1/weights/best.pt",
-          "modifiedAt": "2026-09-15T17:01:11.408Z"
+          "path": "ModelTraining/runs/knife_v1/confusion_matrix_normalized.png",
+          "modifiedAt": "2026-09-15T17:21:12.750Z"
         },
         {
-          "path": "ModelTraining/runs/knife_v1/train_batch2.jpg",
-          "modifiedAt": "2026-09-15T16:03:35.982Z"
+          "path": "ModelTraining/runs/knife_v1/BoxR_curve.png",
+          "modifiedAt": "2026-09-15T17:21:10.986Z"
         },
         {
-          "path": "ModelTraining/runs/knife_v1/train_batch1.jpg",
-          "modifiedAt": "2026-09-15T16:03:35.918Z"
+          "path": "ModelTraining/runs/knife_v1/BoxP_curve.png",
+          "modifiedAt": "2026-09-15T17:21:10.778Z"
         },
         {
-          "path": "ModelTraining/runs/knife_v1/train_batch0.jpg",
-          "modifiedAt": "2026-09-15T16:03:35.810Z"
+          "path": "ModelTraining/runs/knife_v1/BoxF1_curve.png",
+          "modifiedAt": "2026-09-15T17:21:10.578Z"
         },
         {
-          "path": "ModelTraining/runs/knife_v1/labels.jpg",
-          "modifiedAt": "2026-09-15T16:03:34.470Z"
+          "path": "ModelTraining/runs/knife_v1/BoxPR_curve.png",
+          "modifiedAt": "2026-09-15T17:21:10.386Z"
         },
         {
-          "path": "new_datasets/knife/labels/val.cache",
-          "modifiedAt": "2026-09-15T16:03:32.906Z"
+          "path": "ModelTraining/runs/knife_v1/val_batch2_labels.jpg",
+          "modifiedAt": "2026-09-15T17:21:07.514Z"
         }
       ],
       "summary": [
