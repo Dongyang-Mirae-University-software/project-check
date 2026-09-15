@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-15T15:36:11.058Z",
-  "generatedAtKst": "2026-09-16 24:36:11 KST",
+  "generatedAt": "2026-09-15T16:06:16.792Z",
+  "generatedAtKst": "2026-09-16 01:06:16 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6128
+          "count": 6129
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 6139
+      "count": 6140
     },
     {
       "name": "YUNA0222",
@@ -1234,22 +1234,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 5991,
+        "commitCount": 5992,
         "authors": [
           {
-            "count": 5991,
+            "count": 5992,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "236365a02",
+          "hash": "aea2bc1b0",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-16T00:06:09+09:00",
+          "date": "2026-09-16T00:36:14+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 5991개 커밋, 상위 계정: gosky(5991), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 5992개 커밋, 상위 계정: gosky(5992), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1290,8 +1290,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 5991",
-        "Git 상위 계정: gosky(5991)"
+        "Git 커밋 수: 5992",
+        "Git 상위 계정: gosky(5992)"
       ]
     },
     {
@@ -2317,8 +2317,8 @@
         }
       ],
       "structure": {
-        "fileCount": 91897,
-        "dirCount": 84,
+        "fileCount": 91920,
+        "dirCount": 86,
         "mainFolders": [
           "datasets",
           "fall",
@@ -2369,36 +2369,36 @@
       },
       "recentFiles": [
         {
-          "path": "ModelTraining/runs/fire_smoke_v3-2/weights/last.pt",
-          "modifiedAt": "2026-09-15T15:35:42.544Z"
+          "path": "ModelTraining/runs/knife_v1/weights/best.pt",
+          "modifiedAt": "2026-09-15T16:06:00.142Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v3-2/results.csv",
-          "modifiedAt": "2026-09-15T15:35:42.472Z"
+          "path": "ModelTraining/runs/knife_v1/weights/last.pt",
+          "modifiedAt": "2026-09-15T16:06:00.122Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v3-2/weights/best.pt",
-          "modifiedAt": "2026-09-15T15:13:52.323Z"
+          "path": "ModelTraining/runs/knife_v1/results.csv",
+          "modifiedAt": "2026-09-15T16:06:00.002Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v3-2/train_batch2.jpg",
-          "modifiedAt": "2026-09-15T14:32:31.446Z"
+          "path": "ModelTraining/runs/knife_v1/train_batch2.jpg",
+          "modifiedAt": "2026-09-15T16:03:35.982Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v3-2/train_batch1.jpg",
-          "modifiedAt": "2026-09-15T14:32:31.290Z"
+          "path": "ModelTraining/runs/knife_v1/train_batch1.jpg",
+          "modifiedAt": "2026-09-15T16:03:35.918Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v3-2/train_batch0.jpg",
-          "modifiedAt": "2026-09-15T14:32:31.254Z"
+          "path": "ModelTraining/runs/knife_v1/train_batch0.jpg",
+          "modifiedAt": "2026-09-15T16:03:35.810Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v3-2/labels.jpg",
-          "modifiedAt": "2026-09-15T14:32:30.374Z"
+          "path": "ModelTraining/runs/knife_v1/labels.jpg",
+          "modifiedAt": "2026-09-15T16:03:34.470Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v3-2/args.yaml",
-          "modifiedAt": "2026-09-15T14:29:05.349Z"
+          "path": "new_datasets/knife/labels/val.cache",
+          "modifiedAt": "2026-09-15T16:03:32.906Z"
         }
       ],
       "summary": [
