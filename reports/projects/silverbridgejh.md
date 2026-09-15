@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeJH`
 - 분류: 백엔드
-- 점검 시각: 2026-09-15 23:05:56 KST
+- 점검 시각: 2026-09-15 23:36:02 KST
 
 ## 추정 기술 스택
 
@@ -35,8 +35,8 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 91888
-- 디렉토리 개수: 80
+- 파일 개수: 91897
+- 디렉토리 개수: 84
 - 주요 폴더: datasets, fall, models, ModelTraining, new_datasets
 - 주요 경로: datasets/fire/test/images, datasets/fire/test/labels, datasets/knife/test/images, datasets/knife/test/labels, models, models/fire_250ep, models/fire_250ep-2, models/fire_250ep-2/weights, models/fire_250ep/weights, models/knife_250ep, models/knife_250ep/weights, ModelTraining/models/fire_smoke
 
@@ -58,14 +58,14 @@
 
 ## 최근 수정 파일
 
-- ModelTraining/runs/fire_smoke_v2-4/weights/last.pt (2026-09-15 24:26:13 KST)
-- ModelTraining/runs/fire_smoke_v2-4/results.csv (2026-09-15 24:26:13 KST)
-- ModelTraining/runs/fire_smoke_v2-4/weights/best.pt (2026-09-15 24:24:32 KST)
-- ModelTraining/runs/fire_smoke_v2-4/labels.jpg (2026-09-15 24:21:29 KST)
-- ModelTraining/runs/fire_smoke_v2-4/args.yaml (2026-09-15 24:21:23 KST)
-- ModelTraining/fire_training.log (2026-09-14 22:36:27 KST)
-- ModelTraining/runs/fire_smoke_v2-4/train_batch2.jpg (2026-09-14 22:10:03 KST)
-- ModelTraining/runs/fire_smoke_v2-4/train_batch1.jpg (2026-09-14 22:10:03 KST)
+- ModelTraining/runs/fire_smoke_v3-2/weights/last.pt (2026-09-15 23:35:58 KST)
+- ModelTraining/runs/fire_smoke_v3-2/results.csv (2026-09-15 23:35:58 KST)
+- ModelTraining/runs/fire_smoke_v3-2/weights/best.pt (2026-09-15 23:33:16 KST)
+- ModelTraining/runs/fire_smoke_v3-2/train_batch2.jpg (2026-09-15 23:32:31 KST)
+- ModelTraining/runs/fire_smoke_v3-2/train_batch1.jpg (2026-09-15 23:32:31 KST)
+- ModelTraining/runs/fire_smoke_v3-2/train_batch0.jpg (2026-09-15 23:32:31 KST)
+- ModelTraining/runs/fire_smoke_v3-2/labels.jpg (2026-09-15 23:32:30 KST)
+- ModelTraining/runs/fire_smoke_v3-2/args.yaml (2026-09-15 23:29:05 KST)
 
 ## 점검 결과 요약
 
