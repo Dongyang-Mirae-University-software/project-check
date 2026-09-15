@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-15T16:06:16.792Z",
-  "generatedAtKst": "2026-09-16 01:06:16 KST",
+  "generatedAt": "2026-09-15T16:36:22.237Z",
+  "generatedAtKst": "2026-09-16 01:36:22 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6129
+          "count": 6130
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 6140
+      "count": 6141
     },
     {
       "name": "YUNA0222",
@@ -1234,22 +1234,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 5992,
+        "commitCount": 5993,
         "authors": [
           {
-            "count": 5992,
+            "count": 5993,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "aea2bc1b0",
+          "hash": "26b50e15f",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-16T00:36:14+09:00",
+          "date": "2026-09-16T01:06:20+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 5992개 커밋, 상위 계정: gosky(5992), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 5993개 커밋, 상위 계정: gosky(5993), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1290,8 +1290,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 5992",
-        "Git 상위 계정: gosky(5992)"
+        "Git 커밋 수: 5993",
+        "Git 상위 계정: gosky(5993)"
       ]
     },
     {
@@ -2369,16 +2369,16 @@
       },
       "recentFiles": [
         {
-          "path": "ModelTraining/runs/knife_v1/weights/best.pt",
-          "modifiedAt": "2026-09-15T16:06:00.142Z"
-        },
-        {
           "path": "ModelTraining/runs/knife_v1/weights/last.pt",
-          "modifiedAt": "2026-09-15T16:06:00.122Z"
+          "modifiedAt": "2026-09-15T16:36:21.819Z"
         },
         {
           "path": "ModelTraining/runs/knife_v1/results.csv",
-          "modifiedAt": "2026-09-15T16:06:00.002Z"
+          "modifiedAt": "2026-09-15T16:36:21.723Z"
+        },
+        {
+          "path": "ModelTraining/runs/knife_v1/weights/best.pt",
+          "modifiedAt": "2026-09-15T16:33:03.881Z"
         },
         {
           "path": "ModelTraining/runs/knife_v1/train_batch2.jpg",
