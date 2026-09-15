@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-15T14:35:59.065Z",
-  "generatedAtKst": "2026-09-15 23:35:59 KST",
+  "generatedAt": "2026-09-15T15:06:05.338Z",
+  "generatedAtKst": "2026-09-16 24:06:05 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6126
+          "count": 6127
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 6137
+      "count": 6138
     },
     {
       "name": "YUNA0222",
@@ -1234,22 +1234,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 5989,
+        "commitCount": 5990,
         "authors": [
           {
-            "count": 5989,
+            "count": 5990,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "483975e37",
+          "hash": "f76bafa31",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-15T23:05:56+09:00",
+          "date": "2026-09-15T23:36:02+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 5989개 커밋, 상위 계정: gosky(5989), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 5990개 커밋, 상위 계정: gosky(5990), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1290,8 +1290,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 5989",
-        "Git 상위 계정: gosky(5989)"
+        "Git 커밋 수: 5990",
+        "Git 상위 계정: gosky(5990)"
       ]
     },
     {
@@ -2369,16 +2369,16 @@
       },
       "recentFiles": [
         {
+          "path": "ModelTraining/runs/fire_smoke_v3-2/weights/best.pt",
+          "modifiedAt": "2026-09-15T15:06:04.462Z"
+        },
+        {
           "path": "ModelTraining/runs/fire_smoke_v3-2/weights/last.pt",
-          "modifiedAt": "2026-09-15T14:35:58.718Z"
+          "modifiedAt": "2026-09-15T15:06:04.442Z"
         },
         {
           "path": "ModelTraining/runs/fire_smoke_v3-2/results.csv",
-          "modifiedAt": "2026-09-15T14:35:58.654Z"
-        },
-        {
-          "path": "ModelTraining/runs/fire_smoke_v3-2/weights/best.pt",
-          "modifiedAt": "2026-09-15T14:33:16.709Z"
+          "modifiedAt": "2026-09-15T15:06:04.366Z"
         },
         {
           "path": "ModelTraining/runs/fire_smoke_v3-2/train_batch2.jpg",
