@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeJH`
 - 분류: 백엔드
-- 점검 시각: 2026-09-16 01:36:25 KST
+- 점검 시각: 2026-09-16 02:06:31 KST
 
 ## 추정 기술 스택
 
@@ -58,9 +58,9 @@
 
 ## 최근 수정 파일
 
-- ModelTraining/runs/knife_v1/weights/last.pt (2026-09-16 01:36:21 KST)
-- ModelTraining/runs/knife_v1/results.csv (2026-09-16 01:36:21 KST)
-- ModelTraining/runs/knife_v1/weights/best.pt (2026-09-16 01:33:03 KST)
+- ModelTraining/runs/knife_v1/weights/last.pt (2026-09-16 02:06:30 KST)
+- ModelTraining/runs/knife_v1/results.csv (2026-09-16 02:06:30 KST)
+- ModelTraining/runs/knife_v1/weights/best.pt (2026-09-16 02:01:11 KST)
 - ModelTraining/runs/knife_v1/train_batch2.jpg (2026-09-16 01:03:35 KST)
 - ModelTraining/runs/knife_v1/train_batch1.jpg (2026-09-16 01:03:35 KST)
 - ModelTraining/runs/knife_v1/train_batch0.jpg (2026-09-16 01:03:35 KST)
