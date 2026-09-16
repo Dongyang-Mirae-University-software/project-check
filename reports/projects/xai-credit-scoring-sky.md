@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/xai-credit-scoring_sky`
 - 분류: AI 서버
-- 점검 시각: 2026-09-16 18:39:22 KST
+- 점검 시각: 2026-09-16 19:09:27 KST
 
 ## 추정 기술 스택
 
