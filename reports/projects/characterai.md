@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/CharacterAi`
 - 분류: AI 서버
-- 점검 시각: 2026-09-19 09:50:21 KST
+- 점검 시각: 2026-09-19 10:20:26 KST
 
 ## 추정 기술 스택
 
