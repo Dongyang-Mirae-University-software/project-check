@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-21T12:00:48.355Z",
-  "generatedAtKst": "2026-09-21 21:00:48 KST",
+  "generatedAt": "2026-09-21T12:30:53.406Z",
+  "generatedAtKst": "2026-09-21 21:30:53 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6408
+          "count": 6409
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 6419
+      "count": 6420
     },
     {
       "name": "YUNA0222",
@@ -51,14 +51,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 805
+          "count": 806
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 894
+      "count": 895
     },
     {
       "name": "Jaehe-he",
@@ -1234,22 +1234,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6271,
+        "commitCount": 6272,
         "authors": [
           {
-            "count": 6271,
+            "count": 6272,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "6c32529c6",
+          "hash": "1635a25d4",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-21T20:30:46+09:00",
+          "date": "2026-09-21T21:00:51+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6271개 커밋, 상위 계정: gosky(6271), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6272개 커밋, 상위 계정: gosky(6272), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1290,8 +1290,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6271",
-        "Git 상위 계정: gosky(6271)"
+        "Git 커밋 수: 6272",
+        "Git 상위 계정: gosky(6272)"
       ]
     },
     {
@@ -1911,10 +1911,10 @@
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 754,
+        "commitCount": 755,
         "authors": [
           {
-            "count": 680,
+            "count": 681,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -1930,15 +1930,23 @@
           }
         ],
         "latestCommit": {
-          "hash": "fe3f8b0",
-          "author": "namgung",
+          "hash": "5fab96a",
+          "author": "skarndaudwls1",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-09-21T20:24:48+09:00",
-          "subject": "Merge pull request #253 from Dongyang-Mirae-University-software/feature/admin-anomaly-log-v2"
+          "date": "2026-09-21T20:59:09+09:00",
+          "subject": "docs: 이상감지 판정 E-2·E-3 보류 - 알려진 한계로 정책 문서·점검 대장 기록"
         },
-        "summary": "총 754개 커밋, 상위 계정: skarndaudwls1(680), skarndaudwls1(65), gosky(4), 최근: Merge pull request #253 from Dongyang-Mirae-University-software/feature/admin-anomaly-log-v2"
+        "summary": "총 755개 커밋, 상위 계정: skarndaudwls1(681), skarndaudwls1(65), gosky(4), 최근: docs: 이상감지 판정 E-2·E-3 보류 - 알려진 한계로 정책 문서·점검 대장 기록"
       },
       "recentFiles": [
+        {
+          "path": "docs/progress.md",
+          "modifiedAt": "2026-09-21T12:02:59.133Z"
+        },
+        {
+          "path": "docs/audit-index.md",
+          "modifiedAt": "2026-09-21T12:02:59.129Z"
+        },
         {
           "path": "src/main/resources/db/migration/V53__merge_smoke_into_fire.sql",
           "modifiedAt": "2026-09-21T11:25:07.585Z"
@@ -1956,14 +1964,6 @@
           "modifiedAt": "2026-09-21T11:25:07.581Z"
         },
         {
-          "path": "docs/audit-index.md",
-          "modifiedAt": "2026-09-21T11:25:07.581Z"
-        },
-        {
-          "path": "docs/progress.md",
-          "modifiedAt": "2026-09-21T11:25:07.581Z"
-        },
-        {
           "path": "src/main/resources/db/migration/V52__anomaly_majority_review.sql",
           "modifiedAt": "2026-09-21T10:24:09.456Z"
         },
@@ -1977,8 +1977,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 754",
-        "Git 상위 계정: skarndaudwls1(680), skarndaudwls1(65), gosky(4)"
+        "Git 커밋 수: 755",
+        "Git 상위 계정: skarndaudwls1(681), skarndaudwls1(65), gosky(4)"
       ]
     },
     {

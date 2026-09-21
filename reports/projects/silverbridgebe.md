@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-09-21 21:00:50 KST
+- 점검 시각: 2026-09-21 21:30:55 KST
 
 ## 추정 기술 스택
 
@@ -57,21 +57,21 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 754
+- 총 커밋 수: 755
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 680
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 681
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
-- 최근 커밋: fe3f8b0 / namgung <skarndaudwls@gmail.com> / Merge pull request #253 from Dongyang-Mirae-University-software/feature/admin-anomaly-log-v2
+- 최근 커밋: 5fab96a / skarndaudwls1 <skarndaudwls@gmail.com> / docs: 이상감지 판정 E-2·E-3 보류 - 알려진 한계로 정책 문서·점검 대장 기록
 
 ## 최근 수정 파일
 
+- docs/progress.md (2026-09-21 21:02:59 KST)
+- docs/audit-index.md (2026-09-21 21:02:59 KST)
 - src/main/resources/db/migration/V53__merge_smoke_into_fire.sql (2026-09-21 20:25:07 KST)
 - CLAUDE.md (2026-09-21 20:25:07 KST)
 - docs/(2026-09-21) audit-impact-admin-anomaly-log-v2.md (2026-09-21 20:25:07 KST)
 - docs/(2026-09-21) feature-admin-anomaly-log-v2.md (2026-09-21 20:25:07 KST)
-- docs/audit-index.md (2026-09-21 20:25:07 KST)
-- docs/progress.md (2026-09-21 20:25:07 KST)
 - src/main/resources/db/migration/V52__anomaly_majority_review.sql (2026-09-21 19:24:09 KST)
 - docs/(2026-09-11) feature-sos-repeat-count-notification.md (2026-09-21 19:24:09 KST)
 
@@ -81,5 +81,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 754
-- Git 상위 계정: skarndaudwls1(680), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 755
+- Git 상위 계정: skarndaudwls1(681), skarndaudwls1(65), gosky(4)
