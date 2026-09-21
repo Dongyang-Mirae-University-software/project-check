@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-21T10:00:27.880Z",
-  "generatedAtKst": "2026-09-21 19:00:27 KST",
+  "generatedAt": "2026-09-21T10:30:33.016Z",
+  "generatedAtKst": "2026-09-21 19:30:33 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6404
+          "count": 6405
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 6415
+      "count": 6416
     },
     {
       "name": "YUNA0222",
@@ -51,14 +51,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 800
+          "count": 804
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 889
+      "count": 893
     },
     {
       "name": "Jaehe-he",
@@ -1234,22 +1234,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6267,
+        "commitCount": 6268,
         "authors": [
           {
-            "count": 6267,
+            "count": 6268,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "9f41ef51f",
+          "hash": "0ddcf4b20",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-21T18:30:24+09:00",
+          "date": "2026-09-21T19:00:31+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6267개 커밋, 상위 계정: gosky(6267), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6268개 커밋, 상위 계정: gosky(6268), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1290,8 +1290,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6267",
-        "Git 상위 계정: gosky(6267)"
+        "Git 커밋 수: 6268",
+        "Git 상위 계정: gosky(6268)"
       ]
     },
     {
@@ -1834,7 +1834,7 @@
         }
       ],
       "structure": {
-        "fileCount": 148,
+        "fileCount": 152,
         "dirCount": 25,
         "mainFolders": [
           "db",
@@ -1911,10 +1911,10 @@
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 747,
+        "commitCount": 752,
         "authors": [
           {
-            "count": 675,
+            "count": 679,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -1930,46 +1930,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "f816441",
-          "author": "namgung",
+          "hash": "83f5022",
+          "author": "skarndaudwls1",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-09-21T15:33:49+09:00",
-          "subject": "Merge pull request #251 from Dongyang-Mirae-University-software/chore/dependency-upgrade-2026-09"
+          "date": "2026-09-21T18:12:41+09:00",
+          "subject": "docs: 점검 대장에 #252 반영 - 이상감지 다수결 전환 머지·FE Notion 갱신"
         },
-        "summary": "총 747개 커밋, 상위 계정: skarndaudwls1(675), skarndaudwls1(65), gosky(4), 최근: Merge pull request #251 from Dongyang-Mirae-University-software/chore/dependency-upgrade-2026-09"
+        "summary": "총 752개 커밋, 상위 계정: skarndaudwls1(679), skarndaudwls1(65), gosky(4), 최근: docs: 점검 대장에 #252 반영 - 이상감지 다수결 전환 머지·FE Notion 갱신"
       },
       "recentFiles": [
         {
-          "path": "build.gradle",
-          "modifiedAt": "2026-09-21T06:34:13.043Z"
-        },
-        {
-          "path": "CLAUDE.md",
-          "modifiedAt": "2026-09-21T06:34:13.043Z"
-        },
-        {
-          "path": "dependency-check-suppressions.xml",
-          "modifiedAt": "2026-09-21T06:34:13.043Z"
-        },
-        {
-          "path": "docs/(2026-09-11) audit-technical-cross-cutting.md",
-          "modifiedAt": "2026-09-21T06:34:13.043Z"
-        },
-        {
-          "path": "docs/(2026-09-11) feature-sos-repeat-count-notification.md",
-          "modifiedAt": "2026-09-21T06:34:13.043Z"
-        },
-        {
-          "path": "docs/audit-index.md",
-          "modifiedAt": "2026-09-21T06:34:13.043Z"
+          "path": "src/main/resources/db/migration/V52__anomaly_majority_review.sql",
+          "modifiedAt": "2026-09-21T10:24:09.456Z"
         },
         {
           "path": "docs/progress.md",
-          "modifiedAt": "2026-09-21T06:34:13.043Z"
+          "modifiedAt": "2026-09-21T10:24:09.452Z"
         },
         {
-          "path": "src/main/resources/application.yaml",
-          "modifiedAt": "2026-09-10T15:43:25.893Z"
+          "path": "CLAUDE.md",
+          "modifiedAt": "2026-09-21T10:24:09.448Z"
+        },
+        {
+          "path": "docs/(2026-09-11) feature-sos-repeat-count-notification.md",
+          "modifiedAt": "2026-09-21T10:24:09.448Z"
+        },
+        {
+          "path": "docs/(2026-09-21) audit-impact-anomaly-majority-review.md",
+          "modifiedAt": "2026-09-21T10:24:09.448Z"
+        },
+        {
+          "path": "docs/(2026-09-21) audit-sos-repeat-count.md",
+          "modifiedAt": "2026-09-21T10:24:09.448Z"
+        },
+        {
+          "path": "docs/(2026-09-21) policy-change-anomaly-majority-review.md",
+          "modifiedAt": "2026-09-21T10:24:09.448Z"
+        },
+        {
+          "path": "docs/audit-index.md",
+          "modifiedAt": "2026-09-21T10:24:09.448Z"
         }
       ],
       "summary": [
@@ -1977,8 +1977,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 747",
-        "Git 상위 계정: skarndaudwls1(675), skarndaudwls1(65), gosky(4)"
+        "Git 커밋 수: 752",
+        "Git 상위 계정: skarndaudwls1(679), skarndaudwls1(65), gosky(4)"
       ]
     },
     {
