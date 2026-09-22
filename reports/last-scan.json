@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-22T08:04:17.666Z",
-  "generatedAtKst": "2026-09-22 17:04:17 KST",
+  "generatedAt": "2026-09-22T08:34:22.677Z",
+  "generatedAtKst": "2026-09-22 17:34:22 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -10,8 +10,8 @@
     "ai": 6,
     "db": 8,
     "gitRepos": 16,
-    "running": 14,
-    "stopped": 6
+    "running": 13,
+    "stopped": 7
   },
   "gitAuthors": [
     {
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6448
+          "count": 6449
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 6459
+      "count": 6460
     },
     {
       "name": "YUNA0222",
@@ -51,14 +51,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 810
+          "count": 813
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 899
+      "count": 902
     },
     {
       "name": "Jaehe-he",
@@ -1234,22 +1234,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6311,
+        "commitCount": 6312,
         "authors": [
           {
-            "count": 6311,
+            "count": 6312,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "af36e7fc8",
+          "hash": "e56ab216d",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-22T16:34:15+09:00",
+          "date": "2026-09-22T17:04:20+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6311개 커밋, 상위 계정: gosky(6311), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6312개 커밋, 상위 계정: gosky(6312), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1290,8 +1290,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6311",
-        "Git 상위 계정: gosky(6311)"
+        "Git 커밋 수: 6312",
+        "Git 상위 계정: gosky(6312)"
       ]
     },
     {
@@ -1427,17 +1427,10 @@
         "summary": "DB 사용 흔적 없음"
       },
       "runtime": {
-        "status": "실행 중",
-        "running": true,
+        "status": "정지",
+        "running": false,
         "pm2": [],
-        "docker": [
-          {
-            "name": "silverbridge-ai-server",
-            "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 7 hours",
-            "ports": ""
-          }
-        ],
+        "docker": [],
         "ports": [],
         "allCandidatePorts": [
           1000,
@@ -1450,10 +1443,7 @@
           8456
         ],
         "summary": [
-          "실행 중",
-          "PM2 없음",
-          "Docker 1개",
-          "포트 확인 불가"
+          "정지 또는 확인 불가"
         ]
       },
       "git": {
@@ -1514,7 +1504,7 @@
         "분류: AI 서버",
         "기술 추정: Python, fastapi, Backend, AI",
         "DB 사용 흔적 없음",
-        "실행 상태: 실행 중",
+        "실행 상태: 정지",
         "Git 커밋 수: 686",
         "Git 상위 계정: Jaehe-he(686)"
       ]
@@ -1666,19 +1656,11 @@
         "status": "실행 중",
         "running": true,
         "pm2": [],
-        "docker": [
-          {
-            "name": "silverbridge-ai-server",
-            "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 7 hours",
-            "ports": ""
-          }
-        ],
+        "docker": [],
         "ports": [
           5432,
           6012,
           6015,
-          6017,
           6019
         ],
         "allCandidatePorts": [
@@ -1692,8 +1674,8 @@
         "summary": [
           "실행 중",
           "PM2 없음",
-          "Docker 1개",
-          "포트 5432, 6012, 6015, 6017, 6019"
+          "Docker 없음",
+          "포트 5432, 6012, 6015, 6019"
         ]
       },
       "git": {
@@ -1852,7 +1834,7 @@
         }
       ],
       "structure": {
-        "fileCount": 158,
+        "fileCount": 159,
         "dirCount": 33,
         "mainFolders": [
           "db",
@@ -1931,10 +1913,10 @@
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 761,
+        "commitCount": 765,
         "authors": [
           {
-            "count": 685,
+            "count": 688,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -1950,33 +1932,37 @@
           }
         ],
         "latestCommit": {
-          "hash": "7c7a031",
+          "hash": "f9c2ccf",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-09-22T16:06:08+09:00",
-          "subject": "Merge pull request #255 from Dongyang-Mirae-University-software/feature/admin-anomaly-ai-confidence"
+          "date": "2026-09-22T17:07:25+09:00",
+          "subject": "Merge pull request #256 from Dongyang-Mirae-University-software/fix/admin-anomaly-audit-findings"
         },
-        "summary": "총 761개 커밋, 상위 계정: skarndaudwls1(685), skarndaudwls1(65), gosky(4), 최근: Merge pull request #255 from Dongyang-Mirae-University-software/feature/admin-anomaly-ai-confidence"
+        "summary": "총 765개 커밋, 상위 계정: skarndaudwls1(688), skarndaudwls1(65), gosky(4), 최근: Merge pull request #256 from Dongyang-Mirae-University-software/fix/admin-anomaly-audit-findings"
       },
       "recentFiles": [
         {
           "path": "CLAUDE.md",
-          "modifiedAt": "2026-09-22T07:07:19.778Z"
+          "modifiedAt": "2026-09-22T08:07:44.370Z"
         },
         {
-          "path": "docs/(2026-09-21) feature-admin-anomaly-log-v2.md",
-          "modifiedAt": "2026-09-22T07:07:19.778Z"
+          "path": "docs/(2026-09-22) audit-admin-anomaly-ai-confidence.md",
+          "modifiedAt": "2026-09-22T08:07:44.370Z"
         },
         {
           "path": "docs/(2026-09-22) feature-admin-anomaly-ai-confidence.md",
-          "modifiedAt": "2026-09-22T07:07:19.778Z"
+          "modifiedAt": "2026-09-22T08:07:44.370Z"
         },
         {
           "path": "docs/audit-index.md",
-          "modifiedAt": "2026-09-22T07:07:19.778Z"
+          "modifiedAt": "2026-09-22T08:07:44.370Z"
         },
         {
           "path": "docs/progress.md",
+          "modifiedAt": "2026-09-22T08:07:44.370Z"
+        },
+        {
+          "path": "docs/(2026-09-21) feature-admin-anomaly-log-v2.md",
           "modifiedAt": "2026-09-22T07:07:19.778Z"
         },
         {
@@ -1986,10 +1972,6 @@
         {
           "path": "docs/(2026-09-21) feature-testcontainers-integration-test.md",
           "modifiedAt": "2026-09-22T06:44:05.763Z"
-        },
-        {
-          "path": "tools/integration-test.sh",
-          "modifiedAt": "2026-09-22T06:44:05.763Z"
         }
       ],
       "summary": [
@@ -1997,8 +1979,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 761",
-        "Git 상위 계정: skarndaudwls1(685), skarndaudwls1(65), gosky(4)"
+        "Git 커밋 수: 765",
+        "Git 상위 계정: skarndaudwls1(688), skarndaudwls1(65), gosky(4)"
       ]
     },
     {
@@ -2588,7 +2570,6 @@
         ],
         "ports": [
           6015,
-          6017,
           6018
         ],
         "allCandidatePorts": [
@@ -2601,7 +2582,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 1개",
-          "포트 6015, 6017, 6018"
+          "포트 6015, 6018"
         ]
       },
       "git": {
