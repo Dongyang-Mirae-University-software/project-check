@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-22T23:37:03.803Z",
-  "generatedAtKst": "2026-09-23 08:37:03 KST",
+  "generatedAt": "2026-09-23T00:07:08.731Z",
+  "generatedAtKst": "2026-09-23 09:07:08 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6479
+          "count": 6480
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 6490
+      "count": 6491
     },
     {
       "name": "YUNA0222",
@@ -51,14 +51,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 813
+          "count": 816
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 902
+      "count": 905
     },
     {
       "name": "Jaehe-he",
@@ -1234,22 +1234,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6342,
+        "commitCount": 6343,
         "authors": [
           {
-            "count": 6342,
+            "count": 6343,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "75c7ae12a",
+          "hash": "2b96f9127",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-23T08:07:01+09:00",
+          "date": "2026-09-23T08:37:06+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6342개 커밋, 상위 계정: gosky(6342), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6343개 커밋, 상위 계정: gosky(6343), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1290,8 +1290,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6342",
-        "Git 상위 계정: gosky(6342)"
+        "Git 커밋 수: 6343",
+        "Git 상위 계정: gosky(6343)"
       ]
     },
     {
@@ -1834,7 +1834,7 @@
         }
       ],
       "structure": {
-        "fileCount": 159,
+        "fileCount": 163,
         "dirCount": 33,
         "mainFolders": [
           "db",
@@ -1913,10 +1913,10 @@
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 765,
+        "commitCount": 770,
         "authors": [
           {
-            "count": 688,
+            "count": 691,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -1932,46 +1932,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "f9c2ccf",
+          "hash": "69c362e",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-09-22T17:07:25+09:00",
-          "subject": "Merge pull request #256 from Dongyang-Mirae-University-software/fix/admin-anomaly-audit-findings"
+          "date": "2026-09-23T08:55:11+09:00",
+          "subject": "Merge pull request #258 from Dongyang-Mirae-University-software/fix/admin-notification-audit-findings"
         },
-        "summary": "총 765개 커밋, 상위 계정: skarndaudwls1(688), skarndaudwls1(65), gosky(4), 최근: Merge pull request #256 from Dongyang-Mirae-University-software/fix/admin-anomaly-audit-findings"
+        "summary": "총 770개 커밋, 상위 계정: skarndaudwls1(691), skarndaudwls1(65), gosky(4), 최근: Merge pull request #258 from Dongyang-Mirae-University-software/fix/admin-notification-audit-findings"
       },
       "recentFiles": [
         {
+          "path": "src/main/resources/application.yaml",
+          "modifiedAt": "2026-09-23T00:03:18.709Z"
+        },
+        {
+          "path": "src/main/resources/db/migration/V54__create_notification_log.sql",
+          "modifiedAt": "2026-09-23T00:03:18.709Z"
+        },
+        {
           "path": "CLAUDE.md",
-          "modifiedAt": "2026-09-22T08:07:44.370Z"
+          "modifiedAt": "2026-09-23T00:03:18.701Z"
         },
         {
-          "path": "docs/(2026-09-22) audit-admin-anomaly-ai-confidence.md",
-          "modifiedAt": "2026-09-22T08:07:44.370Z"
+          "path": "docs/(2026-09-22) audit-impact-notification-channel-result.md",
+          "modifiedAt": "2026-09-23T00:03:18.701Z"
         },
         {
-          "path": "docs/(2026-09-22) feature-admin-anomaly-ai-confidence.md",
-          "modifiedAt": "2026-09-22T08:07:44.370Z"
+          "path": "docs/(2026-09-22) feature-admin-notification-history.md",
+          "modifiedAt": "2026-09-23T00:03:18.701Z"
+        },
+        {
+          "path": "docs/(2026-09-22) fix-admin-notification-audit-findings.md",
+          "modifiedAt": "2026-09-23T00:03:18.701Z"
         },
         {
           "path": "docs/audit-index.md",
-          "modifiedAt": "2026-09-22T08:07:44.370Z"
+          "modifiedAt": "2026-09-23T00:03:18.701Z"
         },
         {
           "path": "docs/progress.md",
-          "modifiedAt": "2026-09-22T08:07:44.370Z"
-        },
-        {
-          "path": "docs/(2026-09-21) feature-admin-anomaly-log-v2.md",
-          "modifiedAt": "2026-09-22T07:07:19.778Z"
-        },
-        {
-          "path": "build.gradle",
-          "modifiedAt": "2026-09-22T06:44:05.763Z"
-        },
-        {
-          "path": "docs/(2026-09-21) feature-testcontainers-integration-test.md",
-          "modifiedAt": "2026-09-22T06:44:05.763Z"
+          "modifiedAt": "2026-09-23T00:03:18.701Z"
         }
       ],
       "summary": [
@@ -1979,8 +1979,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 765",
-        "Git 상위 계정: skarndaudwls1(688), skarndaudwls1(65), gosky(4)"
+        "Git 커밋 수: 770",
+        "Git 상위 계정: skarndaudwls1(691), skarndaudwls1(65), gosky(4)"
       ]
     },
     {
