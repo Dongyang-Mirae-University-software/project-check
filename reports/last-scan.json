@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-26T06:20:45.186Z",
-  "generatedAtKst": "2026-09-26 15:20:45 KST",
+  "generatedAt": "2026-09-26T06:50:50.270Z",
+  "generatedAtKst": "2026-09-26 15:50:50 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6636
+          "count": 6637
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 6647
+      "count": 6648
     },
     {
       "name": "YUNA0222",
@@ -1234,22 +1234,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6499,
+        "commitCount": 6500,
         "authors": [
           {
-            "count": 6499,
+            "count": 6500,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "550deaad6",
+          "hash": "cd08774c5",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-26T14:50:43+09:00",
+          "date": "2026-09-26T15:20:48+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6499개 커밋, 상위 계정: gosky(6499), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6500개 커밋, 상위 계정: gosky(6500), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1290,8 +1290,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6499",
-        "Git 상위 계정: gosky(6499)"
+        "Git 커밋 수: 6500",
+        "Git 상위 계정: gosky(6500)"
       ]
     },
     {
@@ -2319,7 +2319,7 @@
         }
       ],
       "structure": {
-        "fileCount": 93706,
+        "fileCount": 107389,
         "dirCount": 104,
         "mainFolders": [
           "datasets",
@@ -2371,36 +2371,36 @@
       },
       "recentFiles": [
         {
-          "path": "new_datasets/fire_smoke_add_hard negative/images/train/other_-307-_jpg.rf.36cd0d0b102cd8177904602484382bfc.jpg",
-          "modifiedAt": "2026-09-26T06:20:48.030Z"
+          "path": "new_datasets/fire_smoke_add_hard negative/labels/train/large_-274-_jpg.rf.fc1700dbfa0cbd0ed337431b4a600a90.txt",
+          "modifiedAt": "2026-09-26T06:50:53.215Z"
         },
         {
-          "path": "new_datasets/fire_smoke_add_hard negative/images/train/other_-308-_jpg.rf.ae9de362f988f4e6f351276d767ca10d.jpg",
-          "modifiedAt": "2026-09-26T06:20:47.942Z"
+          "path": "new_datasets/fire_smoke_add_hard negative/labels/train/large_-2740-_jpg.rf.ab55f26d2ea463b87de112025b255d3b.txt",
+          "modifiedAt": "2026-09-26T06:50:53.139Z"
         },
         {
-          "path": "new_datasets/fire_smoke_add_hard negative/images/train/other_-309-_jpg.rf.e14480f46ceb128efbbdd8758867f3e2.jpg",
-          "modifiedAt": "2026-09-26T06:20:47.846Z"
+          "path": "new_datasets/fire_smoke_add_hard negative/labels/train/large_-2741-_jpg.rf.ceb9ddbe039241d626e7183b545ae2c2.txt",
+          "modifiedAt": "2026-09-26T06:50:53.039Z"
         },
         {
-          "path": "new_datasets/fire_smoke_add_hard negative/images/train/other_-31-_jpg.rf.14ae12c0f4ea601ba1bd0cb02a91e110.jpg",
-          "modifiedAt": "2026-09-26T06:20:47.750Z"
+          "path": "new_datasets/fire_smoke_add_hard negative/labels/train/large_-2744-_jpg.rf.4e52de26736eb3e0bdd20ed2d4eaa811.txt",
+          "modifiedAt": "2026-09-26T06:50:52.935Z"
         },
         {
-          "path": "new_datasets/fire_smoke_add_hard negative/images/train/other_-310-_jpg.rf.2ec44c2860748e9094ea0858519a4d1b.jpg",
-          "modifiedAt": "2026-09-26T06:20:47.598Z"
+          "path": "new_datasets/fire_smoke_add_hard negative/labels/train/large_-2745-_jpg.rf.5ab5fb7bb7e770bf4b62ddb29e1c1b98.txt",
+          "modifiedAt": "2026-09-26T06:50:52.839Z"
         },
         {
-          "path": "new_datasets/fire_smoke_add_hard negative/images/train/other_-311-_jpg.rf.63b31cfa4a6fdc1f4823361e8e304149.jpg",
-          "modifiedAt": "2026-09-26T06:20:47.514Z"
+          "path": "new_datasets/fire_smoke_add_hard negative/labels/train/large_-2746-_jpg.rf.e254700724076f271f5b9c4a82ce3954.txt",
+          "modifiedAt": "2026-09-26T06:50:52.735Z"
         },
         {
-          "path": "new_datasets/fire_smoke_add_hard negative/images/train/other_-312-_jpg.rf.0d7380ead378e52d0616f6b431bba8d2.jpg",
-          "modifiedAt": "2026-09-26T06:20:47.426Z"
+          "path": "new_datasets/fire_smoke_add_hard negative/labels/train/large_-2747-_jpg.rf.361a134e3ff1c56371f0c6b479071c1e.txt",
+          "modifiedAt": "2026-09-26T06:50:52.651Z"
         },
         {
-          "path": "new_datasets/fire_smoke_add_hard negative/images/train/other_-313-_jpg.rf.0deb38a78735a76c67d5e682d7563a53.jpg",
-          "modifiedAt": "2026-09-26T06:20:47.322Z"
+          "path": "new_datasets/fire_smoke_add_hard negative/labels/train/large_-2748-_jpg.rf.a5e9493c371a57a08ae3c1a8d7de0ac9.txt",
+          "modifiedAt": "2026-09-26T06:50:52.543Z"
         }
       ],
       "summary": [
