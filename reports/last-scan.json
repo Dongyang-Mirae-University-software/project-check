@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-26T07:20:55.266Z",
-  "generatedAtKst": "2026-09-26 16:20:55 KST",
+  "generatedAt": "2026-09-26T07:51:00.932Z",
+  "generatedAtKst": "2026-09-26 16:51:00 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6638
+          "count": 6639
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 6649
+      "count": 6650
     },
     {
       "name": "YUNA0222",
@@ -1234,22 +1234,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6501,
+        "commitCount": 6502,
         "authors": [
           {
-            "count": 6501,
+            "count": 6502,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "04f8f9a7a",
+          "hash": "3a995aab2",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-26T15:50:53+09:00",
+          "date": "2026-09-26T16:20:59+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6501개 커밋, 상위 계정: gosky(6501), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6502개 커밋, 상위 계정: gosky(6502), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1290,8 +1290,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6501",
-        "Git 상위 계정: gosky(6501)"
+        "Git 커밋 수: 6502",
+        "Git 상위 계정: gosky(6502)"
       ]
     },
     {
@@ -1434,7 +1434,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 11 minutes",
+            "status": "Up 41 minutes",
             "ports": ""
           }
         ],
@@ -1670,7 +1670,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 11 minutes",
+            "status": "Up 41 minutes",
             "ports": ""
           }
         ],
@@ -2389,16 +2389,16 @@
       },
       "recentFiles": [
         {
-          "path": "ModelTraining/runs/fire_smoke_v4_hardneg/weights/best.pt",
-          "modifiedAt": "2026-09-26T07:20:20.341Z"
-        },
-        {
           "path": "ModelTraining/runs/fire_smoke_v4_hardneg/weights/last.pt",
-          "modifiedAt": "2026-09-26T07:20:20.329Z"
+          "modifiedAt": "2026-09-26T07:41:03.733Z"
         },
         {
           "path": "ModelTraining/runs/fire_smoke_v4_hardneg/results.csv",
-          "modifiedAt": "2026-09-26T07:20:20.229Z"
+          "modifiedAt": "2026-09-26T07:41:03.641Z"
+        },
+        {
+          "path": "ModelTraining/runs/fire_smoke_v4_hardneg/weights/best.pt",
+          "modifiedAt": "2026-09-26T07:39:31.775Z"
         },
         {
           "path": "ModelTraining/runs/fire_smoke_v4_hardneg/train_batch2.jpg",
