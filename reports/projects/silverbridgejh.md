@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeJH`
 - 분류: 백엔드
-- 점검 시각: 2026-09-26 20:51:47 KST
+- 점검 시각: 2026-09-26 21:21:52 KST
 
 ## 추정 기술 스택
 
@@ -35,8 +35,8 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 110574
-- 디렉토리 개수: 106
+- 파일 개수: 110582
+- 디렉토리 개수: 108
 - 주요 폴더: datasets, fall, models, ModelTraining, new_datasets
 - 주요 경로: datasets/fire/test/images, datasets/fire/test/labels, datasets/knife/test/images, datasets/knife/test/labels, models, models/fire_250ep, models/fire_250ep-2, models/fire_250ep-2/weights, models/fire_250ep/weights, models/knife_250ep, models/knife_250ep/weights, ModelTraining/models/fire_smoke
 
@@ -58,14 +58,14 @@
 
 ## 최근 수정 파일
 
-- ModelTraining/runs/fire_smoke_v4_hardneg/weights/last.pt (2026-09-26 16:41:03 KST)
-- ModelTraining/runs/fire_smoke_v4_hardneg/results.csv (2026-09-26 16:41:03 KST)
-- ModelTraining/runs/fire_smoke_v4_hardneg/weights/best.pt (2026-09-26 16:39:31 KST)
-- ModelTraining/runs/fire_smoke_v4_hardneg/train_batch2.jpg (2026-09-26 16:18:34 KST)
-- ModelTraining/runs/fire_smoke_v4_hardneg/train_batch1.jpg (2026-09-26 16:18:34 KST)
-- ModelTraining/runs/fire_smoke_v4_hardneg/train_batch0.jpg (2026-09-26 16:18:33 KST)
-- ModelTraining/runs/fire_smoke_v4_hardneg/labels.jpg (2026-09-26 16:18:33 KST)
-- new_datasets/fire_smoke_add_hard negative/labels/val.cache (2026-09-26 16:18:31 KST)
+- ModelTraining/runs/fire_smoke_v4_hardneg_r2/weights/last.pt (2026-09-26 21:20:11 KST)
+- ModelTraining/runs/fire_smoke_v4_hardneg_r2/results.csv (2026-09-26 21:20:11 KST)
+- ModelTraining/runs/fire_smoke_v4_hardneg_r2/weights/best.pt (2026-09-26 21:17:57 KST)
+- ModelTraining/runs/fire_smoke_v4_hardneg_r2/train_batch2.jpg (2026-09-26 21:15:20 KST)
+- ModelTraining/runs/fire_smoke_v4_hardneg_r2/train_batch1.jpg (2026-09-26 21:15:20 KST)
+- ModelTraining/runs/fire_smoke_v4_hardneg_r2/train_batch0.jpg (2026-09-26 21:15:20 KST)
+- ModelTraining/runs/fire_smoke_v4_hardneg_r2/labels.jpg (2026-09-26 21:15:19 KST)
+- ModelTraining/runs/fire_smoke_v4_hardneg_r2/args.yaml (2026-09-26 21:15:16 KST)
 
 ## 점검 결과 요약
 

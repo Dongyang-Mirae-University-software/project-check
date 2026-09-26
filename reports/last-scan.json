@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-26T11:51:43.998Z",
-  "generatedAtKst": "2026-09-26 20:51:43 KST",
+  "generatedAt": "2026-09-26T12:21:49.201Z",
+  "generatedAtKst": "2026-09-26 21:21:49 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6647
+          "count": 6648
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 6658
+      "count": 6659
     },
     {
       "name": "YUNA0222",
@@ -611,7 +611,7 @@
           {
             "name": "chatsilverbridge-api-1",
             "image": "chatsilverbridge-api",
-            "status": "Up 12 days",
+            "status": "Up 13 days",
             "ports": "0.0.0.0:6012->6012/tcp, [::]:6012->6012/tcp"
           },
           {
@@ -1234,22 +1234,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6510,
+        "commitCount": 6511,
         "authors": [
           {
-            "count": 6510,
+            "count": 6511,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "ee4a08f8f",
+          "hash": "d4cabe7b7",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-26T20:21:42+09:00",
+          "date": "2026-09-26T20:51:47+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6510개 커밋, 상위 계정: gosky(6510), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6511개 커밋, 상위 계정: gosky(6511), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1290,8 +1290,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6510",
-        "Git 상위 계정: gosky(6510)"
+        "Git 커밋 수: 6511",
+        "Git 상위 계정: gosky(6511)"
       ]
     },
     {
@@ -2337,8 +2337,8 @@
         }
       ],
       "structure": {
-        "fileCount": 110574,
-        "dirCount": 106,
+        "fileCount": 110582,
+        "dirCount": 108,
         "mainFolders": [
           "datasets",
           "fall",
@@ -2389,36 +2389,36 @@
       },
       "recentFiles": [
         {
-          "path": "ModelTraining/runs/fire_smoke_v4_hardneg/weights/last.pt",
-          "modifiedAt": "2026-09-26T07:41:03.733Z"
+          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/weights/last.pt",
+          "modifiedAt": "2026-09-26T12:20:11.934Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v4_hardneg/results.csv",
-          "modifiedAt": "2026-09-26T07:41:03.641Z"
+          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/results.csv",
+          "modifiedAt": "2026-09-26T12:20:11.854Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v4_hardneg/weights/best.pt",
-          "modifiedAt": "2026-09-26T07:39:31.775Z"
+          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/weights/best.pt",
+          "modifiedAt": "2026-09-26T12:17:57.206Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v4_hardneg/train_batch2.jpg",
-          "modifiedAt": "2026-09-26T07:18:34.095Z"
+          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/train_batch2.jpg",
+          "modifiedAt": "2026-09-26T12:15:20.878Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v4_hardneg/train_batch1.jpg",
-          "modifiedAt": "2026-09-26T07:18:34.055Z"
+          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/train_batch1.jpg",
+          "modifiedAt": "2026-09-26T12:15:20.690Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v4_hardneg/train_batch0.jpg",
-          "modifiedAt": "2026-09-26T07:18:33.979Z"
+          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/train_batch0.jpg",
+          "modifiedAt": "2026-09-26T12:15:20.438Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v4_hardneg/labels.jpg",
-          "modifiedAt": "2026-09-26T07:18:33.063Z"
+          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/labels.jpg",
+          "modifiedAt": "2026-09-26T12:15:19.498Z"
         },
         {
-          "path": "new_datasets/fire_smoke_add_hard negative/labels/val.cache",
-          "modifiedAt": "2026-09-26T07:18:31.891Z"
+          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/args.yaml",
+          "modifiedAt": "2026-09-26T12:15:16.102Z"
         }
       ],
       "summary": [
