@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-26T06:50:50.270Z",
-  "generatedAtKst": "2026-09-26 15:50:50 KST",
+  "generatedAt": "2026-09-26T07:20:55.266Z",
+  "generatedAtKst": "2026-09-26 16:20:55 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -10,8 +10,8 @@
     "ai": 6,
     "db": 8,
     "gitRepos": 16,
-    "running": 13,
-    "stopped": 7
+    "running": 14,
+    "stopped": 6
   },
   "gitAuthors": [
     {
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6637
+          "count": 6638
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 6648
+      "count": 6649
     },
     {
       "name": "YUNA0222",
@@ -1234,22 +1234,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6500,
+        "commitCount": 6501,
         "authors": [
           {
-            "count": 6500,
+            "count": 6501,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "cd08774c5",
+          "hash": "04f8f9a7a",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-26T15:20:48+09:00",
+          "date": "2026-09-26T15:50:53+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6500개 커밋, 상위 계정: gosky(6500), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6501개 커밋, 상위 계정: gosky(6501), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1290,8 +1290,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6500",
-        "Git 상위 계정: gosky(6500)"
+        "Git 커밋 수: 6501",
+        "Git 상위 계정: gosky(6501)"
       ]
     },
     {
@@ -1427,10 +1427,17 @@
         "summary": "DB 사용 흔적 없음"
       },
       "runtime": {
-        "status": "정지",
-        "running": false,
+        "status": "실행 중",
+        "running": true,
         "pm2": [],
-        "docker": [],
+        "docker": [
+          {
+            "name": "silverbridge-ai-server",
+            "image": "silverbridgeaiserver-ai-server",
+            "status": "Up 11 minutes",
+            "ports": ""
+          }
+        ],
         "ports": [],
         "allCandidatePorts": [
           1000,
@@ -1443,7 +1450,10 @@
           8456
         ],
         "summary": [
-          "정지 또는 확인 불가"
+          "실행 중",
+          "PM2 없음",
+          "Docker 1개",
+          "포트 확인 불가"
         ]
       },
       "git": {
@@ -1504,7 +1514,7 @@
         "분류: AI 서버",
         "기술 추정: Python, fastapi, Backend, AI",
         "DB 사용 흔적 없음",
-        "실행 상태: 정지",
+        "실행 상태: 실행 중",
         "Git 커밋 수: 686",
         "Git 상위 계정: Jaehe-he(686)"
       ]
@@ -1656,11 +1666,19 @@
         "status": "실행 중",
         "running": true,
         "pm2": [],
-        "docker": [],
+        "docker": [
+          {
+            "name": "silverbridge-ai-server",
+            "image": "silverbridgeaiserver-ai-server",
+            "status": "Up 11 minutes",
+            "ports": ""
+          }
+        ],
         "ports": [
           5432,
           6012,
           6015,
+          6017,
           6019
         ],
         "allCandidatePorts": [
@@ -1674,8 +1692,8 @@
         "summary": [
           "실행 중",
           "PM2 없음",
-          "Docker 없음",
-          "포트 5432, 6012, 6015, 6019"
+          "Docker 1개",
+          "포트 5432, 6012, 6015, 6017, 6019"
         ]
       },
       "git": {
@@ -2319,8 +2337,8 @@
         }
       ],
       "structure": {
-        "fileCount": 107389,
-        "dirCount": 104,
+        "fileCount": 110574,
+        "dirCount": 106,
         "mainFolders": [
           "datasets",
           "fall",
@@ -2371,36 +2389,36 @@
       },
       "recentFiles": [
         {
-          "path": "new_datasets/fire_smoke_add_hard negative/labels/train/large_-274-_jpg.rf.fc1700dbfa0cbd0ed337431b4a600a90.txt",
-          "modifiedAt": "2026-09-26T06:50:53.215Z"
+          "path": "ModelTraining/runs/fire_smoke_v4_hardneg/weights/best.pt",
+          "modifiedAt": "2026-09-26T07:20:20.341Z"
         },
         {
-          "path": "new_datasets/fire_smoke_add_hard negative/labels/train/large_-2740-_jpg.rf.ab55f26d2ea463b87de112025b255d3b.txt",
-          "modifiedAt": "2026-09-26T06:50:53.139Z"
+          "path": "ModelTraining/runs/fire_smoke_v4_hardneg/weights/last.pt",
+          "modifiedAt": "2026-09-26T07:20:20.329Z"
         },
         {
-          "path": "new_datasets/fire_smoke_add_hard negative/labels/train/large_-2741-_jpg.rf.ceb9ddbe039241d626e7183b545ae2c2.txt",
-          "modifiedAt": "2026-09-26T06:50:53.039Z"
+          "path": "ModelTraining/runs/fire_smoke_v4_hardneg/results.csv",
+          "modifiedAt": "2026-09-26T07:20:20.229Z"
         },
         {
-          "path": "new_datasets/fire_smoke_add_hard negative/labels/train/large_-2744-_jpg.rf.4e52de26736eb3e0bdd20ed2d4eaa811.txt",
-          "modifiedAt": "2026-09-26T06:50:52.935Z"
+          "path": "ModelTraining/runs/fire_smoke_v4_hardneg/train_batch2.jpg",
+          "modifiedAt": "2026-09-26T07:18:34.095Z"
         },
         {
-          "path": "new_datasets/fire_smoke_add_hard negative/labels/train/large_-2745-_jpg.rf.5ab5fb7bb7e770bf4b62ddb29e1c1b98.txt",
-          "modifiedAt": "2026-09-26T06:50:52.839Z"
+          "path": "ModelTraining/runs/fire_smoke_v4_hardneg/train_batch1.jpg",
+          "modifiedAt": "2026-09-26T07:18:34.055Z"
         },
         {
-          "path": "new_datasets/fire_smoke_add_hard negative/labels/train/large_-2746-_jpg.rf.e254700724076f271f5b9c4a82ce3954.txt",
-          "modifiedAt": "2026-09-26T06:50:52.735Z"
+          "path": "ModelTraining/runs/fire_smoke_v4_hardneg/train_batch0.jpg",
+          "modifiedAt": "2026-09-26T07:18:33.979Z"
         },
         {
-          "path": "new_datasets/fire_smoke_add_hard negative/labels/train/large_-2747-_jpg.rf.361a134e3ff1c56371f0c6b479071c1e.txt",
-          "modifiedAt": "2026-09-26T06:50:52.651Z"
+          "path": "ModelTraining/runs/fire_smoke_v4_hardneg/labels.jpg",
+          "modifiedAt": "2026-09-26T07:18:33.063Z"
         },
         {
-          "path": "new_datasets/fire_smoke_add_hard negative/labels/train/large_-2748-_jpg.rf.a5e9493c371a57a08ae3c1a8d7de0ac9.txt",
-          "modifiedAt": "2026-09-26T06:50:52.543Z"
+          "path": "new_datasets/fire_smoke_add_hard negative/labels/val.cache",
+          "modifiedAt": "2026-09-26T07:18:31.891Z"
         }
       ],
       "summary": [
@@ -2570,6 +2588,7 @@
         ],
         "ports": [
           6015,
+          6017,
           6018
         ],
         "allCandidatePorts": [
@@ -2582,7 +2601,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 1개",
-          "포트 6015, 6018"
+          "포트 6015, 6017, 6018"
         ]
       },
       "git": {

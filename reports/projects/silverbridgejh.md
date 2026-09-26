@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeJH`
 - 분류: 백엔드
-- 점검 시각: 2026-09-26 15:50:53 KST
+- 점검 시각: 2026-09-26 16:20:58 KST
 
 ## 추정 기술 스택
 
@@ -35,8 +35,8 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 107389
-- 디렉토리 개수: 104
+- 파일 개수: 110574
+- 디렉토리 개수: 106
 - 주요 폴더: datasets, fall, models, ModelTraining, new_datasets
 - 주요 경로: datasets/fire/test/images, datasets/fire/test/labels, datasets/knife/test/images, datasets/knife/test/labels, models, models/fire_250ep, models/fire_250ep-2, models/fire_250ep-2/weights, models/fire_250ep/weights, models/knife_250ep, models/knife_250ep/weights, ModelTraining/models/fire_smoke
 
@@ -58,14 +58,14 @@
 
 ## 최근 수정 파일
 
-- new_datasets/fire_smoke_add_hard negative/labels/train/large_-274-_jpg.rf.fc1700dbfa0cbd0ed337431b4a600a90.txt (2026-09-26 15:50:53 KST)
-- new_datasets/fire_smoke_add_hard negative/labels/train/large_-2740-_jpg.rf.ab55f26d2ea463b87de112025b255d3b.txt (2026-09-26 15:50:53 KST)
-- new_datasets/fire_smoke_add_hard negative/labels/train/large_-2741-_jpg.rf.ceb9ddbe039241d626e7183b545ae2c2.txt (2026-09-26 15:50:53 KST)
-- new_datasets/fire_smoke_add_hard negative/labels/train/large_-2744-_jpg.rf.4e52de26736eb3e0bdd20ed2d4eaa811.txt (2026-09-26 15:50:52 KST)
-- new_datasets/fire_smoke_add_hard negative/labels/train/large_-2745-_jpg.rf.5ab5fb7bb7e770bf4b62ddb29e1c1b98.txt (2026-09-26 15:50:52 KST)
-- new_datasets/fire_smoke_add_hard negative/labels/train/large_-2746-_jpg.rf.e254700724076f271f5b9c4a82ce3954.txt (2026-09-26 15:50:52 KST)
-- new_datasets/fire_smoke_add_hard negative/labels/train/large_-2747-_jpg.rf.361a134e3ff1c56371f0c6b479071c1e.txt (2026-09-26 15:50:52 KST)
-- new_datasets/fire_smoke_add_hard negative/labels/train/large_-2748-_jpg.rf.a5e9493c371a57a08ae3c1a8d7de0ac9.txt (2026-09-26 15:50:52 KST)
+- ModelTraining/runs/fire_smoke_v4_hardneg/weights/best.pt (2026-09-26 16:20:20 KST)
+- ModelTraining/runs/fire_smoke_v4_hardneg/weights/last.pt (2026-09-26 16:20:20 KST)
+- ModelTraining/runs/fire_smoke_v4_hardneg/results.csv (2026-09-26 16:20:20 KST)
+- ModelTraining/runs/fire_smoke_v4_hardneg/train_batch2.jpg (2026-09-26 16:18:34 KST)
+- ModelTraining/runs/fire_smoke_v4_hardneg/train_batch1.jpg (2026-09-26 16:18:34 KST)
+- ModelTraining/runs/fire_smoke_v4_hardneg/train_batch0.jpg (2026-09-26 16:18:33 KST)
+- ModelTraining/runs/fire_smoke_v4_hardneg/labels.jpg (2026-09-26 16:18:33 KST)
+- new_datasets/fire_smoke_add_hard negative/labels/val.cache (2026-09-26 16:18:31 KST)
 
 ## 점검 결과 요약
 
