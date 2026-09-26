@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeJH`
 - 분류: 백엔드
-- 점검 시각: 2026-09-27 02:52:53 KST
+- 점검 시각: 2026-09-27 03:22:58 KST
 
 ## 추정 기술 스택
 
@@ -35,7 +35,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 110582
+- 파일 개수: 110595
 - 디렉토리 개수: 108
 - 주요 폴더: datasets, fall, models, ModelTraining, new_datasets
 - 주요 경로: datasets/fire/test/images, datasets/fire/test/labels, datasets/knife/test/images, datasets/knife/test/labels, models, models/fire_250ep, models/fire_250ep-2, models/fire_250ep-2/weights, models/fire_250ep/weights, models/knife_250ep, models/knife_250ep/weights, ModelTraining/models/fire_smoke
@@ -58,14 +58,14 @@
 
 ## 최근 수정 파일
 
-- ModelTraining/runs/fire_smoke_v4_hardneg_r2/weights/last.pt (2026-09-27 02:50:57 KST)
-- ModelTraining/runs/fire_smoke_v4_hardneg_r2/results.csv (2026-09-27 02:50:57 KST)
-- ModelTraining/runs/fire_smoke_v4_hardneg_r2/weights/best.pt (2026-09-27 24:41:50 KST)
-- ModelTraining/runs/fire_smoke_v4_hardneg_r2/train_batch2.jpg (2026-09-26 21:15:20 KST)
-- ModelTraining/runs/fire_smoke_v4_hardneg_r2/train_batch1.jpg (2026-09-26 21:15:20 KST)
-- ModelTraining/runs/fire_smoke_v4_hardneg_r2/train_batch0.jpg (2026-09-26 21:15:20 KST)
-- ModelTraining/runs/fire_smoke_v4_hardneg_r2/labels.jpg (2026-09-26 21:15:19 KST)
-- ModelTraining/runs/fire_smoke_v4_hardneg_r2/args.yaml (2026-09-26 21:15:16 KST)
+- ModelTraining/runs/fire_smoke_v4_hardneg_r2/results.png (2026-09-27 02:53:16 KST)
+- ModelTraining/runs/fire_smoke_v4_hardneg_r2/confusion_matrix.png (2026-09-27 02:53:16 KST)
+- ModelTraining/runs/fire_smoke_v4_hardneg_r2/confusion_matrix_normalized.png (2026-09-27 02:53:16 KST)
+- ModelTraining/runs/fire_smoke_v4_hardneg_r2/BoxR_curve.png (2026-09-27 02:53:15 KST)
+- ModelTraining/runs/fire_smoke_v4_hardneg_r2/BoxP_curve.png (2026-09-27 02:53:15 KST)
+- ModelTraining/runs/fire_smoke_v4_hardneg_r2/BoxF1_curve.png (2026-09-27 02:53:15 KST)
+- ModelTraining/runs/fire_smoke_v4_hardneg_r2/BoxPR_curve.png (2026-09-27 02:53:15 KST)
+- ModelTraining/runs/fire_smoke_v4_hardneg_r2/val_batch2_pred.jpg (2026-09-27 02:53:12 KST)
 
 ## 점검 결과 요약
 

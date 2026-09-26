@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-26T17:52:49.945Z",
-  "generatedAtKst": "2026-09-27 02:52:49 KST",
+  "generatedAt": "2026-09-26T18:22:55.366Z",
+  "generatedAtKst": "2026-09-27 03:22:55 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6659
+          "count": 6660
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 6670
+      "count": 6671
     },
     {
       "name": "YUNA0222",
@@ -1234,22 +1234,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6522,
+        "commitCount": 6523,
         "authors": [
           {
-            "count": 6522,
+            "count": 6523,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "8614ef2f1",
+          "hash": "c2863f646",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-27T02:22:48+09:00",
+          "date": "2026-09-27T02:52:53+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6522개 커밋, 상위 계정: gosky(6522), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6523개 커밋, 상위 계정: gosky(6523), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1290,8 +1290,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6522",
-        "Git 상위 계정: gosky(6522)"
+        "Git 커밋 수: 6523",
+        "Git 상위 계정: gosky(6523)"
       ]
     },
     {
@@ -2337,7 +2337,7 @@
         }
       ],
       "structure": {
-        "fileCount": 110582,
+        "fileCount": 110595,
         "dirCount": 108,
         "mainFolders": [
           "datasets",
@@ -2389,36 +2389,36 @@
       },
       "recentFiles": [
         {
-          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/weights/last.pt",
-          "modifiedAt": "2026-09-26T17:50:57.373Z"
+          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/results.png",
+          "modifiedAt": "2026-09-26T17:53:16.872Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/results.csv",
-          "modifiedAt": "2026-09-26T17:50:57.301Z"
+          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/confusion_matrix.png",
+          "modifiedAt": "2026-09-26T17:53:16.332Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/weights/best.pt",
-          "modifiedAt": "2026-09-26T15:41:50.661Z"
+          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/confusion_matrix_normalized.png",
+          "modifiedAt": "2026-09-26T17:53:16.064Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/train_batch2.jpg",
-          "modifiedAt": "2026-09-26T12:15:20.878Z"
+          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/BoxR_curve.png",
+          "modifiedAt": "2026-09-26T17:53:15.788Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/train_batch1.jpg",
-          "modifiedAt": "2026-09-26T12:15:20.690Z"
+          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/BoxP_curve.png",
+          "modifiedAt": "2026-09-26T17:53:15.656Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/train_batch0.jpg",
-          "modifiedAt": "2026-09-26T12:15:20.438Z"
+          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/BoxF1_curve.png",
+          "modifiedAt": "2026-09-26T17:53:15.512Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/labels.jpg",
-          "modifiedAt": "2026-09-26T12:15:19.498Z"
+          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/BoxPR_curve.png",
+          "modifiedAt": "2026-09-26T17:53:15.388Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/args.yaml",
-          "modifiedAt": "2026-09-26T12:15:16.102Z"
+          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/val_batch2_pred.jpg",
+          "modifiedAt": "2026-09-26T17:53:12.580Z"
         }
       ],
       "summary": [
