@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/AiSilverBridgeSky`
 - 분류: AI 서버
-- 점검 시각: 2026-09-28 15:29:17 KST
+- 점검 시각: 2026-09-28 15:59:22 KST
 
 ## 추정 기술 스택
 
@@ -40,8 +40,8 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 111
-- 디렉토리 개수: 48
+- 파일 개수: 154
+- 디렉토리 개수: 52
 - 주요 폴더: app, fire_smoke, scripts, service, training, weapon
 - 주요 경로: app, app/services, service/app/api, service/app/api/routes, service/app/core, service/app/models, service/app/schemas, service/app/services, service/app/utils
 
@@ -69,14 +69,14 @@
 
 ## 최근 수정 파일
 
-- training/README.md (2026-06-24 08:54:46 KST)
-- training/scripts/prepare_fire_smoke_dataset.py (2026-06-24 08:54:46 KST)
-- training/scripts/train_yolo.py (2026-06-24 08:54:46 KST)
-- training/scripts/prepare_fire_smoke_knife_dataset.py (2026-06-15 16:30:07 KST)
-- training/runs/train_session.log (2026-06-15 16:30:07 KST)
-- training/scripts/export_yolo.py (2026-06-15 16:30:07 KST)
-- training/scripts/prepare_fall_dataset.py (2026-06-15 16:30:07 KST)
-- training/runs/train_knife_session.log (2026-06-15 16:30:07 KST)
+- service/.env.example (2026-09-28 15:44:37 KST)
+- training/runs/knife_new/val_batch2_pred.jpg (2026-09-28 15:42:04 KST)
+- training/runs/knife_new/val_batch2_labels.jpg (2026-09-28 15:42:04 KST)
+- training/runs/knife_new/val_batch1_pred.jpg (2026-09-28 15:42:04 KST)
+- training/runs/knife_new/val_batch1_labels.jpg (2026-09-28 15:42:04 KST)
+- training/runs/knife_new/val_batch0_pred.jpg (2026-09-28 15:42:03 KST)
+- training/runs/knife_new/val_batch0_labels.jpg (2026-09-28 15:42:03 KST)
+- training/runs/knife_new/train_batch2.jpg (2026-09-28 15:42:03 KST)
 
 ## 점검 결과 요약
 

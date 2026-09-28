@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-28T06:29:16.468Z",
-  "generatedAtKst": "2026-09-28 15:29:16 KST",
+  "generatedAt": "2026-09-28T06:59:21.713Z",
+  "generatedAtKst": "2026-09-28 15:59:21 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6732
+          "count": 6733
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 6743
+      "count": 6744
     },
     {
       "name": "YUNA0222",
@@ -179,8 +179,8 @@
         }
       ],
       "structure": {
-        "fileCount": 111,
-        "dirCount": 48,
+        "fileCount": 154,
+        "dirCount": 52,
         "mainFolders": [
           "app",
           "fire_smoke",
@@ -256,36 +256,36 @@
       },
       "recentFiles": [
         {
-          "path": "training/README.md",
-          "modifiedAt": "2026-06-23T23:54:46.146Z"
+          "path": "service/.env.example",
+          "modifiedAt": "2026-09-28T06:44:37.331Z"
         },
         {
-          "path": "training/scripts/prepare_fire_smoke_dataset.py",
-          "modifiedAt": "2026-06-23T23:54:46.146Z"
+          "path": "training/runs/knife_new/val_batch2_pred.jpg",
+          "modifiedAt": "2026-09-28T06:42:04.371Z"
         },
         {
-          "path": "training/scripts/train_yolo.py",
-          "modifiedAt": "2026-06-23T23:54:46.146Z"
+          "path": "training/runs/knife_new/val_batch2_labels.jpg",
+          "modifiedAt": "2026-09-28T06:42:04.247Z"
         },
         {
-          "path": "training/scripts/prepare_fire_smoke_knife_dataset.py",
-          "modifiedAt": "2026-06-15T07:30:07.039Z"
+          "path": "training/runs/knife_new/val_batch1_pred.jpg",
+          "modifiedAt": "2026-09-28T06:42:04.143Z"
         },
         {
-          "path": "training/runs/train_session.log",
-          "modifiedAt": "2026-06-15T07:30:07.035Z"
+          "path": "training/runs/knife_new/val_batch1_labels.jpg",
+          "modifiedAt": "2026-09-28T06:42:04.043Z"
         },
         {
-          "path": "training/scripts/export_yolo.py",
-          "modifiedAt": "2026-06-15T07:30:07.035Z"
+          "path": "training/runs/knife_new/val_batch0_pred.jpg",
+          "modifiedAt": "2026-09-28T06:42:03.935Z"
         },
         {
-          "path": "training/scripts/prepare_fall_dataset.py",
-          "modifiedAt": "2026-06-15T07:30:07.035Z"
+          "path": "training/runs/knife_new/val_batch0_labels.jpg",
+          "modifiedAt": "2026-09-28T06:42:03.819Z"
         },
         {
-          "path": "training/runs/train_knife_session.log",
-          "modifiedAt": "2026-06-15T07:30:07.023Z"
+          "path": "training/runs/knife_new/train_batch2.jpg",
+          "modifiedAt": "2026-09-28T06:42:03.695Z"
         }
       ],
       "summary": [
@@ -1234,22 +1234,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6595,
+        "commitCount": 6596,
         "authors": [
           {
-            "count": 6595,
+            "count": 6596,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "7133df55c",
+          "hash": "3d748a77f",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-28T14:59:14+09:00",
+          "date": "2026-09-28T15:29:19+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6595개 커밋, 상위 계정: gosky(6595), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6596개 커밋, 상위 계정: gosky(6596), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1290,8 +1290,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6595",
-        "Git 상위 계정: gosky(6595)"
+        "Git 커밋 수: 6596",
+        "Git 상위 계정: gosky(6596)"
       ]
     },
     {
