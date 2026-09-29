@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-29T15:05:13.304Z",
-  "generatedAtKst": "2026-09-30 24:05:13 KST",
+  "generatedAt": "2026-09-29T15:35:22.404Z",
+  "generatedAtKst": "2026-09-30 24:35:22 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6797
+          "count": 6798
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 6808
+      "count": 6809
     },
     {
       "name": "YUNA0222",
@@ -1242,22 +1242,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6660,
+        "commitCount": 6661,
         "authors": [
           {
-            "count": 6660,
+            "count": 6661,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "60f877e20",
+          "hash": "ee609529f",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-29T23:35:11+09:00",
+          "date": "2026-09-30T00:05:16+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6660개 커밋, 상위 계정: gosky(6660), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6661개 커밋, 상위 계정: gosky(6661), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1298,8 +1298,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6660",
-        "Git 상위 계정: gosky(6660)"
+        "Git 커밋 수: 6661",
+        "Git 상위 계정: gosky(6661)"
       ]
     },
     {
@@ -2327,8 +2327,8 @@
         }
       ],
       "structure": {
-        "fileCount": 110595,
-        "dirCount": 108,
+        "fileCount": 114590,
+        "dirCount": 117,
         "mainFolders": [
           "datasets",
           "fall",
@@ -2379,36 +2379,36 @@
       },
       "recentFiles": [
         {
-          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/results.png",
-          "modifiedAt": "2026-09-26T17:53:16.872Z"
+          "path": "new_datasets/knife_add_hard negative/images/train/knife-1348-_jpg.rf.9bdf68d8d8cc7e203cb19772b2c478eb.jpg",
+          "modifiedAt": "2026-09-29T15:35:25.341Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/confusion_matrix.png",
-          "modifiedAt": "2026-09-26T17:53:16.332Z"
+          "path": "new_datasets/knife_add_hard negative/images/train/knife-1349-_jpg.rf.ee7bf9452d47b75a90c7c255aaad0162.jpg",
+          "modifiedAt": "2026-09-29T15:35:24.897Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/confusion_matrix_normalized.png",
-          "modifiedAt": "2026-09-26T17:53:16.064Z"
+          "path": "new_datasets/knife_add_hard negative/images/train/knife-1350-_jpg.rf.1ef1ae7cb3586ead883196bb83514655.jpg",
+          "modifiedAt": "2026-09-29T15:35:24.265Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/BoxR_curve.png",
-          "modifiedAt": "2026-09-26T17:53:15.788Z"
+          "path": "new_datasets/knife_add_hard negative/images/train/knife-1352-_jpg.rf.4ac78faf9b1bbb66d77fdceb63feffe7.jpg",
+          "modifiedAt": "2026-09-29T15:35:23.665Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/BoxP_curve.png",
-          "modifiedAt": "2026-09-26T17:53:15.656Z"
+          "path": "new_datasets/knife_add_hard negative/images/train/knife-1355-_jpg.rf.9b35422c4cbf1070b13201e63a0ec8c4.jpg",
+          "modifiedAt": "2026-09-29T15:35:23.113Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/BoxF1_curve.png",
-          "modifiedAt": "2026-09-26T17:53:15.512Z"
+          "path": "new_datasets/knife_add_hard negative/images/train/knife-1356-_jpg.rf.7f635ed35084234941a1fc5b6d5ef402.jpg",
+          "modifiedAt": "2026-09-29T15:35:22.577Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/BoxPR_curve.png",
-          "modifiedAt": "2026-09-26T17:53:15.388Z"
+          "path": "new_datasets/knife_add_hard negative/images/train/knife-1357-_jpg.rf.e5461e973be568bfa34196ca7b3b3853.jpg",
+          "modifiedAt": "2026-09-29T15:35:21.953Z"
         },
         {
-          "path": "ModelTraining/runs/fire_smoke_v4_hardneg_r2/val_batch2_pred.jpg",
-          "modifiedAt": "2026-09-26T17:53:12.580Z"
+          "path": "new_datasets/knife_add_hard negative/images/train/knife-1358-_jpg.rf.a75e9f972cf9ce319db149c1bb48568a.jpg",
+          "modifiedAt": "2026-09-29T15:35:21.533Z"
         }
       ],
       "summary": [
