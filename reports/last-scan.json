@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-29T06:33:39.414Z",
-  "generatedAtKst": "2026-09-29 15:33:39 KST",
+  "generatedAt": "2026-09-29T07:03:45.083Z",
+  "generatedAtKst": "2026-09-29 16:03:45 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -10,8 +10,8 @@
     "ai": 6,
     "db": 8,
     "gitRepos": 16,
-    "running": 13,
-    "stopped": 7
+    "running": 14,
+    "stopped": 6
   },
   "gitAuthors": [
     {
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6780
+          "count": 6781
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 6791
+      "count": 6792
     },
     {
       "name": "YUNA0222",
@@ -1234,22 +1234,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6643,
+        "commitCount": 6644,
         "authors": [
           {
-            "count": 6643,
+            "count": 6644,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "56061d495",
+          "hash": "fb532672f",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-29T15:03:37+09:00",
+          "date": "2026-09-29T15:33:43+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6643개 커밋, 상위 계정: gosky(6643), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6644개 커밋, 상위 계정: gosky(6644), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1290,8 +1290,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6643",
-        "Git 상위 계정: gosky(6643)"
+        "Git 커밋 수: 6644",
+        "Git 상위 계정: gosky(6644)"
       ]
     },
     {
@@ -1427,10 +1427,17 @@
         "summary": "DB 사용 흔적 없음"
       },
       "runtime": {
-        "status": "정지",
-        "running": false,
+        "status": "실행 중",
+        "running": true,
         "pm2": [],
-        "docker": [],
+        "docker": [
+          {
+            "name": "silverbridge-ai-server",
+            "image": "silverbridgeaiserver-ai-server",
+            "status": "Up 3 minutes",
+            "ports": ""
+          }
+        ],
         "ports": [],
         "allCandidatePorts": [
           1000,
@@ -1443,7 +1450,10 @@
           8456
         ],
         "summary": [
-          "정지 또는 확인 불가"
+          "실행 중",
+          "PM2 없음",
+          "Docker 1개",
+          "포트 확인 불가"
         ]
       },
       "git": {
@@ -1504,7 +1514,7 @@
         "분류: AI 서버",
         "기술 추정: Python, fastapi, Backend, AI",
         "DB 사용 흔적 없음",
-        "실행 상태: 정지",
+        "실행 상태: 실행 중",
         "Git 커밋 수: 686",
         "Git 상위 계정: Jaehe-he(686)"
       ]
@@ -1610,7 +1620,7 @@
         }
       ],
       "structure": {
-        "fileCount": 1451,
+        "fileCount": 1452,
         "dirCount": 50,
         "mainFolders": [
           "app",
@@ -1656,11 +1666,19 @@
         "status": "실행 중",
         "running": true,
         "pm2": [],
-        "docker": [],
+        "docker": [
+          {
+            "name": "silverbridge-ai-server",
+            "image": "silverbridgeaiserver-ai-server",
+            "status": "Up 3 minutes",
+            "ports": ""
+          }
+        ],
         "ports": [
           5432,
           6012,
           6015,
+          6017,
           6019
         ],
         "allCandidatePorts": [
@@ -1674,8 +1692,8 @@
         "summary": [
           "실행 중",
           "PM2 없음",
-          "Docker 없음",
-          "포트 5432, 6012, 6015, 6019"
+          "Docker 1개",
+          "포트 5432, 6012, 6015, 6017, 6019"
         ]
       },
       "git": {
@@ -1701,35 +1719,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000001",
-          "modifiedAt": "2026-09-29T02:50:57.013Z"
+          "modifiedAt": "2026-09-29T07:03:19.670Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16416",
+          "modifiedAt": "2026-09-29T07:03:09.059Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16420",
+          "modifiedAt": "2026-09-29T07:03:07.103Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-09-29T02:50:55.613Z"
+          "modifiedAt": "2026-09-29T07:00:58.616Z"
         },
         {
-          "path": "data/postgres/base/16384/16515",
-          "modifiedAt": "2026-09-29T02:50:55.513Z"
+          "path": "data/postgres/base/16384/16426",
+          "modifiedAt": "2026-09-29T07:00:58.516Z"
         },
         {
-          "path": "data/postgres/base/16384/16514",
-          "modifiedAt": "2026-09-29T02:50:55.413Z"
+          "path": "data/postgres/base/16384/16425",
+          "modifiedAt": "2026-09-29T07:00:58.416Z"
         },
         {
-          "path": "data/postgres/base/16384/16513",
-          "modifiedAt": "2026-09-29T02:50:55.313Z"
+          "path": "data/postgres/base/16384/16424",
+          "modifiedAt": "2026-09-29T07:00:58.316Z"
         },
         {
-          "path": "data/postgres/base/16384/16512",
-          "modifiedAt": "2026-09-29T02:50:54.909Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16510",
-          "modifiedAt": "2026-09-29T02:50:54.809Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16504_fsm",
-          "modifiedAt": "2026-09-29T02:50:54.409Z"
+          "path": "data/postgres/base/16384/16422",
+          "modifiedAt": "2026-09-29T07:00:58.216Z"
         }
       ],
       "summary": [
@@ -2570,6 +2588,7 @@
         ],
         "ports": [
           6015,
+          6017,
           6018
         ],
         "allCandidatePorts": [
@@ -2582,7 +2601,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 1개",
-          "포트 6015, 6018"
+          "포트 6015, 6017, 6018"
         ]
       },
       "git": {

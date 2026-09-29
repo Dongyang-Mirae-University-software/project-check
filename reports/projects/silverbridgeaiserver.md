@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-09-29 15:33:41 KST
+- 점검 시각: 2026-09-29 16:03:47 KST
 
 ## 추정 기술 스택
 
@@ -44,7 +44,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 1451
+- 파일 개수: 1452
 - 디렉토리 개수: 50
 - 주요 폴더: app, data, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, tests
@@ -59,7 +59,7 @@
 
 - 상태: 실행 중
 - 관련 포트: 1008, 5432, 6012, 6015, 6017, 6019
-- 관련 Docker 컨테이너: 확인 불가
+- 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
@@ -72,14 +72,14 @@
 
 ## 최근 수정 파일
 
-- data/postgres/pg_wal/000000010000000000000001 (2026-09-29 11:50:57 KST)
-- data/postgres/global/pg_control (2026-09-29 11:50:55 KST)
-- data/postgres/base/16384/16515 (2026-09-29 11:50:55 KST)
-- data/postgres/base/16384/16514 (2026-09-29 11:50:55 KST)
-- data/postgres/base/16384/16513 (2026-09-29 11:50:55 KST)
-- data/postgres/base/16384/16512 (2026-09-29 11:50:54 KST)
-- data/postgres/base/16384/16510 (2026-09-29 11:50:54 KST)
-- data/postgres/base/16384/16504_fsm (2026-09-29 11:50:54 KST)
+- data/postgres/pg_wal/000000010000000000000001 (2026-09-29 16:03:19 KST)
+- data/postgres/base/16384/16416 (2026-09-29 16:03:09 KST)
+- data/postgres/base/16384/16420 (2026-09-29 16:03:07 KST)
+- data/postgres/global/pg_control (2026-09-29 16:00:58 KST)
+- data/postgres/base/16384/16426 (2026-09-29 16:00:58 KST)
+- data/postgres/base/16384/16425 (2026-09-29 16:00:58 KST)
+- data/postgres/base/16384/16424 (2026-09-29 16:00:58 KST)
+- data/postgres/base/16384/16422 (2026-09-29 16:00:58 KST)
 
 ## 점검 결과 요약
 
