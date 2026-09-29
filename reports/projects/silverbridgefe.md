@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-09-29 11:02:53 KST
+- 점검 시각: 2026-09-29 11:32:58 KST
 
 ## 추정 기술 스택
 
@@ -37,8 +37,8 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 331
-- 디렉토리 개수: 107
+- 파일 개수: 337
+- 디렉토리 개수: 110
 - 주요 폴더: docs, public, src
 - 주요 경로: public, public/images, src, src/app, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/auth, src/app/(auth)/auth/kakao, src/app/(auth)/auth/kakao/callback, src/app/(auth)/find-email, src/app/(auth)/find-email/_components, src/app/(auth)/find-email/_hooks, src/app/(auth)/find-password, src/app/(auth)/find-password/_components, src/app/(auth)/find-password/_hooks, src/app/(auth)/login, src/app/(auth)/login/_components, src/app/(auth)/signup, src/app/(auth)/signup/_components, src/app/(guardian)
 
@@ -69,14 +69,14 @@
 
 ## 최근 수정 파일
 
-- tsconfig.tsbuildinfo (2026-09-29 10:58:28 KST)
-- src/app/(ward)/ward/game/_components/WardGameContent.module.css (2026-09-29 10:58:14 KST)
-- src/app/(ward)/ward/game/_components/WardGameContent.tsx (2026-09-29 10:58:14 KST)
-- src/app/(ward)/ward/game/page.tsx (2026-09-29 10:58:14 KST)
-- src/app/(guardian)/guardian/stream/_components/Stream.module.css (2026-09-29 10:54:40 KST)
-- src/app/(guardian)/guardian/stream/_components/Stream.tsx (2026-09-29 10:54:40 KST)
-- src/app/(guardian)/guardian/stream/page.tsx (2026-09-29 10:54:40 KST)
-- src/assets/icons/refresh.svg (2026-09-29 10:54:40 KST)
+- tsconfig.tsbuildinfo (2026-09-29 11:18:51 KST)
+- src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.tsx (2026-09-29 11:18:48 KST)
+- src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.module.css (2026-09-29 11:16:36 KST)
+- src/app/(guardian)/guardian/hospital/page.tsx (2026-09-29 11:16:36 KST)
+- src/service/api/guardian/reservation.ts (2026-09-29 11:16:00 KST)
+- src/service/query/guardian/index.ts (2026-09-29 11:16:00 KST)
+- src/service/query/guardian/reservation.ts (2026-09-29 11:16:00 KST)
+- src/app/api/reservation/[...path]/route.ts (2026-09-29 11:16:00 KST)
 
 ## 점검 결과 요약
 

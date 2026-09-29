@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-29T02:02:51.504Z",
-  "generatedAtKst": "2026-09-29 11:02:51 KST",
+  "generatedAt": "2026-09-29T02:32:56.810Z",
+  "generatedAtKst": "2026-09-29 11:32:56 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6771
+          "count": 6772
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 6782
+      "count": 6783
     },
     {
       "name": "YUNA0222",
@@ -1234,22 +1234,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6634,
+        "commitCount": 6635,
         "authors": [
           {
-            "count": 6634,
+            "count": 6635,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "42588fe06",
+          "hash": "128014de3",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-29T10:32:49+09:00",
+          "date": "2026-09-29T11:02:54+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6634개 커밋, 상위 계정: gosky(6634), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6635개 커밋, 상위 계정: gosky(6635), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1290,8 +1290,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6634",
-        "Git 상위 계정: gosky(6634)"
+        "Git 커밋 수: 6635",
+        "Git 상위 계정: gosky(6635)"
       ]
     },
     {
@@ -1434,7 +1434,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 10 minutes",
+            "status": "Up 3 minutes",
             "ports": ""
           }
         ],
@@ -1670,7 +1670,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 10 minutes",
+            "status": "Up 3 minutes",
             "ports": ""
           }
         ],
@@ -1719,35 +1719,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000001",
-          "modifiedAt": "2026-09-29T02:01:01.369Z"
+          "modifiedAt": "2026-09-29T02:30:56.566Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-09-29T02:00:53.361Z"
+          "modifiedAt": "2026-09-29T02:30:53.762Z"
         },
         {
-          "path": "data/postgres/base/16384/16502",
-          "modifiedAt": "2026-09-29T02:00:53.261Z"
+          "path": "data/postgres/base/16384/16515",
+          "modifiedAt": "2026-09-29T02:30:53.662Z"
         },
         {
-          "path": "data/postgres/base/16384/16501",
-          "modifiedAt": "2026-09-29T02:00:53.161Z"
+          "path": "data/postgres/base/16384/16514",
+          "modifiedAt": "2026-09-29T02:30:53.562Z"
         },
         {
-          "path": "data/postgres/base/16384/16500",
-          "modifiedAt": "2026-09-29T02:00:53.061Z"
+          "path": "data/postgres/base/16384/16513",
+          "modifiedAt": "2026-09-29T02:30:53.462Z"
         },
         {
-          "path": "data/postgres/base/16384/16498",
-          "modifiedAt": "2026-09-29T02:00:52.961Z"
+          "path": "data/postgres/base/16384/16512",
+          "modifiedAt": "2026-09-29T02:30:53.362Z"
         },
         {
-          "path": "data/postgres/base/16384/16496",
-          "modifiedAt": "2026-09-29T02:00:52.861Z"
+          "path": "data/postgres/base/16384/16510",
+          "modifiedAt": "2026-09-29T02:30:53.262Z"
         },
         {
-          "path": "data/postgres/base/16384/16490",
-          "modifiedAt": "2026-09-29T02:00:52.761Z"
+          "path": "data/postgres/base/16384/16504",
+          "modifiedAt": "2026-09-29T02:30:53.162Z"
         }
       ],
       "summary": [
@@ -2095,8 +2095,8 @@
         }
       ],
       "structure": {
-        "fileCount": 331,
-        "dirCount": 107,
+        "fileCount": 337,
+        "dirCount": 110,
         "mainFolders": [
           "docs",
           "public",
@@ -2205,35 +2205,35 @@
       "recentFiles": [
         {
           "path": "tsconfig.tsbuildinfo",
-          "modifiedAt": "2026-09-29T01:58:28.744Z"
+          "modifiedAt": "2026-09-29T02:18:51.269Z"
         },
         {
-          "path": "src/app/(ward)/ward/game/_components/WardGameContent.module.css",
-          "modifiedAt": "2026-09-29T01:58:14.748Z"
+          "path": "src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.tsx",
+          "modifiedAt": "2026-09-29T02:18:48.965Z"
         },
         {
-          "path": "src/app/(ward)/ward/game/_components/WardGameContent.tsx",
-          "modifiedAt": "2026-09-29T01:58:14.748Z"
+          "path": "src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.module.css",
+          "modifiedAt": "2026-09-29T02:16:36.447Z"
         },
         {
-          "path": "src/app/(ward)/ward/game/page.tsx",
-          "modifiedAt": "2026-09-29T01:58:14.748Z"
+          "path": "src/app/(guardian)/guardian/hospital/page.tsx",
+          "modifiedAt": "2026-09-29T02:16:36.443Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/stream/_components/Stream.module.css",
-          "modifiedAt": "2026-09-29T01:54:40.599Z"
+          "path": "src/service/api/guardian/reservation.ts",
+          "modifiedAt": "2026-09-29T02:16:00.420Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/stream/_components/Stream.tsx",
-          "modifiedAt": "2026-09-29T01:54:40.599Z"
+          "path": "src/service/query/guardian/index.ts",
+          "modifiedAt": "2026-09-29T02:16:00.420Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/stream/page.tsx",
-          "modifiedAt": "2026-09-29T01:54:40.599Z"
+          "path": "src/service/query/guardian/reservation.ts",
+          "modifiedAt": "2026-09-29T02:16:00.420Z"
         },
         {
-          "path": "src/assets/icons/refresh.svg",
-          "modifiedAt": "2026-09-29T01:54:40.599Z"
+          "path": "src/app/api/reservation/[...path]/route.ts",
+          "modifiedAt": "2026-09-29T02:16:00.416Z"
         }
       ],
       "summary": [
