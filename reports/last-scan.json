@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-29T01:32:46.248Z",
-  "generatedAtKst": "2026-09-29 10:32:46 KST",
+  "generatedAt": "2026-09-29T02:02:51.504Z",
+  "generatedAtKst": "2026-09-29 11:02:51 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -10,8 +10,8 @@
     "ai": 6,
     "db": 8,
     "gitRepos": 16,
-    "running": 13,
-    "stopped": 7
+    "running": 14,
+    "stopped": 6
   },
   "gitAuthors": [
     {
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6770
+          "count": 6771
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 6781
+      "count": 6782
     },
     {
       "name": "YUNA0222",
@@ -75,10 +75,10 @@
       "emails": [
         {
           "email": "gold8077@gmail.com",
-          "count": 120
+          "count": 135
         }
       ],
-      "count": 120
+      "count": 135
     }
   ],
   "projects": [
@@ -1234,22 +1234,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6633,
+        "commitCount": 6634,
         "authors": [
           {
-            "count": 6633,
+            "count": 6634,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "0baee0822",
+          "hash": "42588fe06",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-29T10:02:44+09:00",
+          "date": "2026-09-29T10:32:49+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6633개 커밋, 상위 계정: gosky(6633), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6634개 커밋, 상위 계정: gosky(6634), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1290,8 +1290,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6633",
-        "Git 상위 계정: gosky(6633)"
+        "Git 커밋 수: 6634",
+        "Git 상위 계정: gosky(6634)"
       ]
     },
     {
@@ -1427,10 +1427,17 @@
         "summary": "DB 사용 흔적 없음"
       },
       "runtime": {
-        "status": "정지",
-        "running": false,
+        "status": "실행 중",
+        "running": true,
         "pm2": [],
-        "docker": [],
+        "docker": [
+          {
+            "name": "silverbridge-ai-server",
+            "image": "silverbridgeaiserver-ai-server",
+            "status": "Up 10 minutes",
+            "ports": ""
+          }
+        ],
         "ports": [],
         "allCandidatePorts": [
           1000,
@@ -1443,7 +1450,10 @@
           8456
         ],
         "summary": [
-          "정지 또는 확인 불가"
+          "실행 중",
+          "PM2 없음",
+          "Docker 1개",
+          "포트 확인 불가"
         ]
       },
       "git": {
@@ -1504,7 +1514,7 @@
         "분류: AI 서버",
         "기술 추정: Python, fastapi, Backend, AI",
         "DB 사용 흔적 없음",
-        "실행 상태: 정지",
+        "실행 상태: 실행 중",
         "Git 커밋 수: 686",
         "Git 상위 계정: Jaehe-he(686)"
       ]
@@ -1656,11 +1666,19 @@
         "status": "실행 중",
         "running": true,
         "pm2": [],
-        "docker": [],
+        "docker": [
+          {
+            "name": "silverbridge-ai-server",
+            "image": "silverbridgeaiserver-ai-server",
+            "status": "Up 10 minutes",
+            "ports": ""
+          }
+        ],
         "ports": [
           5432,
           6012,
           6015,
+          6017,
           6019
         ],
         "allCandidatePorts": [
@@ -1674,8 +1692,8 @@
         "summary": [
           "실행 중",
           "PM2 없음",
-          "Docker 없음",
-          "포트 5432, 6012, 6015, 6019"
+          "Docker 1개",
+          "포트 5432, 6012, 6015, 6017, 6019"
         ]
       },
       "git": {
@@ -1701,35 +1719,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000001",
-          "modifiedAt": "2026-09-10T11:37:11.926Z"
+          "modifiedAt": "2026-09-29T02:01:01.369Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-09-10T11:37:02.718Z"
+          "modifiedAt": "2026-09-29T02:00:53.361Z"
         },
         {
-          "path": "data/postgres/base/16384/16426",
-          "modifiedAt": "2026-09-10T11:37:02.618Z"
+          "path": "data/postgres/base/16384/16502",
+          "modifiedAt": "2026-09-29T02:00:53.261Z"
         },
         {
-          "path": "data/postgres/base/16384/16425",
-          "modifiedAt": "2026-09-10T11:37:02.518Z"
+          "path": "data/postgres/base/16384/16501",
+          "modifiedAt": "2026-09-29T02:00:53.161Z"
         },
         {
-          "path": "data/postgres/base/16384/16424",
-          "modifiedAt": "2026-09-10T11:37:02.418Z"
+          "path": "data/postgres/base/16384/16500",
+          "modifiedAt": "2026-09-29T02:00:53.061Z"
         },
         {
-          "path": "data/postgres/base/16384/16422",
-          "modifiedAt": "2026-09-10T11:37:02.318Z"
+          "path": "data/postgres/base/16384/16498",
+          "modifiedAt": "2026-09-29T02:00:52.961Z"
         },
         {
-          "path": "data/postgres/base/16384/16416",
-          "modifiedAt": "2026-09-10T11:37:02.218Z"
+          "path": "data/postgres/base/16384/16496",
+          "modifiedAt": "2026-09-29T02:00:52.861Z"
         },
         {
-          "path": "data/postgres/base/16384/16415",
-          "modifiedAt": "2026-09-10T11:37:02.118Z"
+          "path": "data/postgres/base/16384/16490",
+          "modifiedAt": "2026-09-29T02:00:52.761Z"
         }
       ],
       "summary": [
@@ -2077,8 +2095,8 @@
         }
       ],
       "structure": {
-        "fileCount": 328,
-        "dirCount": 106,
+        "fileCount": 331,
+        "dirCount": 107,
         "mainFolders": [
           "docs",
           "public",
@@ -2147,7 +2165,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 870,
+        "commitCount": 886,
         "authors": [
           {
             "count": 1400,
@@ -2155,7 +2173,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 120,
+            "count": 135,
             "name": "yuna0222",
             "email": "gold8077@gmail.com"
           },
@@ -2176,46 +2194,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "37a6829",
+          "hash": "dc04d2d",
           "author": "yuna0222",
           "email": "gold8077@gmail.com",
-          "date": "2026-09-28T19:33:54+09:00",
-          "subject": "Merge pull request #24 from Dongyang-Mirae-University-software/feature/medication"
+          "date": "2026-09-28T20:45:59+09:00",
+          "subject": "Merge pull request #25 from Dongyang-Mirae-University-software/feature/camera-design"
         },
-        "summary": "총 870개 커밋, 상위 계정: YUNA0222(1400), yuna0222(120), YUNA0222(10), 최근: Merge pull request #24 from Dongyang-Mirae-University-software/feature/medication"
+        "summary": "총 886개 커밋, 상위 계정: YUNA0222(1400), yuna0222(135), YUNA0222(10), 최근: Merge pull request #25 from Dongyang-Mirae-University-software/feature/camera-design"
       },
       "recentFiles": [
         {
-          "path": "src/app/(ward)/ward/medication/page.tsx",
-          "modifiedAt": "2026-09-28T10:35:50.550Z"
+          "path": "tsconfig.tsbuildinfo",
+          "modifiedAt": "2026-09-29T01:58:28.744Z"
         },
         {
-          "path": "src/app/(ward)/ward/sos/_components/WardGuardianCallSection.module.css",
-          "modifiedAt": "2026-09-28T10:35:50.550Z"
+          "path": "src/app/(ward)/ward/game/_components/WardGameContent.module.css",
+          "modifiedAt": "2026-09-29T01:58:14.748Z"
         },
         {
-          "path": "src/app/(ward)/ward/sos/_components/WardSosContent.module.css",
-          "modifiedAt": "2026-09-28T10:35:50.550Z"
+          "path": "src/app/(ward)/ward/game/_components/WardGameContent.tsx",
+          "modifiedAt": "2026-09-29T01:58:14.748Z"
         },
         {
-          "path": "src/app/globals.css",
-          "modifiedAt": "2026-09-28T10:35:50.550Z"
+          "path": "src/app/(ward)/ward/game/page.tsx",
+          "modifiedAt": "2026-09-29T01:58:14.748Z"
         },
         {
-          "path": "src/components/CommonModal.module.css",
-          "modifiedAt": "2026-09-28T10:35:50.550Z"
+          "path": "src/app/(guardian)/guardian/stream/_components/Stream.module.css",
+          "modifiedAt": "2026-09-29T01:54:40.599Z"
         },
         {
-          "path": "src/components/connections/ConnectionCard.module.css",
-          "modifiedAt": "2026-09-28T10:35:50.550Z"
+          "path": "src/app/(guardian)/guardian/stream/_components/Stream.tsx",
+          "modifiedAt": "2026-09-29T01:54:40.599Z"
         },
         {
-          "path": "src/components/layout/dashboard/ProfileModal.module.css",
-          "modifiedAt": "2026-09-28T10:35:50.550Z"
+          "path": "src/app/(guardian)/guardian/stream/page.tsx",
+          "modifiedAt": "2026-09-29T01:54:40.599Z"
         },
         {
-          "path": "src/components/layout/dashboard/Sidebar.module.css",
-          "modifiedAt": "2026-09-28T10:35:50.550Z"
+          "path": "src/assets/icons/refresh.svg",
+          "modifiedAt": "2026-09-29T01:54:40.599Z"
         }
       ],
       "summary": [
@@ -2223,8 +2241,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 870",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(120), YUNA0222(10)"
+        "Git 커밋 수: 886",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(135), YUNA0222(10)"
       ]
     },
     {
@@ -2570,6 +2588,7 @@
         ],
         "ports": [
           6015,
+          6017,
           6018
         ],
         "allCandidatePorts": [
@@ -2582,7 +2601,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 1개",
-          "포트 6015, 6018"
+          "포트 6015, 6017, 6018"
         ]
       },
       "git": {

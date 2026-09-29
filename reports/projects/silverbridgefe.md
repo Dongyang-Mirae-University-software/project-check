@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-09-29 10:32:48 KST
+- 점검 시각: 2026-09-29 11:02:53 KST
 
 ## 추정 기술 스택
 
@@ -37,8 +37,8 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 328
-- 디렉토리 개수: 106
+- 파일 개수: 331
+- 디렉토리 개수: 107
 - 주요 폴더: docs, public, src
 - 주요 경로: public, public/images, src, src/app, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/auth, src/app/(auth)/auth/kakao, src/app/(auth)/auth/kakao/callback, src/app/(auth)/find-email, src/app/(auth)/find-email/_components, src/app/(auth)/find-email/_hooks, src/app/(auth)/find-password, src/app/(auth)/find-password/_components, src/app/(auth)/find-password/_hooks, src/app/(auth)/login, src/app/(auth)/login/_components, src/app/(auth)/signup, src/app/(auth)/signup/_components, src/app/(guardian)
 
@@ -58,25 +58,25 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 870
+- 총 커밋 수: 886
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
-  - yuna0222 <gold8077@gmail.com>: 120
+  - yuna0222 <gold8077@gmail.com>: 135
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <gosky@gosky.kr>: 6
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 37a6829 / yuna0222 <gold8077@gmail.com> / Merge pull request #24 from Dongyang-Mirae-University-software/feature/medication
+- 최근 커밋: dc04d2d / yuna0222 <gold8077@gmail.com> / Merge pull request #25 from Dongyang-Mirae-University-software/feature/camera-design
 
 ## 최근 수정 파일
 
-- src/app/(ward)/ward/medication/page.tsx (2026-09-28 19:35:50 KST)
-- src/app/(ward)/ward/sos/_components/WardGuardianCallSection.module.css (2026-09-28 19:35:50 KST)
-- src/app/(ward)/ward/sos/_components/WardSosContent.module.css (2026-09-28 19:35:50 KST)
-- src/app/globals.css (2026-09-28 19:35:50 KST)
-- src/components/CommonModal.module.css (2026-09-28 19:35:50 KST)
-- src/components/connections/ConnectionCard.module.css (2026-09-28 19:35:50 KST)
-- src/components/layout/dashboard/ProfileModal.module.css (2026-09-28 19:35:50 KST)
-- src/components/layout/dashboard/Sidebar.module.css (2026-09-28 19:35:50 KST)
+- tsconfig.tsbuildinfo (2026-09-29 10:58:28 KST)
+- src/app/(ward)/ward/game/_components/WardGameContent.module.css (2026-09-29 10:58:14 KST)
+- src/app/(ward)/ward/game/_components/WardGameContent.tsx (2026-09-29 10:58:14 KST)
+- src/app/(ward)/ward/game/page.tsx (2026-09-29 10:58:14 KST)
+- src/app/(guardian)/guardian/stream/_components/Stream.module.css (2026-09-29 10:54:40 KST)
+- src/app/(guardian)/guardian/stream/_components/Stream.tsx (2026-09-29 10:54:40 KST)
+- src/app/(guardian)/guardian/stream/page.tsx (2026-09-29 10:54:40 KST)
+- src/assets/icons/refresh.svg (2026-09-29 10:54:40 KST)
 
 ## 점검 결과 요약
 
@@ -84,5 +84,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 870
-- Git 상위 계정: YUNA0222(1400), yuna0222(120), YUNA0222(10)
+- Git 커밋 수: 886
+- Git 상위 계정: YUNA0222(1400), yuna0222(135), YUNA0222(10)

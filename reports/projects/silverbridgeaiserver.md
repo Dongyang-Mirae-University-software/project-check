@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-09-29 10:32:48 KST
+- 점검 시각: 2026-09-29 11:02:53 KST
 
 ## 추정 기술 스택
 
@@ -59,7 +59,7 @@
 
 - 상태: 실행 중
 - 관련 포트: 1008, 5432, 6012, 6015, 6017, 6019
-- 관련 Docker 컨테이너: 확인 불가
+- 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
@@ -72,14 +72,14 @@
 
 ## 최근 수정 파일
 
-- data/postgres/pg_wal/000000010000000000000001 (2026-09-10 20:37:11 KST)
-- data/postgres/global/pg_control (2026-09-10 20:37:02 KST)
-- data/postgres/base/16384/16426 (2026-09-10 20:37:02 KST)
-- data/postgres/base/16384/16425 (2026-09-10 20:37:02 KST)
-- data/postgres/base/16384/16424 (2026-09-10 20:37:02 KST)
-- data/postgres/base/16384/16422 (2026-09-10 20:37:02 KST)
-- data/postgres/base/16384/16416 (2026-09-10 20:37:02 KST)
-- data/postgres/base/16384/16415 (2026-09-10 20:37:02 KST)
+- data/postgres/pg_wal/000000010000000000000001 (2026-09-29 11:01:01 KST)
+- data/postgres/global/pg_control (2026-09-29 11:00:53 KST)
+- data/postgres/base/16384/16502 (2026-09-29 11:00:53 KST)
+- data/postgres/base/16384/16501 (2026-09-29 11:00:53 KST)
+- data/postgres/base/16384/16500 (2026-09-29 11:00:53 KST)
+- data/postgres/base/16384/16498 (2026-09-29 11:00:52 KST)
+- data/postgres/base/16384/16496 (2026-09-29 11:00:52 KST)
+- data/postgres/base/16384/16490 (2026-09-29 11:00:52 KST)
 
 ## 점검 결과 요약
 
