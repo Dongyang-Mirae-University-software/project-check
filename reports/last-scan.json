@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-29T04:33:18.000Z",
-  "generatedAtKst": "2026-09-29 13:33:18 KST",
+  "generatedAt": "2026-09-29T05:03:23.336Z",
+  "generatedAtKst": "2026-09-29 14:03:23 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -10,8 +10,8 @@
     "ai": 6,
     "db": 8,
     "gitRepos": 16,
-    "running": 14,
-    "stopped": 6
+    "running": 13,
+    "stopped": 7
   },
   "gitAuthors": [
     {
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6776
+          "count": 6777
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 6787
+      "count": 6788
     },
     {
       "name": "YUNA0222",
@@ -1234,22 +1234,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6639,
+        "commitCount": 6640,
         "authors": [
           {
-            "count": 6639,
+            "count": 6640,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "27ab9fc4f",
+          "hash": "c2478aa7c",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-29T13:03:16+09:00",
+          "date": "2026-09-29T13:33:21+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6639개 커밋, 상위 계정: gosky(6639), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6640개 커밋, 상위 계정: gosky(6640), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1290,8 +1290,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6639",
-        "Git 상위 계정: gosky(6639)"
+        "Git 커밋 수: 6640",
+        "Git 상위 계정: gosky(6640)"
       ]
     },
     {
@@ -1427,17 +1427,10 @@
         "summary": "DB 사용 흔적 없음"
       },
       "runtime": {
-        "status": "실행 중",
-        "running": true,
+        "status": "정지",
+        "running": false,
         "pm2": [],
-        "docker": [
-          {
-            "name": "silverbridge-ai-server",
-            "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 2 hours",
-            "ports": ""
-          }
-        ],
+        "docker": [],
         "ports": [],
         "allCandidatePorts": [
           1000,
@@ -1450,10 +1443,7 @@
           8456
         ],
         "summary": [
-          "실행 중",
-          "PM2 없음",
-          "Docker 1개",
-          "포트 확인 불가"
+          "정지 또는 확인 불가"
         ]
       },
       "git": {
@@ -1514,7 +1504,7 @@
         "분류: AI 서버",
         "기술 추정: Python, fastapi, Backend, AI",
         "DB 사용 흔적 없음",
-        "실행 상태: 실행 중",
+        "실행 상태: 정지",
         "Git 커밋 수: 686",
         "Git 상위 계정: Jaehe-he(686)"
       ]
@@ -1666,19 +1656,11 @@
         "status": "실행 중",
         "running": true,
         "pm2": [],
-        "docker": [
-          {
-            "name": "silverbridge-ai-server",
-            "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 2 hours",
-            "ports": ""
-          }
-        ],
+        "docker": [],
         "ports": [
           5432,
           6012,
           6015,
-          6017,
           6019
         ],
         "allCandidatePorts": [
@@ -1692,8 +1674,8 @@
         "summary": [
           "실행 중",
           "PM2 없음",
-          "Docker 1개",
-          "포트 5432, 6012, 6015, 6017, 6019"
+          "Docker 없음",
+          "포트 5432, 6012, 6015, 6019"
         ]
       },
       "git": {
@@ -2588,7 +2570,6 @@
         ],
         "ports": [
           6015,
-          6017,
           6018
         ],
         "allCandidatePorts": [
@@ -2601,7 +2582,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 1개",
-          "포트 6015, 6017, 6018"
+          "포트 6015, 6018"
         ]
       },
       "git": {
