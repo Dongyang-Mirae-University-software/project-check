@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeJH`
 - 분류: 백엔드
-- 점검 시각: 2026-09-30 24:35:25 KST
+- 점검 시각: 2026-09-30 01:05:31 KST
 
 ## 추정 기술 스택
 
@@ -35,7 +35,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 114590
+- 파일 개수: 124687
 - 디렉토리 개수: 117
 - 주요 폴더: datasets, fall, models, ModelTraining, new_datasets
 - 주요 경로: datasets/fire/test/images, datasets/fire/test/labels, datasets/knife/test/images, datasets/knife/test/labels, models, models/fire_250ep, models/fire_250ep-2, models/fire_250ep-2/weights, models/fire_250ep/weights, models/knife_250ep, models/knife_250ep/weights, ModelTraining/models/fire_smoke
@@ -58,14 +58,14 @@
 
 ## 최근 수정 파일
 
-- new_datasets/knife_add_hard negative/images/train/knife-1348-_jpg.rf.9bdf68d8d8cc7e203cb19772b2c478eb.jpg (2026-09-30 24:35:25 KST)
-- new_datasets/knife_add_hard negative/images/train/knife-1349-_jpg.rf.ee7bf9452d47b75a90c7c255aaad0162.jpg (2026-09-30 24:35:24 KST)
-- new_datasets/knife_add_hard negative/images/train/knife-1350-_jpg.rf.1ef1ae7cb3586ead883196bb83514655.jpg (2026-09-30 24:35:24 KST)
-- new_datasets/knife_add_hard negative/images/train/knife-1352-_jpg.rf.4ac78faf9b1bbb66d77fdceb63feffe7.jpg (2026-09-30 24:35:23 KST)
-- new_datasets/knife_add_hard negative/images/train/knife-1355-_jpg.rf.9b35422c4cbf1070b13201e63a0ec8c4.jpg (2026-09-30 24:35:23 KST)
-- new_datasets/knife_add_hard negative/images/train/knife-1356-_jpg.rf.7f635ed35084234941a1fc5b6d5ef402.jpg (2026-09-30 24:35:22 KST)
-- new_datasets/knife_add_hard negative/images/train/knife-1357-_jpg.rf.e5461e973be568bfa34196ca7b3b3853.jpg (2026-09-30 24:35:21 KST)
-- new_datasets/knife_add_hard negative/images/train/knife-1358-_jpg.rf.a75e9f972cf9ce319db149c1bb48568a.jpg (2026-09-30 24:35:21 KST)
+- new_datasets/knife_add_hard negative/labels/test/02RQRN4729LM_jpg.rf.ffb3678b5383b3829cb40a3bc5a0dfe9.txt (2026-09-30 01:02:56 KST)
+- new_datasets/knife_add_hard negative/labels/test/0319MVXRKL6O_jpg.rf.42a77023ee5a9f10807671ba500e0104.txt (2026-09-30 01:02:56 KST)
+- new_datasets/knife_add_hard negative/labels/test/09QGEI62WX5A_jpg.rf.bdb32a6ddd6f9f72ebfcf7a9de54d2e3.txt (2026-09-30 01:02:56 KST)
+- new_datasets/knife_add_hard negative/labels/test/0C9RZDEEKHVO_jpg.rf.617f212a6631f0e775bb27ee83875d30.txt (2026-09-30 01:02:56 KST)
+- new_datasets/knife_add_hard negative/labels/test/0GXLS8TXBIBY_jpg.rf.ccbbc1777a94433767a9176eb8c6d26f.txt (2026-09-30 01:02:56 KST)
+- new_datasets/knife_add_hard negative/labels/test/0J71UP5GQDXY_jpg.rf.cf3720712dbd6e4a22e9cd292821dd6f.txt (2026-09-30 01:02:56 KST)
+- new_datasets/knife_add_hard negative/labels/test/0JY4HGOR4TSS_jpg.rf.c6f881ba8da5f4f999a3f8e7fe7aad71.txt (2026-09-30 01:02:56 KST)
+- new_datasets/knife_add_hard negative/labels/test/0KC3YT99CDHZ_jpg.rf.e30d09e0291f029e01c1373380001b26.txt (2026-09-30 01:02:56 KST)
 
 ## 점검 결과 요약
 
