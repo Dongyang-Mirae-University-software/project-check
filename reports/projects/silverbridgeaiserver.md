@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-09-29 11:32:58 KST
+- 점검 시각: 2026-09-29 12:03:04 KST
 
 ## 추정 기술 스택
 
@@ -44,7 +44,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 1449
+- 파일 개수: 1451
 - 디렉토리 개수: 50
 - 주요 폴더: app, data, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, tests
@@ -72,14 +72,14 @@
 
 ## 최근 수정 파일
 
-- data/postgres/pg_wal/000000010000000000000001 (2026-09-29 11:30:56 KST)
-- data/postgres/global/pg_control (2026-09-29 11:30:53 KST)
-- data/postgres/base/16384/16515 (2026-09-29 11:30:53 KST)
-- data/postgres/base/16384/16514 (2026-09-29 11:30:53 KST)
-- data/postgres/base/16384/16513 (2026-09-29 11:30:53 KST)
-- data/postgres/base/16384/16512 (2026-09-29 11:30:53 KST)
-- data/postgres/base/16384/16510 (2026-09-29 11:30:53 KST)
-- data/postgres/base/16384/16504 (2026-09-29 11:30:53 KST)
+- data/postgres/pg_wal/000000010000000000000001 (2026-09-29 11:50:57 KST)
+- data/postgres/global/pg_control (2026-09-29 11:50:55 KST)
+- data/postgres/base/16384/16515 (2026-09-29 11:50:55 KST)
+- data/postgres/base/16384/16514 (2026-09-29 11:50:55 KST)
+- data/postgres/base/16384/16513 (2026-09-29 11:50:55 KST)
+- data/postgres/base/16384/16512 (2026-09-29 11:50:54 KST)
+- data/postgres/base/16384/16510 (2026-09-29 11:50:54 KST)
+- data/postgres/base/16384/16504_fsm (2026-09-29 11:50:54 KST)
 
 ## 점검 결과 요약
 
