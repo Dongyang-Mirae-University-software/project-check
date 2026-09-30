@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-30T04:37:48.117Z",
-  "generatedAtKst": "2026-09-30 13:37:48 KST",
+  "generatedAt": "2026-09-30T05:07:53.631Z",
+  "generatedAtKst": "2026-09-30 14:07:53 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,18 +19,18 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6824
+          "count": 6825
         },
         {
           "email": "gosky@gosky.kr",
-          "count": 6
+          "count": 11
         },
         {
           "email": "gosky.dev@gmail.com",
           "count": 5
         }
       ],
-      "count": 6835
+      "count": 6841
     },
     {
       "name": "YUNA0222",
@@ -1242,22 +1242,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6687,
+        "commitCount": 6688,
         "authors": [
           {
-            "count": 6687,
+            "count": 6688,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "f632c0e53",
+          "hash": "1fdba23fe",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-30T13:07:45+09:00",
+          "date": "2026-09-30T13:37:51+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6687개 커밋, 상위 계정: gosky(6687), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6688개 커밋, 상위 계정: gosky(6688), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1298,8 +1298,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6687",
-        "Git 상위 계정: gosky(6687)"
+        "Git 커밋 수: 6688",
+        "Git 상위 계정: gosky(6688)"
       ]
     },
     {
@@ -1707,22 +1707,27 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 37,
+        "commitCount": 42,
         "authors": [
           {
             "count": 37,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
+          },
+          {
+            "count": 5,
+            "name": "gosky",
+            "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "3bde7fb",
+          "hash": "8236a22",
           "author": "gosky",
-          "email": "lovesky00317@gmail.com",
-          "date": "2026-05-30T19:06:03+09:00",
-          "subject": "fix: add psycopg2-binary and accelerate to requirements"
+          "email": "gosky@gosky.kr",
+          "date": "2026-09-30T13:50:47+09:00",
+          "subject": "feat: 게임 사용자별 활동량 조회 API"
         },
-        "summary": "총 37개 커밋, 상위 계정: gosky(37), 최근: fix: add psycopg2-binary and accelerate to requirements"
+        "summary": "총 42개 커밋, 상위 계정: gosky(37), gosky(5), 최근: feat: 게임 사용자별 활동량 조회 API"
       },
       "recentFiles": [
         {
@@ -1763,8 +1768,8 @@
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI",
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 37",
-        "Git 상위 계정: gosky(37)"
+        "Git 커밋 수: 42",
+        "Git 상위 계정: gosky(37), gosky(5)"
       ]
     },
     {

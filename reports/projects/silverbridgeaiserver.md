@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-09-30 13:37:50 KST
+- 점검 시각: 2026-09-30 14:07:55 KST
 
 ## 추정 기술 스택
 
@@ -65,10 +65,11 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 37
+- 총 커밋 수: 42
 - 계정별 커밋 수:
   - gosky <lovesky00317@gmail.com>: 37
-- 최근 커밋: 3bde7fb / gosky <lovesky00317@gmail.com> / fix: add psycopg2-binary and accelerate to requirements
+  - gosky <gosky@gosky.kr>: 5
+- 최근 커밋: 8236a22 / gosky <gosky@gosky.kr> / feat: 게임 사용자별 활동량 조회 API
 
 ## 최근 수정 파일
 
@@ -87,5 +88,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 37
-- Git 상위 계정: gosky(37)
+- Git 커밋 수: 42
+- Git 상위 계정: gosky(37), gosky(5)
