@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-09-30 09:37:07 KST
+- 점검 시각: 2026-09-30 10:07:12 KST
 
 ## 추정 기술 스택
 
@@ -69,14 +69,14 @@
 
 ## 최근 수정 파일
 
-- tsconfig.tsbuildinfo (2026-09-29 12:01:33 KST)
+- tsconfig.tsbuildinfo (2026-09-30 09:57:20 KST)
+- src/app/(guardian)/guardian/chatbot/_components/GuardianChatContent.module.css (2026-09-30 09:57:18 KST)
+- src/app/(guardian)/guardian/chatbot/_components/GuardianChatContent.tsx (2026-09-30 09:57:18 KST)
+- src/app/(guardian)/guardian/chatbot/_components/ChatUiPrompt.tsx (2026-09-30 09:39:11 KST)
+- src/service/interface/chat.ts (2026-09-30 09:39:11 KST)
 - src/app/(ward)/ward/_components/WardHomeContent.module.css (2026-09-29 12:01:30 KST)
 - src/app/(ward)/ward/_components/WardHomeContent.tsx (2026-09-29 12:01:30 KST)
 - src/constants/dashboard.ts (2026-09-29 11:59:24 KST)
-- src/app/(guardian)/guardian/game/_components/GuardianGameContent.tsx (2026-09-29 11:46:30 KST)
-- src/app/(guardian)/guardian/game/_components/ActivityHeatmap.module.css (2026-09-29 11:46:30 KST)
-- src/app/(guardian)/guardian/game/_components/ActivityHeatmap.tsx (2026-09-29 11:46:30 KST)
-- src/service/query/guardian/game.ts (2026-09-29 11:46:30 KST)
 
 ## 점검 결과 요약
 

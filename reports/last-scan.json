@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-30T00:37:05.022Z",
-  "generatedAtKst": "2026-09-30 09:37:05 KST",
+  "generatedAt": "2026-09-30T01:07:10.345Z",
+  "generatedAtKst": "2026-09-30 10:07:10 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6816
+          "count": 6817
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 6827
+      "count": 6828
     },
     {
       "name": "YUNA0222",
@@ -1242,22 +1242,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6679,
+        "commitCount": 6680,
         "authors": [
           {
-            "count": 6679,
+            "count": 6680,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "899869933",
+          "hash": "1c40b13a9",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-30T09:07:03+09:00",
+          "date": "2026-09-30T09:37:08+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6679개 커밋, 상위 계정: gosky(6679), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6680개 커밋, 상위 계정: gosky(6680), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1298,8 +1298,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6679",
-        "Git 상위 계정: gosky(6679)"
+        "Git 커밋 수: 6680",
+        "Git 상위 계정: gosky(6680)"
       ]
     },
     {
@@ -1442,7 +1442,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 6 minutes",
+            "status": "Up 27 minutes",
             "ports": ""
           }
         ],
@@ -1678,7 +1678,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 6 minutes",
+            "status": "Up 27 minutes",
             "ports": ""
           }
         ],
@@ -1727,35 +1727,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000001",
-          "modifiedAt": "2026-09-30T00:36:21.269Z"
+          "modifiedAt": "2026-09-30T01:01:24.688Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-09-30T00:36:17.865Z"
+          "modifiedAt": "2026-09-30T01:01:18.880Z"
         },
         {
           "path": "data/postgres/base/16384/16426",
-          "modifiedAt": "2026-09-30T00:36:17.765Z"
+          "modifiedAt": "2026-09-30T01:01:18.780Z"
         },
         {
           "path": "data/postgres/base/16384/16425",
-          "modifiedAt": "2026-09-30T00:36:17.665Z"
+          "modifiedAt": "2026-09-30T01:01:18.680Z"
         },
         {
           "path": "data/postgres/base/16384/16424",
-          "modifiedAt": "2026-09-30T00:36:17.565Z"
+          "modifiedAt": "2026-09-30T01:01:18.580Z"
         },
         {
           "path": "data/postgres/base/16384/16422",
-          "modifiedAt": "2026-09-30T00:36:17.465Z"
+          "modifiedAt": "2026-09-30T01:01:18.480Z"
         },
         {
           "path": "data/postgres/base/16384/16416",
-          "modifiedAt": "2026-09-30T00:36:17.365Z"
+          "modifiedAt": "2026-09-30T01:01:18.380Z"
         },
         {
           "path": "data/postgres/base/16384/16415",
-          "modifiedAt": "2026-09-30T00:36:17.261Z"
+          "modifiedAt": "2026-09-30T01:01:18.280Z"
         }
       ],
       "summary": [
@@ -2213,7 +2213,23 @@
       "recentFiles": [
         {
           "path": "tsconfig.tsbuildinfo",
-          "modifiedAt": "2026-09-29T03:01:33.116Z"
+          "modifiedAt": "2026-09-30T00:57:20.249Z"
+        },
+        {
+          "path": "src/app/(guardian)/guardian/chatbot/_components/GuardianChatContent.module.css",
+          "modifiedAt": "2026-09-30T00:57:18.073Z"
+        },
+        {
+          "path": "src/app/(guardian)/guardian/chatbot/_components/GuardianChatContent.tsx",
+          "modifiedAt": "2026-09-30T00:57:18.073Z"
+        },
+        {
+          "path": "src/app/(guardian)/guardian/chatbot/_components/ChatUiPrompt.tsx",
+          "modifiedAt": "2026-09-30T00:39:11.454Z"
+        },
+        {
+          "path": "src/service/interface/chat.ts",
+          "modifiedAt": "2026-09-30T00:39:11.454Z"
         },
         {
           "path": "src/app/(ward)/ward/_components/WardHomeContent.module.css",
@@ -2226,22 +2242,6 @@
         {
           "path": "src/constants/dashboard.ts",
           "modifiedAt": "2026-09-29T02:59:24.458Z"
-        },
-        {
-          "path": "src/app/(guardian)/guardian/game/_components/GuardianGameContent.tsx",
-          "modifiedAt": "2026-09-29T02:46:30.169Z"
-        },
-        {
-          "path": "src/app/(guardian)/guardian/game/_components/ActivityHeatmap.module.css",
-          "modifiedAt": "2026-09-29T02:46:30.149Z"
-        },
-        {
-          "path": "src/app/(guardian)/guardian/game/_components/ActivityHeatmap.tsx",
-          "modifiedAt": "2026-09-29T02:46:30.145Z"
-        },
-        {
-          "path": "src/service/query/guardian/game.ts",
-          "modifiedAt": "2026-09-29T02:46:30.145Z"
         }
       ],
       "summary": [
