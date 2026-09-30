@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-09-30T07:08:15.915Z",
-  "generatedAtKst": "2026-09-30 16:08:15 KST",
+  "generatedAt": "2026-09-30T07:38:21.381Z",
+  "generatedAtKst": "2026-09-30 16:38:21 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,18 +19,18 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6829
+          "count": 6830
         },
         {
           "email": "gosky@gosky.kr",
-          "count": 11
+          "count": 15
         },
         {
           "email": "gosky.dev@gmail.com",
           "count": 5
         }
       ],
-      "count": 6845
+      "count": 6850
     },
     {
       "name": "YUNA0222",
@@ -51,14 +51,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 824
+          "count": 831
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 913
+      "count": 920
     },
     {
       "name": "Jaehe-he",
@@ -1242,22 +1242,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6692,
+        "commitCount": 6693,
         "authors": [
           {
-            "count": 6692,
+            "count": 6693,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "fbe88f549",
+          "hash": "9b7d15b5b",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-09-30T15:38:14+09:00",
+          "date": "2026-09-30T16:08:19+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6692개 커밋, 상위 계정: gosky(6692), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6693개 커밋, 상위 계정: gosky(6693), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1298,8 +1298,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6692",
-        "Git 상위 계정: gosky(6692)"
+        "Git 커밋 수: 6693",
+        "Git 상위 계정: gosky(6693)"
       ]
     },
     {
@@ -1442,7 +1442,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 6 hours",
+            "status": "Up 7 hours",
             "ports": ""
           }
         ],
@@ -1678,7 +1678,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 6 hours",
+            "status": "Up 7 hours",
             "ports": ""
           }
         ],
@@ -1920,7 +1920,9 @@
           5432,
           6379,
           6510,
-          6511
+          6511,
+          6513,
+          6514
         ],
         "allCandidatePorts": [
           3000,
@@ -1929,6 +1931,8 @@
           6379,
           6510,
           6511,
+          6513,
+          6514,
           8080,
           10000,
           18000,
@@ -1938,16 +1942,16 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 5432, 6379, 6510, 6511"
+          "포트 5432, 6379, 6510, 6511, 6513, 6514"
         ]
       },
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 781,
+        "commitCount": 792,
         "authors": [
           {
-            "count": 699,
+            "count": 706,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -1963,46 +1967,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "296a4b3",
+          "hash": "fcb0a7f",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-09-30T13:24:21+09:00",
-          "subject": "Merge pull request #261 from Dongyang-Mirae-University-software/fix/withdrawal-fcm-and-disconnect-copy"
+          "date": "2026-09-30T16:32:11+09:00",
+          "subject": "Merge pull request #265 from Dongyang-Mirae-University-software/fix/close-db-redis-ports"
         },
-        "summary": "총 781개 커밋, 상위 계정: skarndaudwls1(699), skarndaudwls1(65), gosky(4), 최근: Merge pull request #261 from Dongyang-Mirae-University-software/fix/withdrawal-fcm-and-disconnect-copy"
+        "summary": "총 792개 커밋, 상위 계정: skarndaudwls1(706), skarndaudwls1(65), gosky(4), 최근: Merge pull request #265 from Dongyang-Mirae-University-software/fix/close-db-redis-ports"
       },
       "recentFiles": [
         {
+          "path": "프로젝트_설명.txt",
+          "modifiedAt": "2026-09-30T07:33:28.515Z"
+        },
+        {
+          "path": "src/main/resources/application.yaml",
+          "modifiedAt": "2026-09-30T07:33:28.511Z"
+        },
+        {
+          "path": "docs/프로젝트_설명_AI서버.txt",
+          "modifiedAt": "2026-09-30T07:33:28.507Z"
+        },
+        {
+          "path": "CLAUDE.md",
+          "modifiedAt": "2026-09-30T07:33:28.503Z"
+        },
+        {
+          "path": "docker-compose.dev.yml",
+          "modifiedAt": "2026-09-30T07:33:28.503Z"
+        },
+        {
+          "path": "docs/audit-index.md",
+          "modifiedAt": "2026-09-30T07:33:28.503Z"
+        },
+        {
           "path": "docs/progress.md",
-          "modifiedAt": "2026-09-30T04:26:58.627Z"
+          "modifiedAt": "2026-09-30T07:33:28.503Z"
         },
         {
           "path": "build.gradle",
           "modifiedAt": "2026-09-30T04:26:58.623Z"
-        },
-        {
-          "path": "docs/(2026-09-30) audit-impact-remaining-audit-items.md",
-          "modifiedAt": "2026-09-30T04:26:58.623Z"
-        },
-        {
-          "path": "docs/(2026-09-30) fix-withdrawal-fcm-and-disconnect-copy.md",
-          "modifiedAt": "2026-09-30T04:26:58.623Z"
-        },
-        {
-          "path": "docs/(2026-09-30) issue-anomaly-camera-integration-gap.md",
-          "modifiedAt": "2026-09-30T04:26:58.623Z"
-        },
-        {
-          "path": "docs/audit-index.md",
-          "modifiedAt": "2026-09-30T04:26:58.623Z"
-        },
-        {
-          "path": "CLAUDE.md",
-          "modifiedAt": "2026-09-30T02:16:22.214Z"
-        },
-        {
-          "path": "docs/(2026-09-30) fix-remaining-audit-items.md",
-          "modifiedAt": "2026-09-30T02:16:22.214Z"
         }
       ],
       "summary": [
@@ -2010,8 +2014,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 781",
-        "Git 상위 계정: skarndaudwls1(699), skarndaudwls1(65), gosky(4)"
+        "Git 커밋 수: 792",
+        "Git 상위 계정: skarndaudwls1(706), skarndaudwls1(65), gosky(4)"
       ]
     },
     {
@@ -2178,7 +2182,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 886,
+        "commitCount": 890,
         "authors": [
           {
             "count": 1400,
@@ -2192,13 +2196,13 @@
           },
           {
             "count": 10,
-            "name": "YUNA0222",
-            "email": "89885846+yuna0222@users.noreply.github.com"
-          },
-          {
-            "count": 6,
             "name": "gosky",
             "email": "gosky@gosky.kr"
+          },
+          {
+            "count": 10,
+            "name": "YUNA0222",
+            "email": "89885846+yuna0222@users.noreply.github.com"
           },
           {
             "count": 6,
@@ -2207,13 +2211,13 @@
           }
         ],
         "latestCommit": {
-          "hash": "dc04d2d",
-          "author": "yuna0222",
-          "email": "gold8077@gmail.com",
-          "date": "2026-09-28T20:45:59+09:00",
-          "subject": "Merge pull request #25 from Dongyang-Mirae-University-software/feature/camera-design"
+          "hash": "fe564ee",
+          "author": "gosky",
+          "email": "gosky@gosky.kr",
+          "date": "2026-09-30T16:17:34+09:00",
+          "subject": "Chore: dev compose 재시작 안정화(npm ci 스킵, healthcheck, 메모리 상한) 및 core 덤프 ignore"
         },
-        "summary": "총 886개 커밋, 상위 계정: YUNA0222(1400), yuna0222(135), YUNA0222(10), 최근: Merge pull request #25 from Dongyang-Mirae-University-software/feature/camera-design"
+        "summary": "총 890개 커밋, 상위 계정: YUNA0222(1400), yuna0222(135), gosky(10), 최근: Chore: dev compose 재시작 안정화(npm ci 스킵, healthcheck, 메모리 상한) 및 core 덤프 ignore"
       },
       "recentFiles": [
         {
@@ -2254,8 +2258,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 886",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(135), YUNA0222(10)"
+        "Git 커밋 수: 890",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(135), gosky(10)"
       ]
     },
     {
