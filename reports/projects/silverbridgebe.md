@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-10-01 08:41:29 KST
+- 점검 시각: 2026-10-01 09:11:35 KST
 
 ## 추정 기술 스택
 
@@ -59,7 +59,7 @@
 - 브랜치: dev
 - 총 커밋 수: 792
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 706
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 707
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
 - 최근 커밋: fcb0a7f / namgung <skarndaudwls@gmail.com> / Merge pull request #265 from Dongyang-Mirae-University-software/fix/close-db-redis-ports
@@ -82,4 +82,4 @@
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
 - Git 커밋 수: 792
-- Git 상위 계정: skarndaudwls1(706), skarndaudwls1(65), gosky(4)
+- Git 상위 계정: skarndaudwls1(707), skarndaudwls1(65), gosky(4)
