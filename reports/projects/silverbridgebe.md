@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-10-02 17:32:05 KST
+- 점검 시각: 2026-10-02 18:02:10 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 171
+- 파일 개수: 173
 - 디렉토리 개수: 33
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/integrationTest, src/integrationTest/java, src/integrationTest/java/kr, src/integrationTest/java/kr/silverbridge, src/integrationTest/java/kr/silverbridge/main, src/integrationTest/java/kr/silverbridge/main/domain, src/integrationTest/java/kr/silverbridge/main/migration, src/integrationTest/java/kr/silverbridge/main/support, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration, src/test
@@ -57,24 +57,24 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 819
+- 총 커밋 수: 837
 - 계정별 커밋 수:
   - skarndaudwls1 <skarndaudwls@gmail.com>: 708
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
-  - namgung <skarndaudwls@gmail.com>: 12
+  - namgung <skarndaudwls@gmail.com>: 22
   - gosky <lovesky00317@gmail.com>: 4
-- 최근 커밋: 3711df5 / namgung <skarndaudwls@gmail.com> / Merge pull request #277 from Dongyang-Mirae-University-software/fix/qa-be-anomaly
+- 최근 커밋: 23e6026 / namgung <skarndaudwls@gmail.com> / Merge pull request #285 from Dongyang-Mirae-University-software/fix/qa-be-redis-policy
 
 ## 최근 수정 파일
 
+- docs/progress.md (2026-10-02 17:58:43 KST)
+- CLAUDE.md (2026-10-02 17:58:43 KST)
+- docker-compose.dev.yml (2026-10-02 17:58:43 KST)
+- docs/(2026-10-02) fix-qa-be-issues.md (2026-10-02 17:58:43 KST)
+- docs/(2026-10-02) infra-redis-eviction-policy.md (2026-10-02 17:58:43 KST)
+- docs/(2026-09-21) policy-change-anomaly-majority-review.md (2026-10-02 17:36:52 KST)
 - src/main/resources/db/migration/V56__announcement_updated_at_trigger_on_content_change.sql (2026-10-02 17:24:07 KST)
 - src/main/resources/db/migration/V55__normalize_user_email_lowercase.sql (2026-10-02 17:24:07 KST)
-- src/main/resources/application.yaml (2026-10-02 16:46:38 KST)
-- 프로젝트_설명.txt (2026-10-01 10:37:24 KST)
-- CLAUDE.md (2026-10-01 10:37:24 KST)
-- docs/(2026-09-30) audit-full-2026-09.md (2026-10-01 10:37:24 KST)
-- docs/(2026-10-01) fix-qa-be-issues.md (2026-10-01 10:37:24 KST)
-- docs/audit-index.md (2026-10-01 10:37:24 KST)
 
 ## 점검 결과 요약
 
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 819
-- Git 상위 계정: skarndaudwls1(708), skarndaudwls1(65), namgung(12)
+- Git 커밋 수: 837
+- Git 상위 계정: skarndaudwls1(708), skarndaudwls1(65), namgung(22)
