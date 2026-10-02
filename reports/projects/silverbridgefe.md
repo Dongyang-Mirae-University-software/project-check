@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-02 15:01:39 KST
+- 점검 시각: 2026-10-02 15:31:45 KST
 
 ## 추정 기술 스택
 
@@ -37,7 +37,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 346
+- 파일 개수: 347
 - 디렉토리 개수: 113
 - 주요 폴더: docs, public, src
 - 주요 경로: public, public/images, src, src/app, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/auth, src/app/(auth)/auth/kakao, src/app/(auth)/auth/kakao/callback, src/app/(auth)/find-email, src/app/(auth)/find-email/_components, src/app/(auth)/find-email/_hooks, src/app/(auth)/find-password, src/app/(auth)/find-password/_components, src/app/(auth)/find-password/_hooks, src/app/(auth)/login, src/app/(auth)/login/_components, src/app/(auth)/signup, src/app/(auth)/signup/_components, src/app/(guardian)
@@ -69,6 +69,7 @@
 
 ## 최근 수정 파일
 
+- docker-compose.dev.yml (2026-10-02 15:07:41 KST)
 - tsconfig.tsbuildinfo (2026-09-30 09:57:20 KST)
 - src/app/(guardian)/guardian/chatbot/_components/GuardianChatContent.module.css (2026-09-30 09:57:18 KST)
 - src/app/(guardian)/guardian/chatbot/_components/GuardianChatContent.tsx (2026-09-30 09:57:18 KST)
@@ -76,7 +77,6 @@
 - src/service/interface/chat.ts (2026-09-30 09:39:11 KST)
 - src/app/(ward)/ward/_components/WardHomeContent.module.css (2026-09-29 12:01:30 KST)
 - src/app/(ward)/ward/_components/WardHomeContent.tsx (2026-09-29 12:01:30 KST)
-- src/constants/dashboard.ts (2026-09-29 11:59:24 KST)
 
 ## 점검 결과 요약
 
