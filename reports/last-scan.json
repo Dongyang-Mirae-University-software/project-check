@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-02T07:31:53.360Z",
-  "generatedAtKst": "2026-10-02 16:31:53 KST",
+  "generatedAt": "2026-10-02T08:01:58.376Z",
+  "generatedAtKst": "2026-10-02 17:01:58 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6924
+          "count": 6925
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 6944
+      "count": 6945
     },
     {
       "name": "YUNA0222",
@@ -79,6 +79,16 @@
         }
       ],
       "count": 135
+    },
+    {
+      "name": "namgung",
+      "emails": [
+        {
+          "email": "skarndaudwls@gmail.com",
+          "count": 7
+        }
+      ],
+      "count": 7
     }
   ],
   "projects": [
@@ -1242,22 +1252,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6787,
+        "commitCount": 6788,
         "authors": [
           {
-            "count": 6787,
+            "count": 6788,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "24627390e",
+          "hash": "25afa5ccd",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-02T16:01:51+09:00",
+          "date": "2026-10-02T16:31:56+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6787개 커밋, 상위 계정: gosky(6787), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6788개 커밋, 상위 계정: gosky(6788), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1298,8 +1308,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6787",
-        "Git 상위 계정: gosky(6787)"
+        "Git 커밋 수: 6788",
+        "Git 상위 계정: gosky(6788)"
       ]
     },
     {
@@ -1948,7 +1958,7 @@
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 795,
+        "commitCount": 809,
         "authors": [
           {
             "count": 708,
@@ -1961,27 +1971,32 @@
             "email": "skarndaudwls1@gmail.com"
           },
           {
+            "count": 7,
+            "name": "namgung",
+            "email": "skarndaudwls@gmail.com"
+          },
+          {
             "count": 4,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "4976511",
+          "hash": "1b9ea33",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-10-01T10:36:57+09:00",
-          "subject": "Merge pull request #266 from Dongyang-Mirae-University-software/fix/qa-be-issues"
+          "date": "2026-10-02T16:59:38+09:00",
+          "subject": "Merge pull request #273 from Dongyang-Mirae-University-software/fix/qa-be-connection"
         },
-        "summary": "총 795개 커밋, 상위 계정: skarndaudwls1(708), skarndaudwls1(65), gosky(4), 최근: Merge pull request #266 from Dongyang-Mirae-University-software/fix/qa-be-issues"
+        "summary": "총 809개 커밋, 상위 계정: skarndaudwls1(708), skarndaudwls1(65), namgung(7), 최근: Merge pull request #273 from Dongyang-Mirae-University-software/fix/qa-be-connection"
       },
       "recentFiles": [
         {
-          "path": "프로젝트_설명.txt",
-          "modifiedAt": "2026-10-01T01:37:24.118Z"
+          "path": "src/main/resources/application.yaml",
+          "modifiedAt": "2026-10-02T07:46:38.408Z"
         },
         {
-          "path": "src/main/resources/application.yaml",
+          "path": "프로젝트_설명.txt",
           "modifiedAt": "2026-10-01T01:37:24.118Z"
         },
         {
@@ -2014,8 +2029,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 795",
-        "Git 상위 계정: skarndaudwls1(708), skarndaudwls1(65), gosky(4)"
+        "Git 커밋 수: 809",
+        "Git 상위 계정: skarndaudwls1(708), skarndaudwls1(65), namgung(7)"
       ]
     },
     {
@@ -3655,7 +3670,7 @@
           {
             "name": "whitehouse-b-app",
             "image": "whitehousebeljh-app",
-            "status": "Up About an hour",
+            "status": "Up 2 hours",
             "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
           }
         ],
@@ -3884,7 +3899,7 @@
           {
             "name": "whitehouse-b-app",
             "image": "whitehousebeljh-app",
-            "status": "Up About an hour",
+            "status": "Up 2 hours",
             "ports": "0.0.0.0:6702->9090/tcp, [::]:6702->9090/tcp"
           }
         ],
@@ -3936,35 +3951,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000038",
-          "modifiedAt": "2026-10-02T07:19:23.838Z"
+          "modifiedAt": "2026-10-02T07:59:23.053Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-10-02T07:19:18.034Z"
+          "modifiedAt": "2026-10-02T07:59:18.649Z"
         },
         {
           "path": "data/postgres/base/16384/16401",
-          "modifiedAt": "2026-10-02T07:19:17.930Z"
+          "modifiedAt": "2026-10-02T07:59:18.545Z"
         },
         {
           "path": "data/postgres/base/16384/16400",
-          "modifiedAt": "2026-10-02T07:19:17.830Z"
+          "modifiedAt": "2026-10-02T07:59:18.245Z"
         },
         {
           "path": "data/postgres/base/16384/16399",
-          "modifiedAt": "2026-10-02T07:19:17.730Z"
+          "modifiedAt": "2026-10-02T07:59:18.145Z"
         },
         {
           "path": "data/postgres/base/16384/16397",
-          "modifiedAt": "2026-10-02T07:19:17.630Z"
+          "modifiedAt": "2026-10-02T07:59:18.045Z"
         },
         {
           "path": "data/postgres/base/16384/16395",
-          "modifiedAt": "2026-10-02T07:19:17.530Z"
+          "modifiedAt": "2026-10-02T07:59:17.745Z"
         },
         {
           "path": "data/postgres/base/16384/16386",
-          "modifiedAt": "2026-10-02T07:19:17.430Z"
+          "modifiedAt": "2026-10-02T07:59:17.645Z"
         }
       ],
       "summary": [
