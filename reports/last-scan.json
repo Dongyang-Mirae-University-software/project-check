@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-02T09:02:08.756Z",
-  "generatedAtKst": "2026-10-02 18:02:08 KST",
+  "generatedAt": "2026-10-02T09:32:13.836Z",
+  "generatedAtKst": "2026-10-02 18:32:13 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6927
+          "count": 6928
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 6947
+      "count": 6948
     },
     {
       "name": "YUNA0222",
@@ -85,10 +85,10 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 22
+          "count": 26
         }
       ],
-      "count": 22
+      "count": 26
     }
   ],
   "projects": [
@@ -621,19 +621,19 @@
           {
             "name": "chatsilverbridge-api-1",
             "image": "chatsilverbridge-api",
-            "status": "Up 3 hours",
+            "status": "Up 4 hours",
             "ports": "0.0.0.0:6012->6012/tcp, [::]:6012->6012/tcp"
           },
           {
             "name": "chatsilverbridge-mysql-1",
             "image": "mysql:8.0",
-            "status": "Up 3 hours (healthy)",
+            "status": "Up 4 hours (healthy)",
             "ports": "33060/tcp, 0.0.0.0:3307->3306/tcp, [::]:3307->3306/tcp"
           },
           {
             "name": "chatsilverbridgetest-web-1",
             "image": "chatsilverbridgetest-web",
-            "status": "Up 3 hours",
+            "status": "Up 4 hours",
             "ports": "0.0.0.0:6516->6516/tcp, [::]:6516->6516/tcp"
           }
         ],
@@ -833,7 +833,7 @@
           {
             "name": "chatsilverbridgetest-web-1",
             "image": "chatsilverbridgetest-web",
-            "status": "Up 3 hours",
+            "status": "Up 4 hours",
             "ports": "0.0.0.0:6516->6516/tcp, [::]:6516->6516/tcp"
           }
         ],
@@ -1252,22 +1252,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6790,
+        "commitCount": 6791,
         "authors": [
           {
-            "count": 6790,
+            "count": 6791,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "62653d3a7",
+          "hash": "ef10a0922",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-02T17:32:07+09:00",
+          "date": "2026-10-02T18:02:12+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6790개 커밋, 상위 계정: gosky(6790), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6791개 커밋, 상위 계정: gosky(6791), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1308,8 +1308,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6790",
-        "Git 상위 계정: gosky(6790)"
+        "Git 커밋 수: 6791",
+        "Git 상위 계정: gosky(6791)"
       ]
     },
     {
@@ -1452,7 +1452,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 3 hours",
+            "status": "Up 4 hours",
             "ports": ""
           }
         ],
@@ -1688,7 +1688,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 3 hours",
+            "status": "Up 4 hours",
             "ports": ""
           }
         ],
@@ -1875,7 +1875,7 @@
         }
       ],
       "structure": {
-        "fileCount": 173,
+        "fileCount": 174,
         "dirCount": 33,
         "mainFolders": [
           "db",
@@ -1958,7 +1958,7 @@
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 837,
+        "commitCount": 845,
         "authors": [
           {
             "count": 708,
@@ -1971,7 +1971,7 @@
             "email": "skarndaudwls1@gmail.com"
           },
           {
-            "count": 22,
+            "count": 26,
             "name": "namgung",
             "email": "skarndaudwls@gmail.com"
           },
@@ -1982,29 +1982,37 @@
           }
         ],
         "latestCommit": {
-          "hash": "23e6026",
+          "hash": "d5b05c0",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-10-02T17:57:49+09:00",
-          "subject": "Merge pull request #285 from Dongyang-Mirae-University-software/fix/qa-be-redis-policy"
+          "date": "2026-10-02T18:11:19+09:00",
+          "subject": "Merge pull request #289 from Dongyang-Mirae-University-software/docs/qa-be-p15-p16"
         },
-        "summary": "총 837개 커밋, 상위 계정: skarndaudwls1(708), skarndaudwls1(65), namgung(22), 최근: Merge pull request #285 from Dongyang-Mirae-University-software/fix/qa-be-redis-policy"
+        "summary": "총 845개 커밋, 상위 계정: skarndaudwls1(708), skarndaudwls1(65), namgung(26), 최근: Merge pull request #289 from Dongyang-Mirae-University-software/docs/qa-be-p15-p16"
       },
       "recentFiles": [
         {
-          "path": "docs/progress.md",
-          "modifiedAt": "2026-10-02T08:58:43.398Z"
-        },
-        {
           "path": "CLAUDE.md",
-          "modifiedAt": "2026-10-02T08:58:43.394Z"
-        },
-        {
-          "path": "docker-compose.dev.yml",
-          "modifiedAt": "2026-10-02T08:58:43.394Z"
+          "modifiedAt": "2026-10-02T09:12:55.497Z"
         },
         {
           "path": "docs/(2026-10-02) fix-qa-be-issues.md",
+          "modifiedAt": "2026-10-02T09:12:55.497Z"
+        },
+        {
+          "path": "docs/progress.md",
+          "modifiedAt": "2026-10-02T09:12:55.497Z"
+        },
+        {
+          "path": "src/main/resources/application.yaml",
+          "modifiedAt": "2026-10-02T09:08:28.235Z"
+        },
+        {
+          "path": "docs/(2026-10-02) design-refresh-token-httponly-cookie.md",
+          "modifiedAt": "2026-10-02T09:05:11.172Z"
+        },
+        {
+          "path": "docker-compose.dev.yml",
           "modifiedAt": "2026-10-02T08:58:43.394Z"
         },
         {
@@ -2014,14 +2022,6 @@
         {
           "path": "docs/(2026-09-21) policy-change-anomaly-majority-review.md",
           "modifiedAt": "2026-10-02T08:36:52.007Z"
-        },
-        {
-          "path": "src/main/resources/db/migration/V56__announcement_updated_at_trigger_on_content_change.sql",
-          "modifiedAt": "2026-10-02T08:24:07.673Z"
-        },
-        {
-          "path": "src/main/resources/db/migration/V55__normalize_user_email_lowercase.sql",
-          "modifiedAt": "2026-10-02T08:24:07.669Z"
         }
       ],
       "summary": [
@@ -2029,8 +2029,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 837",
-        "Git 상위 계정: skarndaudwls1(708), skarndaudwls1(65), namgung(22)"
+        "Git 커밋 수: 845",
+        "Git 상위 계정: skarndaudwls1(708), skarndaudwls1(65), namgung(26)"
       ]
     },
     {
@@ -2614,7 +2614,7 @@
           {
             "name": "silverbridgereservation-reservation-api-1",
             "image": "silverbridgereservation-reservation-api",
-            "status": "Up 3 hours",
+            "status": "Up 4 hours",
             "ports": "0.0.0.0:6015->6015/tcp, [::]:6015->6015/tcp"
           }
         ],
@@ -3658,13 +3658,13 @@
           {
             "name": "whitehousebe-api-1",
             "image": "whitehousebe-api",
-            "status": "Up 3 hours",
+            "status": "Up 4 hours",
             "ports": "0.0.0.0:6701->6701/tcp, [::]:6701->6701/tcp"
           },
           {
             "name": "whitehousebe-db-1",
             "image": "postgres:16",
-            "status": "Up 3 hours (healthy)",
+            "status": "Up 4 hours (healthy)",
             "ports": "0.0.0.0:6705->5432/tcp, [::]:6705->5432/tcp"
           },
           {
@@ -3951,35 +3951,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000038",
-          "modifiedAt": "2026-10-02T08:59:21.281Z"
+          "modifiedAt": "2026-10-02T09:30:04.313Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-10-02T08:59:18.477Z"
+          "modifiedAt": "2026-10-02T09:19:18.289Z"
         },
         {
           "path": "data/postgres/base/16384/16401",
-          "modifiedAt": "2026-10-02T08:59:18.373Z"
+          "modifiedAt": "2026-10-02T09:19:18.185Z"
         },
         {
           "path": "data/postgres/base/16384/16400",
-          "modifiedAt": "2026-10-02T08:59:18.273Z"
+          "modifiedAt": "2026-10-02T09:19:18.085Z"
         },
         {
           "path": "data/postgres/base/16384/16399",
-          "modifiedAt": "2026-10-02T08:59:18.173Z"
+          "modifiedAt": "2026-10-02T09:19:17.985Z"
         },
         {
           "path": "data/postgres/base/16384/16397",
-          "modifiedAt": "2026-10-02T08:59:18.073Z"
+          "modifiedAt": "2026-10-02T09:19:17.885Z"
         },
         {
           "path": "data/postgres/base/16384/16395",
-          "modifiedAt": "2026-10-02T08:59:17.973Z"
+          "modifiedAt": "2026-10-02T09:19:17.785Z"
         },
         {
           "path": "data/postgres/base/16384/16386",
-          "modifiedAt": "2026-10-02T08:59:17.873Z"
+          "modifiedAt": "2026-10-02T09:19:17.685Z"
         }
       ],
       "summary": [
@@ -4131,7 +4131,7 @@
           {
             "name": "whitehousefe-web",
             "image": "whitehousefe-web",
-            "status": "Up 3 hours",
+            "status": "Up 4 hours",
             "ports": "0.0.0.0:6700->3000/tcp, [::]:6700->3000/tcp"
           }
         ],
