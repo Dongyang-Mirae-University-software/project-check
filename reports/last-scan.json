@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-03T15:37:35.551Z",
-  "generatedAtKst": "2026-10-04 24:37:35 KST",
+  "generatedAt": "2026-10-03T16:07:40.455Z",
+  "generatedAtKst": "2026-10-04 01:07:40 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 6988
+          "count": 6989
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7008
+      "count": 7009
     },
     {
       "name": "YUNA0222",
@@ -85,10 +85,10 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 34
+          "count": 36
         }
       ],
-      "count": 34
+      "count": 36
     }
   ],
   "projects": [
@@ -1252,22 +1252,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6851,
+        "commitCount": 6852,
         "authors": [
           {
-            "count": 6851,
+            "count": 6852,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "99164e3d6",
+          "hash": "e3027121c",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-04T00:07:33+09:00",
+          "date": "2026-10-04T00:37:38+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6851개 커밋, 상위 계정: gosky(6851), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6852개 커밋, 상위 계정: gosky(6852), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1308,8 +1308,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6851",
-        "Git 상위 계정: gosky(6851)"
+        "Git 커밋 수: 6852",
+        "Git 상위 계정: gosky(6852)"
       ]
     },
     {
@@ -1875,7 +1875,7 @@
         }
       ],
       "structure": {
-        "fileCount": 175,
+        "fileCount": 176,
         "dirCount": 33,
         "mainFolders": [
           "db",
@@ -1958,7 +1958,7 @@
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 848,
+        "commitCount": 851,
         "authors": [
           {
             "count": 708,
@@ -1971,7 +1971,7 @@
             "email": "skarndaudwls1@gmail.com"
           },
           {
-            "count": 34,
+            "count": 36,
             "name": "namgung",
             "email": "skarndaudwls@gmail.com"
           },
@@ -1982,15 +1982,31 @@
           }
         ],
         "latestCommit": {
-          "hash": "ea3d7b8",
+          "hash": "300408e",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-10-03T22:12:01+09:00",
-          "subject": "Merge pull request #290 from Dongyang-Mirae-University-software/feature/camera-stream-relay"
+          "date": "2026-10-04T01:04:05+09:00",
+          "subject": "Merge pull request #291 from Dongyang-Mirae-University-software/fix/camera-stream-audit"
         },
-        "summary": "총 848개 커밋, 상위 계정: skarndaudwls1(708), skarndaudwls1(65), namgung(34), 최근: Merge pull request #290 from Dongyang-Mirae-University-software/feature/camera-stream-relay"
+        "summary": "총 851개 커밋, 상위 계정: skarndaudwls1(708), skarndaudwls1(65), namgung(36), 최근: Merge pull request #291 from Dongyang-Mirae-University-software/fix/camera-stream-audit"
       },
       "recentFiles": [
+        {
+          "path": "docs/(2026-10-03) audit-impact-ai-stream-relay.md",
+          "modifiedAt": "2026-10-03T16:04:16.874Z"
+        },
+        {
+          "path": "docs/(2026-10-03) feature-ai-stream-relay.md",
+          "modifiedAt": "2026-10-03T16:04:16.874Z"
+        },
+        {
+          "path": "docs/audit-index.md",
+          "modifiedAt": "2026-10-03T16:04:16.874Z"
+        },
+        {
+          "path": "docs/progress.md",
+          "modifiedAt": "2026-10-03T16:04:16.874Z"
+        },
         {
           "path": "src/main/resources/application.yaml",
           "modifiedAt": "2026-10-03T13:13:03.852Z"
@@ -2000,28 +2016,12 @@
           "modifiedAt": "2026-10-03T13:13:03.848Z"
         },
         {
-          "path": "docs/(2026-10-03) feature-ai-stream-relay.md",
-          "modifiedAt": "2026-10-03T13:13:03.848Z"
-        },
-        {
-          "path": "docs/audit-index.md",
-          "modifiedAt": "2026-10-03T13:13:03.848Z"
-        },
-        {
-          "path": "docs/progress.md",
-          "modifiedAt": "2026-10-03T13:13:03.848Z"
-        },
-        {
           "path": "docs/(2026-10-02) fix-qa-be-issues.md",
           "modifiedAt": "2026-10-02T09:12:55.497Z"
         },
         {
           "path": "docs/(2026-10-02) design-refresh-token-httponly-cookie.md",
           "modifiedAt": "2026-10-02T09:05:11.172Z"
-        },
-        {
-          "path": "docker-compose.dev.yml",
-          "modifiedAt": "2026-10-02T08:58:43.394Z"
         }
       ],
       "summary": [
@@ -2029,8 +2029,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 848",
-        "Git 상위 계정: skarndaudwls1(708), skarndaudwls1(65), namgung(34)"
+        "Git 커밋 수: 851",
+        "Git 상위 계정: skarndaudwls1(708), skarndaudwls1(65), namgung(36)"
       ]
     },
     {
