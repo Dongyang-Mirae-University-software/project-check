@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-04 14:39:59 KST
+- 점검 시각: 2026-10-04 15:10:04 KST
 
 ## 추정 기술 스택
 
@@ -44,7 +44,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 1463
+- 파일 개수: 1464
 - 디렉토리 개수: 51
 - 주요 폴더: app, data, docs, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, tests
@@ -65,23 +65,23 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 44
+- 총 커밋 수: 45
 - 계정별 커밋 수:
   - gosky <lovesky00317@gmail.com>: 37
   - gosky <gosky@gosky.kr>: 5
-  - namgung <skarndaudwls@gmail.com>: 2
-- 최근 커밋: 5046436 / namgung <skarndaudwls@gmail.com> / docs: 클립 계약서에 백엔드 클라이언트 대조 결과 추가
+  - namgung <skarndaudwls@gmail.com>: 3
+- 최근 커밋: ae64cad / namgung <skarndaudwls@gmail.com> / fix: 프레임 수신의 YOLO 추론을 이벤트 루프 밖 전용 스레드로 이동
 
 ## 최근 수정 파일
 
+- app/routers/live_stream_router.py (2026-10-04 15:03:43 KST)
+- app/services/stream_session_service.py (2026-10-04 15:03:43 KST)
+- tests/test_stream_analysis_offload.py (2026-10-04 15:03:43 KST)
 - .env.example (2026-10-04 01:39:43 KST)
 - app/core/config.py (2026-10-04 01:39:43 KST)
 - app/routers/health_router.py (2026-10-04 01:39:43 KST)
-- app/routers/live_stream_router.py (2026-10-04 01:39:43 KST)
 - app/schemas/clip_schema.py (2026-10-04 01:39:43 KST)
 - app/services/clip_buffer.py (2026-10-04 01:39:43 KST)
-- app/services/clip_service.py (2026-10-04 01:39:43 KST)
-- app/services/stream_session_service.py (2026-10-04 01:39:43 KST)
 
 ## 점검 결과 요약
 
@@ -89,5 +89,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 44
-- Git 상위 계정: gosky(37), gosky(5), namgung(2)
+- Git 커밋 수: 45
+- Git 상위 계정: gosky(37), gosky(5), namgung(3)
