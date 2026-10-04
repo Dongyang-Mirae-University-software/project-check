@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-04 16:40:20 KST
+- 점검 시각: 2026-10-04 17:10:25 KST
 
 ## 추정 기술 스택
 
@@ -44,7 +44,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 1464
+- 파일 개수: 1463
 - 디렉토리 개수: 51
 - 주요 폴더: app, data, docs, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, tests
@@ -53,7 +53,7 @@
 
 - 사용 여부: 예
 - 연결 추정 DB: PostgreSQL, SQLite
-- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 112개 확인, DB 관련 파일 3개 확인, 추정 DB: PostgreSQL, SQLite
+- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 113개 확인, DB 관련 파일 4개 확인, 추정 DB: PostgreSQL, SQLite
 
 ## 실행 상태
 
@@ -65,23 +65,23 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 45
+- 총 커밋 수: 46
 - 계정별 커밋 수:
   - gosky <lovesky00317@gmail.com>: 37
   - gosky <gosky@gosky.kr>: 5
-  - namgung <skarndaudwls@gmail.com>: 3
-- 최근 커밋: ae64cad / namgung <skarndaudwls@gmail.com> / fix: 프레임 수신의 YOLO 추론을 이벤트 루프 밖 전용 스레드로 이동
+  - namgung <skarndaudwls@gmail.com>: 4
+- 최근 커밋: 99d44e0 / namgung <skarndaudwls@gmail.com> / fix: QA AI-1·2·3 - 세션 방송 유실, API 키 노출 완화, 문자열 회원 ID
 
 ## 최근 수정 파일
 
-- app/routers/live_stream_router.py (2026-10-04 15:03:43 KST)
-- app/services/stream_session_service.py (2026-10-04 15:03:43 KST)
-- tests/test_stream_analysis_offload.py (2026-10-04 15:03:43 KST)
-- .env.example (2026-10-04 01:39:43 KST)
-- app/core/config.py (2026-10-04 01:39:43 KST)
-- app/routers/health_router.py (2026-10-04 01:39:43 KST)
-- app/schemas/clip_schema.py (2026-10-04 01:39:43 KST)
-- app/services/clip_buffer.py (2026-10-04 01:39:43 KST)
+- data/postgres/pg_wal/000000010000000000000001 (2026-10-04 16:47:33 KST)
+- data/postgres/global/pg_control (2026-10-04 16:47:32 KST)
+- data/postgres/base/16384/32950 (2026-10-04 16:47:32 KST)
+- data/postgres/base/16384/32939 (2026-10-04 16:47:32 KST)
+- data/postgres/base/16384/32938 (2026-10-04 16:47:32 KST)
+- data/postgres/base/16384/32935 (2026-10-04 16:47:32 KST)
+- data/postgres/base/16384/3455 (2026-10-04 16:47:28 KST)
+- data/postgres/base/16384/2704 (2026-10-04 16:47:28 KST)
 
 ## 점검 결과 요약
 
@@ -89,5 +89,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 45
-- Git 상위 계정: gosky(37), gosky(5), namgung(3)
+- Git 커밋 수: 46
+- Git 상위 계정: gosky(37), gosky(5), namgung(4)

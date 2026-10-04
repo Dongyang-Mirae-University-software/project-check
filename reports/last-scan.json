@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-04T07:40:18.301Z",
-  "generatedAtKst": "2026-10-04 16:40:18 KST",
+  "generatedAt": "2026-10-04T08:10:23.382Z",
+  "generatedAtKst": "2026-10-04 17:10:23 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7020
+          "count": 7021
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7040
+      "count": 7041
     },
     {
       "name": "YUNA0222",
@@ -85,10 +85,10 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 50
+          "count": 51
         }
       ],
-      "count": 50
+      "count": 51
     }
   ],
   "projects": [
@@ -1252,22 +1252,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6883,
+        "commitCount": 6884,
         "authors": [
           {
-            "count": 6883,
+            "count": 6884,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "9f43dc2bd",
+          "hash": "62802c678",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-04T16:10:16+09:00",
+          "date": "2026-10-04T16:40:21+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6883개 커밋, 상위 계정: gosky(6883), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6884개 커밋, 상위 계정: gosky(6884), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1308,8 +1308,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6883",
-        "Git 상위 계정: gosky(6883)"
+        "Git 커밋 수: 6884",
+        "Git 상위 계정: gosky(6884)"
       ]
     },
     {
@@ -1452,7 +1452,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 2 hours",
+            "status": "Up 27 minutes",
             "ports": ""
           }
         ],
@@ -1638,7 +1638,7 @@
         }
       ],
       "structure": {
-        "fileCount": 1464,
+        "fileCount": 1463,
         "dirCount": 51,
         "mainFolders": [
           "app",
@@ -1670,13 +1670,14 @@
         "clueFiles": [
           "app/database/__init__.py",
           "app/database/base.py",
+          "app/database/schema_upgrades.py",
           "app/database/session.py"
         ],
         "evidence": [
           "docker-compose.yml 확인",
           "requirements.txt 확인",
-          ".env 키 112개 확인",
-          "DB 관련 파일 3개 확인",
+          ".env 키 113개 확인",
+          "DB 관련 파일 4개 확인",
           "추정 DB: PostgreSQL, SQLite"
         ],
         "summary": "PostgreSQL, SQLite 사용 추정"
@@ -1689,7 +1690,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 2 hours",
+            "status": "Up 27 minutes",
             "ports": ""
           }
         ],
@@ -1719,7 +1720,7 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 45,
+        "commitCount": 46,
         "authors": [
           {
             "count": 37,
@@ -1732,52 +1733,52 @@
             "email": "gosky@gosky.kr"
           },
           {
-            "count": 3,
+            "count": 4,
             "name": "namgung",
             "email": "skarndaudwls@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "ae64cad",
+          "hash": "99d44e0",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-10-04T14:47:43+09:00",
-          "subject": "fix: 프레임 수신의 YOLO 추론을 이벤트 루프 밖 전용 스레드로 이동"
+          "date": "2026-10-04T16:41:15+09:00",
+          "subject": "fix: QA AI-1·2·3 - 세션 방송 유실, API 키 노출 완화, 문자열 회원 ID"
         },
-        "summary": "총 45개 커밋, 상위 계정: gosky(37), gosky(5), namgung(3), 최근: fix: 프레임 수신의 YOLO 추론을 이벤트 루프 밖 전용 스레드로 이동"
+        "summary": "총 46개 커밋, 상위 계정: gosky(37), gosky(5), namgung(4), 최근: fix: QA AI-1·2·3 - 세션 방송 유실, API 키 노출 완화, 문자열 회원 ID"
       },
       "recentFiles": [
         {
-          "path": "app/routers/live_stream_router.py",
-          "modifiedAt": "2026-10-04T06:03:43.085Z"
+          "path": "data/postgres/pg_wal/000000010000000000000001",
+          "modifiedAt": "2026-10-04T07:47:33.373Z"
         },
         {
-          "path": "app/services/stream_session_service.py",
-          "modifiedAt": "2026-10-04T06:03:43.085Z"
+          "path": "data/postgres/global/pg_control",
+          "modifiedAt": "2026-10-04T07:47:32.773Z"
         },
         {
-          "path": "tests/test_stream_analysis_offload.py",
-          "modifiedAt": "2026-10-04T06:03:43.085Z"
+          "path": "data/postgres/base/16384/32950",
+          "modifiedAt": "2026-10-04T07:47:32.669Z"
         },
         {
-          "path": ".env.example",
-          "modifiedAt": "2026-10-03T16:39:43.386Z"
+          "path": "data/postgres/base/16384/32939",
+          "modifiedAt": "2026-10-04T07:47:32.569Z"
         },
         {
-          "path": "app/core/config.py",
-          "modifiedAt": "2026-10-03T16:39:43.386Z"
+          "path": "data/postgres/base/16384/32938",
+          "modifiedAt": "2026-10-04T07:47:32.369Z"
         },
         {
-          "path": "app/routers/health_router.py",
-          "modifiedAt": "2026-10-03T16:39:43.386Z"
+          "path": "data/postgres/base/16384/32935",
+          "modifiedAt": "2026-10-04T07:47:32.169Z"
         },
         {
-          "path": "app/schemas/clip_schema.py",
-          "modifiedAt": "2026-10-03T16:39:43.386Z"
+          "path": "data/postgres/base/16384/3455",
+          "modifiedAt": "2026-10-04T07:47:28.965Z"
         },
         {
-          "path": "app/services/clip_buffer.py",
-          "modifiedAt": "2026-10-03T16:39:43.386Z"
+          "path": "data/postgres/base/16384/2704",
+          "modifiedAt": "2026-10-04T07:47:28.865Z"
         }
       ],
       "summary": [
@@ -1785,8 +1786,8 @@
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI",
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 45",
-        "Git 상위 계정: gosky(37), gosky(5), namgung(3)"
+        "Git 커밋 수: 46",
+        "Git 상위 계정: gosky(37), gosky(5), namgung(4)"
       ]
     },
     {
