@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-05T10:14:49.828Z",
-  "generatedAtKst": "2026-10-05 19:14:49 KST",
+  "generatedAt": "2026-10-05T10:44:55.258Z",
+  "generatedAtKst": "2026-10-05 19:44:55 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7073
+          "count": 7074
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7093
+      "count": 7094
     },
     {
       "name": "YUNA0222",
@@ -85,10 +85,10 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 63
+          "count": 64
         }
       ],
-      "count": 63
+      "count": 64
     }
   ],
   "projects": [
@@ -1252,22 +1252,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6936,
+        "commitCount": 6937,
         "authors": [
           {
-            "count": 6936,
+            "count": 6937,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "e10f8a17c",
+          "hash": "dc8aeb2ba",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-05T18:44:47+09:00",
+          "date": "2026-10-05T19:14:53+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6936개 커밋, 상위 계정: gosky(6936), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6937개 커밋, 상위 계정: gosky(6937), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1308,8 +1308,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6936",
-        "Git 상위 계정: gosky(6936)"
+        "Git 커밋 수: 6937",
+        "Git 상위 계정: gosky(6937)"
       ]
     },
     {
@@ -1452,7 +1452,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 2 hours",
+            "status": "Up 3 hours",
             "ports": ""
           }
         ],
@@ -1691,7 +1691,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 2 hours",
+            "status": "Up 3 hours",
             "ports": ""
           }
         ],
@@ -1885,7 +1885,7 @@
         }
       ],
       "structure": {
-        "fileCount": 184,
+        "fileCount": 185,
         "dirCount": 33,
         "mainFolders": [
           "db",
@@ -1970,7 +1970,7 @@
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 882,
+        "commitCount": 884,
         "authors": [
           {
             "count": 708,
@@ -1983,7 +1983,7 @@
             "email": "skarndaudwls1@gmail.com"
           },
           {
-            "count": 56,
+            "count": 57,
             "name": "namgung",
             "email": "skarndaudwls@gmail.com"
           },
@@ -1994,46 +1994,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "c4b709d",
+          "hash": "28e83d2",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-10-05T18:40:19+09:00",
-          "subject": "Merge pull request #301 from Dongyang-Mirae-University-software/fix/client-ip-forwarded-header-unwrap"
+          "date": "2026-10-05T19:25:02+09:00",
+          "subject": "Merge pull request #302 from Dongyang-Mirae-University-software/fix/sos-notify-cooldown-10s"
         },
-        "summary": "총 882개 커밋, 상위 계정: skarndaudwls1(708), skarndaudwls1(65), namgung(56), 최근: Merge pull request #301 from Dongyang-Mirae-University-software/fix/client-ip-forwarded-header-unwrap"
+        "summary": "총 884개 커밋, 상위 계정: skarndaudwls1(708), skarndaudwls1(65), namgung(57), 최근: Merge pull request #302 from Dongyang-Mirae-University-software/fix/sos-notify-cooldown-10s"
       },
       "recentFiles": [
         {
           "path": "프로젝트_설명.txt",
-          "modifiedAt": "2026-10-05T08:16:00.504Z"
+          "modifiedAt": "2026-10-05T10:27:31.270Z"
+        },
+        {
+          "path": "src/main/resources/application.yaml",
+          "modifiedAt": "2026-10-05T10:27:31.270Z"
+        },
+        {
+          "path": "docs/(2026-09-11) feature-sos-repeat-count-notification.md",
+          "modifiedAt": "2026-10-05T10:27:31.266Z"
+        },
+        {
+          "path": "docs/(2026-09-21) audit-sos-repeat-count.md",
+          "modifiedAt": "2026-10-05T10:27:31.266Z"
+        },
+        {
+          "path": "docs/(2026-10-05) fix-sos-notify-cooldown.md",
+          "modifiedAt": "2026-10-05T10:27:31.266Z"
+        },
+        {
+          "path": "docs/audit-index.md",
+          "modifiedAt": "2026-10-05T10:27:31.266Z"
+        },
+        {
+          "path": "docs/progress.md",
+          "modifiedAt": "2026-10-05T10:27:31.266Z"
         },
         {
           "path": "src/main/resources/db/migration/V58__camera_unique_room_per_ward.sql",
           "modifiedAt": "2026-10-05T08:16:00.504Z"
-        },
-        {
-          "path": "CLAUDE.md",
-          "modifiedAt": "2026-10-05T08:16:00.500Z"
-        },
-        {
-          "path": "docs/(2026-10-05) audit-camera-room-and-ward-status.md",
-          "modifiedAt": "2026-10-05T08:16:00.500Z"
-        },
-        {
-          "path": "docs/(2026-10-05) feature-camera-room-and-ward-status.md",
-          "modifiedAt": "2026-10-05T08:16:00.500Z"
-        },
-        {
-          "path": "docs/audit-index.md",
-          "modifiedAt": "2026-10-05T08:16:00.500Z"
-        },
-        {
-          "path": "docs/progress.md",
-          "modifiedAt": "2026-10-05T08:16:00.500Z"
-        },
-        {
-          "path": "docs/(2026-07-03) design-camera-domain.md",
-          "modifiedAt": "2026-10-05T07:52:40.417Z"
         }
       ],
       "summary": [
@@ -2041,8 +2041,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 882",
-        "Git 상위 계정: skarndaudwls1(708), skarndaudwls1(65), namgung(56)"
+        "Git 커밋 수: 884",
+        "Git 상위 계정: skarndaudwls1(708), skarndaudwls1(65), namgung(57)"
       ]
     },
     {
