@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-05T07:44:23.522Z",
-  "generatedAtKst": "2026-10-05 16:44:23 KST",
+  "generatedAt": "2026-10-05T08:14:28.776Z",
+  "generatedAtKst": "2026-10-05 17:14:28 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7068
+          "count": 7069
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7088
+      "count": 7089
     },
     {
       "name": "YUNA0222",
@@ -85,10 +85,10 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 57
+          "count": 62
         }
       ],
-      "count": 57
+      "count": 62
     }
   ],
   "projects": [
@@ -1252,22 +1252,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6931,
+        "commitCount": 6932,
         "authors": [
           {
-            "count": 6931,
+            "count": 6932,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "cb51744e4",
+          "hash": "a09dab243",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-05T16:14:21+09:00",
+          "date": "2026-10-05T16:44:27+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6931개 커밋, 상위 계정: gosky(6931), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6932개 커밋, 상위 계정: gosky(6932), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1308,8 +1308,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6931",
-        "Git 상위 계정: gosky(6931)"
+        "Git 커밋 수: 6932",
+        "Git 상위 계정: gosky(6932)"
       ]
     },
     {
@@ -1452,7 +1452,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 2 minutes",
+            "status": "Up 21 minutes",
             "ports": ""
           }
         ],
@@ -1638,7 +1638,7 @@
         }
       ],
       "structure": {
-        "fileCount": 1473,
+        "fileCount": 1474,
         "dirCount": 52,
         "mainFolders": [
           "app",
@@ -1691,7 +1691,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 2 minutes",
+            "status": "Up 21 minutes",
             "ports": ""
           }
         ],
@@ -1751,36 +1751,36 @@
       },
       "recentFiles": [
         {
-          "path": ".env",
-          "modifiedAt": "2026-10-05T07:41:28.368Z"
+          "path": "data/postgres/pg_wal/000000010000000000000001",
+          "modifiedAt": "2026-10-05T07:58:05.704Z"
         },
         {
-          "path": "models/new/fire.pt",
-          "modifiedAt": "2026-10-05T07:26:57.583Z"
+          "path": "data/postgres/global/pg_control",
+          "modifiedAt": "2026-10-05T07:57:55.484Z"
         },
         {
-          "path": "models/new/fall.pt",
-          "modifiedAt": "2026-10-05T07:26:54.255Z"
+          "path": "data/postgres/base/16384/32948",
+          "modifiedAt": "2026-10-05T07:57:55.384Z"
         },
         {
-          "path": "models/new/knife.pt",
-          "modifiedAt": "2026-10-05T07:26:52.111Z"
+          "path": "data/postgres/base/16384/32947",
+          "modifiedAt": "2026-10-05T07:57:55.284Z"
         },
         {
-          "path": "app/core/config.py",
-          "modifiedAt": "2026-10-05T07:12:59.605Z"
+          "path": "data/postgres/base/16384/32946",
+          "modifiedAt": "2026-10-05T07:57:55.184Z"
         },
         {
-          "path": "app/main.py",
-          "modifiedAt": "2026-10-05T07:12:59.605Z"
+          "path": "data/postgres/base/16384/32945",
+          "modifiedAt": "2026-10-05T07:57:55.084Z"
         },
         {
-          "path": "app/routers/health_router.py",
-          "modifiedAt": "2026-10-05T07:12:59.605Z"
+          "path": "data/postgres/base/16384/32935_fsm",
+          "modifiedAt": "2026-10-05T07:57:54.984Z"
         },
         {
-          "path": "app/services/fall_detection_service.py",
-          "modifiedAt": "2026-10-05T07:12:59.605Z"
+          "path": "data/postgres/base/16384/32935",
+          "modifiedAt": "2026-10-05T07:57:54.884Z"
         }
       ],
       "summary": [
@@ -1885,7 +1885,7 @@
         }
       ],
       "structure": {
-        "fileCount": 180,
+        "fileCount": 181,
         "dirCount": 33,
         "mainFolders": [
           "db",
@@ -1970,7 +1970,7 @@
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 870,
+        "commitCount": 874,
         "authors": [
           {
             "count": 708,
@@ -1983,7 +1983,7 @@
             "email": "skarndaudwls1@gmail.com"
           },
           {
-            "count": 50,
+            "count": 55,
             "name": "namgung",
             "email": "skarndaudwls@gmail.com"
           },
@@ -1994,15 +1994,35 @@
           }
         ],
         "latestCommit": {
-          "hash": "17da651",
+          "hash": "666d231",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-10-05T16:02:42+09:00",
-          "subject": "Merge pull request #297 from Dongyang-Mirae-University-software/fix/qa-comprehensive-be"
+          "date": "2026-10-05T16:50:05+09:00",
+          "subject": "Merge pull request #300 from Dongyang-Mirae-University-software/fix/qa-comprehensive-be-followup"
         },
-        "summary": "총 870개 커밋, 상위 계정: skarndaudwls1(708), skarndaudwls1(65), namgung(50), 최근: Merge pull request #297 from Dongyang-Mirae-University-software/fix/qa-comprehensive-be"
+        "summary": "총 874개 커밋, 상위 계정: skarndaudwls1(708), skarndaudwls1(65), namgung(55), 최근: Merge pull request #300 from Dongyang-Mirae-University-software/fix/qa-comprehensive-be-followup"
       },
       "recentFiles": [
+        {
+          "path": "docs/audit-index.md",
+          "modifiedAt": "2026-10-05T07:52:40.421Z"
+        },
+        {
+          "path": "docs/progress.md",
+          "modifiedAt": "2026-10-05T07:52:40.421Z"
+        },
+        {
+          "path": "docs/(2026-07-03) design-camera-domain.md",
+          "modifiedAt": "2026-10-05T07:52:40.417Z"
+        },
+        {
+          "path": "docs/(2026-10-05) audit-qa-comprehensive-be.md",
+          "modifiedAt": "2026-10-05T07:52:40.417Z"
+        },
+        {
+          "path": "docs/(2026-10-05) fix-qa-comprehensive-be.md",
+          "modifiedAt": "2026-10-05T07:52:40.417Z"
+        },
         {
           "path": "프로젝트_설명.txt",
           "modifiedAt": "2026-10-05T07:04:32.715Z"
@@ -2012,28 +2032,8 @@
           "modifiedAt": "2026-10-05T07:04:32.711Z"
         },
         {
-          "path": "docs/(2026-07-03) design-camera-domain.md",
-          "modifiedAt": "2026-10-05T07:04:32.711Z"
-        },
-        {
           "path": "docs/(2026-10-04) feature-anomaly-clip.md",
           "modifiedAt": "2026-10-05T07:04:32.711Z"
-        },
-        {
-          "path": "docs/(2026-10-05) fix-qa-comprehensive-be.md",
-          "modifiedAt": "2026-10-05T07:04:32.711Z"
-        },
-        {
-          "path": "docs/audit-index.md",
-          "modifiedAt": "2026-10-05T07:04:32.711Z"
-        },
-        {
-          "path": "docs/progress.md",
-          "modifiedAt": "2026-10-05T07:04:32.711Z"
-        },
-        {
-          "path": "src/main/resources/application.yaml",
-          "modifiedAt": "2026-10-04T05:58:48.240Z"
         }
       ],
       "summary": [
@@ -2041,8 +2041,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 870",
-        "Git 상위 계정: skarndaudwls1(708), skarndaudwls1(65), namgung(50)"
+        "Git 커밋 수: 874",
+        "Git 상위 계정: skarndaudwls1(708), skarndaudwls1(65), namgung(55)"
       ]
     },
     {
