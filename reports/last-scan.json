@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-05T07:14:18.508Z",
-  "generatedAtKst": "2026-10-05 16:14:18 KST",
+  "generatedAt": "2026-10-05T07:44:23.522Z",
+  "generatedAtKst": "2026-10-05 16:44:23 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7067
+          "count": 7068
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7087
+      "count": 7088
     },
     {
       "name": "YUNA0222",
@@ -1252,22 +1252,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6930,
+        "commitCount": 6931,
         "authors": [
           {
-            "count": 6930,
+            "count": 6931,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "f2704567f",
+          "hash": "cb51744e4",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-05T15:44:16+09:00",
+          "date": "2026-10-05T16:14:21+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6930개 커밋, 상위 계정: gosky(6930), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6931개 커밋, 상위 계정: gosky(6931), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1308,8 +1308,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6930",
-        "Git 상위 계정: gosky(6930)"
+        "Git 커밋 수: 6931",
+        "Git 상위 계정: gosky(6931)"
       ]
     },
     {
@@ -1452,7 +1452,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 58 seconds",
+            "status": "Up 2 minutes",
             "ports": ""
           }
         ],
@@ -1638,8 +1638,8 @@
         }
       ],
       "structure": {
-        "fileCount": 1470,
-        "dirCount": 51,
+        "fileCount": 1473,
+        "dirCount": 52,
         "mainFolders": [
           "app",
           "data",
@@ -1658,6 +1658,7 @@
           "app/services",
           "app/utils",
           "models",
+          "models/new",
           "tests"
         ]
       },
@@ -1690,7 +1691,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 58 seconds",
+            "status": "Up 2 minutes",
             "ports": ""
           }
         ],
@@ -1750,6 +1751,22 @@
       },
       "recentFiles": [
         {
+          "path": ".env",
+          "modifiedAt": "2026-10-05T07:41:28.368Z"
+        },
+        {
+          "path": "models/new/fire.pt",
+          "modifiedAt": "2026-10-05T07:26:57.583Z"
+        },
+        {
+          "path": "models/new/fall.pt",
+          "modifiedAt": "2026-10-05T07:26:54.255Z"
+        },
+        {
+          "path": "models/new/knife.pt",
+          "modifiedAt": "2026-10-05T07:26:52.111Z"
+        },
+        {
           "path": "app/core/config.py",
           "modifiedAt": "2026-10-05T07:12:59.605Z"
         },
@@ -1763,22 +1780,6 @@
         },
         {
           "path": "app/services/fall_detection_service.py",
-          "modifiedAt": "2026-10-05T07:12:59.605Z"
-        },
-        {
-          "path": "app/services/fall_hold_tracker.py",
-          "modifiedAt": "2026-10-05T07:12:59.605Z"
-        },
-        {
-          "path": "app/services/knife_detection_service.py",
-          "modifiedAt": "2026-10-05T07:12:59.605Z"
-        },
-        {
-          "path": "app/services/live_detection_merge.py",
-          "modifiedAt": "2026-10-05T07:12:59.605Z"
-        },
-        {
-          "path": "app/services/stream_session_service.py",
           "modifiedAt": "2026-10-05T07:12:59.605Z"
         }
       ],

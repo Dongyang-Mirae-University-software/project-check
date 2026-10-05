@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-05 16:14:20 KST
+- 점검 시각: 2026-10-05 16:44:25 KST
 
 ## 추정 기술 스택
 
@@ -44,10 +44,10 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 1470
-- 디렉토리 개수: 51
+- 파일 개수: 1473
+- 디렉토리 개수: 52
 - 주요 폴더: app, data, docs, models, tests
-- 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, tests
+- 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, tests
 
 ## DB 사용 여부
 
@@ -74,14 +74,14 @@
 
 ## 최근 수정 파일
 
+- .env (2026-10-05 16:41:28 KST)
+- models/new/fire.pt (2026-10-05 16:26:57 KST)
+- models/new/fall.pt (2026-10-05 16:26:54 KST)
+- models/new/knife.pt (2026-10-05 16:26:52 KST)
 - app/core/config.py (2026-10-05 16:12:59 KST)
 - app/main.py (2026-10-05 16:12:59 KST)
 - app/routers/health_router.py (2026-10-05 16:12:59 KST)
 - app/services/fall_detection_service.py (2026-10-05 16:12:59 KST)
-- app/services/fall_hold_tracker.py (2026-10-05 16:12:59 KST)
-- app/services/knife_detection_service.py (2026-10-05 16:12:59 KST)
-- app/services/live_detection_merge.py (2026-10-05 16:12:59 KST)
-- app/services/stream_session_service.py (2026-10-05 16:12:59 KST)
 
 ## 점검 결과 요약
 
