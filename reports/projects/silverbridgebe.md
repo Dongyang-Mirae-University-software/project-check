@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-10-05 18:14:41 KST
+- 점검 시각: 2026-10-05 18:44:46 KST
 
 ## 추정 기술 스택
 
@@ -57,13 +57,13 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 880
+- 총 커밋 수: 882
 - 계정별 커밋 수:
   - skarndaudwls1 <skarndaudwls@gmail.com>: 708
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
-  - namgung <skarndaudwls@gmail.com>: 55
+  - namgung <skarndaudwls@gmail.com>: 56
   - gosky <lovesky00317@gmail.com>: 4
-- 최근 커밋: 3d4faf4 / namgung <skarndaudwls@gmail.com> / Merge pull request #296 from Dongyang-Mirae-University-software/fix/swagger-tag-kakao-dto-path
+- 최근 커밋: c4b709d / namgung <skarndaudwls@gmail.com> / Merge pull request #301 from Dongyang-Mirae-University-software/fix/client-ip-forwarded-header-unwrap
 
 ## 최근 수정 파일
 
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 880
-- Git 상위 계정: skarndaudwls1(708), skarndaudwls1(65), namgung(55)
+- Git 커밋 수: 882
+- Git 상위 계정: skarndaudwls1(708), skarndaudwls1(65), namgung(56)
