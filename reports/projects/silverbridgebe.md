@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-10-05 22:15:24 KST
+- 점검 시각: 2026-10-05 22:45:29 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 185
+- 파일 개수: 186
 - 디렉토리 개수: 33
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/integrationTest, src/integrationTest/java, src/integrationTest/java/kr, src/integrationTest/java/kr/silverbridge, src/integrationTest/java/kr/silverbridge/main, src/integrationTest/java/kr/silverbridge/main/domain, src/integrationTest/java/kr/silverbridge/main/migration, src/integrationTest/java/kr/silverbridge/main/support, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration, src/test
@@ -57,24 +57,24 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 884
+- 총 커밋 수: 891
 - 계정별 커밋 수:
   - skarndaudwls1 <skarndaudwls@gmail.com>: 708
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
-  - namgung <skarndaudwls@gmail.com>: 57
+  - namgung <skarndaudwls@gmail.com>: 62
   - gosky <lovesky00317@gmail.com>: 4
-- 최근 커밋: 28e83d2 / namgung <skarndaudwls@gmail.com> / Merge pull request #302 from Dongyang-Mirae-University-software/fix/sos-notify-cooldown-10s
+- 최근 커밋: 55d39cb / namgung <skarndaudwls@gmail.com> / Merge pull request #304 from Dongyang-Mirae-University-software/docs/sos-swagger-cooldown-note
 
 ## 최근 수정 파일
 
+- docs/(2026-10-05) audit-sos-notify-cooldown.md (2026-10-05 22:33:11 KST)
+- docs/(2026-10-05) fix-sos-notify-cooldown.md (2026-10-05 22:27:19 KST)
+- docs/audit-index.md (2026-10-05 22:27:19 KST)
+- docs/progress.md (2026-10-05 22:27:19 KST)
 - 프로젝트_설명.txt (2026-10-05 19:27:31 KST)
 - src/main/resources/application.yaml (2026-10-05 19:27:31 KST)
 - docs/(2026-09-11) feature-sos-repeat-count-notification.md (2026-10-05 19:27:31 KST)
 - docs/(2026-09-21) audit-sos-repeat-count.md (2026-10-05 19:27:31 KST)
-- docs/(2026-10-05) fix-sos-notify-cooldown.md (2026-10-05 19:27:31 KST)
-- docs/audit-index.md (2026-10-05 19:27:31 KST)
-- docs/progress.md (2026-10-05 19:27:31 KST)
-- src/main/resources/db/migration/V58__camera_unique_room_per_ward.sql (2026-10-05 17:16:00 KST)
 
 ## 점검 결과 요약
 
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 884
-- Git 상위 계정: skarndaudwls1(708), skarndaudwls1(65), namgung(57)
+- Git 커밋 수: 891
+- Git 상위 계정: skarndaudwls1(708), skarndaudwls1(65), namgung(62)
