@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-05 15:44:15 KST
+- 점검 시각: 2026-10-05 16:14:20 KST
 
 ## 추정 기술 스택
 
@@ -44,7 +44,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 1463
+- 파일 개수: 1470
 - 디렉토리 개수: 51
 - 주요 폴더: app, data, docs, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, tests
@@ -53,35 +53,35 @@
 
 - 사용 여부: 예
 - 연결 추정 DB: PostgreSQL, SQLite
-- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 113개 확인, DB 관련 파일 4개 확인, 추정 DB: PostgreSQL, SQLite
+- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 128개 확인, DB 관련 파일 4개 확인, 추정 DB: PostgreSQL, SQLite
 
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1000, 1008, 5432, 6012, 6015, 6017, 6019
+- 관련 포트: 1000, 1008, 1024, 5432, 6012, 6015, 6017, 6019
 - 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 46
+- 총 커밋 수: 49
 - 계정별 커밋 수:
   - gosky <lovesky00317@gmail.com>: 37
+  - namgung <skarndaudwls@gmail.com>: 7
   - gosky <gosky@gosky.kr>: 5
-  - namgung <skarndaudwls@gmail.com>: 4
-- 최근 커밋: 99d44e0 / namgung <skarndaudwls@gmail.com> / fix: QA AI-1·2·3 - 세션 방송 유실, API 키 노출 완화, 문자열 회원 ID
+- 최근 커밋: 5f7399c / namgung <skarndaudwls@gmail.com> / Merge pull request #5 from Dongyang-Mirae-University-software/feature/knife-fall-live-detection
 
 ## 최근 수정 파일
 
-- data/postgres/pg_wal/000000010000000000000001 (2026-10-04 16:47:33 KST)
-- data/postgres/global/pg_control (2026-10-04 16:47:32 KST)
-- data/postgres/base/16384/32950 (2026-10-04 16:47:32 KST)
-- data/postgres/base/16384/32939 (2026-10-04 16:47:32 KST)
-- data/postgres/base/16384/32938 (2026-10-04 16:47:32 KST)
-- data/postgres/base/16384/32935 (2026-10-04 16:47:32 KST)
-- data/postgres/base/16384/3455 (2026-10-04 16:47:28 KST)
-- data/postgres/base/16384/2704 (2026-10-04 16:47:28 KST)
+- app/core/config.py (2026-10-05 16:12:59 KST)
+- app/main.py (2026-10-05 16:12:59 KST)
+- app/routers/health_router.py (2026-10-05 16:12:59 KST)
+- app/services/fall_detection_service.py (2026-10-05 16:12:59 KST)
+- app/services/fall_hold_tracker.py (2026-10-05 16:12:59 KST)
+- app/services/knife_detection_service.py (2026-10-05 16:12:59 KST)
+- app/services/live_detection_merge.py (2026-10-05 16:12:59 KST)
+- app/services/stream_session_service.py (2026-10-05 16:12:59 KST)
 
 ## 점검 결과 요약
 
@@ -89,5 +89,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 46
-- Git 상위 계정: gosky(37), gosky(5), namgung(4)
+- Git 커밋 수: 49
+- Git 상위 계정: gosky(37), namgung(7), gosky(5)
