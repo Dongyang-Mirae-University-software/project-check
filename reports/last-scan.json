@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-06T07:48:39.920Z",
-  "generatedAtKst": "2026-10-06 16:48:39 KST",
+  "generatedAt": "2026-10-06T08:18:45.344Z",
+  "generatedAtKst": "2026-10-06 17:18:45 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7116
+          "count": 7117
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7136
+      "count": 7137
     },
     {
       "name": "YUNA0222",
@@ -85,10 +85,10 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 102
+          "count": 106
         }
       ],
-      "count": 102
+      "count": 106
     }
   ],
   "projects": [
@@ -1252,22 +1252,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6979,
+        "commitCount": 6980,
         "authors": [
           {
-            "count": 6979,
+            "count": 6980,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "0738a8e56",
+          "hash": "4d6794671",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-06T16:18:38+09:00",
+          "date": "2026-10-06T16:48:43+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6979개 커밋, 상위 계정: gosky(6979), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6980개 커밋, 상위 계정: gosky(6980), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1308,8 +1308,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6979",
-        "Git 상위 계정: gosky(6979)"
+        "Git 커밋 수: 6980",
+        "Git 상위 계정: gosky(6980)"
       ]
     },
     {
@@ -1450,21 +1450,9 @@
         "pm2": [],
         "docker": [
           {
-            "name": "sb-verify-new",
-            "image": "silverbridgeaiserver-ai-server:latest",
-            "status": "Up 4 minutes",
-            "ports": ""
-          },
-          {
-            "name": "sb-verify-old",
-            "image": "silverbridgeaiserver-ai-server:latest",
-            "status": "Up 8 minutes",
-            "ports": ""
-          },
-          {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 24 hours",
+            "status": "Up 8 minutes",
             "ports": ""
           }
         ],
@@ -1482,7 +1470,7 @@
         "summary": [
           "실행 중",
           "PM2 없음",
-          "Docker 3개",
+          "Docker 1개",
           "포트 확인 불가"
         ]
       },
@@ -1650,7 +1638,7 @@
         }
       ],
       "structure": {
-        "fileCount": 1474,
+        "fileCount": 1477,
         "dirCount": 52,
         "mainFolders": [
           "app",
@@ -1689,7 +1677,7 @@
         "evidence": [
           "docker-compose.yml 확인",
           "requirements.txt 확인",
-          ".env 키 128개 확인",
+          ".env 키 140개 확인",
           "DB 관련 파일 4개 확인",
           "추정 DB: PostgreSQL, SQLite"
         ],
@@ -1701,21 +1689,9 @@
         "pm2": [],
         "docker": [
           {
-            "name": "sb-verify-new",
-            "image": "silverbridgeaiserver-ai-server:latest",
-            "status": "Up 4 minutes",
-            "ports": ""
-          },
-          {
-            "name": "sb-verify-old",
-            "image": "silverbridgeaiserver-ai-server:latest",
-            "status": "Up 8 minutes",
-            "ports": ""
-          },
-          {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 24 hours",
+            "status": "Up 8 minutes",
             "ports": ""
           }
         ],
@@ -1739,14 +1715,14 @@
         "summary": [
           "실행 중",
           "PM2 없음",
-          "Docker 3개",
+          "Docker 1개",
           "포트 5432, 6012, 6015, 6017, 6019"
         ]
       },
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 49,
+        "commitCount": 51,
         "authors": [
           {
             "count": 37,
@@ -1754,7 +1730,7 @@
             "email": "lovesky00317@gmail.com"
           },
           {
-            "count": 7,
+            "count": 8,
             "name": "namgung",
             "email": "skarndaudwls@gmail.com"
           },
@@ -1765,46 +1741,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "5f7399c",
+          "hash": "6fcd761",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-10-05T16:12:43+09:00",
-          "subject": "Merge pull request #5 from Dongyang-Mirae-University-software/feature/knife-fall-live-detection"
+          "date": "2026-10-06T16:50:44+09:00",
+          "subject": "Merge pull request #6 from Dongyang-Mirae-University-software/feature/live-bbox-overlay"
         },
-        "summary": "총 49개 커밋, 상위 계정: gosky(37), namgung(7), gosky(5), 최근: Merge pull request #5 from Dongyang-Mirae-University-software/feature/knife-fall-live-detection"
+        "summary": "총 51개 커밋, 상위 계정: gosky(37), namgung(8), gosky(5), 최근: Merge pull request #6 from Dongyang-Mirae-University-software/feature/live-bbox-overlay"
       },
       "recentFiles": [
         {
-          "path": "data/postgres/pg_wal/000000010000000000000001",
-          "modifiedAt": "2026-10-06T05:03:23.709Z"
+          "path": ".env",
+          "modifiedAt": "2026-10-06T08:08:00.864Z"
         },
         {
-          "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-10-06T05:03:20.505Z"
+          "path": "models/new/knife.pt",
+          "modifiedAt": "2026-10-06T08:08:00.828Z"
         },
         {
-          "path": "data/postgres/base/16384/32948",
-          "modifiedAt": "2026-10-06T05:03:20.405Z"
+          "path": ".env.example",
+          "modifiedAt": "2026-10-06T07:50:57.021Z"
         },
         {
-          "path": "data/postgres/base/16384/32947",
-          "modifiedAt": "2026-10-06T05:03:20.301Z"
+          "path": "app/core/config.py",
+          "modifiedAt": "2026-10-06T07:50:57.021Z"
         },
         {
-          "path": "data/postgres/base/16384/32946",
-          "modifiedAt": "2026-10-06T05:03:20.201Z"
+          "path": "app/routers/live_stream_router.py",
+          "modifiedAt": "2026-10-06T07:50:57.021Z"
         },
         {
-          "path": "data/postgres/base/16384/32945",
-          "modifiedAt": "2026-10-06T05:03:20.101Z"
+          "path": "app/services/bbox_overlay.py",
+          "modifiedAt": "2026-10-06T07:50:57.021Z"
         },
         {
-          "path": "data/postgres/base/16384/32935",
-          "modifiedAt": "2026-10-06T05:03:20.001Z"
+          "path": "app/services/stream_session_service.py",
+          "modifiedAt": "2026-10-06T07:50:57.021Z"
         },
         {
-          "path": "data/postgres/base/16384/16415",
-          "modifiedAt": "2026-10-06T05:03:19.901Z"
+          "path": "README.md",
+          "modifiedAt": "2026-10-06T07:50:57.021Z"
         }
       ],
       "summary": [
@@ -1812,8 +1788,8 @@
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI",
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 49",
-        "Git 상위 계정: gosky(37), namgung(7), gosky(5)"
+        "Git 커밋 수: 51",
+        "Git 상위 계정: gosky(37), namgung(8), gosky(5)"
       ]
     },
     {
@@ -1909,7 +1885,7 @@
         }
       ],
       "structure": {
-        "fileCount": 190,
+        "fileCount": 191,
         "dirCount": 33,
         "mainFolders": [
           "db",
@@ -1995,7 +1971,7 @@
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 941,
+        "commitCount": 945,
         "authors": [
           {
             "count": 708,
@@ -2003,7 +1979,7 @@
             "email": "skarndaudwls@gmail.com"
           },
           {
-            "count": 95,
+            "count": 98,
             "name": "namgung",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2019,15 +1995,31 @@
           }
         ],
         "latestCommit": {
-          "hash": "61f6fdb",
+          "hash": "d603ef4",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-10-06T11:27:36+09:00",
-          "subject": "Merge pull request #319 from Dongyang-Mirae-University-software/feature/permissions-policy-header"
+          "date": "2026-10-06T17:06:23+09:00",
+          "subject": "Merge pull request #320 from Dongyang-Mirae-University-software/feature/anomaly-weapon-fall-live"
         },
-        "summary": "총 941개 커밋, 상위 계정: skarndaudwls1(708), namgung(95), skarndaudwls1(65), 최근: Merge pull request #319 from Dongyang-Mirae-University-software/feature/permissions-policy-header"
+        "summary": "총 945개 커밋, 상위 계정: skarndaudwls1(708), namgung(98), skarndaudwls1(65), 최근: Merge pull request #320 from Dongyang-Mirae-University-software/feature/anomaly-weapon-fall-live"
       },
       "recentFiles": [
+        {
+          "path": "CLAUDE.md",
+          "modifiedAt": "2026-10-06T08:11:17.115Z"
+        },
+        {
+          "path": "docs/(2026-10-06) feature-anomaly-weapon-fall-live.md",
+          "modifiedAt": "2026-10-06T08:11:17.115Z"
+        },
+        {
+          "path": "docs/audit-index.md",
+          "modifiedAt": "2026-10-06T08:11:17.115Z"
+        },
+        {
+          "path": "docs/progress.md",
+          "modifiedAt": "2026-10-06T08:11:17.115Z"
+        },
         {
           "path": "docker-compose.dev.yml",
           "modifiedAt": "2026-10-06T02:30:20.215Z"
@@ -2043,22 +2035,6 @@
         {
           "path": "src/main/resources/application.yaml",
           "modifiedAt": "2026-10-06T02:30:20.215Z"
-        },
-        {
-          "path": "CLAUDE.md",
-          "modifiedAt": "2026-10-06T00:39:36.730Z"
-        },
-        {
-          "path": "docs/(2026-10-06) feature-anomaly-sms-fallback.md",
-          "modifiedAt": "2026-10-06T00:39:36.730Z"
-        },
-        {
-          "path": "docs/(2026-10-02) fix-qa-be-issues.md",
-          "modifiedAt": "2026-10-06T00:29:40.485Z"
-        },
-        {
-          "path": "docs/(2026-10-05) audit-impact-sms-fallback-cap.md",
-          "modifiedAt": "2026-10-06T00:29:40.485Z"
         }
       ],
       "summary": [
@@ -2066,8 +2042,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 941",
-        "Git 상위 계정: skarndaudwls1(708), namgung(95), skarndaudwls1(65)"
+        "Git 커밋 수: 945",
+        "Git 상위 계정: skarndaudwls1(708), namgung(98), skarndaudwls1(65)"
       ]
     },
     {
