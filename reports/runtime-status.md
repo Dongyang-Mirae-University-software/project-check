@@ -1,6 +1,6 @@
 # 실행 상태
 
-- 스캔 시각: 2026-10-06 16:18:38 KST
+- 스캔 시각: 2026-10-06 16:48:43 KST
 
 | 프로젝트 | 분류 | 실행 상태 | PM2 | Docker | 포트 |
 | --- | --- | --- | --- | --- | --- |
@@ -10,8 +10,8 @@
 | ChatSilverBridgeTest | 프론트엔드 | 실행 중 | 확인 불가 | chatsilverbridgetest-web-1 | 8010 |
 | docs | 기타 | 확인 불가 | 확인 불가 | 확인 불가 | 확인 불가 |
 | project-check | 백엔드 | 실행 중 | project-check | 확인 불가 | 1000, 1024, 1234, 1280, 1400, 1433, 1500, 1521, 2026, 2700, 3306, 5432, 6379, 8080, 8456, 26214, 27017 |
-| SilverBridgeAi | AI 서버 | 실행 중 | 확인 불가 | silverbridge-ai-server | 1000, 1234, 1280, 1500, 2026, 2700, 8080, 8456 |
-| SilverBridgeAiServer | AI 서버 | 실행 중 | 확인 불가 | silverbridge-ai-server | 1000, 1008, 1024, 5432, 6012, 6015, 6017, 6019 |
+| SilverBridgeAi | AI 서버 | 실행 중 | 확인 불가 | sb-verify-new, sb-verify-old, silverbridge-ai-server | 1000, 1234, 1280, 1500, 2026, 2700, 8080, 8456 |
+| SilverBridgeAiServer | AI 서버 | 실행 중 | 확인 불가 | sb-verify-new, sb-verify-old, silverbridge-ai-server | 1000, 1008, 1024, 5432, 6012, 6015, 6017, 6019 |
 | SilverBridgeBe | 백엔드 | 실행 중 | 확인 불가 | 확인 불가 | 1024, 1536, 3000, 5173, 5432, 6379, 6510, 6511, 6513, 6514, 8080, 10000, 10485, 18000, 60480 |
 | SilverBridgeFe | 프론트엔드 | 실행 중 | 확인 불가 | 확인 불가 | 1900, 3000, 5000, 6000, 6510, 8000, 60480, 60836 |
 | SilverBridgeJH | 백엔드 | 정지 | 확인 불가 | 확인 불가 | 확인 불가 |
@@ -33,8 +33,8 @@
 - ChatSilverBridgeTest: 실행 중 / PM2 없음 / Docker 1개 / 포트 확인 불가
 - docs: 정지 또는 확인 불가
 - project-check: 실행 중 / PM2 1개 / Docker 없음 / 포트 1433, 3306, 5432, 6379
-- SilverBridgeAi: 실행 중 / PM2 없음 / Docker 1개 / 포트 확인 불가
-- SilverBridgeAiServer: 실행 중 / PM2 없음 / Docker 1개 / 포트 5432, 6012, 6015, 6017, 6019
+- SilverBridgeAi: 실행 중 / PM2 없음 / Docker 3개 / 포트 확인 불가
+- SilverBridgeAiServer: 실행 중 / PM2 없음 / Docker 3개 / 포트 5432, 6012, 6015, 6017, 6019
 - SilverBridgeBe: 실행 중 / PM2 없음 / Docker 없음 / 포트 5432, 6379, 6510, 6511, 6513, 6514
 - SilverBridgeFe: 실행 중 / PM2 없음 / Docker 없음 / 포트 6000, 6510
 - SilverBridgeJH: 정지 또는 확인 불가
