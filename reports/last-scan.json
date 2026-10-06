@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-06T00:17:21.331Z",
-  "generatedAtKst": "2026-10-06 09:17:21 KST",
+  "generatedAt": "2026-10-06T00:47:26.140Z",
+  "generatedAtKst": "2026-10-06 09:47:26 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7101
+          "count": 7102
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7121
+      "count": 7122
     },
     {
       "name": "YUNA0222",
@@ -85,10 +85,10 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 89
+          "count": 98
         }
       ],
-      "count": 89
+      "count": 98
     }
   ],
   "projects": [
@@ -1252,22 +1252,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6964,
+        "commitCount": 6965,
         "authors": [
           {
-            "count": 6964,
+            "count": 6965,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "8c639ee03",
+          "hash": "cd618692c",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-06T08:47:19+09:00",
+          "date": "2026-10-06T09:17:24+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6964개 커밋, 상위 계정: gosky(6964), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6965개 커밋, 상위 계정: gosky(6965), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1308,8 +1308,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6964",
-        "Git 상위 계정: gosky(6964)"
+        "Git 커밋 수: 6965",
+        "Git 상위 계정: gosky(6965)"
       ]
     },
     {
@@ -1452,7 +1452,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 16 hours",
+            "status": "Up 17 hours",
             "ports": ""
           }
         ],
@@ -1691,7 +1691,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 16 hours",
+            "status": "Up 17 hours",
             "ports": ""
           }
         ],
@@ -1885,7 +1885,7 @@
         }
       ],
       "structure": {
-        "fileCount": 188,
+        "fileCount": 189,
         "dirCount": 33,
         "mainFolders": [
           "db",
@@ -1970,7 +1970,7 @@
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 917,
+        "commitCount": 933,
         "authors": [
           {
             "count": 708,
@@ -1978,7 +1978,7 @@
             "email": "skarndaudwls@gmail.com"
           },
           {
-            "count": 82,
+            "count": 91,
             "name": "namgung",
             "email": "skarndaudwls@gmail.com"
           },
@@ -1994,46 +1994,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "435beea",
+          "hash": "3a4aa92",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-10-05T23:44:12+09:00",
-          "subject": "Merge pull request #310 from Dongyang-Mirae-University-software/test/sms-fallback-cap-followups"
+          "date": "2026-10-06T09:36:35+09:00",
+          "subject": "Merge pull request #315 from Dongyang-Mirae-University-software/feature/anomaly-sms-fallback"
         },
-        "summary": "총 917개 커밋, 상위 계정: skarndaudwls1(708), namgung(82), skarndaudwls1(65), 최근: Merge pull request #310 from Dongyang-Mirae-University-software/test/sms-fallback-cap-followups"
+        "summary": "총 933개 커밋, 상위 계정: skarndaudwls1(708), namgung(91), skarndaudwls1(65), 최근: Merge pull request #315 from Dongyang-Mirae-University-software/feature/anomaly-sms-fallback"
       },
       "recentFiles": [
         {
-          "path": "프로젝트_설명.txt",
-          "modifiedAt": "2026-10-05T14:46:19.453Z"
-        },
-        {
-          "path": "build.gradle",
-          "modifiedAt": "2026-10-05T14:46:19.449Z"
-        },
-        {
           "path": "CLAUDE.md",
-          "modifiedAt": "2026-10-05T14:46:19.449Z"
+          "modifiedAt": "2026-10-06T00:39:36.730Z"
         },
         {
-          "path": "docs/(2026-09-22) feature-admin-notification-history.md",
-          "modifiedAt": "2026-10-05T14:46:19.449Z"
+          "path": "docs/(2026-10-06) feature-anomaly-sms-fallback.md",
+          "modifiedAt": "2026-10-06T00:39:36.730Z"
+        },
+        {
+          "path": "src/main/resources/application.yaml",
+          "modifiedAt": "2026-10-06T00:29:40.489Z"
+        },
+        {
+          "path": "docs/(2026-10-02) fix-qa-be-issues.md",
+          "modifiedAt": "2026-10-06T00:29:40.485Z"
         },
         {
           "path": "docs/(2026-10-05) audit-impact-sms-fallback-cap.md",
-          "modifiedAt": "2026-10-05T14:46:19.449Z"
-        },
-        {
-          "path": "docs/(2026-10-05) feature-sos-sms-fallback-cap.md",
-          "modifiedAt": "2026-10-05T14:46:19.449Z"
-        },
-        {
-          "path": "docs/audit-index.md",
-          "modifiedAt": "2026-10-05T14:46:19.449Z"
+          "modifiedAt": "2026-10-06T00:29:40.485Z"
         },
         {
           "path": "docs/progress.md",
-          "modifiedAt": "2026-10-05T14:46:19.449Z"
+          "modifiedAt": "2026-10-06T00:29:40.485Z"
+        },
+        {
+          "path": "docs/(2026-10-02) design-refresh-token-httponly-cookie.md",
+          "modifiedAt": "2026-10-06T00:29:40.481Z"
+        },
+        {
+          "path": "프로젝트_설명.txt",
+          "modifiedAt": "2026-10-05T14:46:19.453Z"
         }
       ],
       "summary": [
@@ -2041,8 +2041,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 917",
-        "Git 상위 계정: skarndaudwls1(708), namgung(82), skarndaudwls1(65)"
+        "Git 커밋 수: 933",
+        "Git 상위 계정: skarndaudwls1(708), namgung(91), skarndaudwls1(65)"
       ]
     },
     {
