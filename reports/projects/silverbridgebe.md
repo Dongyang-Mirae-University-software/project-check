@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-10-06 17:18:47 KST
+- 점검 시각: 2026-10-06 17:48:52 KST
 
 ## 추정 기술 스택
 
@@ -57,18 +57,18 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 945
+- 총 커밋 수: 950
 - 계정별 커밋 수:
   - skarndaudwls1 <skarndaudwls@gmail.com>: 708
-  - namgung <skarndaudwls@gmail.com>: 98
+  - namgung <skarndaudwls@gmail.com>: 102
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
-- 최근 커밋: d603ef4 / namgung <skarndaudwls@gmail.com> / Merge pull request #320 from Dongyang-Mirae-University-software/feature/anomaly-weapon-fall-live
+- 최근 커밋: c5d5bcd / namgung <skarndaudwls@gmail.com> / Merge pull request #322 from Dongyang-Mirae-University-software/feature/anomaly-guardian-guidance
 
 ## 최근 수정 파일
 
-- CLAUDE.md (2026-10-06 17:11:17 KST)
-- docs/(2026-10-06) feature-anomaly-weapon-fall-live.md (2026-10-06 17:11:17 KST)
+- CLAUDE.md (2026-10-06 17:32:50 KST)
+- docs/(2026-10-06) feature-anomaly-weapon-fall-live.md (2026-10-06 17:32:50 KST)
 - docs/audit-index.md (2026-10-06 17:11:17 KST)
 - docs/progress.md (2026-10-06 17:11:17 KST)
 - docker-compose.dev.yml (2026-10-06 11:30:20 KST)
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 945
-- Git 상위 계정: skarndaudwls1(708), namgung(98), skarndaudwls1(65)
+- Git 커밋 수: 950
+- Git 상위 계정: skarndaudwls1(708), namgung(102), skarndaudwls1(65)

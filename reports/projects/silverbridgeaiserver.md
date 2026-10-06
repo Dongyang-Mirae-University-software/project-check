@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-06 17:18:47 KST
+- 점검 시각: 2026-10-06 17:48:52 KST
 
 ## 추정 기술 스택
 
@@ -74,7 +74,7 @@
 
 ## 최근 수정 파일
 
-- .env (2026-10-06 17:08:00 KST)
+- .env (2026-10-06 17:47:32 KST)
 - models/new/knife.pt (2026-10-06 17:08:00 KST)
 - .env.example (2026-10-06 16:50:57 KST)
 - app/core/config.py (2026-10-06 16:50:57 KST)
