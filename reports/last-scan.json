@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-06T13:49:43.836Z",
-  "generatedAtKst": "2026-10-06 22:49:43 KST",
+  "generatedAt": "2026-10-06T14:19:49.284Z",
+  "generatedAtKst": "2026-10-06 23:19:49 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7128
+          "count": 7129
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7148
+      "count": 7149
     },
     {
       "name": "YUNA0222",
@@ -1252,22 +1252,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6991,
+        "commitCount": 6992,
         "authors": [
           {
-            "count": 6991,
+            "count": 6992,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "072b0a077",
+          "hash": "7ca6f7469",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-06T22:19:42+09:00",
+          "date": "2026-10-06T22:49:47+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6991개 커밋, 상위 계정: gosky(6991), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6992개 커밋, 상위 계정: gosky(6992), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1308,8 +1308,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6991",
-        "Git 상위 계정: gosky(6991)"
+        "Git 커밋 수: 6992",
+        "Git 상위 계정: gosky(6992)"
       ]
     },
     {
@@ -1452,7 +1452,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 5 hours",
+            "status": "Up About a minute",
             "ports": ""
           }
         ],
@@ -1638,7 +1638,7 @@
         }
       ],
       "structure": {
-        "fileCount": 1477,
+        "fileCount": 1478,
         "dirCount": 52,
         "mainFolders": [
           "app",
@@ -1691,7 +1691,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 5 hours",
+            "status": "Up About a minute",
             "ports": ""
           }
         ],
@@ -1751,6 +1751,14 @@
       },
       "recentFiles": [
         {
+          "path": ".env",
+          "modifiedAt": "2026-10-06T14:18:14.331Z"
+        },
+        {
+          "path": "models/new/fall.pt",
+          "modifiedAt": "2026-10-06T14:14:58.445Z"
+        },
+        {
           "path": "data/postgres/pg_wal/000000010000000000000001",
           "modifiedAt": "2026-10-06T12:58:33.208Z"
         },
@@ -1773,14 +1781,6 @@
         {
           "path": "data/postgres/base/16384/16512",
           "modifiedAt": "2026-10-06T12:58:29.404Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16510",
-          "modifiedAt": "2026-10-06T12:58:29.304Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16504",
-          "modifiedAt": "2026-10-06T12:58:29.204Z"
         }
       ],
       "summary": [
@@ -2250,6 +2250,10 @@
       },
       "recentFiles": [
         {
+          "path": "src/app/(ward)/ward/camera/_components/CameraRegisterModal.tsx",
+          "modifiedAt": "2026-10-06T13:58:57.003Z"
+        },
+        {
           "path": "src/service/api/guardian/inquiry.ts",
           "modifiedAt": "2026-10-06T08:20:10.344Z"
         },
@@ -2275,10 +2279,6 @@
         },
         {
           "path": "src/service/interface/guardian/inquiry.ts",
-          "modifiedAt": "2026-10-06T08:20:10.344Z"
-        },
-        {
-          "path": "src/service/interface/streamSession.ts",
           "modifiedAt": "2026-10-06T08:20:10.344Z"
         }
       ],
