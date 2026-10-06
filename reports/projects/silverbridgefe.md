@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-06 23:19:51 KST
+- 점검 시각: 2026-10-06 23:49:56 KST
 
 ## 추정 기술 스택
 
@@ -69,7 +69,7 @@
 
 ## 최근 수정 파일
 
-- src/app/(ward)/ward/camera/_components/CameraRegisterModal.tsx (2026-10-06 22:58:57 KST)
+- src/app/(ward)/ward/camera/_components/CameraRegisterModal.tsx (2026-10-06 23:37:05 KST)
 - src/service/api/guardian/inquiry.ts (2026-10-06 17:20:10 KST)
 - src/service/api/streamSession.ts (2026-10-06 17:20:10 KST)
 - src/service/api/ward/camera.ts (2026-10-06 17:20:10 KST)

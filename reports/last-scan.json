@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-06T14:19:49.284Z",
-  "generatedAtKst": "2026-10-06 23:19:49 KST",
+  "generatedAt": "2026-10-06T14:49:54.694Z",
+  "generatedAtKst": "2026-10-06 23:49:54 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7129
+          "count": 7130
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7149
+      "count": 7150
     },
     {
       "name": "YUNA0222",
@@ -1252,22 +1252,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 6992,
+        "commitCount": 6993,
         "authors": [
           {
-            "count": 6992,
+            "count": 6993,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "7ca6f7469",
+          "hash": "5344a7469",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-06T22:49:47+09:00",
+          "date": "2026-10-06T23:19:52+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 6992개 커밋, 상위 계정: gosky(6992), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 6993개 커밋, 상위 계정: gosky(6993), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1308,8 +1308,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 6992",
-        "Git 상위 계정: gosky(6992)"
+        "Git 커밋 수: 6993",
+        "Git 상위 계정: gosky(6993)"
       ]
     },
     {
@@ -1452,7 +1452,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up About a minute",
+            "status": "Up 12 minutes",
             "ports": ""
           }
         ],
@@ -1691,7 +1691,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up About a minute",
+            "status": "Up 12 minutes",
             "ports": ""
           }
         ],
@@ -1752,7 +1752,7 @@
       "recentFiles": [
         {
           "path": ".env",
-          "modifiedAt": "2026-10-06T14:18:14.331Z"
+          "modifiedAt": "2026-10-06T14:37:11.693Z"
         },
         {
           "path": "models/new/fall.pt",
@@ -2251,7 +2251,7 @@
       "recentFiles": [
         {
           "path": "src/app/(ward)/ward/camera/_components/CameraRegisterModal.tsx",
-          "modifiedAt": "2026-10-06T13:58:57.003Z"
+          "modifiedAt": "2026-10-06T14:37:05.537Z"
         },
         {
           "path": "src/service/api/guardian/inquiry.ts",
