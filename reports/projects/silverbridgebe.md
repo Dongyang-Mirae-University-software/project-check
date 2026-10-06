@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-10-06 09:47:28 KST
+- 점검 시각: 2026-10-06 10:17:33 KST
 
 ## 추정 기술 스택
 
@@ -57,13 +57,13 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 933
+- 총 커밋 수: 935
 - 계정별 커밋 수:
   - skarndaudwls1 <skarndaudwls@gmail.com>: 708
-  - namgung <skarndaudwls@gmail.com>: 91
+  - namgung <skarndaudwls@gmail.com>: 92
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
-- 최근 커밋: 3a4aa92 / namgung <skarndaudwls@gmail.com> / Merge pull request #315 from Dongyang-Mirae-University-software/feature/anomaly-sms-fallback
+- 최근 커밋: 1ddfb0b / namgung <skarndaudwls@gmail.com> / Merge pull request #316 from Dongyang-Mirae-University-software/fix/redis-unavailable-503
 
 ## 최근 수정 파일
 
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 933
-- Git 상위 계정: skarndaudwls1(708), namgung(91), skarndaudwls1(65)
+- Git 커밋 수: 935
+- Git 상위 계정: skarndaudwls1(708), namgung(92), skarndaudwls1(65)
