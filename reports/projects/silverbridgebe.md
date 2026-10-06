@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-10-06 11:17:44 KST
+- 점검 시각: 2026-10-06 11:47:49 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 189
+- 파일 개수: 190
 - 디렉토리 개수: 33
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/integrationTest, src/integrationTest/java, src/integrationTest/java/kr, src/integrationTest/java/kr/silverbridge, src/integrationTest/java/kr/silverbridge/main, src/integrationTest/java/kr/silverbridge/main/domain, src/integrationTest/java/kr/silverbridge/main/migration, src/integrationTest/java/kr/silverbridge/main/support, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration, src/test
@@ -50,31 +50,31 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1024, 3000, 5173, 5432, 6379, 6510, 6511, 6513, 6514, 8080, 10000, 10485, 18000, 60480
+- 관련 포트: 1024, 1536, 3000, 5173, 5432, 6379, 6510, 6511, 6513, 6514, 8080, 10000, 10485, 18000, 60480
 - 관련 Docker 컨테이너: 확인 불가
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 935
+- 총 커밋 수: 941
 - 계정별 커밋 수:
   - skarndaudwls1 <skarndaudwls@gmail.com>: 708
-  - namgung <skarndaudwls@gmail.com>: 92
+  - namgung <skarndaudwls@gmail.com>: 95
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
-- 최근 커밋: 1ddfb0b / namgung <skarndaudwls@gmail.com> / Merge pull request #316 from Dongyang-Mirae-University-software/fix/redis-unavailable-503
+- 최근 커밋: 61f6fdb / namgung <skarndaudwls@gmail.com> / Merge pull request #319 from Dongyang-Mirae-University-software/feature/permissions-policy-header
 
 ## 최근 수정 파일
 
+- docker-compose.dev.yml (2026-10-06 11:30:20 KST)
+- Dockerfile (2026-10-06 11:30:20 KST)
+- docs/(2026-10-06) feature-user-rate-limit.md (2026-10-06 11:30:20 KST)
+- src/main/resources/application.yaml (2026-10-06 11:30:20 KST)
 - CLAUDE.md (2026-10-06 09:39:36 KST)
 - docs/(2026-10-06) feature-anomaly-sms-fallback.md (2026-10-06 09:39:36 KST)
-- src/main/resources/application.yaml (2026-10-06 09:29:40 KST)
 - docs/(2026-10-02) fix-qa-be-issues.md (2026-10-06 09:29:40 KST)
 - docs/(2026-10-05) audit-impact-sms-fallback-cap.md (2026-10-06 09:29:40 KST)
-- docs/progress.md (2026-10-06 09:29:40 KST)
-- docs/(2026-10-02) design-refresh-token-httponly-cookie.md (2026-10-06 09:29:40 KST)
-- 프로젝트_설명.txt (2026-10-05 23:46:19 KST)
 
 ## 점검 결과 요약
 
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 935
-- Git 상위 계정: skarndaudwls1(708), namgung(92), skarndaudwls1(65)
+- Git 커밋 수: 941
+- Git 상위 계정: skarndaudwls1(708), namgung(95), skarndaudwls1(65)
