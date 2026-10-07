@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-07 13:22:23 KST
+- 점검 시각: 2026-10-07 13:52:28 KST
 
 ## 추정 기술 스택
 
@@ -53,7 +53,7 @@
 
 - 사용 여부: 예
 - 연결 추정 DB: PostgreSQL, SQLite
-- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 148개 확인, DB 관련 파일 4개 확인, 추정 DB: PostgreSQL, SQLite
+- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 151개 확인, DB 관련 파일 4개 확인, 추정 DB: PostgreSQL, SQLite
 
 ## 실행 상태
 
@@ -74,6 +74,7 @@
 
 ## 최근 수정 파일
 
+- .env (2026-10-07 13:29:04 KST)
 - tests/test_clip_buffer.py (2026-10-07 11:20:04 KST)
 - tests/test_clip_endpoint.py (2026-10-07 11:20:04 KST)
 - tests/test_training_sample_collector.py (2026-10-07 11:20:04 KST)
@@ -81,7 +82,6 @@
 - app/schemas/clip_schema.py (2026-10-07 11:20:04 KST)
 - app/services/stream_session_service.py (2026-10-07 11:20:04 KST)
 - app/services/training_sample_collector.py (2026-10-07 11:20:04 KST)
-- docs/clip-endpoint-contract.md (2026-10-07 11:20:04 KST)
 
 ## 점검 결과 요약
 

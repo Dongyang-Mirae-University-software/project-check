@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-07T04:22:21.136Z",
-  "generatedAtKst": "2026-10-07 13:22:21 KST",
+  "generatedAt": "2026-10-07T04:52:26.719Z",
+  "generatedAtKst": "2026-10-07 13:52:26 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7157
+          "count": 7158
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7177
+      "count": 7178
     },
     {
       "name": "YUNA0222",
@@ -1252,22 +1252,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7020,
+        "commitCount": 7021,
         "authors": [
           {
-            "count": 7020,
+            "count": 7021,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "9b3070f89",
+          "hash": "1a2f0fae2",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-07T12:52:19+09:00",
+          "date": "2026-10-07T13:22:24+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7020개 커밋, 상위 계정: gosky(7020), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7021개 커밋, 상위 계정: gosky(7021), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1308,8 +1308,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7020",
-        "Git 상위 계정: gosky(7020)"
+        "Git 커밋 수: 7021",
+        "Git 상위 계정: gosky(7021)"
       ]
     },
     {
@@ -1452,7 +1452,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 2 hours",
+            "status": "Up 23 minutes",
             "ports": ""
           }
         ],
@@ -1677,7 +1677,7 @@
         "evidence": [
           "docker-compose.yml 확인",
           "requirements.txt 확인",
-          ".env 키 148개 확인",
+          ".env 키 151개 확인",
           "DB 관련 파일 4개 확인",
           "추정 DB: PostgreSQL, SQLite"
         ],
@@ -1691,7 +1691,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 2 hours",
+            "status": "Up 23 minutes",
             "ports": ""
           }
         ],
@@ -1752,6 +1752,10 @@
       },
       "recentFiles": [
         {
+          "path": ".env",
+          "modifiedAt": "2026-10-07T04:29:04.592Z"
+        },
+        {
           "path": "tests/test_clip_buffer.py",
           "modifiedAt": "2026-10-07T02:20:04.613Z"
         },
@@ -1777,10 +1781,6 @@
         },
         {
           "path": "app/services/training_sample_collector.py",
-          "modifiedAt": "2026-10-07T02:20:04.609Z"
-        },
-        {
-          "path": "docs/clip-endpoint-contract.md",
           "modifiedAt": "2026-10-07T02:20:04.609Z"
         }
       ],
