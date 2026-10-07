@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-10-07 15:52:49 KST
+- 점검 시각: 2026-10-07 16:22:54 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 194
+- 파일 개수: 196
 - 디렉토리 개수: 33
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/integrationTest, src/integrationTest/java, src/integrationTest/java/kr, src/integrationTest/java/kr/silverbridge, src/integrationTest/java/kr/silverbridge/main, src/integrationTest/java/kr/silverbridge/main/domain, src/integrationTest/java/kr/silverbridge/main/migration, src/integrationTest/java/kr/silverbridge/main/support, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration, src/test
@@ -57,24 +57,23 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 956
+- 총 커밋 수: 966
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 708
-  - namgung <skarndaudwls@gmail.com>: 106
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 821
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
-- 최근 커밋: d02dff8 / namgung <skarndaudwls@gmail.com> / Merge pull request #324 from Dongyang-Mirae-University-software/fix/anomaly-1006-audit
+- 최근 커밋: c493599 / namgung <skarndaudwls@gmail.com> / Merge pull request #328 from Dongyang-Mirae-University-software/feature/anomaly-history-type-filter
 
 ## 최근 수정 파일
 
-- docs/progress.md (2026-10-07 10:54:28 KST)
-- CLAUDE.md (2026-10-07 10:54:28 KST)
+- CLAUDE.md (2026-10-07 16:21:58 KST)
+- docs/(2026-10-07) feature-anomaly-history-type-filter.md (2026-10-07 16:21:58 KST)
+- docs/audit-index.md (2026-10-07 16:21:58 KST)
+- docs/progress.md (2026-10-07 16:21:58 KST)
+- docs/(2026-10-04) feature-anomaly-clip.md (2026-10-07 16:04:41 KST)
+- docs/(2026-10-07) audit-fall-clip-followup.md (2026-10-07 16:04:41 KST)
 - docs/(2026-10-07) audit-anomaly-1006-bundle.md (2026-10-07 10:54:28 KST)
 - docs/(2026-10-07) fix-anomaly-1006-audit.md (2026-10-07 10:54:28 KST)
-- docs/audit-index.md (2026-10-07 10:54:28 KST)
-- src/main/resources/application.yaml (2026-10-07 10:12:05 KST)
-- docs/(2026-10-07) feature-fall-clip-window.md (2026-10-07 10:12:05 KST)
-- docs/(2026-10-06) feature-anomaly-weapon-fall-live.md (2026-10-06 17:32:50 KST)
 
 ## 점검 결과 요약
 
@@ -82,5 +81,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 956
-- Git 상위 계정: skarndaudwls1(708), namgung(106), skarndaudwls1(65)
+- Git 커밋 수: 966
+- Git 상위 계정: skarndaudwls1(821), skarndaudwls1(65), gosky(4)
