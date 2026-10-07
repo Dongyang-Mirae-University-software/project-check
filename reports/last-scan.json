@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-07T05:22:31.897Z",
-  "generatedAtKst": "2026-10-07 14:22:31 KST",
+  "generatedAt": "2026-10-07T05:52:36.860Z",
+  "generatedAtKst": "2026-10-07 14:52:36 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7159
+          "count": 7160
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7179
+      "count": 7180
     },
     {
       "name": "YUNA0222",
@@ -85,10 +85,10 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 116
+          "count": 117
         }
       ],
-      "count": 116
+      "count": 117
     }
   ],
   "projects": [
@@ -621,19 +621,19 @@
           {
             "name": "chatsilverbridge-api-1",
             "image": "chatsilverbridge-api",
-            "status": "Up 4 days",
+            "status": "Up 5 days",
             "ports": "0.0.0.0:6012->6012/tcp, [::]:6012->6012/tcp"
           },
           {
             "name": "chatsilverbridge-mysql-1",
             "image": "mysql:8.0",
-            "status": "Up 4 days (healthy)",
+            "status": "Up 5 days (healthy)",
             "ports": "33060/tcp, 0.0.0.0:3307->3306/tcp, [::]:3307->3306/tcp"
           },
           {
             "name": "chatsilverbridgetest-web-1",
             "image": "chatsilverbridgetest-web",
-            "status": "Up 4 days",
+            "status": "Up 5 days",
             "ports": "0.0.0.0:6516->6516/tcp, [::]:6516->6516/tcp"
           }
         ],
@@ -833,7 +833,7 @@
           {
             "name": "chatsilverbridgetest-web-1",
             "image": "chatsilverbridgetest-web",
-            "status": "Up 4 days",
+            "status": "Up 5 days",
             "ports": "0.0.0.0:6516->6516/tcp, [::]:6516->6516/tcp"
           }
         ],
@@ -1252,22 +1252,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7022,
+        "commitCount": 7023,
         "authors": [
           {
-            "count": 7022,
+            "count": 7023,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "33947d44d",
+          "hash": "971f80ebf",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-07T13:52:30+09:00",
+          "date": "2026-10-07T14:22:35+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7022개 커밋, 상위 계정: gosky(7022), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7023개 커밋, 상위 계정: gosky(7023), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1308,8 +1308,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7022",
-        "Git 상위 계정: gosky(7022)"
+        "Git 커밋 수: 7023",
+        "Git 상위 계정: gosky(7023)"
       ]
     },
     {
@@ -1452,7 +1452,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 53 minutes",
+            "status": "Up 25 minutes",
             "ports": ""
           }
         ],
@@ -1638,8 +1638,8 @@
         }
       ],
       "structure": {
-        "fileCount": 1480,
-        "dirCount": 52,
+        "fileCount": 1552,
+        "dirCount": 59,
         "mainFolders": [
           "app",
           "data",
@@ -1691,7 +1691,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 53 minutes",
+            "status": "Up 25 minutes",
             "ports": ""
           }
         ],
@@ -1706,12 +1706,26 @@
           1000,
           1008,
           1024,
+          1072,
+          1280,
+          1326,
+          1349,
+          1602,
+          1889,
           2000,
           5432,
           6012,
           6015,
           6017,
-          6019
+          6019,
+          18036,
+          18283,
+          18642,
+          18791,
+          19115,
+          19116,
+          19117,
+          31910
         ],
         "summary": [
           "실행 중",
@@ -1723,7 +1737,7 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 55,
+        "commitCount": 57,
         "authors": [
           {
             "count": 37,
@@ -1731,7 +1745,7 @@
             "email": "lovesky00317@gmail.com"
           },
           {
-            "count": 10,
+            "count": 11,
             "name": "namgung",
             "email": "skarndaudwls@gmail.com"
           },
@@ -1742,46 +1756,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "f028d34",
+          "hash": "b26d059",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-10-07T10:46:56+09:00",
-          "subject": "Merge pull request #8 from Dongyang-Mirae-University-software/feature/training-sample-collector"
+          "date": "2026-10-07T14:20:59+09:00",
+          "subject": "Merge pull request #9 from Dongyang-Mirae-University-software/feature/collect-session-wildcard"
         },
-        "summary": "총 55개 커밋, 상위 계정: gosky(37), namgung(10), gosky(5), 최근: Merge pull request #8 from Dongyang-Mirae-University-software/feature/training-sample-collector"
+        "summary": "총 57개 커밋, 상위 계정: gosky(37), namgung(11), gosky(5), 최근: Merge pull request #9 from Dongyang-Mirae-University-software/feature/collect-session-wildcard"
       },
       "recentFiles": [
         {
-          "path": ".env",
-          "modifiedAt": "2026-10-07T04:29:04.592Z"
+          "path": "data/collect/20261007/knife/alert/144231778_ward_Nl33eZCclmOEStQh_0.67.jpg",
+          "modifiedAt": "2026-10-07T05:42:31.778Z"
         },
         {
-          "path": "tests/test_clip_buffer.py",
-          "modifiedAt": "2026-10-07T02:20:04.613Z"
+          "path": "data/collect/20261007/knife/alert/144231778_ward_Nl33eZCclmOEStQh_0.67.json",
+          "modifiedAt": "2026-10-07T05:42:31.778Z"
         },
         {
-          "path": "tests/test_clip_endpoint.py",
-          "modifiedAt": "2026-10-07T02:20:04.613Z"
+          "path": "data/collect/20261007/knife/alert/144221759_ward_Nl33eZCclmOEStQh_0.67.jpg",
+          "modifiedAt": "2026-10-07T05:42:21.758Z"
         },
         {
-          "path": "tests/test_training_sample_collector.py",
-          "modifiedAt": "2026-10-07T02:20:04.613Z"
+          "path": "data/collect/20261007/knife/alert/144221759_ward_Nl33eZCclmOEStQh_0.67.json",
+          "modifiedAt": "2026-10-07T05:42:21.758Z"
         },
         {
-          "path": "app/routers/live_stream_router.py",
-          "modifiedAt": "2026-10-07T02:20:04.609Z"
+          "path": "data/collect/20261007/knife/alert/144211736_ward_Nl33eZCclmOEStQh_0.67.jpg",
+          "modifiedAt": "2026-10-07T05:42:11.734Z"
         },
         {
-          "path": "app/schemas/clip_schema.py",
-          "modifiedAt": "2026-10-07T02:20:04.609Z"
+          "path": "data/collect/20261007/knife/alert/144211736_ward_Nl33eZCclmOEStQh_0.67.json",
+          "modifiedAt": "2026-10-07T05:42:11.734Z"
         },
         {
-          "path": "app/services/stream_session_service.py",
-          "modifiedAt": "2026-10-07T02:20:04.609Z"
+          "path": "data/collect/20261007/knife/alert/144200760_ward_Nl33eZCclmOEStQh_0.67.jpg",
+          "modifiedAt": "2026-10-07T05:42:00.758Z"
         },
         {
-          "path": "app/services/training_sample_collector.py",
-          "modifiedAt": "2026-10-07T02:20:04.609Z"
+          "path": "data/collect/20261007/knife/alert/144200760_ward_Nl33eZCclmOEStQh_0.67.json",
+          "modifiedAt": "2026-10-07T05:42:00.758Z"
         }
       ],
       "summary": [
@@ -1789,8 +1803,8 @@
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI",
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 55",
-        "Git 상위 계정: gosky(37), namgung(10), gosky(5)"
+        "Git 커밋 수: 57",
+        "Git 상위 계정: gosky(37), namgung(11), gosky(5)"
       ]
     },
     {
@@ -2629,7 +2643,7 @@
           {
             "name": "silverbridgereservation-reservation-api-1",
             "image": "silverbridgereservation-reservation-api",
-            "status": "Up 4 days",
+            "status": "Up 5 days",
             "ports": "0.0.0.0:6015->6015/tcp, [::]:6015->6015/tcp"
           }
         ],
@@ -3673,13 +3687,13 @@
           {
             "name": "whitehousebe-api-1",
             "image": "whitehousebe-api",
-            "status": "Up 4 days",
+            "status": "Up 5 days",
             "ports": "0.0.0.0:6701->6701/tcp, [::]:6701->6701/tcp"
           },
           {
             "name": "whitehousebe-db-1",
             "image": "postgres:16",
-            "status": "Up 4 days (healthy)",
+            "status": "Up 5 days (healthy)",
             "ports": "0.0.0.0:6705->5432/tcp, [::]:6705->5432/tcp"
           }
         ],
@@ -4133,7 +4147,7 @@
           {
             "name": "whitehousefe-web",
             "image": "whitehousefe-web",
-            "status": "Up 4 days",
+            "status": "Up 5 days",
             "ports": "0.0.0.0:6700->3000/tcp, [::]:6700->3000/tcp"
           }
         ],

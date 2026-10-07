@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-07 14:22:33 KST
+- 점검 시각: 2026-10-07 14:52:38 KST
 
 ## 추정 기술 스택
 
@@ -44,8 +44,8 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 1480
-- 디렉토리 개수: 52
+- 파일 개수: 1552
+- 디렉토리 개수: 59
 - 주요 폴더: app, data, docs, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, tests
 
@@ -58,30 +58,30 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1000, 1008, 1024, 2000, 5432, 6012, 6015, 6017, 6019
+- 관련 포트: 1000, 1008, 1024, 1072, 1280, 1326, 1349, 1602, 1889, 2000, 5432, 6012, 6015, 6017, 6019, 18036, 18283, 18642, 18791, 19115, 19116, 19117, 31910
 - 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 55
+- 총 커밋 수: 57
 - 계정별 커밋 수:
   - gosky <lovesky00317@gmail.com>: 37
-  - namgung <skarndaudwls@gmail.com>: 10
+  - namgung <skarndaudwls@gmail.com>: 11
   - gosky <gosky@gosky.kr>: 5
-- 최근 커밋: f028d34 / namgung <skarndaudwls@gmail.com> / Merge pull request #8 from Dongyang-Mirae-University-software/feature/training-sample-collector
+- 최근 커밋: b26d059 / namgung <skarndaudwls@gmail.com> / Merge pull request #9 from Dongyang-Mirae-University-software/feature/collect-session-wildcard
 
 ## 최근 수정 파일
 
-- .env (2026-10-07 13:29:04 KST)
-- tests/test_clip_buffer.py (2026-10-07 11:20:04 KST)
-- tests/test_clip_endpoint.py (2026-10-07 11:20:04 KST)
-- tests/test_training_sample_collector.py (2026-10-07 11:20:04 KST)
-- app/routers/live_stream_router.py (2026-10-07 11:20:04 KST)
-- app/schemas/clip_schema.py (2026-10-07 11:20:04 KST)
-- app/services/stream_session_service.py (2026-10-07 11:20:04 KST)
-- app/services/training_sample_collector.py (2026-10-07 11:20:04 KST)
+- data/collect/20261007/knife/alert/144231778_ward_Nl33eZCclmOEStQh_0.67.jpg (2026-10-07 14:42:31 KST)
+- data/collect/20261007/knife/alert/144231778_ward_Nl33eZCclmOEStQh_0.67.json (2026-10-07 14:42:31 KST)
+- data/collect/20261007/knife/alert/144221759_ward_Nl33eZCclmOEStQh_0.67.jpg (2026-10-07 14:42:21 KST)
+- data/collect/20261007/knife/alert/144221759_ward_Nl33eZCclmOEStQh_0.67.json (2026-10-07 14:42:21 KST)
+- data/collect/20261007/knife/alert/144211736_ward_Nl33eZCclmOEStQh_0.67.jpg (2026-10-07 14:42:11 KST)
+- data/collect/20261007/knife/alert/144211736_ward_Nl33eZCclmOEStQh_0.67.json (2026-10-07 14:42:11 KST)
+- data/collect/20261007/knife/alert/144200760_ward_Nl33eZCclmOEStQh_0.67.jpg (2026-10-07 14:42:00 KST)
+- data/collect/20261007/knife/alert/144200760_ward_Nl33eZCclmOEStQh_0.67.json (2026-10-07 14:42:00 KST)
 
 ## 점검 결과 요약
 
@@ -89,5 +89,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 55
-- Git 상위 계정: gosky(37), namgung(10), gosky(5)
+- Git 커밋 수: 57
+- Git 상위 계정: gosky(37), namgung(11), gosky(5)
