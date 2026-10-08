@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-08 17:57:37 KST
+- 점검 시각: 2026-10-08 18:27:43 KST
 
 ## 추정 기술 스택
 
@@ -37,7 +37,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 389
+- 파일 개수: 392
 - 디렉토리 개수: 116
 - 주요 폴더: docs, public, src
 - 주요 경로: public, public/images, src, src/app, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/auth, src/app/(auth)/auth/kakao, src/app/(auth)/auth/kakao/callback, src/app/(auth)/find-email, src/app/(auth)/find-email/_components, src/app/(auth)/find-email/_hooks, src/app/(auth)/find-password, src/app/(auth)/find-password/_components, src/app/(auth)/find-password/_hooks, src/app/(auth)/login, src/app/(auth)/login/_components, src/app/(auth)/signup, src/app/(auth)/signup/_components, src/app/(guardian)
@@ -58,25 +58,25 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 994
+- 총 커밋 수: 1069
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
-  - yuna0222 <gold8077@gmail.com>: 236
+  - yuna0222 <gold8077@gmail.com>: 309
   - gosky <gosky@gosky.kr>: 10
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 3e2300e / yuna0222 <gold8077@gmail.com> / Merge pull request #28 from Dongyang-Mirae-University-software/feature/proto-v9.0
+- 최근 커밋: f86e2a3 / yuna0222 <gold8077@gmail.com> / Merge pull request #30 from Dongyang-Mirae-University-software/feature/proto-v10.0
 
 ## 최근 수정 파일
 
-- src/components/settings/PasswordChangeSection.tsx (2026-10-07 16:21:12 KST)
-- src/constants/dashboard.ts (2026-10-07 16:21:12 KST)
-- src/service/interface/guardian/anomaly.ts (2026-10-07 16:21:12 KST)
-- src/components/layout/dashboard/ProfileInfoPanel.module.css (2026-10-07 16:21:12 KST)
-- src/components/layout/dashboard/ProfileInfoPanel.tsx (2026-10-07 16:21:12 KST)
-- src/components/layout/dashboard/ProfileModal.module.css (2026-10-07 16:21:12 KST)
-- src/components/layout/dashboard/ProfileModal.tsx (2026-10-07 16:21:12 KST)
-- src/components/layout/dashboard/ProfileModalControls.module.css (2026-10-07 16:21:12 KST)
+- src/components/settings/PasswordChangeSection.module.css (2026-10-08 18:18:44 KST)
+- src/components/settings/PasswordChangeSection.tsx (2026-10-08 18:18:44 KST)
+- src/constants/dashboard.ts (2026-10-08 18:18:44 KST)
+- src/service/api/chat.ts (2026-10-08 18:18:44 KST)
+- src/service/api/guardian/sosHistory.ts (2026-10-08 18:18:44 KST)
+- src/service/interface/chat.ts (2026-10-08 18:18:44 KST)
+- src/service/interface/guardian/sosHistory.ts (2026-10-08 18:18:44 KST)
+- src/service/query/guardian/camera.ts (2026-10-08 18:18:44 KST)
 
 ## 점검 결과 요약
 
@@ -84,5 +84,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 994
-- Git 상위 계정: YUNA0222(1400), yuna0222(236), gosky(10)
+- Git 커밋 수: 1069
+- Git 상위 계정: YUNA0222(1400), yuna0222(309), gosky(10)

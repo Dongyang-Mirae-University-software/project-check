@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-08T08:57:35.014Z",
-  "generatedAtKst": "2026-10-08 17:57:35 KST",
+  "generatedAt": "2026-10-08T09:27:40.968Z",
+  "generatedAtKst": "2026-10-08 18:27:40 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7214
+          "count": 7215
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7234
+      "count": 7235
     },
     {
       "name": "YUNA0222",
@@ -75,10 +75,10 @@
       "emails": [
         {
           "email": "gold8077@gmail.com",
-          "count": 236
+          "count": 309
         }
       ],
-      "count": 236
+      "count": 309
     },
     {
       "name": "namgung",
@@ -1252,22 +1252,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7077,
+        "commitCount": 7078,
         "authors": [
           {
-            "count": 7077,
+            "count": 7078,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "a442e30b4",
+          "hash": "1306963cf",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-08T17:27:33+09:00",
+          "date": "2026-10-08T17:57:38+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7077개 커밋, 상위 계정: gosky(7077), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7078개 커밋, 상위 계정: gosky(7078), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1308,8 +1308,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7077",
-        "Git 상위 계정: gosky(7077)"
+        "Git 커밋 수: 7078",
+        "Git 상위 계정: gosky(7078)"
       ]
     },
     {
@@ -1452,7 +1452,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 24 hours",
+            "status": "Up 25 hours",
             "ports": ""
           }
         ],
@@ -1691,7 +1691,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 24 hours",
+            "status": "Up 25 hours",
             "ports": ""
           }
         ],
@@ -2201,7 +2201,7 @@
         }
       ],
       "structure": {
-        "fileCount": 389,
+        "fileCount": 392,
         "dirCount": 116,
         "mainFolders": [
           "docs",
@@ -2271,7 +2271,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 994,
+        "commitCount": 1069,
         "authors": [
           {
             "count": 1400,
@@ -2279,7 +2279,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 236,
+            "count": 309,
             "name": "yuna0222",
             "email": "gold8077@gmail.com"
           },
@@ -2300,46 +2300,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "3e2300e",
+          "hash": "f86e2a3",
           "author": "yuna0222",
           "email": "gold8077@gmail.com",
-          "date": "2026-10-07T16:20:06+09:00",
-          "subject": "Merge pull request #28 from Dongyang-Mirae-University-software/feature/proto-v9.0"
+          "date": "2026-10-08T18:18:25+09:00",
+          "subject": "Merge pull request #30 from Dongyang-Mirae-University-software/feature/proto-v10.0"
         },
-        "summary": "총 994개 커밋, 상위 계정: YUNA0222(1400), yuna0222(236), gosky(10), 최근: Merge pull request #28 from Dongyang-Mirae-University-software/feature/proto-v9.0"
+        "summary": "총 1069개 커밋, 상위 계정: YUNA0222(1400), yuna0222(309), gosky(10), 최근: Merge pull request #30 from Dongyang-Mirae-University-software/feature/proto-v10.0"
       },
       "recentFiles": [
         {
+          "path": "src/components/settings/PasswordChangeSection.module.css",
+          "modifiedAt": "2026-10-08T09:18:44.488Z"
+        },
+        {
           "path": "src/components/settings/PasswordChangeSection.tsx",
-          "modifiedAt": "2026-10-07T07:21:12.754Z"
+          "modifiedAt": "2026-10-08T09:18:44.488Z"
         },
         {
           "path": "src/constants/dashboard.ts",
-          "modifiedAt": "2026-10-07T07:21:12.754Z"
+          "modifiedAt": "2026-10-08T09:18:44.488Z"
         },
         {
-          "path": "src/service/interface/guardian/anomaly.ts",
-          "modifiedAt": "2026-10-07T07:21:12.754Z"
+          "path": "src/service/api/chat.ts",
+          "modifiedAt": "2026-10-08T09:18:44.488Z"
         },
         {
-          "path": "src/components/layout/dashboard/ProfileInfoPanel.module.css",
-          "modifiedAt": "2026-10-07T07:21:12.750Z"
+          "path": "src/service/api/guardian/sosHistory.ts",
+          "modifiedAt": "2026-10-08T09:18:44.488Z"
         },
         {
-          "path": "src/components/layout/dashboard/ProfileInfoPanel.tsx",
-          "modifiedAt": "2026-10-07T07:21:12.750Z"
+          "path": "src/service/interface/chat.ts",
+          "modifiedAt": "2026-10-08T09:18:44.488Z"
         },
         {
-          "path": "src/components/layout/dashboard/ProfileModal.module.css",
-          "modifiedAt": "2026-10-07T07:21:12.750Z"
+          "path": "src/service/interface/guardian/sosHistory.ts",
+          "modifiedAt": "2026-10-08T09:18:44.488Z"
         },
         {
-          "path": "src/components/layout/dashboard/ProfileModal.tsx",
-          "modifiedAt": "2026-10-07T07:21:12.750Z"
-        },
-        {
-          "path": "src/components/layout/dashboard/ProfileModalControls.module.css",
-          "modifiedAt": "2026-10-07T07:21:12.750Z"
+          "path": "src/service/query/guardian/camera.ts",
+          "modifiedAt": "2026-10-08T09:18:44.488Z"
         }
       ],
       "summary": [
@@ -2347,8 +2347,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 994",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(236), gosky(10)"
+        "Git 커밋 수: 1069",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(309), gosky(10)"
       ]
     },
     {
