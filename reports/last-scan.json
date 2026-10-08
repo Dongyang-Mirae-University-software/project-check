@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-08T07:27:18.602Z",
-  "generatedAtKst": "2026-10-08 16:27:18 KST",
+  "generatedAt": "2026-10-08T07:57:23.974Z",
+  "generatedAtKst": "2026-10-08 16:57:23 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7211
+          "count": 7212
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7231
+      "count": 7232
     },
     {
       "name": "YUNA0222",
@@ -1252,22 +1252,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7074,
+        "commitCount": 7075,
         "authors": [
           {
-            "count": 7074,
+            "count": 7075,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "f64708f69",
+          "hash": "0f73b2d7d",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-08T15:57:16+09:00",
+          "date": "2026-10-08T16:27:22+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7074개 커밋, 상위 계정: gosky(7074), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7075개 커밋, 상위 계정: gosky(7075), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1308,8 +1308,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7074",
-        "Git 상위 계정: gosky(7074)"
+        "Git 커밋 수: 7075",
+        "Git 상위 계정: gosky(7075)"
       ]
     },
     {
@@ -1638,8 +1638,8 @@
         }
       ],
       "structure": {
-        "fileCount": 1552,
-        "dirCount": 59,
+        "fileCount": 1556,
+        "dirCount": 62,
         "mainFolders": [
           "app",
           "data",
@@ -1707,6 +1707,7 @@
           1008,
           1024,
           1072,
+          1262,
           1280,
           1326,
           1349,
@@ -1725,7 +1726,9 @@
           19115,
           19116,
           19117,
-          31910
+          31910,
+          34462,
+          34559
         ],
         "summary": [
           "실행 중",
@@ -1766,6 +1769,22 @@
       },
       "recentFiles": [
         {
+          "path": "data/collect/20261008/fire/alert/163103068_ward_51sPLv3V8GZUCaAb_0.80.jpg",
+          "modifiedAt": "2026-10-08T07:31:03.064Z"
+        },
+        {
+          "path": "data/collect/20261008/fire/alert/163103068_ward_51sPLv3V8GZUCaAb_0.80.json",
+          "modifiedAt": "2026-10-08T07:31:03.064Z"
+        },
+        {
+          "path": "data/collect/20261008/fire/alert/163053044_ward_51sPLv3V8GZUCaAb_0.77.jpg",
+          "modifiedAt": "2026-10-08T07:30:53.040Z"
+        },
+        {
+          "path": "data/collect/20261008/fire/alert/163053044_ward_51sPLv3V8GZUCaAb_0.77.json",
+          "modifiedAt": "2026-10-08T07:30:53.040Z"
+        },
+        {
           "path": "data/postgres/pg_wal/000000010000000000000001",
           "modifiedAt": "2026-10-08T06:19:23.108Z"
         },
@@ -1780,22 +1799,6 @@
         {
           "path": "data/postgres/base/16384/32947",
           "modifiedAt": "2026-10-08T06:19:17.700Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32946",
-          "modifiedAt": "2026-10-08T06:19:17.600Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32945",
-          "modifiedAt": "2026-10-08T06:19:17.500Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32935",
-          "modifiedAt": "2026-10-08T06:19:17.396Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16415",
-          "modifiedAt": "2026-10-08T06:19:17.296Z"
         }
       ],
       "summary": [

@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-08 16:27:20 KST
+- 점검 시각: 2026-10-08 16:57:26 KST
 
 ## 추정 기술 스택
 
@@ -44,8 +44,8 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 1552
-- 디렉토리 개수: 59
+- 파일 개수: 1556
+- 디렉토리 개수: 62
 - 주요 폴더: app, data, docs, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, tests
 
@@ -58,7 +58,7 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1000, 1008, 1024, 1072, 1280, 1326, 1349, 1602, 1889, 2000, 5432, 6012, 6015, 6017, 6019, 18036, 18283, 18642, 18791, 19115, 19116, 19117, 31910
+- 관련 포트: 1000, 1008, 1024, 1072, 1262, 1280, 1326, 1349, 1602, 1889, 2000, 5432, 6012, 6015, 6017, 6019, 18036, 18283, 18642, 18791, 19115, 19116, 19117, 31910, 34462, 34559
 - 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
@@ -74,14 +74,14 @@
 
 ## 최근 수정 파일
 
+- data/collect/20261008/fire/alert/163103068_ward_51sPLv3V8GZUCaAb_0.80.jpg (2026-10-08 16:31:03 KST)
+- data/collect/20261008/fire/alert/163103068_ward_51sPLv3V8GZUCaAb_0.80.json (2026-10-08 16:31:03 KST)
+- data/collect/20261008/fire/alert/163053044_ward_51sPLv3V8GZUCaAb_0.77.jpg (2026-10-08 16:30:53 KST)
+- data/collect/20261008/fire/alert/163053044_ward_51sPLv3V8GZUCaAb_0.77.json (2026-10-08 16:30:53 KST)
 - data/postgres/pg_wal/000000010000000000000001 (2026-10-08 15:19:23 KST)
 - data/postgres/global/pg_control (2026-10-08 15:19:17 KST)
 - data/postgres/base/16384/32948 (2026-10-08 15:19:17 KST)
 - data/postgres/base/16384/32947 (2026-10-08 15:19:17 KST)
-- data/postgres/base/16384/32946 (2026-10-08 15:19:17 KST)
-- data/postgres/base/16384/32945 (2026-10-08 15:19:17 KST)
-- data/postgres/base/16384/32935 (2026-10-08 15:19:17 KST)
-- data/postgres/base/16384/16415 (2026-10-08 15:19:17 KST)
 
 ## 점검 결과 요약
 
