@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-08 17:27:31 KST
+- 점검 시각: 2026-10-08 17:57:37 KST
 
 ## 추정 기술 스택
 
@@ -44,7 +44,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 1798
+- 파일 개수: 1928
 - 디렉토리 개수: 66
 - 주요 폴더: app, data, docs, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, tests
@@ -58,7 +58,7 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1000, 1008, 1023, 1024, 1061, 1068, 1093, 1137, 1218, 1224, 1266, 1267, 1268, 1269, 1272, 1273, 1274, 1275, 1389, 1398, 1399, 1430, 1433, 1519, 1526, 1564, 1575, 1620, 1647, 1651, 1707, 1729, 1756, 1829, 1842, 1981, 1982, 1994, 2000, 2090, 2149, 2155, 5432, 6012, 6015, 6017, 6019, 33736, 34230, 34277, 34279, 34310, 34350, 34779, 34863, 34916, 34935, 34996, 35079, 35102, 35115, 35256, 35400, 35692, 44252, 44253, 44275, 44309
+- 관련 포트: 1000, 1008, 1023, 1024, 1061, 1068, 1093, 1104, 1130, 1137, 1218, 1224, 1279, 1331, 1344, 1371, 1389, 1398, 1399, 1420, 1430, 1433, 1516, 1519, 1523, 1526, 1564, 1575, 1620, 1647, 1651, 1707, 1718, 1729, 1739, 1756, 1784, 1786, 1829, 1842, 1902, 1918, 1955, 1968, 1981, 1982, 1994, 2000, 2023, 2056, 2059, 2090, 2133, 2149, 2155, 2161, 2194, 2289, 2304, 2472, 2496, 2609, 2686, 2690, 5432, 6012, 6015, 6017, 6019, 44255, 44275, 56989
 - 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
@@ -74,14 +74,14 @@
 
 ## 최근 수정 파일
 
-- data/collect/20261008/fire/alert/172723946_ward_51sPLv3V8GZUCaAb_0.88.json (2026-10-08 17:27:23 KST)
-- data/collect/20261008/fire/alert/172723946_ward_51sPLv3V8GZUCaAb_0.88.jpg (2026-10-08 17:27:23 KST)
-- data/collect/20261008/fire/alert/172712507_ward_51sPLv3V8GZUCaAb_0.88.jpg (2026-10-08 17:27:12 KST)
-- data/collect/20261008/fire/alert/172712507_ward_51sPLv3V8GZUCaAb_0.88.json (2026-10-08 17:27:12 KST)
-- data/collect/20261008/fire/alert/172700952_ward_51sPLv3V8GZUCaAb_0.88.jpg (2026-10-08 17:27:00 KST)
-- data/collect/20261008/fire/alert/172700952_ward_51sPLv3V8GZUCaAb_0.88.json (2026-10-08 17:27:00 KST)
-- data/collect/20261008/fire/alert/172649917_ward_51sPLv3V8GZUCaAb_0.88.jpg (2026-10-08 17:26:49 KST)
-- data/collect/20261008/fire/alert/172649917_ward_51sPLv3V8GZUCaAb_0.88.json (2026-10-08 17:26:49 KST)
+- data/collect/20261008/fire/alert/173844024_ward_51sPLv3V8GZUCaAb_0.87.jpg (2026-10-08 17:38:44 KST)
+- data/collect/20261008/fire/alert/173844024_ward_51sPLv3V8GZUCaAb_0.87.json (2026-10-08 17:38:44 KST)
+- data/collect/20261008/fire/alert/173834013_ward_51sPLv3V8GZUCaAb_0.88.jpg (2026-10-08 17:38:34 KST)
+- data/collect/20261008/fire/alert/173834013_ward_51sPLv3V8GZUCaAb_0.88.json (2026-10-08 17:38:34 KST)
+- data/collect/20261008/fire/alert/173823985_ward_51sPLv3V8GZUCaAb_0.88.jpg (2026-10-08 17:38:23 KST)
+- data/collect/20261008/fire/alert/173823985_ward_51sPLv3V8GZUCaAb_0.88.json (2026-10-08 17:38:23 KST)
+- data/collect/20261008/fire/alert/173813918_ward_51sPLv3V8GZUCaAb_0.88.jpg (2026-10-08 17:38:13 KST)
+- data/collect/20261008/fire/alert/173813918_ward_51sPLv3V8GZUCaAb_0.88.json (2026-10-08 17:38:13 KST)
 
 ## 점검 결과 요약
 
