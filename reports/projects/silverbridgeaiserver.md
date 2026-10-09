@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-09 17:31:56 KST
+- 점검 시각: 2026-10-09 18:02:01 KST
 
 ## 추정 기술 스택
 
@@ -44,7 +44,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 1929
+- 파일 개수: 1930
 - 디렉토리 개수: 67
 - 주요 폴더: app, data, docs, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, models/new/backup, tests
@@ -65,23 +65,24 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 57
+- 총 커밋 수: 59
 - 계정별 커밋 수:
   - gosky <lovesky00317@gmail.com>: 37
   - namgung <skarndaudwls@gmail.com>: 11
   - gosky <gosky@gosky.kr>: 5
-- 최근 커밋: b26d059 / namgung <skarndaudwls@gmail.com> / Merge pull request #9 from Dongyang-Mirae-University-software/feature/collect-session-wildcard
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 1
+- 최근 커밋: 9c301b1 / namgung <skarndaudwls@gmail.com> / Merge pull request #10 from Dongyang-Mirae-University-software/feature/chat-log-purge
 
 ## 최근 수정 파일
 
-- models/new/knife.pt (2026-10-09 17:31:02 KST)
-- models/new/backup/knife_20261009-1730.pt (2026-10-09 17:31:02 KST)
-- data/postgres/pg_wal/000000010000000000000001 (2026-10-09 17:09:52 KST)
-- data/postgres/global/pg_control (2026-10-09 17:09:49 KST)
-- data/postgres/base/16384/32948 (2026-10-09 17:09:48 KST)
-- data/postgres/base/16384/32947 (2026-10-09 17:09:48 KST)
-- data/postgres/base/16384/32946 (2026-10-09 17:09:48 KST)
-- data/postgres/base/16384/32945 (2026-10-09 17:09:48 KST)
+- data/postgres/pg_wal/000000010000000000000001 (2026-10-09 18:00:36 KST)
+- app/routers/chat_router.py (2026-10-09 17:52:25 KST)
+- app/services/chat_service.py (2026-10-09 17:52:25 KST)
+- tests/test_chat_log_purge.py (2026-10-09 17:52:25 KST)
+- data/postgres/global/pg_control (2026-10-09 17:44:49 KST)
+- data/postgres/base/16384/32948 (2026-10-09 17:44:49 KST)
+- data/postgres/base/16384/32947 (2026-10-09 17:44:49 KST)
+- data/postgres/base/16384/32946 (2026-10-09 17:44:49 KST)
 
 ## 점검 결과 요약
 
@@ -89,5 +90,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 57
+- Git 커밋 수: 59
 - Git 상위 계정: gosky(37), namgung(11), gosky(5)
