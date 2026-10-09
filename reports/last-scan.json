@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-09T17:03:27.004Z",
-  "generatedAtKst": "2026-10-10 02:03:27 KST",
+  "generatedAt": "2026-10-09T17:33:32.527Z",
+  "generatedAtKst": "2026-10-10 02:33:32 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7278
+          "count": 7279
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7298
+      "count": 7299
     },
     {
       "name": "YUNA0222",
@@ -1252,22 +1252,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7141,
+        "commitCount": 7142,
         "authors": [
           {
-            "count": 7141,
+            "count": 7142,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "989aa09ea",
+          "hash": "0933023ce",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-10T01:33:25+09:00",
+          "date": "2026-10-10T02:03:30+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7141개 커밋, 상위 계정: gosky(7141), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7142개 커밋, 상위 계정: gosky(7142), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1308,8 +1308,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7141",
-        "Git 상위 계정: gosky(7141)"
+        "Git 커밋 수: 7142",
+        "Git 상위 계정: gosky(7142)"
       ]
     },
     {
@@ -1450,9 +1450,9 @@
         "pm2": [],
         "docker": [
           {
-            "name": "sb-ai-0602",
+            "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 27 minutes",
+            "status": "Up 29 minutes",
             "ports": ""
           }
         ],
@@ -1690,9 +1690,9 @@
         "pm2": [],
         "docker": [
           {
-            "name": "sb-ai-0602",
+            "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 27 minutes",
+            "status": "Up 29 minutes",
             "ports": ""
           }
         ],
@@ -1701,6 +1701,7 @@
           5432,
           6012,
           6015,
+          6017,
           6019
         ],
         "allCandidatePorts": [
@@ -1781,7 +1782,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 1개",
-          "포트 1433, 5432, 6012, 6015, 6019"
+          "포트 1433, 5432, 6012, 6015, 6017, 6019"
         ]
       },
       "git": {
@@ -1822,35 +1823,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000002",
-          "modifiedAt": "2026-10-09T16:28:56.643Z"
+          "modifiedAt": "2026-10-09T17:29:03.372Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-10-09T16:28:55.843Z"
+          "modifiedAt": "2026-10-09T17:29:01.768Z"
         },
         {
           "path": "data/postgres/base/16384/32948",
-          "modifiedAt": "2026-10-09T16:28:55.743Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32947",
-          "modifiedAt": "2026-10-09T16:28:55.643Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32946",
-          "modifiedAt": "2026-10-09T16:28:55.343Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32945",
-          "modifiedAt": "2026-10-09T16:28:55.243Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32935_fsm",
-          "modifiedAt": "2026-10-09T16:28:55.143Z"
+          "modifiedAt": "2026-10-09T17:29:01.668Z"
         },
         {
           "path": "data/postgres/base/16384/32935",
-          "modifiedAt": "2026-10-09T16:28:55.043Z"
+          "modifiedAt": "2026-10-09T17:29:01.568Z"
+        },
+        {
+          "path": "data/postgres/base/16384/2841",
+          "modifiedAt": "2026-10-09T17:28:59.464Z"
+        },
+        {
+          "path": "data/postgres/base/16384/2840_vm",
+          "modifiedAt": "2026-10-09T17:28:59.364Z"
+        },
+        {
+          "path": "data/postgres/base/16384/2840_fsm",
+          "modifiedAt": "2026-10-09T17:28:59.264Z"
+        },
+        {
+          "path": "data/postgres/base/16384/2840",
+          "modifiedAt": "2026-10-09T17:28:58.964Z"
         }
       ],
       "summary": [
@@ -2699,6 +2700,7 @@
         ],
         "ports": [
           6015,
+          6017,
           6018
         ],
         "allCandidatePorts": [
@@ -2711,7 +2713,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 1개",
-          "포트 6015, 6018"
+          "포트 6015, 6017, 6018"
         ]
       },
       "git": {
