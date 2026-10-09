@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-09 19:02:13 KST
+- 점검 시각: 2026-10-09 19:32:19 KST
 
 ## 추정 기술 스택
 
@@ -44,7 +44,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 1931
+- 파일 개수: 1933
 - 디렉토리 개수: 67
 - 주요 폴더: app, data, docs, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, models/new/backup, tests
@@ -65,24 +65,24 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 61
+- 총 커밋 수: 63
 - 계정별 커밋 수:
   - gosky <lovesky00317@gmail.com>: 37
   - namgung <skarndaudwls@gmail.com>: 11
   - gosky <gosky@gosky.kr>: 5
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 2
-- 최근 커밋: 1829ac1 / namgung <skarndaudwls@gmail.com> / Merge pull request #11 from Dongyang-Mirae-University-software/feature/reservation-credential-purge
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 3
+- 최근 커밋: a0c0f20 / namgung <skarndaudwls@gmail.com> / Merge pull request #12 from Dongyang-Mirae-University-software/fix/chat-fallback-neutral-wording
 
 ## 최근 수정 파일
 
-- data/postgres/pg_wal/000000010000000000000001 (2026-10-09 19:02:01 KST)
-- data/postgres/base/16384/32935 (2026-10-09 19:00:59 KST)
-- data/postgres/base/16384/32947 (2026-10-09 19:00:24 KST)
-- data/postgres/global/pg_control (2026-10-09 18:59:50 KST)
-- data/postgres/base/16384/32948 (2026-10-09 18:59:50 KST)
-- data/postgres/base/16384/32946 (2026-10-09 18:59:50 KST)
-- data/postgres/base/16384/32945 (2026-10-09 18:59:50 KST)
-- data/postgres/base/16384/32935_fsm (2026-10-09 18:59:49 KST)
+- data/postgres/pg_wal/000000010000000000000001 (2026-10-09 19:32:18 KST)
+- data/postgres/base/16384/2840 (2026-10-09 19:32:14 KST)
+- data/postgres/base/16384/32935 (2026-10-09 19:31:08 KST)
+- data/postgres/global/pg_control (2026-10-09 19:29:51 KST)
+- data/postgres/base/16384/32948 (2026-10-09 19:29:51 KST)
+- data/postgres/base/16384/32947 (2026-10-09 19:29:51 KST)
+- data/postgres/base/16384/32946 (2026-10-09 19:29:51 KST)
+- data/postgres/base/16384/32945 (2026-10-09 19:29:50 KST)
 
 ## 점검 결과 요약
 
@@ -90,5 +90,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 61
+- Git 커밋 수: 63
 - Git 상위 계정: gosky(37), namgung(11), gosky(5)
