@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-09 18:32:07 KST
+- 점검 시각: 2026-10-09 19:02:13 KST
 
 ## 추정 기술 스택
 
@@ -75,14 +75,14 @@
 
 ## 최근 수정 파일
 
-- app/routers/reservation_credential_router.py (2026-10-09 18:23:01 KST)
-- app/services/reservation_credential_service.py (2026-10-09 18:23:01 KST)
-- tests/test_reservation_credential_purge.py (2026-10-09 18:23:01 KST)
-- data/postgres/pg_wal/000000010000000000000001 (2026-10-09 18:04:51 KST)
-- data/postgres/global/pg_control (2026-10-09 18:04:49 KST)
-- data/postgres/base/16384/32948 (2026-10-09 18:04:49 KST)
-- data/postgres/base/16384/32947 (2026-10-09 18:04:49 KST)
-- data/postgres/base/16384/32946 (2026-10-09 18:04:49 KST)
+- data/postgres/pg_wal/000000010000000000000001 (2026-10-09 19:02:01 KST)
+- data/postgres/base/16384/32935 (2026-10-09 19:00:59 KST)
+- data/postgres/base/16384/32947 (2026-10-09 19:00:24 KST)
+- data/postgres/global/pg_control (2026-10-09 18:59:50 KST)
+- data/postgres/base/16384/32948 (2026-10-09 18:59:50 KST)
+- data/postgres/base/16384/32946 (2026-10-09 18:59:50 KST)
+- data/postgres/base/16384/32945 (2026-10-09 18:59:50 KST)
+- data/postgres/base/16384/32935_fsm (2026-10-09 18:59:49 KST)
 
 ## 점검 결과 요약
 
