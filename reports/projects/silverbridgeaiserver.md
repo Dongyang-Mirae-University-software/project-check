@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-09 17:01:50 KST
+- 점검 시각: 2026-10-09 17:31:56 KST
 
 ## 추정 기술 스택
 
@@ -44,10 +44,10 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 1928
-- 디렉토리 개수: 66
+- 파일 개수: 1929
+- 디렉토리 개수: 67
 - 주요 폴더: app, data, docs, models, tests
-- 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, tests
+- 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, models/new/backup, tests
 
 ## DB 사용 여부
 
@@ -74,14 +74,14 @@
 
 ## 최근 수정 파일
 
-- data/collect/20261008/fire/alert/173844024_ward_51sPLv3V8GZUCaAb_0.87.jpg (2026-10-08 17:38:44 KST)
-- data/collect/20261008/fire/alert/173844024_ward_51sPLv3V8GZUCaAb_0.87.json (2026-10-08 17:38:44 KST)
-- data/collect/20261008/fire/alert/173834013_ward_51sPLv3V8GZUCaAb_0.88.jpg (2026-10-08 17:38:34 KST)
-- data/collect/20261008/fire/alert/173834013_ward_51sPLv3V8GZUCaAb_0.88.json (2026-10-08 17:38:34 KST)
-- data/collect/20261008/fire/alert/173823985_ward_51sPLv3V8GZUCaAb_0.88.jpg (2026-10-08 17:38:23 KST)
-- data/collect/20261008/fire/alert/173823985_ward_51sPLv3V8GZUCaAb_0.88.json (2026-10-08 17:38:23 KST)
-- data/collect/20261008/fire/alert/173813918_ward_51sPLv3V8GZUCaAb_0.88.jpg (2026-10-08 17:38:13 KST)
-- data/collect/20261008/fire/alert/173813918_ward_51sPLv3V8GZUCaAb_0.88.json (2026-10-08 17:38:13 KST)
+- models/new/knife.pt (2026-10-09 17:31:02 KST)
+- models/new/backup/knife_20261009-1730.pt (2026-10-09 17:31:02 KST)
+- data/postgres/pg_wal/000000010000000000000001 (2026-10-09 17:09:52 KST)
+- data/postgres/global/pg_control (2026-10-09 17:09:49 KST)
+- data/postgres/base/16384/32948 (2026-10-09 17:09:48 KST)
+- data/postgres/base/16384/32947 (2026-10-09 17:09:48 KST)
+- data/postgres/base/16384/32946 (2026-10-09 17:09:48 KST)
+- data/postgres/base/16384/32945 (2026-10-09 17:09:48 KST)
 
 ## 점검 결과 요약
 
