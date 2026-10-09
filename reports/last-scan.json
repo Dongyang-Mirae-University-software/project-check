@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-09T10:32:17.135Z",
-  "generatedAtKst": "2026-10-09 19:32:17 KST",
+  "generatedAt": "2026-10-09T11:02:22.191Z",
+  "generatedAtKst": "2026-10-09 20:02:22 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7265
+          "count": 7266
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7285
+      "count": 7286
     },
     {
       "name": "YUNA0222",
@@ -1252,22 +1252,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7128,
+        "commitCount": 7129,
         "authors": [
           {
-            "count": 7128,
+            "count": 7129,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "93a339cbe",
+          "hash": "b40470d31",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-09T19:02:15+09:00",
+          "date": "2026-10-09T19:32:20+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7128개 커밋, 상위 계정: gosky(7128), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7129개 커밋, 상위 계정: gosky(7129), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1308,8 +1308,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7128",
-        "Git 상위 계정: gosky(7128)"
+        "Git 커밋 수: 7129",
+        "Git 상위 계정: gosky(7129)"
       ]
     },
     {
@@ -1452,7 +1452,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 17 minutes",
+            "status": "Up 47 minutes",
             "ports": ""
           }
         ],
@@ -1692,7 +1692,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 17 minutes",
+            "status": "Up 47 minutes",
             "ports": ""
           }
         ],
@@ -1823,35 +1823,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000001",
-          "modifiedAt": "2026-10-09T10:32:18.234Z"
-        },
-        {
-          "path": "data/postgres/base/16384/2840",
-          "modifiedAt": "2026-10-09T10:32:14.378Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32935",
-          "modifiedAt": "2026-10-09T10:31:08.055Z"
+          "modifiedAt": "2026-10-09T10:54:52.913Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-10-09T10:29:51.597Z"
+          "modifiedAt": "2026-10-09T10:54:51.913Z"
         },
         {
           "path": "data/postgres/base/16384/32948",
-          "modifiedAt": "2026-10-09T10:29:51.497Z"
+          "modifiedAt": "2026-10-09T10:54:51.813Z"
         },
         {
           "path": "data/postgres/base/16384/32947",
-          "modifiedAt": "2026-10-09T10:29:51.397Z"
+          "modifiedAt": "2026-10-09T10:54:51.713Z"
         },
         {
           "path": "data/postgres/base/16384/32946",
-          "modifiedAt": "2026-10-09T10:29:51.093Z"
+          "modifiedAt": "2026-10-09T10:54:51.409Z"
         },
         {
           "path": "data/postgres/base/16384/32945",
-          "modifiedAt": "2026-10-09T10:29:50.993Z"
+          "modifiedAt": "2026-10-09T10:54:51.309Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32935_fsm",
+          "modifiedAt": "2026-10-09T10:54:51.209Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32935",
+          "modifiedAt": "2026-10-09T10:54:51.109Z"
         }
       ],
       "summary": [
