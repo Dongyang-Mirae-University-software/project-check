@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-10-09 18:02:01 KST
+- 점검 시각: 2026-10-09 18:32:07 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 210
+- 파일 개수: 211
 - 디렉토리 개수: 33
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/integrationTest, src/integrationTest/java, src/integrationTest/java/kr, src/integrationTest/java/kr/silverbridge, src/integrationTest/java/kr/silverbridge/main, src/integrationTest/java/kr/silverbridge/main/domain, src/integrationTest/java/kr/silverbridge/main/migration, src/integrationTest/java/kr/silverbridge/main/support, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration, src/test
@@ -57,23 +57,23 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1013
+- 총 커밋 수: 1018
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 850
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 854
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
-- 최근 커밋: 385d29f / namgung <skarndaudwls@gmail.com> / Merge pull request #340 from Dongyang-Mirae-University-software/feature/chat-log-purge-on-withdraw
+- 최근 커밋: 901c4c6 / namgung <skarndaudwls@gmail.com> / Merge pull request #341 from Dongyang-Mirae-University-software/feature/ai-member-data-purge
 
 ## 최근 수정 파일
 
-- docs/progress.md (2026-10-09 17:56:18 KST)
-- CLAUDE.md (2026-10-09 17:56:18 KST)
+- docs/progress.md (2026-10-09 18:28:44 KST)
+- CLAUDE.md (2026-10-09 18:28:44 KST)
+- docs/(2026-10-09) audit-chat-log-purge-on-withdraw.md (2026-10-09 18:28:44 KST)
+- docs/(2026-10-09) feature-chat-log-purge-on-withdraw.md (2026-10-09 18:28:44 KST)
+- docs/audit-index.md (2026-10-09 18:28:44 KST)
 - docs/(2026-10-09) audit-ward-chat-relay.md (2026-10-09 17:56:18 KST)
-- docs/(2026-10-09) feature-chat-log-purge-on-withdraw.md (2026-10-09 17:56:18 KST)
-- docs/audit-index.md (2026-10-09 17:56:18 KST)
 - docs/(2026-10-09) feature-ward-chat-relay.md (2026-10-09 17:05:07 KST)
 - docs/(2026-10-08) audit-guardian-dashboard-api.md (2026-10-08 15:31:47 KST)
-- docs/(2026-10-08) audit-impact-guardian-notification-preference.md (2026-10-08 15:31:47 KST)
 
 ## 점검 결과 요약
 
@@ -81,5 +81,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1013
-- Git 상위 계정: skarndaudwls1(850), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1018
+- Git 상위 계정: skarndaudwls1(854), skarndaudwls1(65), gosky(4)
