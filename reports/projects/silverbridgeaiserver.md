@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-09 23:33:00 KST
+- 점검 시각: 2026-10-10 24:03:06 KST
 
 ## 추정 기술 스택
 
@@ -44,8 +44,8 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 1933
-- 디렉토리 개수: 67
+- 파일 개수: 2320
+- 디렉토리 개수: 68
 - 주요 폴더: app, data, docs, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, models/new/backup, tests
 
@@ -58,8 +58,8 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1000, 1008, 1023, 1024, 1061, 1068, 1093, 1104, 1130, 1137, 1218, 1224, 1279, 1331, 1344, 1371, 1389, 1398, 1399, 1420, 1430, 1433, 1516, 1519, 1523, 1526, 1564, 1575, 1620, 1647, 1651, 1707, 1718, 1729, 1739, 1756, 1784, 1786, 1829, 1842, 1902, 1918, 1955, 1968, 1981, 1982, 1994, 2000, 2023, 2056, 2059, 2090, 2133, 2149, 2155, 2161, 2194, 2289, 2304, 2472, 2496, 2609, 2686, 2690, 5432, 6012, 6015, 6017, 6019, 44255, 44275, 56989
-- 관련 Docker 컨테이너: silverbridge-ai-server
+- 관련 포트: 1000, 1008, 1024, 2000, 5432, 6012, 6015, 6017, 6019
+- 관련 Docker 컨테이너: ai-old-measure
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
@@ -75,14 +75,14 @@
 
 ## 최근 수정 파일
 
-- data/postgres/pg_wal/000000010000000000000001 (2026-10-09 20:14:58 KST)
-- data/postgres/global/pg_control (2026-10-09 20:14:52 KST)
-- data/postgres/base/16384/32948 (2026-10-09 20:14:52 KST)
-- data/postgres/base/16384/32947 (2026-10-09 20:14:52 KST)
-- data/postgres/base/16384/32946 (2026-10-09 20:14:52 KST)
-- data/postgres/base/16384/32945 (2026-10-09 20:14:52 KST)
-- data/postgres/base/16384/32939 (2026-10-09 20:14:52 KST)
-- data/postgres/base/16384/32938 (2026-10-09 20:14:52 KST)
+- data/postgres/base/32982/2619_vm (2026-10-10 24:03:06 KST)
+- data/postgres/base/32982/2619_fsm (2026-10-10 24:03:06 KST)
+- data/postgres/base/32982/2619 (2026-10-10 24:03:05 KST)
+- data/postgres/base/32982/2618_vm (2026-10-10 24:03:03 KST)
+- data/postgres/base/32982/2618_fsm (2026-10-10 24:03:03 KST)
+- data/postgres/base/32982/2618 (2026-10-10 24:03:02 KST)
+- data/postgres/base/32982/2617_vm (2026-10-10 24:03:01 KST)
+- data/postgres/base/32982/2617_fsm (2026-10-10 24:03:01 KST)
 
 ## 점검 결과 요약
 
