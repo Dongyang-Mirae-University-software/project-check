@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-09T16:03:15.910Z",
-  "generatedAtKst": "2026-10-10 01:03:15 KST",
+  "generatedAt": "2026-10-09T16:33:21.635Z",
+  "generatedAtKst": "2026-10-10 01:33:21 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7276
+          "count": 7277
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7296
+      "count": 7297
     },
     {
       "name": "YUNA0222",
@@ -1252,22 +1252,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7139,
+        "commitCount": 7140,
         "authors": [
           {
-            "count": 7139,
+            "count": 7140,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "accf68b2b",
+          "hash": "f91369ffd",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-10T00:33:13+09:00",
+          "date": "2026-10-10T01:03:19+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7139개 커밋, 상위 계정: gosky(7139), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7140개 커밋, 상위 계정: gosky(7140), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1308,8 +1308,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7139",
-        "Git 상위 계정: gosky(7139)"
+        "Git 커밋 수: 7140",
+        "Git 상위 계정: gosky(7140)"
       ]
     },
     {
@@ -1452,7 +1452,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 49 minutes",
+            "status": "Up About an hour",
             "ports": ""
           }
         ],
@@ -1692,7 +1692,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 49 minutes",
+            "status": "Up About an hour",
             "ports": ""
           }
         ],
@@ -1823,35 +1823,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000002",
-          "modifiedAt": "2026-10-09T15:18:58.597Z"
+          "modifiedAt": "2026-10-09T16:28:56.643Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-10-09T15:18:52.393Z"
+          "modifiedAt": "2026-10-09T16:28:55.843Z"
         },
         {
-          "path": "data/postgres/global/1262",
-          "modifiedAt": "2026-10-09T15:18:52.289Z"
+          "path": "data/postgres/base/16384/32948",
+          "modifiedAt": "2026-10-09T16:28:55.743Z"
         },
         {
-          "path": "data/postgres/pg_logical/replorigin_checkpoint",
-          "modifiedAt": "2026-10-09T15:18:52.289Z"
+          "path": "data/postgres/base/16384/32947",
+          "modifiedAt": "2026-10-09T16:28:55.643Z"
         },
         {
-          "path": "data/postgres/pg_xact/0000",
-          "modifiedAt": "2026-10-09T15:18:52.289Z"
+          "path": "data/postgres/base/16384/32946",
+          "modifiedAt": "2026-10-09T16:28:55.343Z"
         },
         {
-          "path": "data/postgres/global/2672",
-          "modifiedAt": "2026-10-09T15:03:27.438Z"
+          "path": "data/postgres/base/16384/32945",
+          "modifiedAt": "2026-10-09T16:28:55.243Z"
         },
         {
-          "path": "data/postgres/global/2671",
-          "modifiedAt": "2026-10-09T15:02:55.294Z"
+          "path": "data/postgres/base/16384/32935_fsm",
+          "modifiedAt": "2026-10-09T16:28:55.143Z"
         },
         {
-          "path": "data/postgres/global/pg_internal.init",
-          "modifiedAt": "2026-10-09T15:00:17.958Z"
+          "path": "data/postgres/base/16384/32935",
+          "modifiedAt": "2026-10-09T16:28:55.043Z"
         }
       ],
       "summary": [
