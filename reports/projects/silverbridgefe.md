@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-11 18:40:36 KST
+- 점검 시각: 2026-10-11 19:10:41 KST
 
 ## 추정 기술 스택
 
@@ -37,8 +37,8 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 392
-- 디렉토리 개수: 116
+- 파일 개수: 395
+- 디렉토리 개수: 118
 - 주요 폴더: docs, public, src
 - 주요 경로: public, public/images, src, src/app, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/auth, src/app/(auth)/auth/kakao, src/app/(auth)/auth/kakao/callback, src/app/(auth)/find-email, src/app/(auth)/find-email/_components, src/app/(auth)/find-email/_hooks, src/app/(auth)/find-password, src/app/(auth)/find-password/_components, src/app/(auth)/find-password/_hooks, src/app/(auth)/login, src/app/(auth)/login/_components, src/app/(auth)/signup, src/app/(auth)/signup/_components, src/app/(guardian)
 
@@ -69,14 +69,14 @@
 
 ## 최근 수정 파일
 
-- src/app/(auth)/login/_components/LoginContent.tsx (2026-10-11 17:31:17 KST)
-- src/app/layout.tsx (2026-10-11 17:31:17 KST)
-- src/components/TextInput.tsx (2026-10-11 17:31:17 KST)
-- next.config.ts (2026-10-11 17:19:44 KST)
-- src/app/(guardian)/guardian/detection/_components/LiveCameraModal.tsx (2026-10-11 17:19:44 KST)
-- src/app/(ward)/ward/camera/_components/CameraRegisterModal.tsx (2026-10-11 17:19:44 KST)
-- src/components/settings/PasswordChangeSection.module.css (2026-10-08 18:18:44 KST)
-- src/components/settings/PasswordChangeSection.tsx (2026-10-08 18:18:44 KST)
+- tsconfig.tsbuildinfo (2026-10-11 18:47:31 KST)
+- src/service/api/guardian/reservation.ts (2026-10-11 18:47:28 KST)
+- src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.tsx (2026-10-11 18:47:28 KST)
+- src/app/(ward)/ward/hospital/page.tsx (2026-10-11 18:47:27 KST)
+- src/app/(ward)/ward/hospital/_components/WardHospitalContent.tsx (2026-10-11 18:47:27 KST)
+- src/service/query/guardian/reservation.ts (2026-10-11 18:47:27 KST)
+- src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.module.css (2026-10-11 18:47:01 KST)
+- src/components/reservation/ReservationList.module.css (2026-10-11 18:47:00 KST)
 
 ## 점검 결과 요약
 

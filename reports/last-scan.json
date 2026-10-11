@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-11T09:40:34.544Z",
-  "generatedAtKst": "2026-10-11 18:40:34 KST",
+  "generatedAt": "2026-10-11T10:10:39.806Z",
+  "generatedAtKst": "2026-10-11 19:10:39 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7359
+          "count": 7360
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7379
+      "count": 7380
     },
     {
       "name": "YUNA0222",
@@ -1252,22 +1252,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7222,
+        "commitCount": 7223,
         "authors": [
           {
-            "count": 7222,
+            "count": 7223,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "cef678c9a",
+          "hash": "5a8e6a969",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-11T18:10:32+09:00",
+          "date": "2026-10-11T18:40:38+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7222개 커밋, 상위 계정: gosky(7222), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7223개 커밋, 상위 계정: gosky(7223), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1308,8 +1308,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7222",
-        "Git 상위 계정: gosky(7222)"
+        "Git 커밋 수: 7223",
+        "Git 상위 계정: gosky(7223)"
       ]
     },
     {
@@ -2207,8 +2207,8 @@
         }
       ],
       "structure": {
-        "fileCount": 392,
-        "dirCount": 116,
+        "fileCount": 395,
+        "dirCount": 118,
         "mainFolders": [
           "docs",
           "public",
@@ -2316,36 +2316,36 @@
       },
       "recentFiles": [
         {
-          "path": "src/app/(auth)/login/_components/LoginContent.tsx",
-          "modifiedAt": "2026-10-11T08:31:17.199Z"
+          "path": "tsconfig.tsbuildinfo",
+          "modifiedAt": "2026-10-11T09:47:31.936Z"
         },
         {
-          "path": "src/app/layout.tsx",
-          "modifiedAt": "2026-10-11T08:31:17.199Z"
+          "path": "src/service/api/guardian/reservation.ts",
+          "modifiedAt": "2026-10-11T09:47:28.532Z"
         },
         {
-          "path": "src/components/TextInput.tsx",
-          "modifiedAt": "2026-10-11T08:31:17.199Z"
+          "path": "src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.tsx",
+          "modifiedAt": "2026-10-11T09:47:28.516Z"
         },
         {
-          "path": "next.config.ts",
-          "modifiedAt": "2026-10-11T08:19:44.429Z"
+          "path": "src/app/(ward)/ward/hospital/page.tsx",
+          "modifiedAt": "2026-10-11T09:47:27.364Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/detection/_components/LiveCameraModal.tsx",
-          "modifiedAt": "2026-10-11T08:19:44.429Z"
+          "path": "src/app/(ward)/ward/hospital/_components/WardHospitalContent.tsx",
+          "modifiedAt": "2026-10-11T09:47:27.360Z"
         },
         {
-          "path": "src/app/(ward)/ward/camera/_components/CameraRegisterModal.tsx",
-          "modifiedAt": "2026-10-11T08:19:44.429Z"
+          "path": "src/service/query/guardian/reservation.ts",
+          "modifiedAt": "2026-10-11T09:47:27.360Z"
         },
         {
-          "path": "src/components/settings/PasswordChangeSection.module.css",
-          "modifiedAt": "2026-10-08T09:18:44.488Z"
+          "path": "src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.module.css",
+          "modifiedAt": "2026-10-11T09:47:01.008Z"
         },
         {
-          "path": "src/components/settings/PasswordChangeSection.tsx",
-          "modifiedAt": "2026-10-08T09:18:44.488Z"
+          "path": "src/components/reservation/ReservationList.module.css",
+          "modifiedAt": "2026-10-11T09:47:00.996Z"
         }
       ],
       "summary": [
