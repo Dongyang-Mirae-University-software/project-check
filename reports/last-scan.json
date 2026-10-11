@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-11T08:10:18.986Z",
-  "generatedAtKst": "2026-10-11 17:10:18 KST",
+  "generatedAt": "2026-10-11T08:40:24.062Z",
+  "generatedAtKst": "2026-10-11 17:40:24 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7356
+          "count": 7357
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7376
+      "count": 7377
     },
     {
       "name": "YUNA0222",
@@ -75,10 +75,10 @@
       "emails": [
         {
           "email": "gold8077@gmail.com",
-          "count": 309
+          "count": 312
         }
       ],
-      "count": 309
+      "count": 312
     },
     {
       "name": "namgung",
@@ -1252,22 +1252,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7219,
+        "commitCount": 7220,
         "authors": [
           {
-            "count": 7219,
+            "count": 7220,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "a2e79c80d",
+          "hash": "6a3a61138",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-11T16:40:17+09:00",
+          "date": "2026-10-11T17:10:22+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7219개 커밋, 상위 계정: gosky(7219), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7220개 커밋, 상위 계정: gosky(7220), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1308,8 +1308,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7219",
-        "Git 상위 계정: gosky(7219)"
+        "Git 커밋 수: 7220",
+        "Git 상위 계정: gosky(7220)"
       ]
     },
     {
@@ -1452,7 +1452,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 39 hours",
+            "status": "Up 40 hours",
             "ports": ""
           }
         ],
@@ -1692,7 +1692,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 39 hours",
+            "status": "Up 40 hours",
             "ports": ""
           }
         ],
@@ -2277,7 +2277,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 1069,
+        "commitCount": 1074,
         "authors": [
           {
             "count": 1400,
@@ -2285,7 +2285,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 309,
+            "count": 312,
             "name": "yuna0222",
             "email": "gold8077@gmail.com"
           },
@@ -2306,45 +2306,45 @@
           }
         ],
         "latestCommit": {
-          "hash": "f86e2a3",
+          "hash": "6976f6c",
           "author": "yuna0222",
           "email": "gold8077@gmail.com",
-          "date": "2026-10-08T18:18:25+09:00",
-          "subject": "Merge pull request #30 from Dongyang-Mirae-University-software/feature/proto-v10.0"
+          "date": "2026-10-11T17:30:50+09:00",
+          "subject": "Merge pull request #32 from Dongyang-Mirae-University-software/feature/proto-v10.0"
         },
-        "summary": "총 1069개 커밋, 상위 계정: YUNA0222(1400), yuna0222(309), gosky(10), 최근: Merge pull request #30 from Dongyang-Mirae-University-software/feature/proto-v10.0"
+        "summary": "총 1074개 커밋, 상위 계정: YUNA0222(1400), yuna0222(312), gosky(10), 최근: Merge pull request #32 from Dongyang-Mirae-University-software/feature/proto-v10.0"
       },
       "recentFiles": [
+        {
+          "path": "src/app/(auth)/login/_components/LoginContent.tsx",
+          "modifiedAt": "2026-10-11T08:31:17.199Z"
+        },
+        {
+          "path": "src/app/layout.tsx",
+          "modifiedAt": "2026-10-11T08:31:17.199Z"
+        },
+        {
+          "path": "src/components/TextInput.tsx",
+          "modifiedAt": "2026-10-11T08:31:17.199Z"
+        },
+        {
+          "path": "next.config.ts",
+          "modifiedAt": "2026-10-11T08:19:44.429Z"
+        },
+        {
+          "path": "src/app/(guardian)/guardian/detection/_components/LiveCameraModal.tsx",
+          "modifiedAt": "2026-10-11T08:19:44.429Z"
+        },
+        {
+          "path": "src/app/(ward)/ward/camera/_components/CameraRegisterModal.tsx",
+          "modifiedAt": "2026-10-11T08:19:44.429Z"
+        },
         {
           "path": "src/components/settings/PasswordChangeSection.module.css",
           "modifiedAt": "2026-10-08T09:18:44.488Z"
         },
         {
           "path": "src/components/settings/PasswordChangeSection.tsx",
-          "modifiedAt": "2026-10-08T09:18:44.488Z"
-        },
-        {
-          "path": "src/constants/dashboard.ts",
-          "modifiedAt": "2026-10-08T09:18:44.488Z"
-        },
-        {
-          "path": "src/service/api/chat.ts",
-          "modifiedAt": "2026-10-08T09:18:44.488Z"
-        },
-        {
-          "path": "src/service/api/guardian/sosHistory.ts",
-          "modifiedAt": "2026-10-08T09:18:44.488Z"
-        },
-        {
-          "path": "src/service/interface/chat.ts",
-          "modifiedAt": "2026-10-08T09:18:44.488Z"
-        },
-        {
-          "path": "src/service/interface/guardian/sosHistory.ts",
-          "modifiedAt": "2026-10-08T09:18:44.488Z"
-        },
-        {
-          "path": "src/service/query/guardian/camera.ts",
           "modifiedAt": "2026-10-08T09:18:44.488Z"
         }
       ],
@@ -2353,8 +2353,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1069",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(309), gosky(10)"
+        "Git 커밋 수: 1074",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(312), gosky(10)"
       ]
     },
     {

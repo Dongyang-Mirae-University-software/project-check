@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-11 17:10:21 KST
+- 점검 시각: 2026-10-11 17:40:26 KST
 
 ## 추정 기술 스택
 
@@ -58,25 +58,25 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1069
+- 총 커밋 수: 1074
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
-  - yuna0222 <gold8077@gmail.com>: 309
+  - yuna0222 <gold8077@gmail.com>: 312
   - gosky <gosky@gosky.kr>: 10
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: f86e2a3 / yuna0222 <gold8077@gmail.com> / Merge pull request #30 from Dongyang-Mirae-University-software/feature/proto-v10.0
+- 최근 커밋: 6976f6c / yuna0222 <gold8077@gmail.com> / Merge pull request #32 from Dongyang-Mirae-University-software/feature/proto-v10.0
 
 ## 최근 수정 파일
 
+- src/app/(auth)/login/_components/LoginContent.tsx (2026-10-11 17:31:17 KST)
+- src/app/layout.tsx (2026-10-11 17:31:17 KST)
+- src/components/TextInput.tsx (2026-10-11 17:31:17 KST)
+- next.config.ts (2026-10-11 17:19:44 KST)
+- src/app/(guardian)/guardian/detection/_components/LiveCameraModal.tsx (2026-10-11 17:19:44 KST)
+- src/app/(ward)/ward/camera/_components/CameraRegisterModal.tsx (2026-10-11 17:19:44 KST)
 - src/components/settings/PasswordChangeSection.module.css (2026-10-08 18:18:44 KST)
 - src/components/settings/PasswordChangeSection.tsx (2026-10-08 18:18:44 KST)
-- src/constants/dashboard.ts (2026-10-08 18:18:44 KST)
-- src/service/api/chat.ts (2026-10-08 18:18:44 KST)
-- src/service/api/guardian/sosHistory.ts (2026-10-08 18:18:44 KST)
-- src/service/interface/chat.ts (2026-10-08 18:18:44 KST)
-- src/service/interface/guardian/sosHistory.ts (2026-10-08 18:18:44 KST)
-- src/service/query/guardian/camera.ts (2026-10-08 18:18:44 KST)
 
 ## 점검 결과 요약
 
@@ -84,5 +84,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1069
-- Git 상위 계정: YUNA0222(1400), yuna0222(309), gosky(10)
+- Git 커밋 수: 1074
+- Git 상위 계정: YUNA0222(1400), yuna0222(312), gosky(10)
