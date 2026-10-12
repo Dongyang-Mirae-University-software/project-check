@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-12 10:43:23 KST
+- 점검 시각: 2026-10-12 11:13:29 KST
 
 ## 추정 기술 스택
 
@@ -44,7 +44,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 1934
+- 파일 개수: 1935
 - 디렉토리 개수: 67
 - 주요 폴더: app, data, docs, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, models/new/backup, tests
@@ -75,14 +75,14 @@
 
 ## 최근 수정 파일
 
+- models/new/knife.pt (2026-10-12 10:54:00 KST)
+- models/new/backup/knife_20261012-1053.pt (2026-10-12 10:54:00 KST)
 - data/postgres/pg_wal/000000010000000000000002 (2026-10-11 18:34:46 KST)
 - data/postgres/global/pg_control (2026-10-11 18:34:43 KST)
 - data/postgres/base/16384/16490 (2026-10-11 18:34:43 KST)
 - data/postgres/pg_logical/replorigin_checkpoint (2026-10-11 18:34:43 KST)
 - data/postgres/pg_xact/0000 (2026-10-11 18:34:43 KST)
 - data/postgres/base/16384/32948 (2026-10-11 18:29:43 KST)
-- data/postgres/base/16384/32947 (2026-10-11 18:29:43 KST)
-- data/postgres/base/16384/32946 (2026-10-11 18:29:43 KST)
 
 ## 점검 결과 요약
 
