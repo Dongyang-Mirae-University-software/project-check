@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-12 16:44:27 KST
+- 점검 시각: 2026-10-12 17:14:32 KST
 
 ## 추정 기술 스택
 
@@ -44,7 +44,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 1975
+- 파일 개수: 1977
 - 디렉토리 개수: 73
 - 주요 폴더: app, data, docs, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, models/new/backup, tests
@@ -65,24 +65,24 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 63
+- 총 커밋 수: 65
 - 계정별 커밋 수:
   - gosky <lovesky00317@gmail.com>: 37
   - namgung <skarndaudwls@gmail.com>: 11
   - gosky <gosky@gosky.kr>: 5
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 3
-- 최근 커밋: a0c0f20 / namgung <skarndaudwls@gmail.com> / Merge pull request #12 from Dongyang-Mirae-University-software/fix/chat-fallback-neutral-wording
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 4
+- 최근 커밋: 0936f27 / namgung <skarndaudwls@gmail.com> / Merge pull request #13 from Dongyang-Mirae-University-software/feature/frame-quality-gate
 
 ## 최근 수정 파일
 
+- app/core/config.py (2026-10-12 16:45:37 KST)
+- app/services/frame_quality.py (2026-10-12 16:45:37 KST)
+- app/services/live_detection_merge.py (2026-10-12 16:45:37 KST)
+- app/services/stream_session_service.py (2026-10-12 16:45:37 KST)
+- tests/test_frame_quality.py (2026-10-12 16:45:37 KST)
 - data/collect/20261012/fall/near/145120771_ward_2X0t2Ftyuibd4ZjQ_0.41.jpg (2026-10-12 14:51:20 KST)
 - data/collect/20261012/fall/near/145120771_ward_2X0t2Ftyuibd4ZjQ_0.41.json (2026-10-12 14:51:20 KST)
 - data/collect/20261012/fire/alert/145114845_ward_2X0t2Ftyuibd4ZjQ_0.52.jpg (2026-10-12 14:51:14 KST)
-- data/collect/20261012/fire/alert/145114845_ward_2X0t2Ftyuibd4ZjQ_0.52.json (2026-10-12 14:51:14 KST)
-- data/collect/20261012/fire/near/145108866_ward_2X0t2Ftyuibd4ZjQ_0.40.jpg (2026-10-12 14:51:08 KST)
-- data/collect/20261012/fire/near/145108866_ward_2X0t2Ftyuibd4ZjQ_0.40.json (2026-10-12 14:51:08 KST)
-- data/collect/20261012/fire/alert/145054814_ward_2X0t2Ftyuibd4ZjQ_0.86.jpg (2026-10-12 14:50:54 KST)
-- data/collect/20261012/fire/alert/145054814_ward_2X0t2Ftyuibd4ZjQ_0.86.json (2026-10-12 14:50:54 KST)
 
 ## 점검 결과 요약
 
@@ -90,5 +90,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 63
+- Git 커밋 수: 65
 - Git 상위 계정: gosky(37), namgung(11), gosky(5)
