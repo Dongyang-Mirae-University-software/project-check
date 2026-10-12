@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-12 09:13:07 KST
+- 점검 시각: 2026-10-12 09:43:12 KST
 
 ## 추정 기술 스택
 
@@ -57,15 +57,15 @@
 
 ## Git 커밋 현황
 
-- 브랜치: develop
-- 총 커밋 수: 1074
+- 브랜치: feature/ward-hospital-reservations
+- 총 커밋 수: 1075
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 312
-  - gosky <gosky@gosky.kr>: 10
+  - gosky <gosky@gosky.kr>: 11
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 6976f6c / yuna0222 <gold8077@gmail.com> / Merge pull request #32 from Dongyang-Mirae-University-software/feature/proto-v10.0
+- 최근 커밋: 9637cf1 / gosky <gosky@gosky.kr> / Feat: 피보호자 웹 병원 예약 현황 연결
 
 ## 최근 수정 파일
 
@@ -84,5 +84,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1074
-- Git 상위 계정: YUNA0222(1400), yuna0222(312), gosky(10)
+- Git 커밋 수: 1075
+- Git 상위 계정: YUNA0222(1400), yuna0222(312), gosky(11)
