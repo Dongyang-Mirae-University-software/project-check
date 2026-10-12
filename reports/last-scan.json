@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-12T10:44:56.986Z",
-  "generatedAtKst": "2026-10-12 19:44:56 KST",
+  "generatedAt": "2026-10-12T11:15:02.901Z",
+  "generatedAtKst": "2026-10-12 20:15:02 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7409
+          "count": 7410
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7430
+      "count": 7431
     },
     {
       "name": "YUNA0222",
@@ -75,10 +75,10 @@
       "emails": [
         {
           "email": "gold8077@gmail.com",
-          "count": 312
+          "count": 331
         }
       ],
-      "count": 312
+      "count": 331
     },
     {
       "name": "namgung",
@@ -1252,22 +1252,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7272,
+        "commitCount": 7273,
         "authors": [
           {
-            "count": 7272,
+            "count": 7273,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "a34b3e8cc",
+          "hash": "b17e0b53b",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-12T19:14:55+09:00",
+          "date": "2026-10-12T19:45:00+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7272개 커밋, 상위 계정: gosky(7272), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7273개 커밋, 상위 계정: gosky(7273), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1308,8 +1308,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7272",
-        "Git 상위 계정: gosky(7272)"
+        "Git 커밋 수: 7273",
+        "Git 상위 계정: gosky(7273)"
       ]
     },
     {
@@ -1855,36 +1855,36 @@
       },
       "recentFiles": [
         {
-          "path": "app/core/config.py",
-          "modifiedAt": "2026-10-12T07:45:37.369Z"
+          "path": "data/postgres/pg_wal/000000010000000000000002",
+          "modifiedAt": "2026-10-12T11:14:59.612Z"
         },
         {
-          "path": "app/services/frame_quality.py",
-          "modifiedAt": "2026-10-12T07:45:37.369Z"
+          "path": "data/postgres/base/16384/32935",
+          "modifiedAt": "2026-10-12T11:14:54.420Z"
         },
         {
-          "path": "app/services/live_detection_merge.py",
-          "modifiedAt": "2026-10-12T07:45:37.369Z"
+          "path": "data/postgres/global/pg_control",
+          "modifiedAt": "2026-10-12T11:10:16.480Z"
         },
         {
-          "path": "app/services/stream_session_service.py",
-          "modifiedAt": "2026-10-12T07:45:37.369Z"
+          "path": "data/postgres/base/16384/32948",
+          "modifiedAt": "2026-10-12T11:10:16.376Z"
         },
         {
-          "path": "tests/test_frame_quality.py",
-          "modifiedAt": "2026-10-12T07:45:37.369Z"
+          "path": "data/postgres/base/16384/32947",
+          "modifiedAt": "2026-10-12T11:10:16.276Z"
         },
         {
-          "path": "data/collect/20261012/fall/near/145120771_ward_2X0t2Ftyuibd4ZjQ_0.41.jpg",
-          "modifiedAt": "2026-10-12T05:51:20.767Z"
+          "path": "data/postgres/base/16384/32946",
+          "modifiedAt": "2026-10-12T11:10:15.976Z"
         },
         {
-          "path": "data/collect/20261012/fall/near/145120771_ward_2X0t2Ftyuibd4ZjQ_0.41.json",
-          "modifiedAt": "2026-10-12T05:51:20.767Z"
+          "path": "data/postgres/base/16384/32945",
+          "modifiedAt": "2026-10-12T11:10:15.876Z"
         },
         {
-          "path": "data/collect/20261012/fire/alert/145114845_ward_2X0t2Ftyuibd4ZjQ_0.52.jpg",
-          "modifiedAt": "2026-10-12T05:51:14.839Z"
+          "path": "data/postgres/base/16384/32935_fsm",
+          "modifiedAt": "2026-10-12T11:10:15.776Z"
         }
       ],
       "summary": [
@@ -2240,7 +2240,7 @@
         }
       ],
       "structure": {
-        "fileCount": 395,
+        "fileCount": 404,
         "dirCount": 118,
         "mainFolders": [
           "docs",
@@ -2297,7 +2297,6 @@
           6000,
           6510,
           8000,
-          60480,
           60836
         ],
         "summary": [
@@ -2310,7 +2309,7 @@
       "git": {
         "isRepo": true,
         "branch": "feature/ward-hospital-reservations",
-        "commitCount": 1075,
+        "commitCount": 1097,
         "authors": [
           {
             "count": 1400,
@@ -2318,7 +2317,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 312,
+            "count": 331,
             "name": "yuna0222",
             "email": "gold8077@gmail.com"
           },
@@ -2339,46 +2338,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "9637cf1",
+          "hash": "d999092",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-10-12T09:29:19+09:00",
-          "subject": "Feat: 피보호자 웹 병원 예약 현황 연결"
+          "date": "2026-10-12T20:04:53+09:00",
+          "subject": "Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into feature/ward-hospital-reservations"
         },
-        "summary": "총 1075개 커밋, 상위 계정: YUNA0222(1400), yuna0222(312), gosky(11), 최근: Feat: 피보호자 웹 병원 예약 현황 연결"
+        "summary": "총 1097개 커밋, 상위 계정: YUNA0222(1400), yuna0222(331), gosky(11), 최근: Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into feature/ward-hospital-reservations"
       },
       "recentFiles": [
         {
-          "path": "tsconfig.tsbuildinfo",
-          "modifiedAt": "2026-10-11T09:47:31.936Z"
+          "path": "src/components/chatbot/ChatbotContent.module.css",
+          "modifiedAt": "2026-10-12T11:04:53.095Z"
         },
         {
-          "path": "src/service/api/guardian/reservation.ts",
-          "modifiedAt": "2026-10-11T09:47:28.532Z"
+          "path": "src/components/chatbot/ChatbotContent.tsx",
+          "modifiedAt": "2026-10-12T11:04:53.095Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.tsx",
-          "modifiedAt": "2026-10-11T09:47:28.516Z"
+          "path": "src/components/chatbot/ChatUiPrompt.tsx",
+          "modifiedAt": "2026-10-12T11:04:53.095Z"
         },
         {
-          "path": "src/app/(ward)/ward/hospital/page.tsx",
-          "modifiedAt": "2026-10-11T09:47:27.364Z"
+          "path": "src/components/settings/AlertTypeSettingsSection.module.css",
+          "modifiedAt": "2026-10-12T11:04:53.095Z"
         },
         {
-          "path": "src/app/(ward)/ward/hospital/_components/WardHospitalContent.tsx",
-          "modifiedAt": "2026-10-11T09:47:27.360Z"
+          "path": "src/components/settings/AlertTypeSettingsSection.tsx",
+          "modifiedAt": "2026-10-12T11:04:53.095Z"
         },
         {
-          "path": "src/service/query/guardian/reservation.ts",
-          "modifiedAt": "2026-10-11T09:47:27.360Z"
+          "path": "src/components/settings/NotificationSettingsSection.module.css",
+          "modifiedAt": "2026-10-12T11:04:53.095Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.module.css",
-          "modifiedAt": "2026-10-11T09:47:01.008Z"
+          "path": "src/components/settings/NotificationSettingsSection.tsx",
+          "modifiedAt": "2026-10-12T11:04:53.095Z"
         },
         {
-          "path": "src/components/reservation/ReservationList.module.css",
-          "modifiedAt": "2026-10-11T09:47:00.996Z"
+          "path": "src/service/api/chat.ts",
+          "modifiedAt": "2026-10-12T11:04:53.095Z"
         }
       ],
       "summary": [
@@ -2386,8 +2385,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1075",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(312), gosky(11)"
+        "Git 커밋 수: 1097",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(331), gosky(11)"
       ]
     },
     {

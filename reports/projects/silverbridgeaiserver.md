@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-12 19:44:59 KST
+- 점검 시각: 2026-10-12 20:15:04 KST
 
 ## 추정 기술 스택
 
@@ -75,14 +75,14 @@
 
 ## 최근 수정 파일
 
-- app/core/config.py (2026-10-12 16:45:37 KST)
-- app/services/frame_quality.py (2026-10-12 16:45:37 KST)
-- app/services/live_detection_merge.py (2026-10-12 16:45:37 KST)
-- app/services/stream_session_service.py (2026-10-12 16:45:37 KST)
-- tests/test_frame_quality.py (2026-10-12 16:45:37 KST)
-- data/collect/20261012/fall/near/145120771_ward_2X0t2Ftyuibd4ZjQ_0.41.jpg (2026-10-12 14:51:20 KST)
-- data/collect/20261012/fall/near/145120771_ward_2X0t2Ftyuibd4ZjQ_0.41.json (2026-10-12 14:51:20 KST)
-- data/collect/20261012/fire/alert/145114845_ward_2X0t2Ftyuibd4ZjQ_0.52.jpg (2026-10-12 14:51:14 KST)
+- data/postgres/pg_wal/000000010000000000000002 (2026-10-12 20:14:59 KST)
+- data/postgres/base/16384/32935 (2026-10-12 20:14:54 KST)
+- data/postgres/global/pg_control (2026-10-12 20:10:16 KST)
+- data/postgres/base/16384/32948 (2026-10-12 20:10:16 KST)
+- data/postgres/base/16384/32947 (2026-10-12 20:10:16 KST)
+- data/postgres/base/16384/32946 (2026-10-12 20:10:15 KST)
+- data/postgres/base/16384/32945 (2026-10-12 20:10:15 KST)
+- data/postgres/base/16384/32935_fsm (2026-10-12 20:10:15 KST)
 
 ## 점검 결과 요약
 
