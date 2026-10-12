@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-12 20:45:09 KST
+- 점검 시각: 2026-10-12 21:15:15 KST
 
 ## 추정 기술 스택
 
@@ -65,24 +65,24 @@
 ## Git 커밋 현황
 
 - 브랜치: feature/chat-slot-lookahead
-- 총 커밋 수: 67
+- 총 커밋 수: 68
 - 계정별 커밋 수:
   - gosky <lovesky00317@gmail.com>: 37
   - namgung <skarndaudwls@gmail.com>: 11
-  - gosky <gosky@gosky.kr>: 7
+  - gosky <gosky@gosky.kr>: 8
   - skarndaudwls1 <skarndaudwls@gmail.com>: 4
-- 최근 커밋: 3d19a75 / gosky <gosky@gosky.kr> / Fix: 챗봇 예약 시 프로필 지역 확인 턴 제거
+- 최근 커밋: 276592a / gosky <gosky@gosky.kr> / Fix: 챗봇 예약 시나리오 한 세션 연속 실행 보완
 
 ## 최근 수정 파일
 
-- app/services/chat_service.py (2026-10-12 20:44:24 KST)
-- app/services/reservation_orchestrator.py (2026-10-12 20:44:24 KST)
-- data/postgres/pg_wal/000000010000000000000002 (2026-10-12 20:42:14 KST)
-- data/postgres/base/16384/32935 (2026-10-12 20:42:04 KST)
-- tests/test_slot_lookahead.py (2026-10-12 20:41:12 KST)
-- data/postgres/global/pg_control (2026-10-12 20:40:16 KST)
-- data/postgres/base/16384/32948 (2026-10-12 20:40:16 KST)
-- data/postgres/base/16384/32947 (2026-10-12 20:40:16 KST)
+- data/postgres/pg_wal/000000010000000000000002 (2026-10-12 21:11:35 KST)
+- data/postgres/base/16384/32935 (2026-10-12 21:10:54 KST)
+- data/postgres/global/pg_control (2026-10-12 21:10:18 KST)
+- data/postgres/base/16384/32948 (2026-10-12 21:10:18 KST)
+- data/postgres/base/16384/32947 (2026-10-12 21:10:18 KST)
+- data/postgres/base/16384/32946 (2026-10-12 21:10:17 KST)
+- data/postgres/base/16384/32945 (2026-10-12 21:10:17 KST)
+- data/postgres/base/16384/32935_fsm (2026-10-12 21:10:17 KST)
 
 ## 점검 결과 요약
 
@@ -90,5 +90,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 67
-- Git 상위 계정: gosky(37), namgung(11), gosky(7)
+- Git 커밋 수: 68
+- Git 상위 계정: gosky(37), namgung(11), gosky(8)

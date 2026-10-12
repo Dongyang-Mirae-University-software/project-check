@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-12T11:45:07.358Z",
-  "generatedAtKst": "2026-10-12 20:45:07 KST",
+  "generatedAt": "2026-10-12T12:15:13.639Z",
+  "generatedAtKst": "2026-10-12 21:15:13 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,18 +19,18 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7411
+          "count": 7412
         },
         {
           "email": "gosky@gosky.kr",
-          "count": 18
+          "count": 21
         },
         {
           "email": "gosky.dev@gmail.com",
           "count": 5
         }
       ],
-      "count": 7434
+      "count": 7438
     },
     {
       "name": "YUNA0222",
@@ -1252,22 +1252,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7274,
+        "commitCount": 7275,
         "authors": [
           {
-            "count": 7274,
+            "count": 7275,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "c511965f7",
+          "hash": "188fc139f",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-12T20:15:05+09:00",
+          "date": "2026-10-12T20:45:11+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7274개 커밋, 상위 계정: gosky(7274), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7275개 커밋, 상위 계정: gosky(7275), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1308,8 +1308,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7274",
-        "Git 상위 계정: gosky(7274)"
+        "Git 커밋 수: 7275",
+        "Git 상위 계정: gosky(7275)"
       ]
     },
     {
@@ -1452,7 +1452,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 11 seconds",
+            "status": "Up 24 minutes",
             "ports": ""
           }
         ],
@@ -1692,7 +1692,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 11 seconds",
+            "status": "Up 24 minutes",
             "ports": ""
           }
         ],
@@ -1701,6 +1701,7 @@
           5432,
           6012,
           6015,
+          6017,
           6019
         ],
         "allCandidatePorts": [
@@ -1814,13 +1815,13 @@
           "실행 중",
           "PM2 없음",
           "Docker 1개",
-          "포트 1433, 5432, 6012, 6015, 6019"
+          "포트 1433, 5432, 6012, 6015, 6017, 6019"
         ]
       },
       "git": {
         "isRepo": true,
         "branch": "feature/chat-slot-lookahead",
-        "commitCount": 67,
+        "commitCount": 68,
         "authors": [
           {
             "count": 37,
@@ -1833,7 +1834,7 @@
             "email": "skarndaudwls@gmail.com"
           },
           {
-            "count": 7,
+            "count": 8,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           },
@@ -1844,46 +1845,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "3d19a75",
+          "hash": "276592a",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-10-12T20:26:52+09:00",
-          "subject": "Fix: 챗봇 예약 시 프로필 지역 확인 턴 제거"
+          "date": "2026-10-12T20:50:40+09:00",
+          "subject": "Fix: 챗봇 예약 시나리오 한 세션 연속 실행 보완"
         },
-        "summary": "총 67개 커밋, 상위 계정: gosky(37), namgung(11), gosky(7), 최근: Fix: 챗봇 예약 시 프로필 지역 확인 턴 제거"
+        "summary": "총 68개 커밋, 상위 계정: gosky(37), namgung(11), gosky(8), 최근: Fix: 챗봇 예약 시나리오 한 세션 연속 실행 보완"
       },
       "recentFiles": [
         {
-          "path": "app/services/chat_service.py",
-          "modifiedAt": "2026-10-12T11:44:24.417Z"
-        },
-        {
-          "path": "app/services/reservation_orchestrator.py",
-          "modifiedAt": "2026-10-12T11:44:24.417Z"
-        },
-        {
           "path": "data/postgres/pg_wal/000000010000000000000002",
-          "modifiedAt": "2026-10-12T11:42:14.791Z"
+          "modifiedAt": "2026-10-12T12:11:35.401Z"
         },
         {
           "path": "data/postgres/base/16384/32935",
-          "modifiedAt": "2026-10-12T11:42:04.183Z"
-        },
-        {
-          "path": "tests/test_slot_lookahead.py",
-          "modifiedAt": "2026-10-12T11:41:12.624Z"
+          "modifiedAt": "2026-10-12T12:10:54.166Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-10-12T11:40:16.845Z"
+          "modifiedAt": "2026-10-12T12:10:18.390Z"
         },
         {
           "path": "data/postgres/base/16384/32948",
-          "modifiedAt": "2026-10-12T11:40:16.745Z"
+          "modifiedAt": "2026-10-12T12:10:18.286Z"
         },
         {
           "path": "data/postgres/base/16384/32947",
-          "modifiedAt": "2026-10-12T11:40:16.645Z"
+          "modifiedAt": "2026-10-12T12:10:18.186Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32946",
+          "modifiedAt": "2026-10-12T12:10:17.786Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32945",
+          "modifiedAt": "2026-10-12T12:10:17.686Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32935_fsm",
+          "modifiedAt": "2026-10-12T12:10:17.586Z"
         }
       ],
       "summary": [
@@ -1891,8 +1892,8 @@
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI",
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 67",
-        "Git 상위 계정: gosky(37), namgung(11), gosky(7)"
+        "Git 커밋 수: 68",
+        "Git 상위 계정: gosky(37), namgung(11), gosky(8)"
       ]
     },
     {
@@ -2308,7 +2309,7 @@
       "git": {
         "isRepo": true,
         "branch": "feature/ward-hospital-reservations",
-        "commitCount": 1104,
+        "commitCount": 1105,
         "authors": [
           {
             "count": 1400,
@@ -2321,7 +2322,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 11,
+            "count": 13,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           },
@@ -2337,46 +2338,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "03e2102",
+          "hash": "5761723",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-10-12T20:34:41+09:00",
-          "subject": "Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into feature/ward-hospital-reservations"
+          "date": "2026-10-12T20:51:21+09:00",
+          "subject": "Fix: 챗봇 요청에 프로필(이름·전화·생년월일·주소) 같이 보내기"
         },
-        "summary": "총 1104개 커밋, 상위 계정: YUNA0222(1400), yuna0222(336), gosky(11), 최근: Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into feature/ward-hospital-reservations"
+        "summary": "총 1105개 커밋, 상위 계정: YUNA0222(1400), yuna0222(336), gosky(13), 최근: Fix: 챗봇 요청에 프로필(이름·전화·생년월일·주소) 같이 보내기"
       },
       "recentFiles": [
         {
           "path": "src/components/chatbot/ChatbotContent.tsx",
-          "modifiedAt": "2026-10-12T11:41:10.684Z"
+          "modifiedAt": "2026-10-12T11:51:50.830Z"
         },
         {
-          "path": "src/app/(ward)/ward/_components/WardLayout.module.css",
-          "modifiedAt": "2026-10-12T11:34:41.715Z"
+          "path": "src/app/(ward)/ward/hospital/_components/WardHospitalContent.tsx",
+          "modifiedAt": "2026-10-12T11:51:47.010Z"
         },
         {
-          "path": "src/app/(ward)/ward/_components/WardLayout.tsx",
-          "modifiedAt": "2026-10-12T11:34:41.715Z"
+          "path": "src/app/(ward)/ward/hospital/page.tsx",
+          "modifiedAt": "2026-10-12T11:51:47.010Z"
         },
         {
-          "path": "src/components/chatbot/ChatBubble.module.css",
-          "modifiedAt": "2026-10-12T11:34:41.715Z"
+          "path": "src/app/api/reservation/[...path]/route.ts",
+          "modifiedAt": "2026-10-12T11:51:47.010Z"
         },
         {
-          "path": "src/components/chatbot/ChatBubble.tsx",
-          "modifiedAt": "2026-10-12T11:34:41.715Z"
+          "path": "src/components/reservation/ReservationList.module.css",
+          "modifiedAt": "2026-10-12T11:51:47.010Z"
         },
         {
-          "path": "src/components/chatbot/ChatUiPrompt.module.css",
-          "modifiedAt": "2026-10-12T11:34:41.715Z"
+          "path": "src/components/reservation/ReservationList.tsx",
+          "modifiedAt": "2026-10-12T11:51:47.010Z"
         },
         {
-          "path": "src/components/chatbot/ChatUiPrompt.tsx",
-          "modifiedAt": "2026-10-12T11:34:41.715Z"
+          "path": "src/service/api/guardian/reservation.ts",
+          "modifiedAt": "2026-10-12T11:51:47.010Z"
         },
         {
-          "path": "src/service/interface/chat.ts",
-          "modifiedAt": "2026-10-12T11:34:41.715Z"
+          "path": "src/service/query/guardian/reservation.ts",
+          "modifiedAt": "2026-10-12T11:51:47.010Z"
         }
       ],
       "summary": [
@@ -2384,8 +2385,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1104",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(336), gosky(11)"
+        "Git 커밋 수: 1105",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(336), gosky(13)"
       ]
     },
     {
@@ -2731,6 +2732,7 @@
         ],
         "ports": [
           6015,
+          6017,
           6018
         ],
         "allCandidatePorts": [
@@ -2743,7 +2745,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 1개",
-          "포트 6015, 6018"
+          "포트 6015, 6017, 6018"
         ]
       },
       "git": {

@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-12 20:45:10 KST
+- 점검 시각: 2026-10-12 21:15:15 KST
 
 ## 추정 기술 스택
 
@@ -58,25 +58,25 @@
 ## Git 커밋 현황
 
 - 브랜치: feature/ward-hospital-reservations
-- 총 커밋 수: 1104
+- 총 커밋 수: 1105
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 336
-  - gosky <gosky@gosky.kr>: 11
+  - gosky <gosky@gosky.kr>: 13
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 03e2102 / gosky <gosky@gosky.kr> / Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into feature/ward-hospital-reservations
+- 최근 커밋: 5761723 / gosky <gosky@gosky.kr> / Fix: 챗봇 요청에 프로필(이름·전화·생년월일·주소) 같이 보내기
 
 ## 최근 수정 파일
 
-- src/components/chatbot/ChatbotContent.tsx (2026-10-12 20:41:10 KST)
-- src/app/(ward)/ward/_components/WardLayout.module.css (2026-10-12 20:34:41 KST)
-- src/app/(ward)/ward/_components/WardLayout.tsx (2026-10-12 20:34:41 KST)
-- src/components/chatbot/ChatBubble.module.css (2026-10-12 20:34:41 KST)
-- src/components/chatbot/ChatBubble.tsx (2026-10-12 20:34:41 KST)
-- src/components/chatbot/ChatUiPrompt.module.css (2026-10-12 20:34:41 KST)
-- src/components/chatbot/ChatUiPrompt.tsx (2026-10-12 20:34:41 KST)
-- src/service/interface/chat.ts (2026-10-12 20:34:41 KST)
+- src/components/chatbot/ChatbotContent.tsx (2026-10-12 20:51:50 KST)
+- src/app/(ward)/ward/hospital/_components/WardHospitalContent.tsx (2026-10-12 20:51:47 KST)
+- src/app/(ward)/ward/hospital/page.tsx (2026-10-12 20:51:47 KST)
+- src/app/api/reservation/[...path]/route.ts (2026-10-12 20:51:47 KST)
+- src/components/reservation/ReservationList.module.css (2026-10-12 20:51:47 KST)
+- src/components/reservation/ReservationList.tsx (2026-10-12 20:51:47 KST)
+- src/service/api/guardian/reservation.ts (2026-10-12 20:51:47 KST)
+- src/service/query/guardian/reservation.ts (2026-10-12 20:51:47 KST)
 
 ## 점검 결과 요약
 
@@ -84,5 +84,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1104
-- Git 상위 계정: YUNA0222(1400), yuna0222(336), gosky(11)
+- Git 커밋 수: 1105
+- Git 상위 계정: YUNA0222(1400), yuna0222(336), gosky(13)
