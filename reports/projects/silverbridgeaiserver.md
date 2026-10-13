@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-13 21:49:45 KST
+- 점검 시각: 2026-10-13 22:19:50 KST
 
 ## 추정 기술 스택
 
@@ -44,7 +44,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2145
+- 파일 개수: 2159
 - 디렉토리 개수: 83
 - 주요 폴더: app, data, docs, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, models/new/backup, tests
@@ -58,31 +58,31 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1000, 1008, 1024, 1052, 1069, 1097, 1153, 1224, 1271, 1280, 2000, 5432, 6012, 6015, 6017, 6019, 10125, 10228, 10274, 10400, 10553, 10913, 10963, 10978, 11049, 11083, 11145, 11505, 38260, 39702, 45285, 47060, 53908, 57296, 58807, 63444, 64612
+- 관련 포트: 1000, 1008, 1024, 1069, 1153, 1224, 1254, 1271, 1280, 2000, 5432, 6012, 6015, 6017, 6019, 10125, 10274, 10400, 10963, 11414, 11571, 11685, 12389, 21283, 38260, 39702, 45285, 47060, 53908, 57296, 58807, 63444, 64612
 - 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
 
 - 브랜치: feature/chat-slot-lookahead
-- 총 커밋 수: 74
+- 총 커밋 수: 80
 - 계정별 커밋 수:
   - gosky <lovesky00317@gmail.com>: 37
   - gosky <gosky@gosky.kr>: 14
   - namgung <skarndaudwls@gmail.com>: 11
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 5
-- 최근 커밋: d3094a3 / gosky <gosky@gosky.kr> / Feat: 라우터·예약 추출 LLM을 GPT에서 Claude(Anthropic SDK)로 교체
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 6
+- 최근 커밋: 14664de / gosky <gosky@gosky.kr> / Merge remote-tracking branch 'origin/main' into feature/chat-slot-lookahead
 
 ## 최근 수정 파일
 
-- data/postgres/pg_wal/000000010000000000000002 (2026-10-13 21:49:16 KST)
-- data/postgres/base/16384/32935 (2026-10-13 21:49:06 KST)
-- data/postgres/global/pg_control (2026-10-13 21:45:51 KST)
-- data/postgres/base/16384/32948 (2026-10-13 21:45:51 KST)
-- data/postgres/base/16384/32947 (2026-10-13 21:45:51 KST)
-- data/postgres/base/16384/32946 (2026-10-13 21:45:50 KST)
-- data/postgres/base/16384/32945 (2026-10-13 21:45:50 KST)
-- data/postgres/base/16384/32935_fsm (2026-10-13 21:45:50 KST)
+- app/services/fire_hold_tracker.py (2026-10-13 22:09:31 KST)
+- app/services/stream_session_service.py (2026-10-13 22:09:31 KST)
+- tests/test_fire_hold.py (2026-10-13 22:09:31 KST)
+- app/core/config.py (2026-10-13 22:09:31 KST)
+- data/collect/20261013/fire/near/220216511_ward_fmEXQiKTOT80p8wT_0.54.jpg (2026-10-13 22:02:16 KST)
+- data/collect/20261013/fire/near/220216511_ward_fmEXQiKTOT80p8wT_0.54.json (2026-10-13 22:02:16 KST)
+- data/collect/20261013/fire/near/220159069_ward_fmEXQiKTOT80p8wT_0.51.jpg (2026-10-13 22:01:59 KST)
+- data/collect/20261013/fire/near/220159069_ward_fmEXQiKTOT80p8wT_0.51.json (2026-10-13 22:01:59 KST)
 
 ## 점검 결과 요약
 
@@ -90,5 +90,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 74
+- Git 커밋 수: 80
 - Git 상위 계정: gosky(37), gosky(14), namgung(11)
