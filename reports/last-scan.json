@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-13T11:49:32.942Z",
-  "generatedAtKst": "2026-10-13 20:49:32 KST",
+  "generatedAt": "2026-10-13T12:19:38.077Z",
+  "generatedAtKst": "2026-10-13 21:19:38 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7459
+          "count": 7460
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7495
+      "count": 7496
     },
     {
       "name": "YUNA0222",
@@ -75,10 +75,10 @@
       "emails": [
         {
           "email": "gold8077@gmail.com",
-          "count": 342
+          "count": 345
         }
       ],
-      "count": 342
+      "count": 345
     },
     {
       "name": "namgung",
@@ -1270,22 +1270,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7322,
+        "commitCount": 7323,
         "authors": [
           {
-            "count": 7322,
+            "count": 7323,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "900444df5",
+          "hash": "f6cac333a",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-13T20:19:31+09:00",
+          "date": "2026-10-13T20:49:36+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7322개 커밋, 상위 계정: gosky(7322), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7323개 커밋, 상위 계정: gosky(7323), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1326,8 +1326,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7322",
-        "Git 상위 계정: gosky(7322)"
+        "Git 커밋 수: 7323",
+        "Git 상위 계정: gosky(7323)"
       ]
     },
     {
@@ -1470,7 +1470,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 30 minutes",
+            "status": "Up About an hour",
             "ports": ""
           }
         ],
@@ -1710,7 +1710,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 30 minutes",
+            "status": "Up About an hour",
             "ports": ""
           }
         ],
@@ -1807,35 +1807,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000002",
-          "modifiedAt": "2026-10-13T11:49:27.573Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32935",
-          "modifiedAt": "2026-10-13T11:49:27.569Z"
+          "modifiedAt": "2026-10-13T11:55:55.882Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-10-13T11:45:51.270Z"
+          "modifiedAt": "2026-10-13T11:55:49.878Z"
         },
         {
-          "path": "data/postgres/base/16384/32958",
-          "modifiedAt": "2026-10-13T11:45:51.166Z"
+          "path": "data/postgres/base/16384/32948",
+          "modifiedAt": "2026-10-13T11:55:49.774Z"
         },
         {
-          "path": "data/postgres/base/16384/32957",
-          "modifiedAt": "2026-10-13T11:45:51.066Z"
+          "path": "data/postgres/base/16384/32947",
+          "modifiedAt": "2026-10-13T11:55:49.674Z"
         },
         {
-          "path": "data/postgres/base/16384/32956",
-          "modifiedAt": "2026-10-13T11:45:50.966Z"
+          "path": "data/postgres/base/16384/32946",
+          "modifiedAt": "2026-10-13T11:55:49.574Z"
         },
         {
-          "path": "data/postgres/base/16384/32955",
-          "modifiedAt": "2026-10-13T11:45:50.866Z"
+          "path": "data/postgres/base/16384/32945",
+          "modifiedAt": "2026-10-13T11:55:49.474Z"
         },
         {
-          "path": "data/postgres/base/16384/32950",
-          "modifiedAt": "2026-10-13T11:45:50.766Z"
+          "path": "data/postgres/base/16384/32935",
+          "modifiedAt": "2026-10-13T11:55:49.374Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16415",
+          "modifiedAt": "2026-10-13T11:55:49.274Z"
         }
       ],
       "summary": [
@@ -2260,7 +2260,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 1110,
+        "commitCount": 1115,
         "authors": [
           {
             "count": 1400,
@@ -2268,7 +2268,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 342,
+            "count": 345,
             "name": "yuna0222",
             "email": "gold8077@gmail.com"
           },
@@ -2289,15 +2289,31 @@
           }
         ],
         "latestCommit": {
-          "hash": "e131c46",
+          "hash": "01cd39d",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-10-13T20:20:06+09:00",
-          "subject": "Fix: 보호자 챗봇 요청에 피보호자(wardId·이름·전화) 전달"
+          "date": "2026-10-13T20:55:21+09:00",
+          "subject": "Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
         },
-        "summary": "총 1110개 커밋, 상위 계정: YUNA0222(1400), yuna0222(342), gosky(18), 최근: Fix: 보호자 챗봇 요청에 피보호자(wardId·이름·전화) 전달"
+        "summary": "총 1115개 커밋, 상위 계정: YUNA0222(1400), yuna0222(345), gosky(18), 최근: Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
       },
       "recentFiles": [
+        {
+          "path": "src/app/(guardian)/guardian/_components/GuardianLayout.module.css",
+          "modifiedAt": "2026-10-13T11:55:21.294Z"
+        },
+        {
+          "path": "src/app/(ward)/ward/_components/WardLayout.module.css",
+          "modifiedAt": "2026-10-13T11:55:21.294Z"
+        },
+        {
+          "path": "src/components/chatbot/ChatbotContent.tsx",
+          "modifiedAt": "2026-10-13T11:55:21.294Z"
+        },
+        {
+          "path": "src/components/chatbot/ChatbotContent.module.css",
+          "modifiedAt": "2026-10-13T11:52:27.419Z"
+        },
         {
           "path": "tsconfig.tsbuildinfo",
           "modifiedAt": "2026-10-13T11:17:54.865Z"
@@ -2307,27 +2323,11 @@
           "modifiedAt": "2026-10-13T11:17:52.281Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/_components/GuardianLayout.module.css",
-          "modifiedAt": "2026-10-13T11:05:08.641Z"
-        },
-        {
           "path": "src/app/(guardian)/guardian/_components/GuardianLayout.tsx",
           "modifiedAt": "2026-10-13T11:05:08.641Z"
         },
         {
-          "path": "src/app/(ward)/ward/_components/WardLayout.module.css",
-          "modifiedAt": "2026-10-13T11:05:08.641Z"
-        },
-        {
           "path": "src/app/(ward)/ward/_components/WardLayout.tsx",
-          "modifiedAt": "2026-10-13T11:05:08.641Z"
-        },
-        {
-          "path": "src/components/chatbot/ChatbotContent.tsx",
-          "modifiedAt": "2026-10-13T11:05:08.641Z"
-        },
-        {
-          "path": "src/hooks/useVisualViewportHeight.ts",
           "modifiedAt": "2026-10-13T11:05:08.641Z"
         }
       ],
@@ -2336,8 +2336,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1110",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(342), gosky(18)"
+        "Git 커밋 수: 1115",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(345), gosky(18)"
       ]
     },
     {
