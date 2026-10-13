@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-13 12:48:08 KST
+- 점검 시각: 2026-10-13 13:18:13 KST
 
 ## 추정 기술 스택
 
@@ -44,7 +44,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2136
+- 파일 개수: 2137
 - 디렉토리 개수: 83
 - 주요 폴더: app, data, docs, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, models/new/backup, tests
@@ -75,14 +75,14 @@
 
 ## 최근 수정 파일
 
+- data/postgres/pg_wal/000000010000000000000002 (2026-10-13 13:17:58 KST)
+- models/new/fall.pt (2026-10-13 13:17:36 KST)
+- models/new/backup/fall_20261013-1317.pt (2026-10-13 13:17:36 KST)
 - data/collect/20261013/fall/near/013908830_ward_Rkbeyj3xTS5Ld6Qn_0.25.jpg (2026-10-13 01:39:08 KST)
 - data/collect/20261013/fall/near/013908830_ward_Rkbeyj3xTS5Ld6Qn_0.25.json (2026-10-13 01:39:08 KST)
 - data/collect/20261013/fall/near/013854317_ward_Rkbeyj3xTS5Ld6Qn_0.25.jpg (2026-10-13 01:38:54 KST)
 - data/collect/20261013/fall/near/013854317_ward_Rkbeyj3xTS5Ld6Qn_0.25.json (2026-10-13 01:38:54 KST)
 - data/collect/20261013/fall/near/013844298_ward_Rkbeyj3xTS5Ld6Qn_0.26.jpg (2026-10-13 01:38:44 KST)
-- data/collect/20261013/fall/near/013844298_ward_Rkbeyj3xTS5Ld6Qn_0.26.json (2026-10-13 01:38:44 KST)
-- data/collect/20261013/fall/near/013831196_ward_Rkbeyj3xTS5Ld6Qn_0.58.jpg (2026-10-13 01:38:31 KST)
-- data/collect/20261013/fall/near/013831196_ward_Rkbeyj3xTS5Ld6Qn_0.58.json (2026-10-13 01:38:31 KST)
 
 ## 점검 결과 요약
 

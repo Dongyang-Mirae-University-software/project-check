@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-13T03:48:06.166Z",
-  "generatedAtKst": "2026-10-13 12:48:06 KST",
+  "generatedAt": "2026-10-13T04:18:11.519Z",
+  "generatedAtKst": "2026-10-13 13:18:11 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7443
+          "count": 7444
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7469
+      "count": 7470
     },
     {
       "name": "YUNA0222",
@@ -1252,22 +1252,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7306,
+        "commitCount": 7307,
         "authors": [
           {
-            "count": 7306,
+            "count": 7307,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "68b412780",
+          "hash": "1fd2ac28b",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-13T12:18:04+09:00",
+          "date": "2026-10-13T12:48:09+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7306개 커밋, 상위 계정: gosky(7306), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7307개 커밋, 상위 계정: gosky(7307), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1308,8 +1308,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7306",
-        "Git 상위 계정: gosky(7306)"
+        "Git 커밋 수: 7307",
+        "Git 상위 계정: gosky(7307)"
       ]
     },
     {
@@ -1452,7 +1452,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 16 hours",
+            "status": "Up 24 seconds",
             "ports": ""
           }
         ],
@@ -1638,7 +1638,7 @@
         }
       ],
       "structure": {
-        "fileCount": 2136,
+        "fileCount": 2137,
         "dirCount": 83,
         "mainFolders": [
           "app",
@@ -1692,7 +1692,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 16 hours",
+            "status": "Up 24 seconds",
             "ports": ""
           }
         ],
@@ -1793,6 +1793,18 @@
       },
       "recentFiles": [
         {
+          "path": "data/postgres/pg_wal/000000010000000000000002",
+          "modifiedAt": "2026-10-13T04:17:58.995Z"
+        },
+        {
+          "path": "models/new/fall.pt",
+          "modifiedAt": "2026-10-13T04:17:36.668Z"
+        },
+        {
+          "path": "models/new/backup/fall_20261013-1317.pt",
+          "modifiedAt": "2026-10-13T04:17:36.660Z"
+        },
+        {
           "path": "data/collect/20261013/fall/near/013908830_ward_Rkbeyj3xTS5Ld6Qn_0.25.jpg",
           "modifiedAt": "2026-10-12T16:39:08.830Z"
         },
@@ -1811,18 +1823,6 @@
         {
           "path": "data/collect/20261013/fall/near/013844298_ward_Rkbeyj3xTS5Ld6Qn_0.26.jpg",
           "modifiedAt": "2026-10-12T16:38:44.295Z"
-        },
-        {
-          "path": "data/collect/20261013/fall/near/013844298_ward_Rkbeyj3xTS5Ld6Qn_0.26.json",
-          "modifiedAt": "2026-10-12T16:38:44.295Z"
-        },
-        {
-          "path": "data/collect/20261013/fall/near/013831196_ward_Rkbeyj3xTS5Ld6Qn_0.58.jpg",
-          "modifiedAt": "2026-10-12T16:38:31.191Z"
-        },
-        {
-          "path": "data/collect/20261013/fall/near/013831196_ward_Rkbeyj3xTS5Ld6Qn_0.58.json",
-          "modifiedAt": "2026-10-12T16:38:31.191Z"
         }
       ],
       "summary": [
