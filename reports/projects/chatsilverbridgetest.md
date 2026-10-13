@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/ChatSilverBridgeTest`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-13 23:50:11 KST
+- 점검 시각: 2026-10-14 24:20:17 KST
 
 ## 추정 기술 스택
 
