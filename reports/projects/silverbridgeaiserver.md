@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-13 17:49:02 KST
+- 점검 시각: 2026-10-13 18:19:07 KST
 
 ## 추정 기술 스택
 
@@ -44,7 +44,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2137
+- 파일 개수: 2145
 - 디렉토리 개수: 83
 - 주요 폴더: app, data, docs, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, models/new/backup, tests
@@ -58,31 +58,31 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1000, 1008, 1024, 1052, 1088, 1097, 1153, 1224, 1271, 1280, 2000, 5432, 6012, 6015, 6017, 6019, 10030, 10045, 10125, 10190, 10228, 10274, 10381, 10400, 10457, 10553, 10913, 10963, 10978, 11049, 11083, 11145, 11505, 38260, 47060, 57296, 58807, 63444, 64612
+- 관련 포트: 1000, 1008, 1024, 1052, 1069, 1088, 1097, 1153, 1224, 1271, 1280, 2000, 5432, 6012, 6015, 6017, 6019, 10030, 10125, 10228, 10274, 10381, 10400, 10457, 10553, 10913, 10963, 10978, 11049, 11083, 11145, 11505, 38260, 39702, 45285, 47060, 53908, 57296, 58807, 63444, 64612
 - 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
 
 - 브랜치: feature/chat-slot-lookahead
-- 총 커밋 수: 69
+- 총 커밋 수: 72
 - 계정별 커밋 수:
   - gosky <lovesky00317@gmail.com>: 37
+  - gosky <gosky@gosky.kr>: 12
   - namgung <skarndaudwls@gmail.com>: 11
-  - gosky <gosky@gosky.kr>: 9
   - skarndaudwls1 <skarndaudwls@gmail.com>: 4
-- 최근 커밋: cdb42ea / gosky <gosky@gosky.kr> / Feat: 증상 상담 답변을 한 말풍선 고정 틀로 단순화
+- 최근 커밋: baae644 / gosky <gosky@gosky.kr> / Fix: 진료과 이름을 병원명으로 오인해 병원 선택 없이 예약되던 문제
 
 ## 최근 수정 파일
 
-- data/postgres/base/16384/32935 (2026-10-13 17:48:44 KST)
-- data/postgres/pg_wal/000000010000000000000002 (2026-10-13 17:48:44 KST)
-- app/prompts/medical_chat_prompts.py (2026-10-13 17:47:45 KST)
-- app/services/medical_llm_service.py (2026-10-13 17:47:45 KST)
-- tests/test_chat_fixes.py (2026-10-13 17:47:45 KST)
-- tests/test_chat_router.py (2026-10-13 17:46:00 KST)
-- data/postgres/global/pg_control (2026-10-13 17:45:44 KST)
-- data/postgres/base/16384/32948 (2026-10-13 17:45:44 KST)
+- data/postgres/pg_wal/000000010000000000000002 (2026-10-13 18:17:21 KST)
+- data/postgres/base/16384/32935 (2026-10-13 18:16:19 KST)
+- data/postgres/global/pg_control (2026-10-13 18:15:46 KST)
+- data/postgres/base/16384/32948 (2026-10-13 18:15:45 KST)
+- data/postgres/base/16384/32947 (2026-10-13 18:15:45 KST)
+- data/postgres/base/16384/32946 (2026-10-13 18:15:45 KST)
+- data/postgres/base/16384/32945 (2026-10-13 18:15:45 KST)
+- data/postgres/base/16384/32935_fsm (2026-10-13 18:15:45 KST)
 
 ## 점검 결과 요약
 
@@ -90,5 +90,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 69
-- Git 상위 계정: gosky(37), namgung(11), gosky(9)
+- Git 커밋 수: 72
+- Git 상위 계정: gosky(37), gosky(12), namgung(11)
