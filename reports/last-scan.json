@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-13T08:18:54.892Z",
-  "generatedAtKst": "2026-10-13 17:18:54 KST",
+  "generatedAt": "2026-10-13T08:49:00.426Z",
+  "generatedAtKst": "2026-10-13 17:49:00 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,18 +19,18 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7452
+          "count": 7453
         },
         {
           "email": "gosky@gosky.kr",
-          "count": 21
+          "count": 22
         },
         {
           "email": "gosky.dev@gmail.com",
           "count": 5
         }
       ],
-      "count": 7478
+      "count": 7480
     },
     {
       "name": "YUNA0222",
@@ -1252,22 +1252,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7315,
+        "commitCount": 7316,
         "authors": [
           {
-            "count": 7315,
+            "count": 7316,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "36e97496f",
+          "hash": "73eede9df",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-13T16:48:53+09:00",
+          "date": "2026-10-13T17:18:58+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7315개 커밋, 상위 계정: gosky(7315), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7316개 커밋, 상위 계정: gosky(7316), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1308,8 +1308,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7315",
-        "Git 상위 계정: gosky(7315)"
+        "Git 커밋 수: 7316",
+        "Git 상위 계정: gosky(7316)"
       ]
     },
     {
@@ -1452,7 +1452,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 4 hours",
+            "status": "Up About a minute",
             "ports": ""
           }
         ],
@@ -1692,7 +1692,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 4 hours",
+            "status": "Up About a minute",
             "ports": ""
           }
         ],
@@ -1729,7 +1729,6 @@
           10381,
           10400,
           10457,
-          10508,
           10553,
           10913,
           10963,
@@ -1755,7 +1754,7 @@
       "git": {
         "isRepo": true,
         "branch": "feature/chat-slot-lookahead",
-        "commitCount": 68,
+        "commitCount": 69,
         "authors": [
           {
             "count": 37,
@@ -1768,7 +1767,7 @@
             "email": "skarndaudwls@gmail.com"
           },
           {
-            "count": 8,
+            "count": 9,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           },
@@ -1779,46 +1778,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "276592a",
+          "hash": "cdb42ea",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-10-12T20:50:40+09:00",
-          "subject": "Fix: 챗봇 예약 시나리오 한 세션 연속 실행 보완"
+          "date": "2026-10-13T17:42:29+09:00",
+          "subject": "Feat: 증상 상담 답변을 한 말풍선 고정 틀로 단순화"
         },
-        "summary": "총 68개 커밋, 상위 계정: gosky(37), namgung(11), gosky(8), 최근: Fix: 챗봇 예약 시나리오 한 세션 연속 실행 보완"
+        "summary": "총 69개 커밋, 상위 계정: gosky(37), namgung(11), gosky(9), 최근: Feat: 증상 상담 답변을 한 말풍선 고정 틀로 단순화"
       },
       "recentFiles": [
         {
+          "path": "data/postgres/base/16384/32935",
+          "modifiedAt": "2026-10-13T08:48:44.965Z"
+        },
+        {
           "path": "data/postgres/pg_wal/000000010000000000000002",
-          "modifiedAt": "2026-10-13T08:15:45.458Z"
+          "modifiedAt": "2026-10-13T08:48:44.965Z"
+        },
+        {
+          "path": "app/prompts/medical_chat_prompts.py",
+          "modifiedAt": "2026-10-13T08:47:45.894Z"
+        },
+        {
+          "path": "app/services/medical_llm_service.py",
+          "modifiedAt": "2026-10-13T08:47:45.894Z"
+        },
+        {
+          "path": "tests/test_chat_fixes.py",
+          "modifiedAt": "2026-10-13T08:47:45.894Z"
+        },
+        {
+          "path": "tests/test_chat_router.py",
+          "modifiedAt": "2026-10-13T08:46:00.720Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-10-13T08:15:42.658Z"
+          "modifiedAt": "2026-10-13T08:45:44.384Z"
         },
         {
           "path": "data/postgres/base/16384/32948",
-          "modifiedAt": "2026-10-13T08:15:42.554Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32947",
-          "modifiedAt": "2026-10-13T08:15:42.454Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32946",
-          "modifiedAt": "2026-10-13T08:15:42.154Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32945",
-          "modifiedAt": "2026-10-13T08:15:42.054Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32939",
-          "modifiedAt": "2026-10-13T08:15:41.954Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32938_fsm",
-          "modifiedAt": "2026-10-13T08:15:41.854Z"
+          "modifiedAt": "2026-10-13T08:45:44.280Z"
         }
       ],
       "summary": [
@@ -1826,8 +1825,8 @@
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI",
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 68",
-        "Git 상위 계정: gosky(37), namgung(11), gosky(8)"
+        "Git 커밋 수: 69",
+        "Git 상위 계정: gosky(37), namgung(11), gosky(9)"
       ]
     },
     {
