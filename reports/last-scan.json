@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-13T00:17:28.076Z",
-  "generatedAtKst": "2026-10-13 09:17:28 KST",
+  "generatedAt": "2026-10-13T00:47:33.407Z",
+  "generatedAtKst": "2026-10-13 09:47:33 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7436
+          "count": 7437
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7462
+      "count": 7463
     },
     {
       "name": "YUNA0222",
@@ -1252,22 +1252,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7299,
+        "commitCount": 7300,
         "authors": [
           {
-            "count": 7299,
+            "count": 7300,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "42ae25e1a",
+          "hash": "c6bc3dc28",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-13T08:47:26+09:00",
+          "date": "2026-10-13T09:17:31+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7299개 커밋, 상위 계정: gosky(7299), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7300개 커밋, 상위 계정: gosky(7300), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1308,8 +1308,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7299",
-        "Git 상위 계정: gosky(7299)"
+        "Git 커밋 수: 7300",
+        "Git 상위 계정: gosky(7300)"
       ]
     },
     {
@@ -1452,7 +1452,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 12 hours",
+            "status": "Up 13 hours",
             "ports": ""
           }
         ],
@@ -1692,7 +1692,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 12 hours",
+            "status": "Up 13 hours",
             "ports": ""
           }
         ],
