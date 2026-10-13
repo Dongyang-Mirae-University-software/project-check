@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-13T10:49:22.465Z",
-  "generatedAtKst": "2026-10-13 19:49:22 KST",
+  "generatedAt": "2026-10-13T11:19:27.711Z",
+  "generatedAtKst": "2026-10-13 20:19:27 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -10,8 +10,8 @@
     "ai": 6,
     "db": 8,
     "gitRepos": 16,
-    "running": 14,
-    "stopped": 6
+    "running": 13,
+    "stopped": 7
   },
   "gitAuthors": [
     {
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7457
+          "count": 7458
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7491
+      "count": 7492
     },
     {
       "name": "YUNA0222",
@@ -75,10 +75,10 @@
       "emails": [
         {
           "email": "gold8077@gmail.com",
-          "count": 340
+          "count": 342
         }
       ],
-      "count": 340
+      "count": 342
     },
     {
       "name": "namgung",
@@ -1270,22 +1270,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7320,
+        "commitCount": 7321,
         "authors": [
           {
-            "count": 7320,
+            "count": 7321,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "8cf7703e2",
+          "hash": "2a78f5dd8",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-13T19:19:20+09:00",
+          "date": "2026-10-13T19:49:25+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7320개 커밋, 상위 계정: gosky(7320), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7321개 커밋, 상위 계정: gosky(7321), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1326,8 +1326,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7320",
-        "Git 상위 계정: gosky(7320)"
+        "Git 커밋 수: 7321",
+        "Git 상위 계정: gosky(7321)"
       ]
     },
     {
@@ -1463,17 +1463,10 @@
         "summary": "DB 사용 흔적 없음"
       },
       "runtime": {
-        "status": "실행 중",
-        "running": true,
+        "status": "정지",
+        "running": false,
         "pm2": [],
-        "docker": [
-          {
-            "name": "silverbridge-ai-server",
-            "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 2 hours",
-            "ports": ""
-          }
-        ],
+        "docker": [],
         "ports": [],
         "allCandidatePorts": [
           1000,
@@ -1486,10 +1479,7 @@
           8456
         ],
         "summary": [
-          "실행 중",
-          "PM2 없음",
-          "Docker 1개",
-          "포트 확인 불가"
+          "정지 또는 확인 불가"
         ]
       },
       "git": {
@@ -1550,7 +1540,7 @@
         "분류: AI 서버",
         "기술 추정: Python, fastapi, Backend, AI",
         "DB 사용 흔적 없음",
-        "실행 상태: 실행 중",
+        "실행 상태: 정지",
         "Git 커밋 수: 686",
         "Git 상위 계정: Jaehe-he(686)"
       ]
@@ -1706,14 +1696,7 @@
         "status": "실행 중",
         "running": true,
         "pm2": [],
-        "docker": [
-          {
-            "name": "silverbridge-ai-server",
-            "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 2 hours",
-            "ports": ""
-          }
-        ],
+        "docker": [],
         "ports": [
           5432,
           6012,
@@ -1739,7 +1722,6 @@
           6015,
           6017,
           6019,
-          10030,
           10125,
           10228,
           10274,
@@ -1767,7 +1749,7 @@
         "summary": [
           "실행 중",
           "PM2 없음",
-          "Docker 1개",
+          "Docker 없음",
           "포트 5432, 6012, 6015, 6017, 6019"
         ]
       },
@@ -1808,36 +1790,36 @@
       },
       "recentFiles": [
         {
-          "path": "data/postgres/pg_wal/000000010000000000000002",
-          "modifiedAt": "2026-10-13T10:46:40.421Z"
+          "path": "app/services/chat_service.py",
+          "modifiedAt": "2026-10-13T11:19:17.656Z"
         },
         {
-          "path": "data/postgres/base/16384/32935",
-          "modifiedAt": "2026-10-13T10:46:29.809Z"
+          "path": "data/postgres/pg_wal/000000010000000000000002",
+          "modifiedAt": "2026-10-13T11:18:56.280Z"
+        },
+        {
+          "path": "tests/test_slot_lookahead.py",
+          "modifiedAt": "2026-10-13T11:18:12.437Z"
+        },
+        {
+          "path": "app/core/config.py",
+          "modifiedAt": "2026-10-13T11:17:39.613Z"
+        },
+        {
+          "path": "app/schemas/chat_schema.py",
+          "modifiedAt": "2026-10-13T11:17:39.613Z"
+        },
+        {
+          "path": "app/services/reservation_api_client.py",
+          "modifiedAt": "2026-10-13T11:17:39.613Z"
+        },
+        {
+          "path": "app/services/reservation_credential_service.py",
+          "modifiedAt": "2026-10-13T11:17:39.613Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-10-13T10:45:47.930Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32948",
-          "modifiedAt": "2026-10-13T10:45:47.826Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32947",
-          "modifiedAt": "2026-10-13T10:45:47.726Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32946",
-          "modifiedAt": "2026-10-13T10:45:47.626Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32945",
-          "modifiedAt": "2026-10-13T10:45:47.526Z"
-        },
-        {
-          "path": "data/postgres/base/16384/16415",
-          "modifiedAt": "2026-10-13T10:45:47.326Z"
+          "modifiedAt": "2026-10-13T11:15:50.050Z"
         }
       ],
       "summary": [
@@ -2193,7 +2175,7 @@
         }
       ],
       "structure": {
-        "fileCount": 403,
+        "fileCount": 404,
         "dirCount": 118,
         "mainFolders": [
           "docs",
@@ -2262,7 +2244,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 1107,
+        "commitCount": 1109,
         "authors": [
           {
             "count": 1400,
@@ -2270,7 +2252,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 340,
+            "count": 342,
             "name": "yuna0222",
             "email": "gold8077@gmail.com"
           },
@@ -2291,46 +2273,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "64989e9",
-          "author": "gosky",
-          "email": "gosky@gosky.kr",
-          "date": "2026-10-12T20:51:21+09:00",
-          "subject": "Fix: 챗봇 요청에 프로필(이름·전화·생년월일·주소) 같이 보내기"
+          "hash": "c31a559",
+          "author": "yuna0222",
+          "email": "gold8077@gmail.com",
+          "date": "2026-10-13T20:03:54+09:00",
+          "subject": "Fix: 모바일 챗봇 키보드 뷰포트 대응"
         },
-        "summary": "총 1107개 커밋, 상위 계정: YUNA0222(1400), yuna0222(340), gosky(17), 최근: Fix: 챗봇 요청에 프로필(이름·전화·생년월일·주소) 같이 보내기"
+        "summary": "총 1109개 커밋, 상위 계정: YUNA0222(1400), yuna0222(342), gosky(17), 최근: Fix: 모바일 챗봇 키보드 뷰포트 대응"
       },
       "recentFiles": [
         {
-          "path": "src/service/api/guardian/reservation.ts",
-          "modifiedAt": "2026-10-13T10:47:36.129Z"
+          "path": "tsconfig.tsbuildinfo",
+          "modifiedAt": "2026-10-13T11:17:54.865Z"
         },
         {
-          "path": "src/service/query/guardian/reservation.ts",
-          "modifiedAt": "2026-10-13T10:47:36.129Z"
+          "path": "src/service/interface/chat.ts",
+          "modifiedAt": "2026-10-13T11:17:52.281Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.module.css",
-          "modifiedAt": "2026-10-13T10:47:36.125Z"
+          "path": "src/app/(guardian)/guardian/_components/GuardianLayout.module.css",
+          "modifiedAt": "2026-10-13T11:05:08.641Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.tsx",
-          "modifiedAt": "2026-10-13T10:47:36.125Z"
+          "path": "src/app/(guardian)/guardian/_components/GuardianLayout.tsx",
+          "modifiedAt": "2026-10-13T11:05:08.641Z"
         },
         {
-          "path": "src/app/(ward)/ward/hospital/_components/WardHospitalContent.tsx",
-          "modifiedAt": "2026-10-13T10:47:36.125Z"
+          "path": "src/app/(ward)/ward/_components/WardLayout.module.css",
+          "modifiedAt": "2026-10-13T11:05:08.641Z"
         },
         {
-          "path": "src/app/(ward)/ward/hospital/page.tsx",
-          "modifiedAt": "2026-10-13T10:47:36.125Z"
-        },
-        {
-          "path": "src/app/api/reservation/[...path]/route.ts",
-          "modifiedAt": "2026-10-13T10:47:36.125Z"
+          "path": "src/app/(ward)/ward/_components/WardLayout.tsx",
+          "modifiedAt": "2026-10-13T11:05:08.641Z"
         },
         {
           "path": "src/components/chatbot/ChatbotContent.tsx",
-          "modifiedAt": "2026-10-13T10:47:36.125Z"
+          "modifiedAt": "2026-10-13T11:05:08.641Z"
+        },
+        {
+          "path": "src/hooks/useVisualViewportHeight.ts",
+          "modifiedAt": "2026-10-13T11:05:08.641Z"
         }
       ],
       "summary": [
@@ -2338,8 +2320,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1107",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(340), gosky(17)"
+        "Git 커밋 수: 1109",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(342), gosky(17)"
       ]
     },
     {
