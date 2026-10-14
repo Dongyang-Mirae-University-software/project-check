@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-14 09:52:07 KST
+- 점검 시각: 2026-10-14 10:22:13 KST
 
 ## 추정 기술 스택
 
@@ -64,25 +64,25 @@
 
 ## Git 커밋 현황
 
-- 브랜치: feature/chat-slot-lookahead
-- 총 커밋 수: 80
+- 브랜치: main
+- 총 커밋 수: 79
 - 계정별 커밋 수:
   - gosky <lovesky00317@gmail.com>: 37
   - gosky <gosky@gosky.kr>: 14
   - namgung <skarndaudwls@gmail.com>: 11
   - skarndaudwls1 <skarndaudwls@gmail.com>: 6
-- 최근 커밋: 14664de / gosky <gosky@gosky.kr> / Merge remote-tracking branch 'origin/main' into feature/chat-slot-lookahead
+- 최근 커밋: 623a092 / namgung <skarndaudwls@gmail.com> / Merge pull request #16 from Dongyang-Mirae-University-software/feature/chat-slot-lookahead
 
 ## 최근 수정 파일
 
-- data/collect/20261014/fire/alert/095034640_ward_fmEXQiKTOT80p8wT_0.75.jpg (2026-10-14 09:50:34 KST)
-- data/collect/20261014/fire/alert/095034640_ward_fmEXQiKTOT80p8wT_0.75.json (2026-10-14 09:50:34 KST)
-- data/collect/20261014/fire/alert/095024338_ward_fmEXQiKTOT80p8wT_0.74.jpg (2026-10-14 09:50:24 KST)
-- data/collect/20261014/fire/alert/095024338_ward_fmEXQiKTOT80p8wT_0.74.json (2026-10-14 09:50:24 KST)
-- data/collect/20261014/fire/alert/095014267_ward_fmEXQiKTOT80p8wT_0.74.jpg (2026-10-14 09:50:14 KST)
-- data/collect/20261014/fire/alert/095014267_ward_fmEXQiKTOT80p8wT_0.74.json (2026-10-14 09:50:14 KST)
-- data/collect/20261014/fire/alert/095004230_ward_fmEXQiKTOT80p8wT_0.74.jpg (2026-10-14 09:50:04 KST)
-- data/collect/20261014/fire/alert/095004230_ward_fmEXQiKTOT80p8wT_0.74.json (2026-10-14 09:50:04 KST)
+- app/services/reservation_intake.py (2026-10-14 10:00:02 KST)
+- app/services/reservation_orchestrator.py (2026-10-14 10:00:02 KST)
+- app/services/stream_session_service.py (2026-10-14 10:00:02 KST)
+- requirements.txt (2026-10-14 10:00:02 KST)
+- tests/test_chat_fixes.py (2026-10-14 10:00:02 KST)
+- tests/test_chat_router.py (2026-10-14 10:00:02 KST)
+- tests/test_fire_hold.py (2026-10-14 10:00:02 KST)
+- tests/test_frame_quality.py (2026-10-14 10:00:02 KST)
 
 ## 점검 결과 요약
 
@@ -90,5 +90,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 80
+- Git 커밋 수: 79
 - Git 상위 계정: gosky(37), gosky(14), namgung(11)
