@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-14T04:22:43.212Z",
-  "generatedAtKst": "2026-10-14 13:22:43 KST",
+  "generatedAt": "2026-10-14T04:52:48.730Z",
+  "generatedAtKst": "2026-10-14 13:52:48 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7492
+          "count": 7493
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7529
+      "count": 7530
     },
     {
       "name": "YUNA0222",
@@ -51,14 +51,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 1017
+          "count": 1019
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 1106
+      "count": 1108
     },
     {
       "name": "Jaehe-he",
@@ -1270,22 +1270,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7355,
+        "commitCount": 7356,
         "authors": [
           {
-            "count": 7355,
+            "count": 7356,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "586102950",
+          "hash": "01debcec5",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-14T12:52:41+09:00",
+          "date": "2026-10-14T13:22:47+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7355개 커밋, 상위 계정: gosky(7355), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7356개 커밋, 상위 계정: gosky(7356), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1326,8 +1326,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7355",
-        "Git 상위 계정: gosky(7355)"
+        "Git 커밋 수: 7356",
+        "Git 상위 계정: gosky(7356)"
       ]
     },
     {
@@ -1470,7 +1470,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 15 hours",
+            "status": "Up 16 hours",
             "ports": ""
           }
         ],
@@ -1710,7 +1710,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 15 hours",
+            "status": "Up 16 hours",
             "ports": ""
           }
         ],
@@ -2018,10 +2018,10 @@
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 1044,
+        "commitCount": 1047,
         "authors": [
           {
-            "count": 873,
+            "count": 875,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2037,18 +2037,30 @@
           }
         ],
         "latestCommit": {
-          "hash": "2d6164f",
+          "hash": "56f3ff9",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-10-14T10:56:41+09:00",
-          "subject": "Merge pull request #348 from Dongyang-Mirae-University-software/fix/camera-limit-swagger-doc"
+          "date": "2026-10-14T13:42:24+09:00",
+          "subject": "Merge pull request #349 from Dongyang-Mirae-University-software/feature/camera-live-fps-ratelimit-log"
         },
-        "summary": "총 1044개 커밋, 상위 계정: skarndaudwls1(873), skarndaudwls1(65), gosky(4), 최근: Merge pull request #348 from Dongyang-Mirae-University-software/fix/camera-limit-swagger-doc"
+        "summary": "총 1047개 커밋, 상위 계정: skarndaudwls1(875), skarndaudwls1(65), gosky(4), 최근: Merge pull request #349 from Dongyang-Mirae-University-software/feature/camera-live-fps-ratelimit-log"
       },
       "recentFiles": [
         {
+          "path": "docs/audit-index.md",
+          "modifiedAt": "2026-10-14T04:42:31.159Z"
+        },
+        {
           "path": "docs/progress.md",
-          "modifiedAt": "2026-10-14T01:56:47.518Z"
+          "modifiedAt": "2026-10-14T04:42:31.159Z"
+        },
+        {
+          "path": "docs/(2026-10-09) audit-chat-log-purge-on-withdraw.md",
+          "modifiedAt": "2026-10-14T04:42:31.155Z"
+        },
+        {
+          "path": "docs/(2026-10-13) design-video-transport-be.md",
+          "modifiedAt": "2026-10-14T04:42:31.155Z"
         },
         {
           "path": "docs/(2026-10-14) audit-camera-total-limit.md",
@@ -2059,23 +2071,11 @@
           "modifiedAt": "2026-10-14T01:56:47.514Z"
         },
         {
-          "path": "docs/audit-index.md",
-          "modifiedAt": "2026-10-14T01:56:47.514Z"
-        },
-        {
           "path": "src/main/resources/application.yaml",
           "modifiedAt": "2026-10-14T01:40:13.719Z"
         },
         {
           "path": "CLAUDE.md",
-          "modifiedAt": "2026-10-14T01:40:13.715Z"
-        },
-        {
-          "path": "docs/(2026-10-13) audit-impact-email-notification.md",
-          "modifiedAt": "2026-10-14T01:40:13.715Z"
-        },
-        {
-          "path": "docs/(2026-10-13) design-video-transport-be.md",
           "modifiedAt": "2026-10-14T01:40:13.715Z"
         }
       ],
@@ -2084,8 +2084,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1044",
-        "Git 상위 계정: skarndaudwls1(873), skarndaudwls1(65), gosky(4)"
+        "Git 커밋 수: 1047",
+        "Git 상위 계정: skarndaudwls1(875), skarndaudwls1(65), gosky(4)"
       ]
     },
     {

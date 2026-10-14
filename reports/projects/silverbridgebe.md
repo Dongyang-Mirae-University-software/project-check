@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-10-14 13:22:45 KST
+- 점검 시각: 2026-10-14 13:52:50 KST
 
 ## 추정 기술 스택
 
@@ -57,23 +57,23 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1044
+- 총 커밋 수: 1047
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 873
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 875
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
-- 최근 커밋: 2d6164f / namgung <skarndaudwls@gmail.com> / Merge pull request #348 from Dongyang-Mirae-University-software/fix/camera-limit-swagger-doc
+- 최근 커밋: 56f3ff9 / namgung <skarndaudwls@gmail.com> / Merge pull request #349 from Dongyang-Mirae-University-software/feature/camera-live-fps-ratelimit-log
 
 ## 최근 수정 파일
 
-- docs/progress.md (2026-10-14 10:56:47 KST)
+- docs/audit-index.md (2026-10-14 13:42:31 KST)
+- docs/progress.md (2026-10-14 13:42:31 KST)
+- docs/(2026-10-09) audit-chat-log-purge-on-withdraw.md (2026-10-14 13:42:31 KST)
+- docs/(2026-10-13) design-video-transport-be.md (2026-10-14 13:42:31 KST)
 - docs/(2026-10-14) audit-camera-total-limit.md (2026-10-14 10:56:47 KST)
 - docs/(2026-10-14) feature-camera-total-limit.md (2026-10-14 10:56:47 KST)
-- docs/audit-index.md (2026-10-14 10:56:47 KST)
 - src/main/resources/application.yaml (2026-10-14 10:40:13 KST)
 - CLAUDE.md (2026-10-14 10:40:13 KST)
-- docs/(2026-10-13) audit-impact-email-notification.md (2026-10-14 10:40:13 KST)
-- docs/(2026-10-13) design-video-transport-be.md (2026-10-14 10:40:13 KST)
 
 ## 점검 결과 요약
 
@@ -81,5 +81,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1044
-- Git 상위 계정: skarndaudwls1(873), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1047
+- Git 상위 계정: skarndaudwls1(875), skarndaudwls1(65), gosky(4)
