@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-14T02:22:21.634Z",
-  "generatedAtKst": "2026-10-14 11:22:21 KST",
+  "generatedAt": "2026-10-14T02:52:27.189Z",
+  "generatedAtKst": "2026-10-14 11:52:27 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7488
+          "count": 7489
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7525
+      "count": 7526
     },
     {
       "name": "YUNA0222",
@@ -1270,22 +1270,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7351,
+        "commitCount": 7352,
         "authors": [
           {
-            "count": 7351,
+            "count": 7352,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "635cdadc6",
+          "hash": "e3b8fbfd7",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-14T10:52:19+09:00",
+          "date": "2026-10-14T11:22:25+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7351개 커밋, 상위 계정: gosky(7351), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7352개 커밋, 상위 계정: gosky(7352), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1326,8 +1326,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7351",
-        "Git 상위 계정: gosky(7351)"
+        "Git 커밋 수: 7352",
+        "Git 상위 계정: gosky(7352)"
       ]
     },
     {
@@ -1470,7 +1470,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 13 hours",
+            "status": "Up 14 hours",
             "ports": ""
           }
         ],
@@ -1656,8 +1656,8 @@
         }
       ],
       "structure": {
-        "fileCount": 2419,
-        "dirCount": 92,
+        "fileCount": 2445,
+        "dirCount": 93,
         "mainFolders": [
           "app",
           "data",
@@ -1710,7 +1710,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 13 hours",
+            "status": "Up 14 hours",
             "ports": ""
           }
         ],
@@ -1728,34 +1728,24 @@
           1017,
           1024,
           1027,
+          1030,
           1042,
+          1048,
           1052,
           1053,
           1054,
           1055,
           1056,
-          1063,
-          1130,
-          1177,
           2000,
           5432,
           6012,
           6015,
           6017,
           6019,
-          15316,
-          42739,
-          43882,
-          44175,
-          54008,
           54205,
-          54430,
           54805,
-          56231,
           56389,
-          56514,
           57119,
-          57866,
           58736,
           59230,
           60303,
@@ -1764,7 +1754,11 @@
           60786,
           61274,
           61977,
+          62737,
+          62971,
           64256,
+          64782,
+          65304,
           65525
         ],
         "summary": [
@@ -1811,36 +1805,36 @@
       },
       "recentFiles": [
         {
-          "path": "data/collect/20261014/knife/near/112218224_ward_rYfm1904FKFDviAO_0.30.jpg",
-          "modifiedAt": "2026-10-14T02:22:18.219Z"
+          "path": "data/collect/20261014/knife/near/112333096_ward_rYfm1904FKFDviAO_0.40.jpg",
+          "modifiedAt": "2026-10-14T02:23:33.094Z"
         },
         {
-          "path": "data/collect/20261014/knife/near/112218224_ward_rYfm1904FKFDviAO_0.30.json",
-          "modifiedAt": "2026-10-14T02:22:18.219Z"
+          "path": "data/collect/20261014/knife/near/112333096_ward_rYfm1904FKFDviAO_0.40.json",
+          "modifiedAt": "2026-10-14T02:23:33.094Z"
         },
         {
-          "path": "data/collect/20261014/fall/near/112217795_ward_rYfm1904FKFDviAO_0.45.jpg",
-          "modifiedAt": "2026-10-14T02:22:17.791Z"
+          "path": "data/collect/20261014/fall/near/112332941_ward_rYfm1904FKFDviAO_0.42.jpg",
+          "modifiedAt": "2026-10-14T02:23:32.938Z"
         },
         {
-          "path": "data/collect/20261014/fall/near/112217795_ward_rYfm1904FKFDviAO_0.45.json",
-          "modifiedAt": "2026-10-14T02:22:17.791Z"
+          "path": "data/collect/20261014/fall/near/112332941_ward_rYfm1904FKFDviAO_0.42.json",
+          "modifiedAt": "2026-10-14T02:23:32.938Z"
         },
         {
-          "path": "data/collect/20261014/knife/alert/112217048_ward_rYfm1904FKFDviAO_0.66.jpg",
-          "modifiedAt": "2026-10-14T02:22:17.043Z"
+          "path": "data/collect/20261014/knife/alert/112331090_ward_rYfm1904FKFDviAO_0.81.jpg",
+          "modifiedAt": "2026-10-14T02:23:31.086Z"
         },
         {
-          "path": "data/collect/20261014/knife/alert/112217048_ward_rYfm1904FKFDviAO_0.66.json",
-          "modifiedAt": "2026-10-14T02:22:17.043Z"
+          "path": "data/collect/20261014/knife/alert/112331090_ward_rYfm1904FKFDviAO_0.81.json",
+          "modifiedAt": "2026-10-14T02:23:31.086Z"
         },
         {
-          "path": "data/collect/20261014/knife/alert/112206998_ward_rYfm1904FKFDviAO_0.49.jpg",
-          "modifiedAt": "2026-10-14T02:22:06.995Z"
+          "path": "data/collect/20261014/knife/alert/112321086_ward_rYfm1904FKFDviAO_0.44.jpg",
+          "modifiedAt": "2026-10-14T02:23:21.086Z"
         },
         {
-          "path": "data/collect/20261014/knife/alert/112206998_ward_rYfm1904FKFDviAO_0.49.json",
-          "modifiedAt": "2026-10-14T02:22:06.995Z"
+          "path": "data/collect/20261014/knife/alert/112321086_ward_rYfm1904FKFDviAO_0.44.json",
+          "modifiedAt": "2026-10-14T02:23:21.086Z"
         }
       ],
       "summary": [
