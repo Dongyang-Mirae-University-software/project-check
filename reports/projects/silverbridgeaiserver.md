@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-14 17:23:28 KST
+- 점검 시각: 2026-10-14 17:53:34 KST
 
 ## 추정 기술 스택
 
@@ -44,7 +44,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2448
+- 파일 개수: 2472
 - 디렉토리 개수: 93
 - 주요 폴더: app, data, docs, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, models/new/backup, tests
@@ -58,7 +58,7 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1000, 1004, 1006, 1008, 1017, 1024, 1027, 1030, 1042, 1048, 1052, 1053, 1054, 1055, 1056, 2000, 5432, 6012, 6015, 6017, 6019, 11090, 57119, 59230, 60519, 62737, 62971, 64256, 64782, 65304, 65525
+- 관련 포트: 1000, 1004, 1008, 1024, 1027, 1030, 1042, 1048, 1052, 1053, 1054, 1055, 1056, 2000, 5432, 6012, 6015, 6017, 6019, 10041, 11090, 28277, 43072, 44064, 49001, 51107, 52595, 56289, 58980, 59474, 62737, 62971, 64782, 65304, 65525
 - 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
@@ -75,14 +75,14 @@
 
 ## 최근 수정 파일
 
-- data/collect/20261014/fire/near/151018858_ward_eGjf3GMtNJ2MegM4_0.38.jpg (2026-10-14 15:10:18 KST)
-- data/collect/20261014/fire/near/151018858_ward_eGjf3GMtNJ2MegM4_0.38.json (2026-10-14 15:10:18 KST)
-- data/postgres/pg_wal/000000010000000000000002 (2026-10-14 13:11:12 KST)
-- data/postgres/global/pg_control (2026-10-14 13:11:10 KST)
-- data/postgres/base/16384/32948 (2026-10-14 13:11:10 KST)
-- data/postgres/base/16384/32947 (2026-10-14 13:11:10 KST)
-- data/postgres/base/16384/32946 (2026-10-14 13:11:10 KST)
-- data/postgres/base/16384/32945 (2026-10-14 13:11:10 KST)
+- data/collect/20261014/fire/near/175256779_ward_0HX4WEegDu4LY5ZB_0.56.jpg (2026-10-14 17:52:56 KST)
+- data/collect/20261014/fire/near/175256779_ward_0HX4WEegDu4LY5ZB_0.56.json (2026-10-14 17:52:56 KST)
+- data/collect/20261014/fire/near/174844216_ward_E7saz8z8gXGCKWlS_0.59.jpg (2026-10-14 17:48:44 KST)
+- data/collect/20261014/fire/near/174844216_ward_E7saz8z8gXGCKWlS_0.59.json (2026-10-14 17:48:44 KST)
+- data/collect/20261014/fire/near/174834191_ward_E7saz8z8gXGCKWlS_0.73.jpg (2026-10-14 17:48:34 KST)
+- data/collect/20261014/fire/near/174834191_ward_E7saz8z8gXGCKWlS_0.73.json (2026-10-14 17:48:34 KST)
+- data/collect/20261014/knife/alert/174745852_ward_UlwUJUiUWT6skWW0_0.43.jpg (2026-10-14 17:47:45 KST)
+- data/collect/20261014/knife/alert/174745852_ward_UlwUJUiUWT6skWW0_0.43.json (2026-10-14 17:47:45 KST)
 
 ## 점검 결과 요약
 
