@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-14 09:22:02 KST
+- 점검 시각: 2026-10-14 09:52:07 KST
 
 ## 추정 기술 스택
 
@@ -44,8 +44,8 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2159
-- 디렉토리 개수: 83
+- 파일 개수: 2213
+- 디렉토리 개수: 89
 - 주요 폴더: app, data, docs, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, models/new/backup, tests
 
@@ -58,7 +58,7 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1000, 1008, 1024, 1069, 1153, 1224, 1254, 1271, 1280, 2000, 5432, 6012, 6015, 6017, 6019, 10125, 10274, 10400, 10963, 11414, 11571, 11685, 12389, 21283, 38260, 39702, 45285, 47060, 53908, 57296, 58807, 63444, 64612
+- 관련 포트: 1000, 1008, 1024, 1039, 1069, 1134, 1254, 1280, 2000, 5432, 6012, 6015, 6017, 6019, 10285, 10458, 10559, 10628, 10774, 11277, 11414, 11571, 11685, 12183, 12389, 12631, 13647, 13651, 13840, 14370, 14393, 14449, 14770, 14934, 15128, 15288, 21283, 27622, 39702, 40842, 45285, 46433, 53908, 63029
 - 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
@@ -75,14 +75,14 @@
 
 ## 최근 수정 파일
 
-- app/services/fire_hold_tracker.py (2026-10-13 22:09:31 KST)
-- app/services/stream_session_service.py (2026-10-13 22:09:31 KST)
-- tests/test_fire_hold.py (2026-10-13 22:09:31 KST)
-- app/core/config.py (2026-10-13 22:09:31 KST)
-- data/collect/20261013/fire/near/220216511_ward_fmEXQiKTOT80p8wT_0.54.jpg (2026-10-13 22:02:16 KST)
-- data/collect/20261013/fire/near/220216511_ward_fmEXQiKTOT80p8wT_0.54.json (2026-10-13 22:02:16 KST)
-- data/collect/20261013/fire/near/220159069_ward_fmEXQiKTOT80p8wT_0.51.jpg (2026-10-13 22:01:59 KST)
-- data/collect/20261013/fire/near/220159069_ward_fmEXQiKTOT80p8wT_0.51.json (2026-10-13 22:01:59 KST)
+- data/collect/20261014/fire/alert/095034640_ward_fmEXQiKTOT80p8wT_0.75.jpg (2026-10-14 09:50:34 KST)
+- data/collect/20261014/fire/alert/095034640_ward_fmEXQiKTOT80p8wT_0.75.json (2026-10-14 09:50:34 KST)
+- data/collect/20261014/fire/alert/095024338_ward_fmEXQiKTOT80p8wT_0.74.jpg (2026-10-14 09:50:24 KST)
+- data/collect/20261014/fire/alert/095024338_ward_fmEXQiKTOT80p8wT_0.74.json (2026-10-14 09:50:24 KST)
+- data/collect/20261014/fire/alert/095014267_ward_fmEXQiKTOT80p8wT_0.74.jpg (2026-10-14 09:50:14 KST)
+- data/collect/20261014/fire/alert/095014267_ward_fmEXQiKTOT80p8wT_0.74.json (2026-10-14 09:50:14 KST)
+- data/collect/20261014/fire/alert/095004230_ward_fmEXQiKTOT80p8wT_0.74.jpg (2026-10-14 09:50:04 KST)
+- data/collect/20261014/fire/alert/095004230_ward_fmEXQiKTOT80p8wT_0.74.json (2026-10-14 09:50:04 KST)
 
 ## 점검 결과 요약
 

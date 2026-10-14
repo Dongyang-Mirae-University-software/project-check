@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-14T00:22:00.155Z",
-  "generatedAtKst": "2026-10-14 09:22:00 KST",
+  "generatedAt": "2026-10-14T00:52:05.557Z",
+  "generatedAtKst": "2026-10-14 09:52:05 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7484
+          "count": 7485
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7521
+      "count": 7522
     },
     {
       "name": "YUNA0222",
@@ -1270,22 +1270,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7347,
+        "commitCount": 7348,
         "authors": [
           {
-            "count": 7347,
+            "count": 7348,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "70f3e906a",
+          "hash": "84fda193a",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-14T08:51:58+09:00",
+          "date": "2026-10-14T09:22:03+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7347개 커밋, 상위 계정: gosky(7347), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7348개 커밋, 상위 계정: gosky(7348), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1326,8 +1326,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7347",
-        "Git 상위 계정: gosky(7347)"
+        "Git 커밋 수: 7348",
+        "Git 상위 계정: gosky(7348)"
       ]
     },
     {
@@ -1470,7 +1470,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 11 hours",
+            "status": "Up 12 hours",
             "ports": ""
           }
         ],
@@ -1656,8 +1656,8 @@
         }
       ],
       "structure": {
-        "fileCount": 2159,
-        "dirCount": 83,
+        "fileCount": 2213,
+        "dirCount": 89,
         "mainFolders": [
           "app",
           "data",
@@ -1710,7 +1710,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 11 hours",
+            "status": "Up 12 hours",
             "ports": ""
           }
         ],
@@ -1725,11 +1725,10 @@
           1000,
           1008,
           1024,
+          1039,
           1069,
-          1153,
-          1224,
+          1134,
           1254,
-          1271,
           1280,
           2000,
           5432,
@@ -1737,24 +1736,36 @@
           6015,
           6017,
           6019,
-          10125,
-          10274,
-          10400,
-          10963,
+          10285,
+          10458,
+          10559,
+          10628,
+          10774,
+          11277,
           11414,
           11571,
           11685,
+          12183,
           12389,
+          12631,
+          13647,
+          13651,
+          13840,
+          14370,
+          14393,
+          14449,
+          14770,
+          14934,
+          15128,
+          15288,
           21283,
-          38260,
+          27622,
           39702,
+          40842,
           45285,
-          47060,
+          46433,
           53908,
-          57296,
-          58807,
-          63444,
-          64612
+          63029
         ],
         "summary": [
           "실행 중",
@@ -1800,36 +1811,36 @@
       },
       "recentFiles": [
         {
-          "path": "app/services/fire_hold_tracker.py",
-          "modifiedAt": "2026-10-13T13:09:31.506Z"
+          "path": "data/collect/20261014/fire/alert/095034640_ward_fmEXQiKTOT80p8wT_0.75.jpg",
+          "modifiedAt": "2026-10-14T00:50:34.636Z"
         },
         {
-          "path": "app/services/stream_session_service.py",
-          "modifiedAt": "2026-10-13T13:09:31.506Z"
+          "path": "data/collect/20261014/fire/alert/095034640_ward_fmEXQiKTOT80p8wT_0.75.json",
+          "modifiedAt": "2026-10-14T00:50:34.636Z"
         },
         {
-          "path": "tests/test_fire_hold.py",
-          "modifiedAt": "2026-10-13T13:09:31.506Z"
+          "path": "data/collect/20261014/fire/alert/095024338_ward_fmEXQiKTOT80p8wT_0.74.jpg",
+          "modifiedAt": "2026-10-14T00:50:24.332Z"
         },
         {
-          "path": "app/core/config.py",
-          "modifiedAt": "2026-10-13T13:09:31.502Z"
+          "path": "data/collect/20261014/fire/alert/095024338_ward_fmEXQiKTOT80p8wT_0.74.json",
+          "modifiedAt": "2026-10-14T00:50:24.332Z"
         },
         {
-          "path": "data/collect/20261013/fire/near/220216511_ward_fmEXQiKTOT80p8wT_0.54.jpg",
-          "modifiedAt": "2026-10-13T13:02:16.508Z"
+          "path": "data/collect/20261014/fire/alert/095014267_ward_fmEXQiKTOT80p8wT_0.74.jpg",
+          "modifiedAt": "2026-10-14T00:50:14.263Z"
         },
         {
-          "path": "data/collect/20261013/fire/near/220216511_ward_fmEXQiKTOT80p8wT_0.54.json",
-          "modifiedAt": "2026-10-13T13:02:16.508Z"
+          "path": "data/collect/20261014/fire/alert/095014267_ward_fmEXQiKTOT80p8wT_0.74.json",
+          "modifiedAt": "2026-10-14T00:50:14.263Z"
         },
         {
-          "path": "data/collect/20261013/fire/near/220159069_ward_fmEXQiKTOT80p8wT_0.51.jpg",
-          "modifiedAt": "2026-10-13T13:01:59.064Z"
+          "path": "data/collect/20261014/fire/alert/095004230_ward_fmEXQiKTOT80p8wT_0.74.jpg",
+          "modifiedAt": "2026-10-14T00:50:04.227Z"
         },
         {
-          "path": "data/collect/20261013/fire/near/220159069_ward_fmEXQiKTOT80p8wT_0.51.json",
-          "modifiedAt": "2026-10-13T13:01:59.064Z"
+          "path": "data/collect/20261014/fire/alert/095004230_ward_fmEXQiKTOT80p8wT_0.74.json",
+          "modifiedAt": "2026-10-14T00:50:04.227Z"
         }
       ],
       "summary": [
