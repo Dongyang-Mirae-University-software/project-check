@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-14 13:52:50 KST
+- 점검 시각: 2026-10-14 14:22:56 KST
 
 ## 추정 기술 스택
 
@@ -70,7 +70,7 @@
   - gosky <lovesky00317@gmail.com>: 37
   - gosky <gosky@gosky.kr>: 14
   - namgung <skarndaudwls@gmail.com>: 11
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 6
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 7
 - 최근 커밋: 623a092 / namgung <skarndaudwls@gmail.com> / Merge pull request #16 from Dongyang-Mirae-University-software/feature/chat-slot-lookahead
 
 ## 최근 수정 파일
