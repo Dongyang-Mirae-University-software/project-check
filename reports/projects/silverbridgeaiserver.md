@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-14 12:52:39 KST
+- 점검 시각: 2026-10-14 13:22:45 KST
 
 ## 추정 기술 스택
 
@@ -44,7 +44,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2445
+- 파일 개수: 2446
 - 디렉토리 개수: 93
 - 주요 폴더: app, data, docs, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, models/new/backup, tests
@@ -58,7 +58,7 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1000, 1006, 1008, 1017, 1024, 1027, 1030, 1042, 1048, 1052, 1053, 1054, 1055, 1056, 2000, 5432, 6012, 6015, 6017, 6019, 54205, 54805, 56389, 57119, 58736, 59230, 60303, 60494, 60519, 60786, 61274, 61977, 62737, 62971, 64256, 64782, 65304, 65525
+- 관련 포트: 1000, 1006, 1008, 1017, 1024, 1027, 1030, 1042, 1048, 1052, 1053, 1054, 1055, 1056, 2000, 5432, 6012, 6015, 6017, 6019, 57119, 59230, 60519, 60786, 62737, 62971, 64256, 64782, 65304, 65525
 - 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
@@ -75,14 +75,14 @@
 
 ## 최근 수정 파일
 
-- data/collect/20261014/knife/near/112333096_ward_rYfm1904FKFDviAO_0.40.jpg (2026-10-14 11:23:33 KST)
-- data/collect/20261014/knife/near/112333096_ward_rYfm1904FKFDviAO_0.40.json (2026-10-14 11:23:33 KST)
-- data/collect/20261014/fall/near/112332941_ward_rYfm1904FKFDviAO_0.42.jpg (2026-10-14 11:23:32 KST)
-- data/collect/20261014/fall/near/112332941_ward_rYfm1904FKFDviAO_0.42.json (2026-10-14 11:23:32 KST)
-- data/collect/20261014/knife/alert/112331090_ward_rYfm1904FKFDviAO_0.81.jpg (2026-10-14 11:23:31 KST)
-- data/collect/20261014/knife/alert/112331090_ward_rYfm1904FKFDviAO_0.81.json (2026-10-14 11:23:31 KST)
-- data/collect/20261014/knife/alert/112321086_ward_rYfm1904FKFDviAO_0.44.jpg (2026-10-14 11:23:21 KST)
-- data/collect/20261014/knife/alert/112321086_ward_rYfm1904FKFDviAO_0.44.json (2026-10-14 11:23:21 KST)
+- data/postgres/pg_wal/000000010000000000000002 (2026-10-14 13:11:12 KST)
+- data/postgres/global/pg_control (2026-10-14 13:11:10 KST)
+- data/postgres/base/16384/32948 (2026-10-14 13:11:10 KST)
+- data/postgres/base/16384/32947 (2026-10-14 13:11:10 KST)
+- data/postgres/base/16384/32946 (2026-10-14 13:11:10 KST)
+- data/postgres/base/16384/32945 (2026-10-14 13:11:10 KST)
+- data/postgres/base/16384/32935_vm (2026-10-14 13:11:10 KST)
+- data/postgres/base/16384/32935 (2026-10-14 13:11:09 KST)
 
 ## 점검 결과 요약
 

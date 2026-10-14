@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-14T03:52:37.919Z",
-  "generatedAtKst": "2026-10-14 12:52:37 KST",
+  "generatedAt": "2026-10-14T04:22:43.212Z",
+  "generatedAtKst": "2026-10-14 13:22:43 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7491
+          "count": 7492
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7528
+      "count": 7529
     },
     {
       "name": "YUNA0222",
@@ -51,14 +51,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 1007
+          "count": 1017
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 1096
+      "count": 1106
     },
     {
       "name": "Jaehe-he",
@@ -1270,22 +1270,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7354,
+        "commitCount": 7355,
         "authors": [
           {
-            "count": 7354,
+            "count": 7355,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "84dede6f8",
+          "hash": "586102950",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-14T12:22:36+09:00",
+          "date": "2026-10-14T12:52:41+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7354개 커밋, 상위 계정: gosky(7354), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7355개 커밋, 상위 계정: gosky(7355), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1326,8 +1326,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7354",
-        "Git 상위 계정: gosky(7354)"
+        "Git 커밋 수: 7355",
+        "Git 상위 계정: gosky(7355)"
       ]
     },
     {
@@ -1656,7 +1656,7 @@
         }
       ],
       "structure": {
-        "fileCount": 2445,
+        "fileCount": 2446,
         "dirCount": 93,
         "mainFolders": [
           "app",
@@ -1742,18 +1742,10 @@
           6015,
           6017,
           6019,
-          54205,
-          54805,
-          56389,
           57119,
-          58736,
           59230,
-          60303,
-          60494,
           60519,
           60786,
-          61274,
-          61977,
           62737,
           62971,
           64256,
@@ -1805,36 +1797,36 @@
       },
       "recentFiles": [
         {
-          "path": "data/collect/20261014/knife/near/112333096_ward_rYfm1904FKFDviAO_0.40.jpg",
-          "modifiedAt": "2026-10-14T02:23:33.094Z"
+          "path": "data/postgres/pg_wal/000000010000000000000002",
+          "modifiedAt": "2026-10-14T04:11:12.770Z"
         },
         {
-          "path": "data/collect/20261014/knife/near/112333096_ward_rYfm1904FKFDviAO_0.40.json",
-          "modifiedAt": "2026-10-14T02:23:33.094Z"
+          "path": "data/postgres/global/pg_control",
+          "modifiedAt": "2026-10-14T04:11:10.562Z"
         },
         {
-          "path": "data/collect/20261014/fall/near/112332941_ward_rYfm1904FKFDviAO_0.42.jpg",
-          "modifiedAt": "2026-10-14T02:23:32.938Z"
+          "path": "data/postgres/base/16384/32948",
+          "modifiedAt": "2026-10-14T04:11:10.462Z"
         },
         {
-          "path": "data/collect/20261014/fall/near/112332941_ward_rYfm1904FKFDviAO_0.42.json",
-          "modifiedAt": "2026-10-14T02:23:32.938Z"
+          "path": "data/postgres/base/16384/32947",
+          "modifiedAt": "2026-10-14T04:11:10.362Z"
         },
         {
-          "path": "data/collect/20261014/knife/alert/112331090_ward_rYfm1904FKFDviAO_0.81.jpg",
-          "modifiedAt": "2026-10-14T02:23:31.086Z"
+          "path": "data/postgres/base/16384/32946",
+          "modifiedAt": "2026-10-14T04:11:10.262Z"
         },
         {
-          "path": "data/collect/20261014/knife/alert/112331090_ward_rYfm1904FKFDviAO_0.81.json",
-          "modifiedAt": "2026-10-14T02:23:31.086Z"
+          "path": "data/postgres/base/16384/32945",
+          "modifiedAt": "2026-10-14T04:11:10.158Z"
         },
         {
-          "path": "data/collect/20261014/knife/alert/112321086_ward_rYfm1904FKFDviAO_0.44.jpg",
-          "modifiedAt": "2026-10-14T02:23:21.086Z"
+          "path": "data/postgres/base/16384/32935_vm",
+          "modifiedAt": "2026-10-14T04:11:10.058Z"
         },
         {
-          "path": "data/collect/20261014/knife/alert/112321086_ward_rYfm1904FKFDviAO_0.44.json",
-          "modifiedAt": "2026-10-14T02:23:21.086Z"
+          "path": "data/postgres/base/16384/32935",
+          "modifiedAt": "2026-10-14T04:11:09.958Z"
         }
       ],
       "summary": [
@@ -2190,7 +2182,7 @@
         }
       ],
       "structure": {
-        "fileCount": 410,
+        "fileCount": 413,
         "dirCount": 119,
         "mainFolders": [
           "docs",
@@ -2259,7 +2251,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 1122,
+        "commitCount": 1141,
         "authors": [
           {
             "count": 1400,
@@ -2277,6 +2269,11 @@
             "email": "gosky@gosky.kr"
           },
           {
+            "count": 13,
+            "name": "skarndaudwls1",
+            "email": "skarndaudwls@gmail.com"
+          },
+          {
             "count": 10,
             "name": "YUNA0222",
             "email": "89885846+yuna0222@users.noreply.github.com"
@@ -2285,54 +2282,49 @@
             "count": 6,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
-          },
-          {
-            "count": 3,
-            "name": "skarndaudwls1",
-            "email": "skarndaudwls@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "cbf10d7",
+          "hash": "5fd9a97",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-10-14T11:05:22+09:00",
-          "subject": "Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
+          "date": "2026-10-14T13:19:55+09:00",
+          "subject": "Merge remote-tracking branch 'origin/develop' into develop"
         },
-        "summary": "총 1122개 커밋, 상위 계정: YUNA0222(1400), yuna0222(345), gosky(18), 최근: Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
+        "summary": "총 1141개 커밋, 상위 계정: YUNA0222(1400), yuna0222(345), gosky(18), 최근: Merge remote-tracking branch 'origin/develop' into develop"
       },
       "recentFiles": [
         {
-          "path": "src/components/chatbot/ChatbotContent.tsx",
-          "modifiedAt": "2026-10-14T02:05:22.949Z"
-        },
-        {
-          "path": "src/service/api/chat.ts",
-          "modifiedAt": "2026-10-14T02:05:22.949Z"
-        },
-        {
-          "path": "src/service/api/chatPolicy.test.ts",
-          "modifiedAt": "2026-10-14T02:05:22.949Z"
-        },
-        {
-          "path": "src/service/api/chatPolicy.ts",
-          "modifiedAt": "2026-10-14T02:05:22.949Z"
-        },
-        {
-          "path": "package.json",
-          "modifiedAt": "2026-10-14T02:01:13.054Z"
+          "path": "docs/(2026-10-14) audit-ward-camera-simplify.md",
+          "modifiedAt": "2026-10-14T04:19:55.907Z"
         },
         {
           "path": "src/app/(ward)/ward/camera/_components/CameraRegisterModal.tsx",
-          "modifiedAt": "2026-10-14T02:01:13.054Z"
+          "modifiedAt": "2026-10-14T04:19:55.907Z"
+        },
+        {
+          "path": "src/app/(ward)/ward/camera/_components/cameraAction.test.ts",
+          "modifiedAt": "2026-10-14T04:15:56.277Z"
+        },
+        {
+          "path": "src/app/(ward)/ward/camera/_components/cameraAction.ts",
+          "modifiedAt": "2026-10-14T04:15:56.277Z"
+        },
+        {
+          "path": "src/app/(ward)/ward/camera/_components/CameraRegisterModal.module.css",
+          "modifiedAt": "2026-10-14T04:15:56.277Z"
         },
         {
           "path": "src/app/(ward)/ward/camera/_components/WardCameraContent.tsx",
-          "modifiedAt": "2026-10-14T02:01:13.054Z"
+          "modifiedAt": "2026-10-14T04:15:56.277Z"
         },
         {
-          "path": "src/app/api/streams/[...path]/route.ts",
-          "modifiedAt": "2026-10-14T02:01:13.054Z"
+          "path": "src/app/(ward)/ward/camera/_components/WardCameraList.module.css",
+          "modifiedAt": "2026-10-14T04:15:56.277Z"
+        },
+        {
+          "path": "src/app/(ward)/ward/camera/_components/WardCameraList.tsx",
+          "modifiedAt": "2026-10-14T04:15:56.277Z"
         }
       ],
       "summary": [
@@ -2340,7 +2332,7 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1122",
+        "Git 커밋 수: 1141",
         "Git 상위 계정: YUNA0222(1400), yuna0222(345), gosky(18)"
       ]
     },
