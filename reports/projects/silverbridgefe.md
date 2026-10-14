@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-14 14:53:01 KST
+- 점검 시각: 2026-10-14 15:23:06 KST
 
 ## 추정 기술 스택
 
@@ -63,7 +63,7 @@
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 345
   - gosky <gosky@gosky.kr>: 18
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 15
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 16
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
 - 최근 커밋: 72ad371 / gosky <gosky@gosky.kr> / Merge remote-tracking branch 'origin/develop' into develop

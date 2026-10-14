@@ -1,6 +1,6 @@
 # 실행 상태
 
-- 스캔 시각: 2026-10-14 14:53:03 KST
+- 스캔 시각: 2026-10-14 15:23:08 KST
 
 | 프로젝트 | 분류 | 실행 상태 | PM2 | Docker | 포트 |
 | --- | --- | --- | --- | --- | --- |
@@ -10,8 +10,8 @@
 | ChatSilverBridgeTest | 프론트엔드 | 실행 중 | 확인 불가 | chatsilverbridgetest-web-1 | 8010 |
 | docs | 기타 | 확인 불가 | 확인 불가 | 확인 불가 | 확인 불가 |
 | project-check | 백엔드 | 실행 중 | project-check | 확인 불가 | 1000, 1024, 1234, 1280, 1400, 1433, 1500, 1521, 2026, 2700, 3306, 5432, 6379, 8080, 8456, 26214, 27017 |
-| SilverBridgeAi | AI 서버 | 실행 중 | 확인 불가 | silverbridge-ai-server | 1000, 1234, 1280, 1500, 2026, 2700, 8080, 8456 |
-| SilverBridgeAiServer | AI 서버 | 실행 중 | 확인 불가 | silverbridge-ai-server | 1000, 1006, 1008, 1017, 1024, 1027, 1030, 1042, 1048, 1052, 1053, 1054, 1055, 1056, 2000, 5432, 6012, 6015, 6017, 6019, 57119, 59230, 60519, 60786, 62737, 62971, 64256, 64782, 65304, 65525 |
+| SilverBridgeAi | AI 서버 | 실행 중 | 확인 불가 | elastic_dhawan, wspoc-ai-gosky, silverbridge-ai-server | 1000, 1234, 1280, 1500, 2026, 2700, 8080, 8456 |
+| SilverBridgeAiServer | AI 서버 | 실행 중 | 확인 불가 | elastic_dhawan, wspoc-ai-gosky, silverbridge-ai-server | 1000, 1004, 1006, 1008, 1017, 1024, 1027, 1030, 1042, 1048, 1052, 1053, 1054, 1055, 1056, 2000, 5432, 6012, 6015, 6017, 6019, 11090, 57119, 59230, 60519, 62737, 62971, 64256, 64782, 65304, 65525 |
 | SilverBridgeBe | 백엔드 | 실행 중 | 확인 불가 | 확인 불가 | 1024, 1536, 2000, 3000, 5173, 5432, 6379, 6510, 6511, 6513, 6514, 8080, 10000, 10485, 18000, 60480 |
 | SilverBridgeFe | 프론트엔드 | 실행 중 | 확인 불가 | 확인 불가 | 1900, 3000, 4000, 6000, 6510, 8000, 60836 |
 | SilverBridgeJH | 백엔드 | 정지 | 확인 불가 | 확인 불가 | 확인 불가 |
@@ -33,8 +33,8 @@
 - ChatSilverBridgeTest: 실행 중 / PM2 없음 / Docker 1개 / 포트 확인 불가
 - docs: 정지 또는 확인 불가
 - project-check: 실행 중 / PM2 1개 / Docker 없음 / 포트 1433, 3306, 5432, 6379
-- SilverBridgeAi: 실행 중 / PM2 없음 / Docker 1개 / 포트 확인 불가
-- SilverBridgeAiServer: 실행 중 / PM2 없음 / Docker 1개 / 포트 5432, 6012, 6015, 6017, 6019
+- SilverBridgeAi: 실행 중 / PM2 없음 / Docker 3개 / 포트 확인 불가
+- SilverBridgeAiServer: 실행 중 / PM2 없음 / Docker 3개 / 포트 5432, 6012, 6015, 6017, 6019
 - SilverBridgeBe: 실행 중 / PM2 없음 / Docker 없음 / 포트 5432, 6379, 6510, 6511, 6513, 6514
 - SilverBridgeFe: 실행 중 / PM2 없음 / Docker 없음 / 포트 6000, 6510
 - SilverBridgeJH: 정지 또는 확인 불가
