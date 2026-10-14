@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-14 15:23:06 KST
+- 점검 시각: 2026-10-14 15:53:12 KST
 
 ## 추정 기술 스택
 
@@ -59,7 +59,7 @@
 
 - 상태: 실행 중
 - 관련 포트: 1000, 1004, 1006, 1008, 1017, 1024, 1027, 1030, 1042, 1048, 1052, 1053, 1054, 1055, 1056, 2000, 5432, 6012, 6015, 6017, 6019, 11090, 57119, 59230, 60519, 62737, 62971, 64256, 64782, 65304, 65525
-- 관련 Docker 컨테이너: elastic_dhawan, wspoc-ai-gosky, silverbridge-ai-server
+- 관련 Docker 컨테이너: wspoc-ai-gosky, silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
