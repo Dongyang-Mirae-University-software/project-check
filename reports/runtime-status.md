@@ -1,10 +1,10 @@
 # 실행 상태
 
-- 스캔 시각: 2026-10-15 20:58:36 KST
+- 스캔 시각: 2026-10-15 21:28:41 KST
 
 | 프로젝트 | 분류 | 실행 상태 | PM2 | Docker | 포트 |
 | --- | --- | --- | --- | --- | --- |
-| AiSilverBridgeSky | AI 서버 | 정지 | 확인 불가 | 확인 불가 | 1280, 3099, 4306, 4747, 8000, 14122 |
+| AiSilverBridgeSky | AI 서버 | 실행 중 | 확인 불가 | 확인 불가 | 1280, 3099, 4306, 4747, 8000, 14122 |
 | CharacterAi | AI 서버 | 정지 | 확인 불가 | 확인 불가 | 확인 불가 |
 | ChatSilverBridge | AI 서버 | 실행 중 | 확인 불가 | chatsilverbridge-api-1, chatsilverbridge-mysql-1, chatsilverbridgetest-web-1 | 8010, 8090 |
 | ChatSilverBridgeTest | 프론트엔드 | 실행 중 | 확인 불가 | chatsilverbridgetest-web-1 | 8010 |
@@ -27,7 +27,7 @@
 
 ## 요약
 
-- AiSilverBridgeSky: 정지 또는 확인 불가
+- AiSilverBridgeSky: 실행 중 / PM2 없음 / Docker 없음 / 포트 8000
 - CharacterAi: 정지 또는 확인 불가
 - ChatSilverBridge: 실행 중 / PM2 없음 / Docker 3개 / 포트 확인 불가
 - ChatSilverBridgeTest: 실행 중 / PM2 없음 / Docker 1개 / 포트 확인 불가
@@ -36,10 +36,10 @@
 - SilverBridgeAi: 실행 중 / PM2 없음 / Docker 1개 / 포트 확인 불가
 - SilverBridgeAiServer: 실행 중 / PM2 없음 / Docker 1개 / 포트 5432, 6012, 6015, 6017, 6019
 - SilverBridgeBe: 실행 중 / PM2 없음 / Docker 없음 / 포트 5432, 6379, 6510, 6511, 6513, 6514
-- SilverBridgeFe: 실행 중 / PM2 없음 / Docker 없음 / 포트 6000, 6510
+- SilverBridgeFe: 실행 중 / PM2 없음 / Docker 없음 / 포트 6000, 6510, 8000
 - SilverBridgeJH: 정지 또는 확인 불가
 - SilverBridgeReservation: 실행 중 / PM2 없음 / Docker 1개 / 포트 6015, 6017, 6018
-- SilverBridgeSky: 실행 중 / PM2 1개 / Docker 없음 / 포트 5432, 6379
+- SilverBridgeSky: 실행 중 / PM2 1개 / Docker 없음 / 포트 5432, 6379, 8000
 - SilverBridgeSSOBe: 실행 중 / PM2 없음 / Docker 없음 / 포트 3306, 6379
 - SilverBridgeStreamTestFe: 실행 중 / PM2 없음 / Docker 없음 / 포트 6018
 - TestSilverBridge: 정지 또는 확인 불가

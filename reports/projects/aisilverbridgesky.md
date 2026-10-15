@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/AiSilverBridgeSky`
 - 분류: AI 서버
-- 점검 시각: 2026-10-15 20:58:33 KST
+- 점검 시각: 2026-10-15 21:28:38 KST
 
 ## 추정 기술 스택
 
@@ -53,7 +53,7 @@
 
 ## 실행 상태
 
-- 상태: 정지
+- 상태: 실행 중
 - 관련 포트: 1280, 3099, 4306, 4747, 8000, 14122
 - 관련 Docker 컨테이너: 확인 불가
 - 관련 PM2 프로세스: 확인 불가
@@ -83,6 +83,6 @@
 - 분류: AI 서버
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, fastapi, Frontend, Backend, AI
 - DB 사용 흔적 없음
-- 실행 상태: 정지
+- 실행 상태: 실행 중
 - Git 커밋 수: 2
 - Git 상위 계정: gosky(8), gosky(1)

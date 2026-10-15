@@ -1,10 +1,10 @@
 # 데이터베이스 상태
 
-- 스캔 시각: 2026-10-15 20:58:36 KST
+- 스캔 시각: 2026-10-15 21:28:41 KST
 
 | 프로젝트 | DB 사용 여부 | 추정 DB | 실행 상태 | 관련 포트 | 관련 컨테이너 |
 | --- | --- | --- | --- | --- | --- |
-| AiSilverBridgeSky | 아니오 | 확인 불가 | 정지 | 1280, 3099, 4306, 4747, 8000, 14122 | 확인 불가 |
+| AiSilverBridgeSky | 아니오 | 확인 불가 | 실행 중 | 1280, 3099, 4306, 4747, 8000, 14122 | 확인 불가 |
 | CharacterAi | 아니오 | 확인 불가 | 정지 | 확인 불가 | 확인 불가 |
 | ChatSilverBridge | 아니오 | 확인 불가 | 실행 중 | 8010, 8090 | chatsilverbridge-api-1, chatsilverbridge-mysql-1, chatsilverbridgetest-web-1 |
 | ChatSilverBridgeTest | 아니오 | 확인 불가 | 실행 중 | 8010 | chatsilverbridgetest-web-1 |

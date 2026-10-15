@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-15T11:58:32.573Z",
-  "generatedAtKst": "2026-10-15 20:58:32 KST",
+  "generatedAt": "2026-10-15T12:28:38.110Z",
+  "generatedAtKst": "2026-10-15 21:28:38 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -10,8 +10,8 @@
     "ai": 6,
     "db": 8,
     "gitRepos": 16,
-    "running": 14,
-    "stopped": 6
+    "running": 15,
+    "stopped": 5
   },
   "gitAuthors": [
     {
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7555
+          "count": 7556
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7592
+      "count": 7593
     },
     {
       "name": "YUNA0222",
@@ -222,11 +222,13 @@
         "summary": "DB 사용 흔적 없음"
       },
       "runtime": {
-        "status": "정지",
-        "running": false,
+        "status": "실행 중",
+        "running": true,
         "pm2": [],
         "docker": [],
-        "ports": [],
+        "ports": [
+          8000
+        ],
         "allCandidatePorts": [
           1280,
           3099,
@@ -236,7 +238,10 @@
           14122
         ],
         "summary": [
-          "정지 또는 확인 불가"
+          "실행 중",
+          "PM2 없음",
+          "Docker 없음",
+          "포트 8000"
         ]
       },
       "git": {
@@ -302,7 +307,7 @@
         "분류: AI 서버",
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, fastapi, Frontend, Backend, AI",
         "DB 사용 흔적 없음",
-        "실행 상태: 정지",
+        "실행 상태: 실행 중",
         "Git 커밋 수: 2",
         "Git 상위 계정: gosky(8), gosky(1)"
       ]
@@ -1271,22 +1276,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7418,
+        "commitCount": 7419,
         "authors": [
           {
-            "count": 7418,
+            "count": 7419,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "f6ebceccd",
+          "hash": "38e62cd9d",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-15T20:28:30+09:00",
+          "date": "2026-10-15T20:58:36+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7418개 커밋, 상위 계정: gosky(7418), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7419개 커밋, 상위 계정: gosky(7419), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1327,8 +1332,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7418",
-        "Git 상위 계정: gosky(7418)"
+        "Git 커밋 수: 7419",
+        "Git 상위 계정: gosky(7419)"
       ]
     },
     {
@@ -2264,7 +2269,8 @@
         "docker": [],
         "ports": [
           6000,
-          6510
+          6510,
+          8000
         ],
         "allCandidatePorts": [
           1900,
@@ -2279,7 +2285,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 6000, 6510"
+          "포트 6000, 6510, 8000"
         ]
       },
       "git": {
@@ -2947,7 +2953,8 @@
         "docker": [],
         "ports": [
           5432,
-          6379
+          6379,
+          8000
         ],
         "allCandidatePorts": [
           3000,
@@ -2961,7 +2968,7 @@
           "실행 중",
           "PM2 1개",
           "Docker 없음",
-          "포트 5432, 6379"
+          "포트 5432, 6379, 8000"
         ]
       },
       "git": {
