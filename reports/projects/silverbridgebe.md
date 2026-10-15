@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-10-15 14:27:23 KST
+- 점검 시각: 2026-10-15 14:57:28 KST
 
 ## 추정 기술 스택
 
@@ -59,7 +59,7 @@
 - 브랜치: dev
 - 총 커밋 수: 1057
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 887
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 888
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
 - 최근 커밋: b99a74e / namgung <skarndaudwls@gmail.com> / Merge pull request #352 from Dongyang-Mirae-University-software/fix/live-status-trailing-send
@@ -82,4 +82,4 @@
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
 - Git 커밋 수: 1057
-- Git 상위 계정: skarndaudwls1(887), skarndaudwls1(65), gosky(4)
+- Git 상위 계정: skarndaudwls1(888), skarndaudwls1(65), gosky(4)

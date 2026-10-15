@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-15T05:27:21.200Z",
-  "generatedAtKst": "2026-10-15 14:27:21 KST",
+  "generatedAt": "2026-10-15T05:57:26.559Z",
+  "generatedAtKst": "2026-10-15 14:57:26 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7542
+          "count": 7543
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7579
+      "count": 7580
     },
     {
       "name": "YUNA0222",
@@ -51,14 +51,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 1056
+          "count": 1057
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 1145
+      "count": 1146
     },
     {
       "name": "Jaehe-he",
@@ -621,19 +621,19 @@
           {
             "name": "chatsilverbridge-api-1",
             "image": "chatsilverbridge-api",
-            "status": "Up 12 days",
+            "status": "Up 13 days",
             "ports": "0.0.0.0:6012->6012/tcp, [::]:6012->6012/tcp"
           },
           {
             "name": "chatsilverbridge-mysql-1",
             "image": "mysql:8.0",
-            "status": "Up 12 days (healthy)",
+            "status": "Up 13 days (healthy)",
             "ports": "33060/tcp, 0.0.0.0:3307->3306/tcp, [::]:3307->3306/tcp"
           },
           {
             "name": "chatsilverbridgetest-web-1",
             "image": "chatsilverbridgetest-web",
-            "status": "Up 12 days",
+            "status": "Up 13 days",
             "ports": "0.0.0.0:6516->6516/tcp, [::]:6516->6516/tcp"
           }
         ],
@@ -833,7 +833,7 @@
           {
             "name": "chatsilverbridgetest-web-1",
             "image": "chatsilverbridgetest-web",
-            "status": "Up 12 days",
+            "status": "Up 13 days",
             "ports": "0.0.0.0:6516->6516/tcp, [::]:6516->6516/tcp"
           }
         ],
@@ -1270,22 +1270,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7405,
+        "commitCount": 7406,
         "authors": [
           {
-            "count": 7405,
+            "count": 7406,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "cda866c23",
+          "hash": "4ff040377",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-15T13:57:19+09:00",
+          "date": "2026-10-15T14:27:24+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7405개 커밋, 상위 계정: gosky(7405), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7406개 커밋, 상위 계정: gosky(7406), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1326,8 +1326,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7405",
-        "Git 상위 계정: gosky(7405)"
+        "Git 커밋 수: 7406",
+        "Git 상위 계정: gosky(7406)"
       ]
     },
     {
@@ -1470,7 +1470,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up About an hour",
+            "status": "Up 2 hours",
             "ports": ""
           }
         ],
@@ -1710,7 +1710,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up About an hour",
+            "status": "Up 2 hours",
             "ports": ""
           }
         ],
@@ -2055,7 +2055,7 @@
         "commitCount": 1057,
         "authors": [
           {
-            "count": 887,
+            "count": 888,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2077,7 +2077,7 @@
           "date": "2026-10-15T11:17:13+09:00",
           "subject": "Merge pull request #352 from Dongyang-Mirae-University-software/fix/live-status-trailing-send"
         },
-        "summary": "총 1057개 커밋, 상위 계정: skarndaudwls1(887), skarndaudwls1(65), gosky(4), 최근: Merge pull request #352 from Dongyang-Mirae-University-software/fix/live-status-trailing-send"
+        "summary": "총 1057개 커밋, 상위 계정: skarndaudwls1(888), skarndaudwls1(65), gosky(4), 최근: Merge pull request #352 from Dongyang-Mirae-University-software/fix/live-status-trailing-send"
       },
       "recentFiles": [
         {
@@ -2119,7 +2119,7 @@
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
         "Git 커밋 수: 1057",
-        "Git 상위 계정: skarndaudwls1(887), skarndaudwls1(65), gosky(4)"
+        "Git 상위 계정: skarndaudwls1(888), skarndaudwls1(65), gosky(4)"
       ]
     },
     {
@@ -2707,7 +2707,7 @@
           {
             "name": "silverbridgereservation-reservation-api-1",
             "image": "silverbridgereservation-reservation-api",
-            "status": "Up 12 days",
+            "status": "Up 13 days",
             "ports": "0.0.0.0:6015->6015/tcp, [::]:6015->6015/tcp"
           }
         ],
@@ -3751,13 +3751,13 @@
           {
             "name": "whitehousebe-api-1",
             "image": "whitehousebe-api",
-            "status": "Up 12 days",
+            "status": "Up 13 days",
             "ports": "0.0.0.0:6701->6701/tcp, [::]:6701->6701/tcp"
           },
           {
             "name": "whitehousebe-db-1",
             "image": "postgres:16",
-            "status": "Up 12 days (healthy)",
+            "status": "Up 13 days (healthy)",
             "ports": "0.0.0.0:6705->5432/tcp, [::]:6705->5432/tcp"
           }
         ],
@@ -4211,7 +4211,7 @@
           {
             "name": "whitehousefe-web",
             "image": "whitehousefe-web",
-            "status": "Up 12 days",
+            "status": "Up 13 days",
             "ports": "0.0.0.0:6700->3000/tcp, [::]:6700->3000/tcp"
           }
         ],
