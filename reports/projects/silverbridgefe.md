@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-15 10:56:45 KST
+- 점검 시각: 2026-10-15 11:26:50 KST
 
 ## 추정 기술 스택
 
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1171
+- 총 커밋 수: 1177
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 345
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 25
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 27
   - gosky <gosky@gosky.kr>: 18
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 93a01e9 / gosky <gosky@gosky.kr> / Merge remote-tracking branch 'origin/develop' into develop
+- 최근 커밋: a50ec8b / gosky <gosky@gosky.kr> / Merge remote-tracking branch 'origin/develop' into develop
 
 ## 최근 수정 파일
 
-- src/app/(ward)/ward/camera/_components/cameraAction.test.ts (2026-10-15 10:53:30 KST)
-- src/app/(ward)/ward/camera/_components/cameraAction.ts (2026-10-15 10:53:30 KST)
-- src/app/(ward)/ward/camera/_components/CameraSceneModal.module.css (2026-10-15 10:53:30 KST)
-- src/app/(ward)/ward/camera/_components/CameraSceneModal.tsx (2026-10-15 10:53:30 KST)
-- src/app/(ward)/ward/camera/_components/WardCameraList.tsx (2026-10-15 10:53:30 KST)
-- src/service/api/ward/camera.ts (2026-10-15 10:53:30 KST)
-- src/service/interface/ward/camera.ts (2026-10-15 10:53:30 KST)
-- src/app/fonts/PretendardVariable.woff2 (2026-10-15 10:43:19 KST)
+- src/app/(ward)/ward/camera/_components/cameraAction.test.ts (2026-10-15 11:13:38 KST)
+- src/app/(ward)/ward/camera/_components/cameraAction.ts (2026-10-15 11:13:38 KST)
+- src/app/(ward)/ward/camera/_components/CameraRegisterModal.tsx (2026-10-15 11:13:38 KST)
+- src/app/(ward)/ward/camera/_components/WardCameraContent.tsx (2026-10-15 11:13:38 KST)
+- src/app/(ward)/ward/camera/_components/WardCameraList.tsx (2026-10-15 11:13:38 KST)
+- src/service/query/guardian/camera.ts (2026-10-15 11:13:38 KST)
+- src/app/(guardian)/guardian/detection/_components/LiveCameraModal.module.css (2026-10-15 10:58:46 KST)
+- src/app/(guardian)/guardian/detection/_components/LiveCameraModal.tsx (2026-10-15 10:58:46 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1171
-- Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(25)
+- Git 커밋 수: 1177
+- Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(27)
