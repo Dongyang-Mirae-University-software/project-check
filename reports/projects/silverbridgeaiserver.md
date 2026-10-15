@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-15 12:27:01 KST
+- 점검 시각: 2026-10-15 12:57:07 KST
 
 ## 추정 기술 스택
 
@@ -75,6 +75,7 @@
 
 ## 최근 수정 파일
 
+- .env (2026-10-15 12:50:47 KST)
 - data/collect/20261015/fire/alert/111204528_ward_gsY4nXqjxJWfZcO2_0.56.jpg (2026-10-15 11:12:04 KST)
 - data/collect/20261015/fire/alert/111204528_ward_gsY4nXqjxJWfZcO2_0.56.json (2026-10-15 11:12:04 KST)
 - data/collect/20261015/fire/near/111156021_ward_gsY4nXqjxJWfZcO2_0.37.jpg (2026-10-15 11:11:56 KST)
@@ -82,7 +83,6 @@
 - data/collect/20261015/fire/near/111145144_ward_gsY4nXqjxJWfZcO2_0.39.jpg (2026-10-15 11:11:45 KST)
 - data/collect/20261015/fire/near/111145144_ward_gsY4nXqjxJWfZcO2_0.39.json (2026-10-15 11:11:45 KST)
 - data/collect/20261015/fire/alert/111139172_ward_gsY4nXqjxJWfZcO2_0.62.jpg (2026-10-15 11:11:39 KST)
-- data/collect/20261015/fire/alert/111139172_ward_gsY4nXqjxJWfZcO2_0.62.json (2026-10-15 11:11:39 KST)
 
 ## 점검 결과 요약
 
