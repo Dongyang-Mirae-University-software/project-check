@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-15 10:26:39 KST
+- 점검 시각: 2026-10-15 10:56:45 KST
 
 ## 추정 기술 스택
 
@@ -44,7 +44,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2493
+- 파일 개수: 2495
 - 디렉토리 개수: 99
 - 주요 폴더: app, data, docs, models, tests, tools
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, models/new/backup, tests
@@ -75,14 +75,14 @@
 
 ## 최근 수정 파일
 
+- data/collect/20261015/fire/near/104729860_ward_gsY4nXqjxJWfZcO2_0.37.jpg (2026-10-15 10:47:29 KST)
+- data/collect/20261015/fire/near/104729860_ward_gsY4nXqjxJWfZcO2_0.37.json (2026-10-15 10:47:29 KST)
 - tests/test_training_sample_collector.py (2026-10-15 10:11:53 KST)
 - tools/measure_live_budget.py (2026-10-15 10:11:53 KST)
 - app/services/fire_smoke_detection_service.py (2026-10-15 10:11:53 KST)
 - app/services/frame_decode.py (2026-10-15 10:11:53 KST)
 - app/services/frame_quality.py (2026-10-15 10:11:53 KST)
 - app/services/stream_session_service.py (2026-10-15 10:11:53 KST)
-- app/services/yolo_class_detector.py (2026-10-15 10:11:53 KST)
-- tests/test_fire_hold.py (2026-10-15 10:11:53 KST)
 
 ## 점검 결과 요약
 

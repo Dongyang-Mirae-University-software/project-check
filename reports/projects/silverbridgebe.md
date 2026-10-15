@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-10-15 10:26:39 KST
+- 점검 시각: 2026-10-15 10:56:45 KST
 
 ## 추정 기술 스택
 
@@ -57,15 +57,16 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1052
+- 총 커밋 수: 1054
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 884
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 885
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
-- 최근 커밋: b21f8ba / namgung <skarndaudwls@gmail.com> / Merge pull request #350 from Dongyang-Mirae-University-software/fix/camera-stream-same-session-replace
+- 최근 커밋: d84ff56 / namgung <skarndaudwls@gmail.com> / Merge pull request #351 from Dongyang-Mirae-University-software/feature/ward-camera-latest-frame
 
 ## 최근 수정 파일
 
+- CLAUDE.md (2026-10-15 10:50:42 KST)
 - docs/(2026-10-13) design-video-transport-be.md (2026-10-15 09:48:29 KST)
 - docs/(2026-10-14) design-video-transport-be-ticket.md (2026-10-15 09:48:29 KST)
 - docs/(2026-10-14) result-video-transport-h264-poc.md (2026-10-15 09:48:29 KST)
@@ -73,7 +74,6 @@
 - docs/audit-index.md (2026-10-14 13:42:31 KST)
 - docs/(2026-10-09) audit-chat-log-purge-on-withdraw.md (2026-10-14 13:42:31 KST)
 - docs/(2026-10-14) audit-camera-total-limit.md (2026-10-14 10:56:47 KST)
-- docs/(2026-10-14) feature-camera-total-limit.md (2026-10-14 10:56:47 KST)
 
 ## 점검 결과 요약
 
@@ -81,5 +81,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1052
-- Git 상위 계정: skarndaudwls1(884), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1054
+- Git 상위 계정: skarndaudwls1(885), skarndaudwls1(65), gosky(4)
