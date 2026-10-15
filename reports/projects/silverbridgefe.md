@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-15 17:58:01 KST
+- 점검 시각: 2026-10-15 18:28:07 KST
 
 ## 추정 기술 스택
 
@@ -70,14 +70,14 @@
 
 ## 최근 수정 파일
 
+- tsconfig.tsbuildinfo (2026-10-15 18:00:06 KST)
+- src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.tsx (2026-10-15 18:00:03 KST)
 - src/app/(ward)/ward/_components/WardLayout.tsx (2026-10-15 13:25:47 KST)
 - src/app/(ward)/ward/camera/_components/WardCameraContent.tsx (2026-10-15 13:25:47 KST)
 - src/app/(ward)/ward/camera/_components/WardCameraStreamProvider.tsx (2026-10-15 13:25:47 KST)
 - src/app/(ward)/ward/camera/_components/CameraRegisterModal.tsx (2026-10-15 13:17:47 KST)
 - src/app/(guardian)/guardian/detection/_components/LiveCameraModal.tsx (2026-10-15 13:17:47 KST)
 - src/app/(guardian)/guardian/detection/_components/monitorUtils.test.ts (2026-10-15 13:17:47 KST)
-- src/app/(guardian)/guardian/detection/_components/monitorUtils.ts (2026-10-15 13:17:47 KST)
-- src/app/(guardian)/guardian/detection/_components/AnomalyClipModal.module.css (2026-10-15 13:10:23 KST)
 
 ## 점검 결과 요약
 

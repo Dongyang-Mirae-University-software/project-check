@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/docs`
 - 분류: 기타
-- 점검 시각: 2026-10-15 17:57:59 KST
+- 점검 시각: 2026-10-15 18:28:05 KST
 
 ## 추정 기술 스택
 
@@ -33,9 +33,9 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 10
-- 디렉토리 개수: 1
-- 주요 폴더: contest
+- 파일 개수: 15
+- 디렉토리 개수: 3
+- 주요 폴더: contest, dev-server
 - 주요 경로: 확인 불가
 
 ## DB 사용 여부
@@ -56,14 +56,14 @@
 
 ## 최근 수정 파일
 
+- dev-server/env-vars.md (2026-10-15 18:02:53 KST)
+- dev-server/README.md (2026-10-15 18:02:53 KST)
+- dev-server/nginx/ai.dmu.gosky.kr (2026-10-15 18:01:10 KST)
+- dev-server/nginx/api.devdmu.gosky.kr (2026-10-15 18:01:10 KST)
+- dev-server/nginx/reservation.dmu.gosky.kr (2026-10-15 18:01:10 KST)
 - contest/공모전_제출문.txt (2026-10-13 19:41:41 KST)
 - contest/5_예약시나리오_결과표.png (2026-10-13 19:36:02 KST)
 - contest/3_AI챗봇_증상상담_병원예약.png (2026-10-13 19:36:02 KST)
-- contest/4_AI챗봇_병원검색.png (2026-10-13 19:36:02 KST)
-- contest/1_보호자대시보드.png (2026-10-13 19:36:02 KST)
-- contest/2_어르신_긴급SOS.png (2026-10-13 19:36:02 KST)
-- brochure.html (2026-09-29 20:02:16 KST)
-- brochure-photo.jpg (2026-09-29 20:02:07 KST)
 
 ## 점검 결과 요약
 

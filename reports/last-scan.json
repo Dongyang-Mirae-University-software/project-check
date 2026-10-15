@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-15T08:57:59.534Z",
-  "generatedAtKst": "2026-10-15 17:57:59 KST",
+  "generatedAt": "2026-10-15T09:28:05.127Z",
+  "generatedAtKst": "2026-10-15 18:28:05 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7549
+          "count": 7550
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7586
+      "count": 7587
     },
     {
       "name": "YUNA0222",
@@ -1001,10 +1001,11 @@
         }
       ],
       "structure": {
-        "fileCount": 10,
-        "dirCount": 1,
+        "fileCount": 15,
+        "dirCount": 3,
         "mainFolders": [
-          "contest"
+          "contest",
+          "dev-server"
         ],
         "majorPaths": []
       },
@@ -1036,6 +1037,26 @@
       },
       "recentFiles": [
         {
+          "path": "dev-server/env-vars.md",
+          "modifiedAt": "2026-10-15T09:02:53.900Z"
+        },
+        {
+          "path": "dev-server/README.md",
+          "modifiedAt": "2026-10-15T09:02:53.900Z"
+        },
+        {
+          "path": "dev-server/nginx/ai.dmu.gosky.kr",
+          "modifiedAt": "2026-10-15T09:01:10.257Z"
+        },
+        {
+          "path": "dev-server/nginx/api.devdmu.gosky.kr",
+          "modifiedAt": "2026-10-15T09:01:10.257Z"
+        },
+        {
+          "path": "dev-server/nginx/reservation.dmu.gosky.kr",
+          "modifiedAt": "2026-10-15T09:01:10.257Z"
+        },
+        {
           "path": "contest/공모전_제출문.txt",
           "modifiedAt": "2026-10-13T10:41:41.407Z"
         },
@@ -1046,26 +1067,6 @@
         {
           "path": "contest/3_AI챗봇_증상상담_병원예약.png",
           "modifiedAt": "2026-10-13T10:36:02.920Z"
-        },
-        {
-          "path": "contest/4_AI챗봇_병원검색.png",
-          "modifiedAt": "2026-10-13T10:36:02.920Z"
-        },
-        {
-          "path": "contest/1_보호자대시보드.png",
-          "modifiedAt": "2026-10-13T10:36:02.916Z"
-        },
-        {
-          "path": "contest/2_어르신_긴급SOS.png",
-          "modifiedAt": "2026-10-13T10:36:02.916Z"
-        },
-        {
-          "path": "brochure.html",
-          "modifiedAt": "2026-09-29T11:02:16.528Z"
-        },
-        {
-          "path": "brochure-photo.jpg",
-          "modifiedAt": "2026-09-29T11:02:07.437Z"
         }
       ],
       "summary": [
@@ -1270,22 +1271,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7412,
+        "commitCount": 7413,
         "authors": [
           {
-            "count": 7412,
+            "count": 7413,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "3ecdbba0b",
+          "hash": "f0b91208c",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-15T17:27:57+09:00",
+          "date": "2026-10-15T17:58:03+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7412개 커밋, 상위 계정: gosky(7412), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7413개 커밋, 상위 계정: gosky(7413), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1326,8 +1327,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7412",
-        "Git 상위 계정: gosky(7412)"
+        "Git 커밋 수: 7413",
+        "Git 상위 계정: gosky(7413)"
       ]
     },
     {
@@ -1656,7 +1657,7 @@
         }
       ],
       "structure": {
-        "fileCount": 2580,
+        "fileCount": 2582,
         "dirCount": 102,
         "mainFolders": [
           "app",
@@ -1779,7 +1780,6 @@
           14553,
           15271,
           15352,
-          17274,
           20754,
           41864,
           52252,
@@ -1831,36 +1831,36 @@
       },
       "recentFiles": [
         {
+          "path": "docs/chat-eval-set.md",
+          "modifiedAt": "2026-10-15T09:02:53.900Z"
+        },
+        {
+          "path": "app/prompts/medical_chat_prompts.py",
+          "modifiedAt": "2026-10-15T09:01:10.181Z"
+        },
+        {
+          "path": "app/services/chat_router_service.py",
+          "modifiedAt": "2026-10-15T09:01:10.181Z"
+        },
+        {
+          "path": "app/services/chat_service.py",
+          "modifiedAt": "2026-10-15T09:01:10.181Z"
+        },
+        {
+          "path": "app/services/medical_llm_service.py",
+          "modifiedAt": "2026-10-15T09:01:10.181Z"
+        },
+        {
+          "path": "tests/test_emergency_cases.py",
+          "modifiedAt": "2026-10-15T08:59:57.338Z"
+        },
+        {
           "path": "data/collect/20261015/fall/near/132211466_ward_oZmI5T5tCbB52zdG_0.38.jpg",
           "modifiedAt": "2026-10-15T04:22:11.466Z"
         },
         {
           "path": "data/collect/20261015/fall/near/132211466_ward_oZmI5T5tCbB52zdG_0.38.json",
           "modifiedAt": "2026-10-15T04:22:11.466Z"
-        },
-        {
-          "path": "data/collect/20261015/fire/alert/132205550_ward_oZmI5T5tCbB52zdG_0.55.jpg",
-          "modifiedAt": "2026-10-15T04:22:05.550Z"
-        },
-        {
-          "path": "data/collect/20261015/fire/alert/132205550_ward_oZmI5T5tCbB52zdG_0.55.json",
-          "modifiedAt": "2026-10-15T04:22:05.550Z"
-        },
-        {
-          "path": "data/collect/20261015/fire/alert/132155511_ward_oZmI5T5tCbB52zdG_0.59.jpg",
-          "modifiedAt": "2026-10-15T04:21:55.507Z"
-        },
-        {
-          "path": "data/collect/20261015/fire/alert/132155511_ward_oZmI5T5tCbB52zdG_0.59.json",
-          "modifiedAt": "2026-10-15T04:21:55.507Z"
-        },
-        {
-          "path": "data/collect/20261015/fire/alert/132145486_ward_oZmI5T5tCbB52zdG_0.60.jpg",
-          "modifiedAt": "2026-10-15T04:21:45.479Z"
-        },
-        {
-          "path": "data/collect/20261015/fire/alert/132145486_ward_oZmI5T5tCbB52zdG_0.60.json",
-          "modifiedAt": "2026-10-15T04:21:45.479Z"
         }
       ],
       "summary": [
@@ -2329,6 +2329,14 @@
       },
       "recentFiles": [
         {
+          "path": "tsconfig.tsbuildinfo",
+          "modifiedAt": "2026-10-15T09:00:06.534Z"
+        },
+        {
+          "path": "src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.tsx",
+          "modifiedAt": "2026-10-15T09:00:03.390Z"
+        },
+        {
           "path": "src/app/(ward)/ward/_components/WardLayout.tsx",
           "modifiedAt": "2026-10-15T04:25:47.667Z"
         },
@@ -2351,14 +2359,6 @@
         {
           "path": "src/app/(guardian)/guardian/detection/_components/monitorUtils.test.ts",
           "modifiedAt": "2026-10-15T04:17:47.866Z"
-        },
-        {
-          "path": "src/app/(guardian)/guardian/detection/_components/monitorUtils.ts",
-          "modifiedAt": "2026-10-15T04:17:47.866Z"
-        },
-        {
-          "path": "src/app/(guardian)/guardian/detection/_components/AnomalyClipModal.module.css",
-          "modifiedAt": "2026-10-15T04:10:23.708Z"
         }
       ],
       "summary": [

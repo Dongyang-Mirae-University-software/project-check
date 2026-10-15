@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-15 17:58:01 KST
+- 점검 시각: 2026-10-15 18:28:07 KST
 
 ## 추정 기술 스택
 
@@ -44,7 +44,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2580
+- 파일 개수: 2582
 - 디렉토리 개수: 102
 - 주요 폴더: app, data, docs, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, models/new/backup, tests
@@ -58,7 +58,7 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1000, 1008, 1019, 1024, 1105, 1135, 1160, 1244, 1257, 1268, 1273, 1280, 2000, 5432, 6012, 6015, 6017, 6019, 10051, 10067, 10102, 10359, 10602, 10636, 10868, 10949, 10992, 11877, 11910, 11971, 12025, 12313, 12470, 12671, 12818, 12830, 12845, 13131, 13188, 13212, 13214, 13266, 13328, 13387, 13743, 13763, 14010, 14306, 14334, 14380, 14514, 14520, 14522, 14523, 14553, 15271, 15352, 17274, 20754, 41864, 52252, 54458, 56024, 60126
+- 관련 포트: 1000, 1008, 1019, 1024, 1105, 1135, 1160, 1244, 1257, 1268, 1273, 1280, 2000, 5432, 6012, 6015, 6017, 6019, 10051, 10067, 10102, 10359, 10602, 10636, 10868, 10949, 10992, 11877, 11910, 11971, 12025, 12313, 12470, 12671, 12818, 12830, 12845, 13131, 13188, 13212, 13214, 13266, 13328, 13387, 13743, 13763, 14010, 14306, 14334, 14380, 14514, 14520, 14522, 14523, 14553, 15271, 15352, 20754, 41864, 52252, 54458, 56024, 60126
 - 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
@@ -75,14 +75,14 @@
 
 ## 최근 수정 파일
 
+- docs/chat-eval-set.md (2026-10-15 18:02:53 KST)
+- app/prompts/medical_chat_prompts.py (2026-10-15 18:01:10 KST)
+- app/services/chat_router_service.py (2026-10-15 18:01:10 KST)
+- app/services/chat_service.py (2026-10-15 18:01:10 KST)
+- app/services/medical_llm_service.py (2026-10-15 18:01:10 KST)
+- tests/test_emergency_cases.py (2026-10-15 17:59:57 KST)
 - data/collect/20261015/fall/near/132211466_ward_oZmI5T5tCbB52zdG_0.38.jpg (2026-10-15 13:22:11 KST)
 - data/collect/20261015/fall/near/132211466_ward_oZmI5T5tCbB52zdG_0.38.json (2026-10-15 13:22:11 KST)
-- data/collect/20261015/fire/alert/132205550_ward_oZmI5T5tCbB52zdG_0.55.jpg (2026-10-15 13:22:05 KST)
-- data/collect/20261015/fire/alert/132205550_ward_oZmI5T5tCbB52zdG_0.55.json (2026-10-15 13:22:05 KST)
-- data/collect/20261015/fire/alert/132155511_ward_oZmI5T5tCbB52zdG_0.59.jpg (2026-10-15 13:21:55 KST)
-- data/collect/20261015/fire/alert/132155511_ward_oZmI5T5tCbB52zdG_0.59.json (2026-10-15 13:21:55 KST)
-- data/collect/20261015/fire/alert/132145486_ward_oZmI5T5tCbB52zdG_0.60.jpg (2026-10-15 13:21:45 KST)
-- data/collect/20261015/fire/alert/132145486_ward_oZmI5T5tCbB52zdG_0.60.json (2026-10-15 13:21:45 KST)
 
 ## 점검 결과 요약
 
