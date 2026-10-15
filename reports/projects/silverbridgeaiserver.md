@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-15 12:57:07 KST
+- 점검 시각: 2026-10-15 13:27:12 KST
 
 ## 추정 기술 스택
 
@@ -44,9 +44,9 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2537
-- 디렉토리 개수: 103
-- 주요 폴더: app, data, docs, models, tests, tools
+- 파일 개수: 2580
+- 디렉토리 개수: 102
+- 주요 폴더: app, data, docs, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, models/new/backup, tests
 
 ## DB 사용 여부
@@ -58,31 +58,31 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1000, 1004, 1008, 1024, 1105, 1244, 1257, 1268, 1280, 2000, 5432, 6012, 6015, 6017, 6019, 10041, 10051, 10067, 10102, 10602, 10636, 10868, 10949, 10992, 11090, 11877, 11910, 12025, 12470, 12671, 12818, 12830, 13131, 13212, 13214, 13328, 15271, 15352, 17274, 20261, 20754, 28277, 43072, 44064, 49001, 51107, 52252, 52595, 54458, 56024, 56289, 58980, 59474, 60126
+- 관련 포트: 1000, 1008, 1019, 1024, 1105, 1135, 1160, 1244, 1257, 1268, 1273, 1280, 2000, 5432, 6012, 6015, 6017, 6019, 10051, 10067, 10102, 10359, 10602, 10636, 10868, 10949, 10992, 11877, 11910, 11971, 12025, 12313, 12470, 12671, 12818, 12830, 12845, 13131, 13188, 13212, 13214, 13266, 13328, 13387, 13743, 13763, 14010, 14306, 14334, 14380, 14514, 14520, 14522, 14523, 14553, 15271, 15352, 17274, 20754, 41864, 52252, 54458, 56024, 60126
 - 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 82
+- 총 커밋 수: 84
 - 계정별 커밋 수:
   - gosky <lovesky00317@gmail.com>: 37
   - gosky <gosky@gosky.kr>: 14
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 13
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 14
   - namgung <skarndaudwls@gmail.com>: 11
-- 최근 커밋: a71db90 / namgung <skarndaudwls@gmail.com> / Merge pull request #17 from Dongyang-Mirae-University-software/feature/live-decode-once
+- 최근 커밋: 95558ec / namgung <skarndaudwls@gmail.com> / Merge pull request #18 from Dongyang-Mirae-University-software/revert/live-decode-once
 
 ## 최근 수정 파일
 
-- .env (2026-10-15 12:50:47 KST)
-- data/collect/20261015/fire/alert/111204528_ward_gsY4nXqjxJWfZcO2_0.56.jpg (2026-10-15 11:12:04 KST)
-- data/collect/20261015/fire/alert/111204528_ward_gsY4nXqjxJWfZcO2_0.56.json (2026-10-15 11:12:04 KST)
-- data/collect/20261015/fire/near/111156021_ward_gsY4nXqjxJWfZcO2_0.37.jpg (2026-10-15 11:11:56 KST)
-- data/collect/20261015/fire/near/111156021_ward_gsY4nXqjxJWfZcO2_0.37.json (2026-10-15 11:11:56 KST)
-- data/collect/20261015/fire/near/111145144_ward_gsY4nXqjxJWfZcO2_0.39.jpg (2026-10-15 11:11:45 KST)
-- data/collect/20261015/fire/near/111145144_ward_gsY4nXqjxJWfZcO2_0.39.json (2026-10-15 11:11:45 KST)
-- data/collect/20261015/fire/alert/111139172_ward_gsY4nXqjxJWfZcO2_0.62.jpg (2026-10-15 11:11:39 KST)
+- data/collect/20261015/fall/near/132211466_ward_oZmI5T5tCbB52zdG_0.38.jpg (2026-10-15 13:22:11 KST)
+- data/collect/20261015/fall/near/132211466_ward_oZmI5T5tCbB52zdG_0.38.json (2026-10-15 13:22:11 KST)
+- data/collect/20261015/fire/alert/132205550_ward_oZmI5T5tCbB52zdG_0.55.jpg (2026-10-15 13:22:05 KST)
+- data/collect/20261015/fire/alert/132205550_ward_oZmI5T5tCbB52zdG_0.55.json (2026-10-15 13:22:05 KST)
+- data/collect/20261015/fire/alert/132155511_ward_oZmI5T5tCbB52zdG_0.59.jpg (2026-10-15 13:21:55 KST)
+- data/collect/20261015/fire/alert/132155511_ward_oZmI5T5tCbB52zdG_0.59.json (2026-10-15 13:21:55 KST)
+- data/collect/20261015/fire/alert/132145486_ward_oZmI5T5tCbB52zdG_0.60.jpg (2026-10-15 13:21:45 KST)
+- data/collect/20261015/fire/alert/132145486_ward_oZmI5T5tCbB52zdG_0.60.json (2026-10-15 13:21:45 KST)
 
 ## 점검 결과 요약
 
@@ -90,5 +90,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 82
-- Git 상위 계정: gosky(37), gosky(14), skarndaudwls1(13)
+- Git 커밋 수: 84
+- Git 상위 계정: gosky(37), gosky(14), skarndaudwls1(14)
