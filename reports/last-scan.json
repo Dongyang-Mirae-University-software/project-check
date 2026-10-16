@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-16T05:01:44.727Z",
-  "generatedAtKst": "2026-10-16 14:01:44 KST",
+  "generatedAt": "2026-10-16T05:31:50.420Z",
+  "generatedAtKst": "2026-10-16 14:31:50 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7589
+          "count": 7590
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7626
+      "count": 7627
     },
     {
       "name": "YUNA0222",
@@ -51,14 +51,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 1065
+          "count": 1067
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 1154
+      "count": 1156
     },
     {
       "name": "Jaehe-he",
@@ -626,19 +626,19 @@
           {
             "name": "chatsilverbridge-api-1",
             "image": "chatsilverbridge-api",
-            "status": "Up 13 days",
+            "status": "Up 2 weeks",
             "ports": "0.0.0.0:6012->6012/tcp, [::]:6012->6012/tcp"
           },
           {
             "name": "chatsilverbridge-mysql-1",
             "image": "mysql:8.0",
-            "status": "Up 13 days (healthy)",
+            "status": "Up 2 weeks (healthy)",
             "ports": "33060/tcp, 0.0.0.0:3307->3306/tcp, [::]:3307->3306/tcp"
           },
           {
             "name": "chatsilverbridgetest-web-1",
             "image": "chatsilverbridgetest-web",
-            "status": "Up 13 days",
+            "status": "Up 2 weeks",
             "ports": "0.0.0.0:6516->6516/tcp, [::]:6516->6516/tcp"
           }
         ],
@@ -838,7 +838,7 @@
           {
             "name": "chatsilverbridgetest-web-1",
             "image": "chatsilverbridgetest-web",
-            "status": "Up 13 days",
+            "status": "Up 2 weeks",
             "ports": "0.0.0.0:6516->6516/tcp, [::]:6516->6516/tcp"
           }
         ],
@@ -1276,22 +1276,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7452,
+        "commitCount": 7453,
         "authors": [
           {
-            "count": 7452,
+            "count": 7453,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "a645c2fdd",
+          "hash": "fdd89142e",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-16T13:31:43+09:00",
+          "date": "2026-10-16T14:01:48+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7452개 커밋, 상위 계정: gosky(7452), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7453개 커밋, 상위 계정: gosky(7453), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1332,8 +1332,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7452",
-        "Git 상위 계정: gosky(7452)"
+        "Git 커밋 수: 7453",
+        "Git 상위 계정: gosky(7453)"
       ]
     },
     {
@@ -1476,7 +1476,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 7 minutes",
+            "status": "Up About a minute",
             "ports": ""
           }
         ],
@@ -1662,8 +1662,8 @@
         }
       ],
       "structure": {
-        "fileCount": 2650,
-        "dirCount": 108,
+        "fileCount": 2683,
+        "dirCount": 110,
         "mainFolders": [
           "app",
           "data",
@@ -1716,7 +1716,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 7 minutes",
+            "status": "Up About a minute",
             "ports": ""
           }
         ],
@@ -1730,14 +1730,12 @@
         "allCandidatePorts": [
           1000,
           1008,
-          1019,
           1024,
-          1135,
           1160,
           1219,
           1222,
           1271,
-          1273,
+          1280,
           2000,
           5432,
           6012,
@@ -1756,35 +1754,23 @@
           12530,
           12707,
           13062,
-          13188,
           13255,
-          13266,
           13375,
-          13387,
           13494,
           13743,
-          13763,
           13847,
           13890,
           13900,
-          14010,
           14255,
           14306,
-          14334,
-          14380,
           14436,
-          14514,
-          14520,
-          14522,
-          14523,
-          14553,
           14568,
           14814,
           14824,
           15230,
           16177,
-          41864,
           56862,
+          59168,
           62927
         ],
         "summary": [
@@ -1831,36 +1817,36 @@
       },
       "recentFiles": [
         {
-          "path": "app/services/stream_session_service.py",
-          "modifiedAt": "2026-10-16T04:54:22.807Z"
+          "path": "data/collect/20261016/fire/near/143151121_ward_XMearkEqllaDvR81_0.41.jpg",
+          "modifiedAt": "2026-10-16T05:31:51.115Z"
         },
         {
-          "path": "tests/test_frame_quality.py",
-          "modifiedAt": "2026-10-16T04:54:22.807Z"
+          "path": "data/collect/20261016/fire/near/143151121_ward_XMearkEqllaDvR81_0.41.json",
+          "modifiedAt": "2026-10-16T05:31:51.115Z"
         },
         {
-          "path": "data/collect/20261016/fire/near/135232369_ward_XMearkEqllaDvR81_0.42.jpg",
-          "modifiedAt": "2026-10-16T04:52:32.365Z"
+          "path": "data/collect/20261016/fire/near/143139788_ward_XMearkEqllaDvR81_0.45.jpg",
+          "modifiedAt": "2026-10-16T05:31:39.783Z"
         },
         {
-          "path": "data/collect/20261016/fire/near/135232369_ward_XMearkEqllaDvR81_0.42.json",
-          "modifiedAt": "2026-10-16T04:52:32.365Z"
+          "path": "data/collect/20261016/fire/near/143139788_ward_XMearkEqllaDvR81_0.45.json",
+          "modifiedAt": "2026-10-16T05:31:39.783Z"
         },
         {
-          "path": "data/collect/20261016/fall/near/135229602_ward_XMearkEqllaDvR81_0.24.jpg",
-          "modifiedAt": "2026-10-16T04:52:29.601Z"
+          "path": "data/collect/20261016/fire/near/143126692_ward_XMearkEqllaDvR81_0.49.jpg",
+          "modifiedAt": "2026-10-16T05:31:26.687Z"
         },
         {
-          "path": "data/collect/20261016/fall/near/135229602_ward_XMearkEqllaDvR81_0.24.json",
-          "modifiedAt": "2026-10-16T04:52:29.601Z"
+          "path": "data/collect/20261016/fire/near/143126692_ward_XMearkEqllaDvR81_0.49.json",
+          "modifiedAt": "2026-10-16T05:31:26.687Z"
         },
         {
-          "path": "data/collect/20261016/fire/near/134250588_ward_XMearkEqllaDvR81_0.47.jpg",
-          "modifiedAt": "2026-10-16T04:42:50.586Z"
+          "path": "data/collect/20261016/fire/near/143113135_ward_XMearkEqllaDvR81_0.38.jpg",
+          "modifiedAt": "2026-10-16T05:31:13.132Z"
         },
         {
-          "path": "data/collect/20261016/fire/near/134250588_ward_XMearkEqllaDvR81_0.47.json",
-          "modifiedAt": "2026-10-16T04:42:50.586Z"
+          "path": "data/collect/20261016/fire/near/143113135_ward_XMearkEqllaDvR81_0.38.json",
+          "modifiedAt": "2026-10-16T05:31:13.132Z"
         }
       ],
       "summary": [
@@ -2286,7 +2272,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 1194,
+        "commitCount": 1200,
         "authors": [
           {
             "count": 1400,
@@ -2299,7 +2285,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 33,
+            "count": 35,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2320,15 +2306,27 @@
           }
         ],
         "latestCommit": {
-          "hash": "16e89bf",
+          "hash": "be9929a",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-10-16T13:54:00+09:00",
+          "date": "2026-10-16T14:26:23+09:00",
           "subject": "Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
         },
-        "summary": "총 1194개 커밋, 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(33), 최근: Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
+        "summary": "총 1200개 커밋, 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(35), 최근: Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
       },
       "recentFiles": [
+        {
+          "path": "src/app/(ward)/ward/camera/_components/CameraRegisterModal.tsx",
+          "modifiedAt": "2026-10-16T05:26:23.492Z"
+        },
+        {
+          "path": "src/app/(ward)/ward/camera/_components/streamRecovery.test.ts",
+          "modifiedAt": "2026-10-16T05:11:27.364Z"
+        },
+        {
+          "path": "src/app/(ward)/ward/camera/_components/streamRecovery.ts",
+          "modifiedAt": "2026-10-16T05:11:27.364Z"
+        },
         {
           "path": "src/lib/auth/tokenExpiry.test.ts",
           "modifiedAt": "2026-10-16T04:54:00.164Z"
@@ -2346,18 +2344,6 @@
           "modifiedAt": "2026-10-16T00:36:28.525Z"
         },
         {
-          "path": "src/app/(ward)/ward/camera/_components/CameraRegisterModal.tsx",
-          "modifiedAt": "2026-10-16T00:36:28.525Z"
-        },
-        {
-          "path": "src/app/(ward)/ward/camera/_components/streamRecovery.test.ts",
-          "modifiedAt": "2026-10-16T00:36:28.525Z"
-        },
-        {
-          "path": "src/app/(ward)/ward/camera/_components/streamRecovery.ts",
-          "modifiedAt": "2026-10-16T00:36:28.525Z"
-        },
-        {
           "path": "src/app/(ward)/ward/camera/_components/WardCameraContent.module.css",
           "modifiedAt": "2026-10-16T00:36:28.525Z"
         }
@@ -2367,8 +2353,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1194",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(33)"
+        "Git 커밋 수: 1200",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(35)"
       ]
     },
     {
@@ -2708,7 +2694,7 @@
           {
             "name": "silverbridgereservation-reservation-api-1",
             "image": "silverbridgereservation-reservation-api",
-            "status": "Up 13 days",
+            "status": "Up 2 weeks",
             "ports": "0.0.0.0:6015->6015/tcp, [::]:6015->6015/tcp"
           }
         ],
@@ -3753,13 +3739,13 @@
           {
             "name": "whitehousebe-api-1",
             "image": "whitehousebe-api",
-            "status": "Up 13 days",
+            "status": "Up 2 weeks",
             "ports": "0.0.0.0:6701->6701/tcp, [::]:6701->6701/tcp"
           },
           {
             "name": "whitehousebe-db-1",
             "image": "postgres:16",
-            "status": "Up 13 days (healthy)",
+            "status": "Up 2 weeks (healthy)",
             "ports": "0.0.0.0:6705->5432/tcp, [::]:6705->5432/tcp"
           }
         ],
@@ -4213,7 +4199,7 @@
           {
             "name": "whitehousefe-web",
             "image": "whitehousefe-web",
-            "status": "Up 13 days",
+            "status": "Up 2 weeks",
             "ports": "0.0.0.0:6700->3000/tcp, [::]:6700->3000/tcp"
           }
         ],
