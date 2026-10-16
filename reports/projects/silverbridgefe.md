@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-16 09:30:57 KST
+- 점검 시각: 2026-10-16 10:01:03 KST
 
 ## 추정 기술 스택
 
@@ -37,7 +37,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 426
+- 파일 개수: 428
 - 디렉토리 개수: 120
 - 주요 폴더: docs, public, src
 - 주요 경로: public, public/images, src, src/app, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/auth, src/app/(auth)/auth/kakao, src/app/(auth)/auth/kakao/callback, src/app/(auth)/find-email, src/app/(auth)/find-email/_components, src/app/(auth)/find-email/_hooks, src/app/(auth)/find-password, src/app/(auth)/find-password/_components, src/app/(auth)/find-password/_hooks, src/app/(auth)/login, src/app/(auth)/login/_components, src/app/(auth)/signup, src/app/(auth)/signup/_components, src/app/(guardian)
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1186
+- 총 커밋 수: 1191
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 345
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 30
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 32
   - gosky <gosky@gosky.kr>: 18
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: f7b8dc2 / gosky <gosky@gosky.kr> / Merge remote-tracking branch 'origin/develop' into develop
+- 최근 커밋: 9e57d30 / gosky <gosky@gosky.kr> / Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop
 
 ## 최근 수정 파일
 
+- src/app/(ward)/ward/camera/_components/CameraRegisterModal.module.css (2026-10-16 09:36:28 KST)
+- src/app/(ward)/ward/camera/_components/CameraRegisterModal.tsx (2026-10-16 09:36:28 KST)
+- src/app/(ward)/ward/camera/_components/streamRecovery.test.ts (2026-10-16 09:36:28 KST)
+- src/app/(ward)/ward/camera/_components/streamRecovery.ts (2026-10-16 09:36:28 KST)
+- src/app/(ward)/ward/camera/_components/WardCameraContent.module.css (2026-10-16 09:36:28 KST)
+- src/app/(ward)/ward/camera/_components/WardCameraContent.tsx (2026-10-16 09:36:28 KST)
+- src/app/(ward)/ward/camera/_components/WardCameraStreamProvider.tsx (2026-10-16 09:36:28 KST)
 - tsconfig.tsbuildinfo (2026-10-15 18:00:06 KST)
-- src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.tsx (2026-10-15 18:00:03 KST)
-- src/app/(ward)/ward/_components/WardLayout.tsx (2026-10-15 13:25:47 KST)
-- src/app/(ward)/ward/camera/_components/WardCameraContent.tsx (2026-10-15 13:25:47 KST)
-- src/app/(ward)/ward/camera/_components/WardCameraStreamProvider.tsx (2026-10-15 13:25:47 KST)
-- src/app/(ward)/ward/camera/_components/CameraRegisterModal.tsx (2026-10-15 13:17:47 KST)
-- src/app/(guardian)/guardian/detection/_components/LiveCameraModal.tsx (2026-10-15 13:17:47 KST)
-- src/app/(guardian)/guardian/detection/_components/monitorUtils.test.ts (2026-10-15 13:17:47 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1186
-- Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(30)
+- Git 커밋 수: 1191
+- Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(32)
