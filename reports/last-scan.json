@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-16T04:31:39.299Z",
-  "generatedAtKst": "2026-10-16 13:31:39 KST",
+  "generatedAt": "2026-10-16T05:01:44.727Z",
+  "generatedAtKst": "2026-10-16 14:01:44 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7588
+          "count": 7589
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7625
+      "count": 7626
     },
     {
       "name": "YUNA0222",
@@ -51,14 +51,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 1063
+          "count": 1065
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 1152
+      "count": 1154
     },
     {
       "name": "Jaehe-he",
@@ -1276,22 +1276,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7451,
+        "commitCount": 7452,
         "authors": [
           {
-            "count": 7451,
+            "count": 7452,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "8723fe8d3",
+          "hash": "a645c2fdd",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-16T13:01:37+09:00",
+          "date": "2026-10-16T13:31:43+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7451개 커밋, 상위 계정: gosky(7451), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7452개 커밋, 상위 계정: gosky(7452), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1332,8 +1332,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7451",
-        "Git 상위 계정: gosky(7451)"
+        "Git 커밋 수: 7452",
+        "Git 상위 계정: gosky(7452)"
       ]
     },
     {
@@ -1476,7 +1476,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 3 hours",
+            "status": "Up 7 minutes",
             "ports": ""
           }
         ],
@@ -1662,8 +1662,8 @@
         }
       ],
       "structure": {
-        "fileCount": 2582,
-        "dirCount": 102,
+        "fileCount": 2650,
+        "dirCount": 108,
         "mainFolders": [
           "app",
           "data",
@@ -1702,7 +1702,7 @@
         "evidence": [
           "docker-compose.yml 확인",
           "requirements.txt 확인",
-          ".env 키 154개 확인",
+          ".env 키 156개 확인",
           "DB 관련 파일 4개 확인",
           "추정 DB: PostgreSQL, SQLite"
         ],
@@ -1716,7 +1716,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 3 hours",
+            "status": "Up 7 minutes",
             "ports": ""
           }
         ],
@@ -1732,64 +1732,60 @@
           1008,
           1019,
           1024,
-          1105,
           1135,
           1160,
-          1244,
-          1257,
-          1268,
+          1219,
+          1222,
+          1271,
           1273,
-          1280,
           2000,
           5432,
           6012,
           6015,
           6017,
           6019,
-          10051,
-          10067,
-          10102,
-          10359,
-          10602,
-          10636,
-          10868,
-          10949,
-          10992,
-          11877,
-          11910,
-          11971,
-          12025,
-          12313,
-          12470,
-          12671,
-          12818,
-          12830,
-          12845,
-          13131,
+          10150,
+          11380,
+          11477,
+          11535,
+          11565,
+          11630,
+          11786,
+          12027,
+          12467,
+          12530,
+          12707,
+          13062,
           13188,
-          13212,
-          13214,
+          13255,
           13266,
-          13328,
+          13375,
           13387,
+          13494,
           13743,
           13763,
+          13847,
+          13890,
+          13900,
           14010,
+          14255,
           14306,
           14334,
           14380,
+          14436,
           14514,
           14520,
           14522,
           14523,
           14553,
-          15271,
-          20754,
+          14568,
+          14814,
+          14824,
+          15230,
+          16177,
           41864,
-          52252,
-          54458,
-          56024,
-          60126
+          56862,
+          62927
         ],
         "summary": [
           "실행 중",
@@ -1801,7 +1797,7 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 86,
+        "commitCount": 88,
         "authors": [
           {
             "count": 37,
@@ -1809,7 +1805,7 @@
             "email": "lovesky00317@gmail.com"
           },
           {
-            "count": 15,
+            "count": 16,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -1825,46 +1821,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "03d22a3",
+          "hash": "699de5f",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-10-16T10:36:54+09:00",
-          "subject": "Merge pull request #19 from Dongyang-Mirae-University-software/feature/knife-hold-quality-speed"
+          "date": "2026-10-16T13:54:11+09:00",
+          "subject": "Merge pull request #20 from Dongyang-Mirae-University-software/feature/live-infer-quality-timing"
         },
-        "summary": "총 86개 커밋, 상위 계정: gosky(37), skarndaudwls1(15), gosky(14), 최근: Merge pull request #19 from Dongyang-Mirae-University-software/feature/knife-hold-quality-speed"
+        "summary": "총 88개 커밋, 상위 계정: gosky(37), skarndaudwls1(16), gosky(14), 최근: Merge pull request #20 from Dongyang-Mirae-University-software/feature/live-infer-quality-timing"
       },
       "recentFiles": [
         {
-          "path": "app/core/config.py",
-          "modifiedAt": "2026-10-16T01:59:20.716Z"
-        },
-        {
-          "path": "app/services/fire_hold_tracker.py",
-          "modifiedAt": "2026-10-16T01:59:20.716Z"
-        },
-        {
-          "path": "app/services/frame_quality.py",
-          "modifiedAt": "2026-10-16T01:59:20.716Z"
-        },
-        {
           "path": "app/services/stream_session_service.py",
-          "modifiedAt": "2026-10-16T01:59:20.716Z"
-        },
-        {
-          "path": "tests/test_fire_hold.py",
-          "modifiedAt": "2026-10-16T01:59:20.716Z"
+          "modifiedAt": "2026-10-16T04:54:22.807Z"
         },
         {
           "path": "tests/test_frame_quality.py",
-          "modifiedAt": "2026-10-16T01:59:20.716Z"
+          "modifiedAt": "2026-10-16T04:54:22.807Z"
         },
         {
-          "path": "tests/test_live_multi_detection.py",
-          "modifiedAt": "2026-10-16T01:59:20.716Z"
+          "path": "data/collect/20261016/fire/near/135232369_ward_XMearkEqllaDvR81_0.42.jpg",
+          "modifiedAt": "2026-10-16T04:52:32.365Z"
         },
         {
-          "path": "docs/chat-eval-set.md",
-          "modifiedAt": "2026-10-15T09:02:53.900Z"
+          "path": "data/collect/20261016/fire/near/135232369_ward_XMearkEqllaDvR81_0.42.json",
+          "modifiedAt": "2026-10-16T04:52:32.365Z"
+        },
+        {
+          "path": "data/collect/20261016/fall/near/135229602_ward_XMearkEqllaDvR81_0.24.jpg",
+          "modifiedAt": "2026-10-16T04:52:29.601Z"
+        },
+        {
+          "path": "data/collect/20261016/fall/near/135229602_ward_XMearkEqllaDvR81_0.24.json",
+          "modifiedAt": "2026-10-16T04:52:29.601Z"
+        },
+        {
+          "path": "data/collect/20261016/fire/near/134250588_ward_XMearkEqllaDvR81_0.47.jpg",
+          "modifiedAt": "2026-10-16T04:42:50.586Z"
+        },
+        {
+          "path": "data/collect/20261016/fire/near/134250588_ward_XMearkEqllaDvR81_0.47.json",
+          "modifiedAt": "2026-10-16T04:42:50.586Z"
         }
       ],
       "summary": [
@@ -1872,8 +1868,8 @@
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI",
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 86",
-        "Git 상위 계정: gosky(37), skarndaudwls1(15), gosky(14)"
+        "Git 커밋 수: 88",
+        "Git 상위 계정: gosky(37), skarndaudwls1(16), gosky(14)"
       ]
     },
     {
@@ -2220,7 +2216,7 @@
         }
       ],
       "structure": {
-        "fileCount": 428,
+        "fileCount": 430,
         "dirCount": 120,
         "mainFolders": [
           "docs",
@@ -2290,7 +2286,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 1191,
+        "commitCount": 1194,
         "authors": [
           {
             "count": 1400,
@@ -2303,7 +2299,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 32,
+            "count": 33,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2324,15 +2320,27 @@
           }
         ],
         "latestCommit": {
-          "hash": "9e57d30",
+          "hash": "16e89bf",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-10-16T09:36:28+09:00",
+          "date": "2026-10-16T13:54:00+09:00",
           "subject": "Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
         },
-        "summary": "총 1191개 커밋, 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(32), 최근: Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
+        "summary": "총 1194개 커밋, 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(33), 최근: Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
       },
       "recentFiles": [
+        {
+          "path": "src/lib/auth/tokenExpiry.test.ts",
+          "modifiedAt": "2026-10-16T04:54:00.164Z"
+        },
+        {
+          "path": "src/lib/auth/tokenExpiry.ts",
+          "modifiedAt": "2026-10-16T04:54:00.164Z"
+        },
+        {
+          "path": "src/lib/realtime/connectionSocket.ts",
+          "modifiedAt": "2026-10-16T04:54:00.164Z"
+        },
         {
           "path": "src/app/(ward)/ward/camera/_components/CameraRegisterModal.module.css",
           "modifiedAt": "2026-10-16T00:36:28.525Z"
@@ -2352,18 +2360,6 @@
         {
           "path": "src/app/(ward)/ward/camera/_components/WardCameraContent.module.css",
           "modifiedAt": "2026-10-16T00:36:28.525Z"
-        },
-        {
-          "path": "src/app/(ward)/ward/camera/_components/WardCameraContent.tsx",
-          "modifiedAt": "2026-10-16T00:36:28.525Z"
-        },
-        {
-          "path": "src/app/(ward)/ward/camera/_components/WardCameraStreamProvider.tsx",
-          "modifiedAt": "2026-10-16T00:36:28.525Z"
-        },
-        {
-          "path": "tsconfig.tsbuildinfo",
-          "modifiedAt": "2026-10-15T09:00:06.534Z"
         }
       ],
       "summary": [
@@ -2371,8 +2367,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1191",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(32)"
+        "Git 커밋 수: 1194",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(33)"
       ]
     },
     {
