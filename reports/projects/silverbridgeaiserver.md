@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-16 14:31:52 KST
+- 점검 시각: 2026-10-16 15:01:58 KST
 
 ## 추정 기술 스택
 
@@ -44,7 +44,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2683
+- 파일 개수: 2689
 - 디렉토리 개수: 110
 - 주요 폴더: app, data, docs, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, models/new/backup, tests
@@ -58,7 +58,7 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1000, 1008, 1024, 1160, 1219, 1222, 1271, 1280, 2000, 5432, 6012, 6015, 6017, 6019, 10150, 11380, 11477, 11535, 11565, 11630, 11786, 12027, 12467, 12530, 12707, 13062, 13255, 13375, 13494, 13743, 13847, 13890, 13900, 14255, 14306, 14436, 14568, 14814, 14824, 15230, 16177, 56862, 59168, 62927
+- 관련 포트: 1000, 1008, 1024, 1115, 1219, 1222, 1271, 1280, 2000, 5432, 6012, 6015, 6017, 6019, 10150, 11380, 11477, 11535, 11565, 11630, 11786, 12027, 12467, 12530, 12707, 13062, 13255, 13375, 13494, 13743, 13847, 13890, 13900, 14255, 14436, 14568, 14814, 14824, 15230, 16177, 56862, 59168, 62061, 62927
 - 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
@@ -75,14 +75,14 @@
 
 ## 최근 수정 파일
 
+- data/collect/20261016/fire/near/143311369_ward_XMearkEqllaDvR81_0.37.jpg (2026-10-16 14:33:11 KST)
+- data/collect/20261016/fire/near/143311369_ward_XMearkEqllaDvR81_0.37.json (2026-10-16 14:33:11 KST)
+- data/collect/20261016/fire/near/143211382_ward_XMearkEqllaDvR81_0.36.jpg (2026-10-16 14:32:11 KST)
+- data/collect/20261016/fire/near/143211382_ward_XMearkEqllaDvR81_0.36.json (2026-10-16 14:32:11 KST)
+- data/collect/20261016/fire/near/143201223_ward_XMearkEqllaDvR81_0.44.jpg (2026-10-16 14:32:01 KST)
+- data/collect/20261016/fire/near/143201223_ward_XMearkEqllaDvR81_0.44.json (2026-10-16 14:32:01 KST)
 - data/collect/20261016/fire/near/143151121_ward_XMearkEqllaDvR81_0.41.jpg (2026-10-16 14:31:51 KST)
 - data/collect/20261016/fire/near/143151121_ward_XMearkEqllaDvR81_0.41.json (2026-10-16 14:31:51 KST)
-- data/collect/20261016/fire/near/143139788_ward_XMearkEqllaDvR81_0.45.jpg (2026-10-16 14:31:39 KST)
-- data/collect/20261016/fire/near/143139788_ward_XMearkEqllaDvR81_0.45.json (2026-10-16 14:31:39 KST)
-- data/collect/20261016/fire/near/143126692_ward_XMearkEqllaDvR81_0.49.jpg (2026-10-16 14:31:26 KST)
-- data/collect/20261016/fire/near/143126692_ward_XMearkEqllaDvR81_0.49.json (2026-10-16 14:31:26 KST)
-- data/collect/20261016/fire/near/143113135_ward_XMearkEqllaDvR81_0.38.jpg (2026-10-16 14:31:13 KST)
-- data/collect/20261016/fire/near/143113135_ward_XMearkEqllaDvR81_0.38.json (2026-10-16 14:31:13 KST)
 
 ## 점검 결과 요약
 
