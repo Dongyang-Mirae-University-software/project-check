@@ -1,16 +1,16 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-16T07:02:07.335Z",
-  "generatedAtKst": "2026-10-16 16:02:07 KST",
+  "generatedAt": "2026-10-16T07:32:12.778Z",
+  "generatedAtKst": "2026-10-16 16:32:12 KST",
   "summary": {
-    "total": 20,
+    "total": 21,
     "frontend": 4,
     "backend": 8,
-    "ai": 6,
-    "db": 8,
-    "gitRepos": 16,
-    "running": 15,
+    "ai": 7,
+    "db": 9,
+    "gitRepos": 17,
+    "running": 16,
     "stopped": 5
   },
   "gitAuthors": [
@@ -19,18 +19,18 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7593
+          "count": 7631
         },
         {
           "email": "gosky@gosky.kr",
-          "count": 32
+          "count": 48
         },
         {
           "email": "gosky.dev@gmail.com",
           "count": 5
         }
       ],
-      "count": 7630
+      "count": 7684
     },
     {
       "name": "YUNA0222",
@@ -51,14 +51,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 1073
+          "count": 1093
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 1162
+      "count": 1182
     },
     {
       "name": "Jaehe-he",
@@ -85,10 +85,10 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 11
+          "count": 22
         }
       ],
-      "count": 11
+      "count": 22
     }
   ],
   "projects": [
@@ -1276,22 +1276,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7456,
+        "commitCount": 7457,
         "authors": [
           {
-            "count": 7456,
+            "count": 7457,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "da9d6c595",
+          "hash": "ef2d58234",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-16T15:32:05+09:00",
+          "date": "2026-10-16T16:02:10+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7456개 커밋, 상위 계정: gosky(7456), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7457개 커밋, 상위 계정: gosky(7457), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1332,8 +1332,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7456",
-        "Git 상위 계정: gosky(7456)"
+        "Git 커밋 수: 7457",
+        "Git 상위 계정: gosky(7457)"
       ]
     },
     {
@@ -1476,7 +1476,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 15 minutes",
+            "status": "Up 45 minutes",
             "ports": ""
           }
         ],
@@ -1716,7 +1716,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 15 minutes",
+            "status": "Up 45 minutes",
             "ports": ""
           }
         ],
@@ -1797,7 +1797,7 @@
             "email": "skarndaudwls@gmail.com"
           },
           {
-            "count": 14,
+            "count": 15,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           },
@@ -1814,7 +1814,7 @@
           "date": "2026-10-16T13:54:11+09:00",
           "subject": "Merge pull request #20 from Dongyang-Mirae-University-software/feature/live-infer-quality-timing"
         },
-        "summary": "총 88개 커밋, 상위 계정: gosky(37), skarndaudwls1(16), gosky(14), 최근: Merge pull request #20 from Dongyang-Mirae-University-software/feature/live-infer-quality-timing"
+        "summary": "총 88개 커밋, 상위 계정: gosky(37), skarndaudwls1(16), gosky(15), 최근: Merge pull request #20 from Dongyang-Mirae-University-software/feature/live-infer-quality-timing"
       },
       "recentFiles": [
         {
@@ -1856,7 +1856,7 @@
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
         "Git 커밋 수: 88",
-        "Git 상위 계정: gosky(37), skarndaudwls1(16), gosky(14)"
+        "Git 상위 계정: gosky(37), skarndaudwls1(16), gosky(15)"
       ]
     },
     {
@@ -2273,7 +2273,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 1212,
+        "commitCount": 1224,
         "authors": [
           {
             "count": 1400,
@@ -2286,7 +2286,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 39,
+            "count": 43,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2307,22 +2307,38 @@
           }
         ],
         "latestCommit": {
-          "hash": "310d55b",
+          "hash": "cc1d695",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-10-16T15:55:19+09:00",
+          "date": "2026-10-16T16:19:16+09:00",
           "subject": "Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
         },
-        "summary": "총 1212개 커밋, 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(39), 최근: Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
+        "summary": "총 1224개 커밋, 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(43), 최근: Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
       },
       "recentFiles": [
         {
-          "path": "src/service/interface/guardian/notification.ts",
-          "modifiedAt": "2026-10-16T06:55:19.231Z"
+          "path": "public/firebase-messaging-sw.js",
+          "modifiedAt": "2026-10-16T07:19:16.370Z"
+        },
+        {
+          "path": "src/components/PushNotificationListener.tsx",
+          "modifiedAt": "2026-10-16T07:19:16.370Z"
+        },
+        {
+          "path": "src/app/(ward)/ward/camera/_components/CameraRegisterModal.tsx",
+          "modifiedAt": "2026-10-16T07:17:15.660Z"
         },
         {
           "path": "src/components/settings/AlertTypeSettingsSection.tsx",
-          "modifiedAt": "2026-10-16T06:55:19.227Z"
+          "modifiedAt": "2026-10-16T07:14:03.685Z"
+        },
+        {
+          "path": "src/components/settings/AlertTypeSettingsSection.module.css",
+          "modifiedAt": "2026-10-16T07:14:03.681Z"
+        },
+        {
+          "path": "src/service/interface/guardian/notification.ts",
+          "modifiedAt": "2026-10-16T06:55:19.231Z"
         },
         {
           "path": "src/service/api/guardian/notification.ts",
@@ -2331,22 +2347,6 @@
         {
           "path": "src/app/(ward)/ward/camera/_components/CameraRegisterModal.module.css",
           "modifiedAt": "2026-10-16T06:33:45.567Z"
-        },
-        {
-          "path": "src/app/(ward)/ward/camera/_components/CameraRegisterModal.tsx",
-          "modifiedAt": "2026-10-16T06:33:45.567Z"
-        },
-        {
-          "path": "src/app/(ward)/ward/camera/_components/streamRecovery.test.ts",
-          "modifiedAt": "2026-10-16T06:33:45.567Z"
-        },
-        {
-          "path": "src/app/(ward)/ward/camera/_components/streamRecovery.ts",
-          "modifiedAt": "2026-10-16T06:33:45.567Z"
-        },
-        {
-          "path": "src/app/(ward)/ward/camera/_components/WardCameraContent.tsx",
-          "modifiedAt": "2026-10-16T06:33:45.567Z"
         }
       ],
       "summary": [
@@ -2354,8 +2354,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1212",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(39)"
+        "Git 커밋 수: 1224",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(43)"
       ]
     },
     {
@@ -4284,6 +4284,256 @@
         "실행 상태: 실행 중",
         "Git 커밋 수: 138",
         "Git 상위 계정: skarndaudwls1(63), skarndaudwls1(24)"
+      ]
+    },
+    {
+      "projectName": "wt-collect-random",
+      "projectPath": "/home/apps/SilverBridgeSky/wt-collect-random",
+      "classification": "AI 서버",
+      "stack": [
+        "Python",
+        "FastAPI",
+        "Uvicorn",
+        "Pydantic",
+        "SQLAlchemy",
+        "PostgreSQL",
+        "PyTorch",
+        "Transformers",
+        "fastapi",
+        "Frontend",
+        "Backend",
+        "AI"
+      ],
+      "mainFiles": [
+        {
+          "file": "package.json",
+          "exists": false
+        },
+        {
+          "file": "vite.config.js",
+          "exists": false
+        },
+        {
+          "file": "vite.config.ts",
+          "exists": false
+        },
+        {
+          "file": "vite.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "vite.config.cjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.js",
+          "exists": false
+        },
+        {
+          "file": "next.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.ts",
+          "exists": false
+        },
+        {
+          "file": "requirements.txt",
+          "exists": true
+        },
+        {
+          "file": "pyproject.toml",
+          "exists": false
+        },
+        {
+          "file": "Dockerfile",
+          "exists": true
+        },
+        {
+          "file": "docker-compose.yml",
+          "exists": true
+        },
+        {
+          "file": "docker-compose.yaml",
+          "exists": false
+        },
+        {
+          "file": "compose.yml",
+          "exists": false
+        },
+        {
+          "file": "compose.yaml",
+          "exists": false
+        },
+        {
+          "file": ".env.example",
+          "exists": true
+        },
+        {
+          "file": ".env",
+          "exists": false
+        },
+        {
+          "file": "pom.xml",
+          "exists": false
+        },
+        {
+          "file": "build.gradle",
+          "exists": false
+        },
+        {
+          "file": "build.gradle.kts",
+          "exists": false
+        }
+      ],
+      "structure": {
+        "fileCount": 104,
+        "dirCount": 11,
+        "mainFolders": [
+          "app",
+          "docs",
+          "tests"
+        ],
+        "majorPaths": [
+          "app",
+          "app/core",
+          "app/database",
+          "app/models",
+          "app/prompts",
+          "app/routers",
+          "app/schemas",
+          "app/services",
+          "app/utils",
+          "tests"
+        ]
+      },
+      "database": {
+        "used": true,
+        "types": [
+          "PostgreSQL",
+          "SQLite"
+        ],
+        "clueFiles": [
+          "app/database/__init__.py",
+          "app/database/base.py",
+          "app/database/schema_upgrades.py",
+          "app/database/session.py"
+        ],
+        "evidence": [
+          "docker-compose.yml 확인",
+          "requirements.txt 확인",
+          ".env 키 89개 확인",
+          "DB 관련 파일 4개 확인",
+          "추정 DB: PostgreSQL, SQLite"
+        ],
+        "summary": "PostgreSQL, SQLite 사용 추정"
+      },
+      "runtime": {
+        "status": "실행 중",
+        "running": true,
+        "pm2": [],
+        "docker": [],
+        "ports": [
+          5432,
+          6012,
+          6015,
+          6017,
+          6019
+        ],
+        "allCandidatePorts": [
+          1000,
+          1008,
+          1024,
+          2000,
+          5432,
+          6012,
+          6015,
+          6017,
+          6019
+        ],
+        "summary": [
+          "실행 중",
+          "PM2 없음",
+          "Docker 없음",
+          "포트 5432, 6012, 6015, 6017, 6019"
+        ]
+      },
+      "git": {
+        "isRepo": true,
+        "branch": "feature/collect-random-frames",
+        "commitCount": 89,
+        "authors": [
+          {
+            "count": 37,
+            "name": "gosky",
+            "email": "lovesky00317@gmail.com"
+          },
+          {
+            "count": 16,
+            "name": "skarndaudwls1",
+            "email": "skarndaudwls@gmail.com"
+          },
+          {
+            "count": 15,
+            "name": "gosky",
+            "email": "gosky@gosky.kr"
+          },
+          {
+            "count": 11,
+            "name": "namgung",
+            "email": "skarndaudwls@gmail.com"
+          }
+        ],
+        "latestCommit": {
+          "hash": "31ba9b4",
+          "author": "gosky",
+          "email": "gosky@gosky.kr",
+          "date": "2026-10-16T16:19:24+09:00",
+          "subject": "feat: 수집 모드에 무작위 장면 저장(reason=random) 추가"
+        },
+        "summary": "총 89개 커밋, 상위 계정: gosky(37), skarndaudwls1(16), gosky(15), 최근: feat: 수집 모드에 무작위 장면 저장(reason=random) 추가"
+      },
+      "recentFiles": [
+        {
+          "path": ".env.example",
+          "modifiedAt": "2026-10-16T07:19:24.177Z"
+        },
+        {
+          "path": "tests/test_training_sample_collector.py",
+          "modifiedAt": "2026-10-16T07:18:23.647Z"
+        },
+        {
+          "path": "app/services/training_sample_collector.py",
+          "modifiedAt": "2026-10-16T07:17:27.992Z"
+        },
+        {
+          "path": "app/core/config.py",
+          "modifiedAt": "2026-10-16T07:17:07.101Z"
+        },
+        {
+          "path": "app/services/stream_session_service.py",
+          "modifiedAt": "2026-10-16T07:17:07.101Z"
+        },
+        {
+          "path": "tests/test_clip_buffer.py",
+          "modifiedAt": "2026-10-16T07:16:29.150Z"
+        },
+        {
+          "path": "tests/test_clip_encoder.py",
+          "modifiedAt": "2026-10-16T07:16:29.150Z"
+        },
+        {
+          "path": "tests/test_clip_endpoint.py",
+          "modifiedAt": "2026-10-16T07:16:29.150Z"
+        }
+      ],
+      "summary": [
+        "분류: AI 서버",
+        "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI",
+        "DB 사용 추정: PostgreSQL, SQLite",
+        "실행 상태: 실행 중",
+        "Git 커밋 수: 89",
+        "Git 상위 계정: gosky(37), skarndaudwls1(16), gosky(15)"
       ]
     },
     {

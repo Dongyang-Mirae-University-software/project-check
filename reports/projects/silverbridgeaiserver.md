@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-16 16:02:09 KST
+- 점검 시각: 2026-10-16 16:32:14 KST
 
 ## 추정 기술 스택
 
@@ -69,7 +69,7 @@
 - 계정별 커밋 수:
   - gosky <lovesky00317@gmail.com>: 37
   - skarndaudwls1 <skarndaudwls@gmail.com>: 16
-  - gosky <gosky@gosky.kr>: 14
+  - gosky <gosky@gosky.kr>: 15
   - namgung <skarndaudwls@gmail.com>: 11
 - 최근 커밋: 699de5f / namgung <skarndaudwls@gmail.com> / Merge pull request #20 from Dongyang-Mirae-University-software/feature/live-infer-quality-timing
 
@@ -91,4 +91,4 @@
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
 - Git 커밋 수: 88
-- Git 상위 계정: gosky(37), skarndaudwls1(16), gosky(14)
+- Git 상위 계정: gosky(37), skarndaudwls1(16), gosky(15)
