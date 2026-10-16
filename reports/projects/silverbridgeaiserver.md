@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-16 10:31:08 KST
+- 점검 시각: 2026-10-16 11:01:13 KST
 
 ## 추정 기술 스택
 
@@ -58,31 +58,31 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1000, 1008, 1019, 1024, 1105, 1135, 1160, 1244, 1257, 1268, 1273, 1280, 2000, 5432, 6012, 6015, 6017, 6019, 10051, 10067, 10102, 10359, 10602, 10636, 10868, 10949, 10992, 11877, 11910, 11971, 12025, 12313, 12470, 12671, 12818, 12830, 12845, 13131, 13188, 13212, 13214, 13266, 13328, 13387, 13743, 13763, 14010, 14306, 14334, 14380, 14514, 14520, 14522, 14523, 14553, 15271, 15352, 20754, 41864, 52252, 54458, 56024, 60126
+- 관련 포트: 1000, 1008, 1019, 1024, 1105, 1135, 1160, 1244, 1257, 1268, 1273, 1280, 2000, 5432, 6012, 6015, 6017, 6019, 10051, 10067, 10102, 10359, 10602, 10636, 10868, 10949, 10992, 11877, 11910, 11971, 12025, 12313, 12470, 12671, 12818, 12830, 12845, 13131, 13188, 13212, 13214, 13266, 13328, 13387, 13743, 13763, 14010, 14306, 14334, 14380, 14514, 14520, 14522, 14523, 14553, 15271, 20754, 41864, 52252, 54458, 56024, 60126
 - 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 84
+- 총 커밋 수: 86
 - 계정별 커밋 수:
   - gosky <lovesky00317@gmail.com>: 37
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 15
   - gosky <gosky@gosky.kr>: 14
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 14
   - namgung <skarndaudwls@gmail.com>: 11
-- 최근 커밋: 95558ec / namgung <skarndaudwls@gmail.com> / Merge pull request #18 from Dongyang-Mirae-University-software/revert/live-decode-once
+- 최근 커밋: 03d22a3 / namgung <skarndaudwls@gmail.com> / Merge pull request #19 from Dongyang-Mirae-University-software/feature/knife-hold-quality-speed
 
 ## 최근 수정 파일
 
+- app/core/config.py (2026-10-16 10:59:20 KST)
+- app/services/fire_hold_tracker.py (2026-10-16 10:59:20 KST)
+- app/services/frame_quality.py (2026-10-16 10:59:20 KST)
+- app/services/stream_session_service.py (2026-10-16 10:59:20 KST)
+- tests/test_fire_hold.py (2026-10-16 10:59:20 KST)
+- tests/test_frame_quality.py (2026-10-16 10:59:20 KST)
+- tests/test_live_multi_detection.py (2026-10-16 10:59:20 KST)
 - docs/chat-eval-set.md (2026-10-15 18:02:53 KST)
-- app/prompts/medical_chat_prompts.py (2026-10-15 18:01:10 KST)
-- app/services/chat_router_service.py (2026-10-15 18:01:10 KST)
-- app/services/chat_service.py (2026-10-15 18:01:10 KST)
-- app/services/medical_llm_service.py (2026-10-15 18:01:10 KST)
-- tests/test_emergency_cases.py (2026-10-15 17:59:57 KST)
-- data/collect/20261015/fall/near/132211466_ward_oZmI5T5tCbB52zdG_0.38.jpg (2026-10-15 13:22:11 KST)
-- data/collect/20261015/fall/near/132211466_ward_oZmI5T5tCbB52zdG_0.38.json (2026-10-15 13:22:11 KST)
 
 ## 점검 결과 요약
 
@@ -90,5 +90,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 84
-- Git 상위 계정: gosky(37), gosky(14), skarndaudwls1(14)
+- Git 커밋 수: 86
+- Git 상위 계정: gosky(37), skarndaudwls1(15), gosky(14)
