@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-16T06:32:01.765Z",
-  "generatedAtKst": "2026-10-16 15:32:01 KST",
+  "generatedAt": "2026-10-16T07:02:07.335Z",
+  "generatedAtKst": "2026-10-16 16:02:07 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7592
+          "count": 7593
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7629
+      "count": 7630
     },
     {
       "name": "YUNA0222",
@@ -51,14 +51,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 1071
+          "count": 1073
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 1160
+      "count": 1162
     },
     {
       "name": "Jaehe-he",
@@ -1276,22 +1276,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7455,
+        "commitCount": 7456,
         "authors": [
           {
-            "count": 7455,
+            "count": 7456,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "eb32896a2",
+          "hash": "da9d6c595",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-16T15:01:59+09:00",
+          "date": "2026-10-16T15:32:05+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7455개 커밋, 상위 계정: gosky(7455), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7456개 커밋, 상위 계정: gosky(7456), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1332,8 +1332,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7455",
-        "Git 상위 계정: gosky(7455)"
+        "Git 커밋 수: 7456",
+        "Git 상위 계정: gosky(7456)"
       ]
     },
     {
@@ -1476,7 +1476,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up About a minute",
+            "status": "Up 15 minutes",
             "ports": ""
           }
         ],
@@ -1716,7 +1716,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up About a minute",
+            "status": "Up 15 minutes",
             "ports": ""
           }
         ],
@@ -2273,7 +2273,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 1206,
+        "commitCount": 1212,
         "authors": [
           {
             "count": 1400,
@@ -2286,7 +2286,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 37,
+            "count": 39,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2307,46 +2307,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "de38606",
+          "hash": "310d55b",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-10-16T15:22:59+09:00",
+          "date": "2026-10-16T15:55:19+09:00",
           "subject": "Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
         },
-        "summary": "총 1206개 커밋, 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(37), 최근: Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
+        "summary": "총 1212개 커밋, 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(39), 최근: Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
       },
       "recentFiles": [
         {
+          "path": "src/service/interface/guardian/notification.ts",
+          "modifiedAt": "2026-10-16T06:55:19.231Z"
+        },
+        {
+          "path": "src/components/settings/AlertTypeSettingsSection.tsx",
+          "modifiedAt": "2026-10-16T06:55:19.227Z"
+        },
+        {
+          "path": "src/service/api/guardian/notification.ts",
+          "modifiedAt": "2026-10-16T06:55:19.227Z"
+        },
+        {
           "path": "src/app/(ward)/ward/camera/_components/CameraRegisterModal.module.css",
-          "modifiedAt": "2026-10-16T06:22:59.056Z"
+          "modifiedAt": "2026-10-16T06:33:45.567Z"
         },
         {
           "path": "src/app/(ward)/ward/camera/_components/CameraRegisterModal.tsx",
-          "modifiedAt": "2026-10-16T06:22:59.056Z"
-        },
-        {
-          "path": "src/app/(ward)/ward/camera/_components/WardCameraContent.module.css",
-          "modifiedAt": "2026-10-16T06:22:59.056Z"
+          "modifiedAt": "2026-10-16T06:33:45.567Z"
         },
         {
           "path": "src/app/(ward)/ward/camera/_components/streamRecovery.test.ts",
-          "modifiedAt": "2026-10-16T05:11:27.364Z"
+          "modifiedAt": "2026-10-16T06:33:45.567Z"
         },
         {
           "path": "src/app/(ward)/ward/camera/_components/streamRecovery.ts",
-          "modifiedAt": "2026-10-16T05:11:27.364Z"
+          "modifiedAt": "2026-10-16T06:33:45.567Z"
         },
         {
-          "path": "src/lib/auth/tokenExpiry.test.ts",
-          "modifiedAt": "2026-10-16T04:54:00.164Z"
-        },
-        {
-          "path": "src/lib/auth/tokenExpiry.ts",
-          "modifiedAt": "2026-10-16T04:54:00.164Z"
-        },
-        {
-          "path": "src/lib/realtime/connectionSocket.ts",
-          "modifiedAt": "2026-10-16T04:54:00.164Z"
+          "path": "src/app/(ward)/ward/camera/_components/WardCameraContent.tsx",
+          "modifiedAt": "2026-10-16T06:33:45.567Z"
         }
       ],
       "summary": [
@@ -2354,8 +2354,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1206",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(37)"
+        "Git 커밋 수: 1212",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(39)"
       ]
     },
     {
