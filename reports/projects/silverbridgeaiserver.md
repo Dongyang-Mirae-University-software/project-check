@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-18 01:08:15 KST
+- 점검 시각: 2026-10-18 01:38:20 KST
 
 ## 추정 기술 스택
 
@@ -44,7 +44,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2691
+- 파일 개수: 2692
 - 디렉토리 개수: 110
 - 주요 폴더: app, data, docs, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, models/new/backup, tests
@@ -75,14 +75,14 @@
 
 ## 최근 수정 파일
 
+- models/new/knife.pt (2026-10-18 01:25:31 KST)
+- models/new/backup/knife_20261018-0125.pt (2026-10-18 01:25:31 KST)
 - data/collect/20261016/fire/near/151332615_ward_XMearkEqllaDvR81_0.56.jpg (2026-10-16 15:13:32 KST)
 - data/collect/20261016/fire/near/151332615_ward_XMearkEqllaDvR81_0.56.json (2026-10-16 15:13:32 KST)
 - data/collect/20261016/fire/near/143311369_ward_XMearkEqllaDvR81_0.37.jpg (2026-10-16 14:33:11 KST)
 - data/collect/20261016/fire/near/143311369_ward_XMearkEqllaDvR81_0.37.json (2026-10-16 14:33:11 KST)
 - data/collect/20261016/fire/near/143211382_ward_XMearkEqllaDvR81_0.36.jpg (2026-10-16 14:32:11 KST)
 - data/collect/20261016/fire/near/143211382_ward_XMearkEqllaDvR81_0.36.json (2026-10-16 14:32:11 KST)
-- data/collect/20261016/fire/near/143201223_ward_XMearkEqllaDvR81_0.44.jpg (2026-10-16 14:32:01 KST)
-- data/collect/20261016/fire/near/143201223_ward_XMearkEqllaDvR81_0.44.json (2026-10-16 14:32:01 KST)
 
 ## 점검 결과 요약
 
