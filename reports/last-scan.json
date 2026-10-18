@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-18T15:12:25.818Z",
-  "generatedAtKst": "2026-10-19 24:12:25 KST",
+  "generatedAt": "2026-10-18T15:42:31.571Z",
+  "generatedAtKst": "2026-10-19 24:42:31 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7705
+          "count": 7706
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7743
+      "count": 7744
     },
     {
       "name": "YUNA0222",
@@ -51,14 +51,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 1080
+          "count": 1082
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 1169
+      "count": 1171
     },
     {
       "name": "Jaehe-he",
@@ -1276,22 +1276,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7568,
+        "commitCount": 7569,
         "authors": [
           {
-            "count": 7568,
+            "count": 7569,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "de11b5173",
+          "hash": "ce0938e02",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-18T23:42:24+09:00",
+          "date": "2026-10-19T00:12:29+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7568개 커밋, 상위 계정: gosky(7568), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7569개 커밋, 상위 계정: gosky(7569), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1332,8 +1332,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7568",
-        "Git 상위 계정: gosky(7568)"
+        "Git 커밋 수: 7569",
+        "Git 상위 계정: gosky(7569)"
       ]
     },
     {
@@ -1476,7 +1476,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 50 minutes",
+            "status": "Up About an hour",
             "ports": ""
           }
         ],
@@ -1662,8 +1662,8 @@
         }
       ],
       "structure": {
-        "fileCount": 2856,
-        "dirCount": 127,
+        "fileCount": 2992,
+        "dirCount": 129,
         "mainFolders": [
           "app",
           "data",
@@ -1716,7 +1716,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 50 minutes",
+            "status": "Up About an hour",
             "ports": ""
           }
         ],
@@ -1731,24 +1731,14 @@
           1000,
           1008,
           1024,
-          1069,
-          1077,
-          1106,
-          1112,
-          1115,
-          1124,
-          1125,
-          1150,
-          1167,
-          1186,
-          1259,
-          1264,
-          1270,
+          1048,
+          1169,
+          1180,
+          1254,
+          1268,
+          1271,
           1273,
           1274,
-          1275,
-          1276,
-          1277,
           1279,
           1280,
           2000,
@@ -1757,28 +1747,54 @@
           6015,
           6017,
           6019,
-          10000,
-          10036,
-          10255,
-          10281,
-          10569,
-          10576,
-          10696,
-          10763,
-          11019,
-          11165,
-          11561,
-          11856,
-          12335,
-          12737,
-          13092,
-          13435,
-          13441,
-          14133,
-          16751,
-          46341,
-          58492,
-          65326
+          11045,
+          12232,
+          15279,
+          15709,
+          15713,
+          15728,
+          16031,
+          16035,
+          16161,
+          16416,
+          16452,
+          16474,
+          16964,
+          16972,
+          17047,
+          17088,
+          17533,
+          18680,
+          19624,
+          20508,
+          21042,
+          21643,
+          22348,
+          22914,
+          22964,
+          23089,
+          23512,
+          24109,
+          24724,
+          26258,
+          26533,
+          26641,
+          26855,
+          27765,
+          28247,
+          28282,
+          28430,
+          31603,
+          35977,
+          36120,
+          36486,
+          36943,
+          37171,
+          42377,
+          43928,
+          50170,
+          62329,
+          64170
         ],
         "summary": [
           "실행 중",
@@ -1824,36 +1840,36 @@
       },
       "recentFiles": [
         {
-          "path": "data/collect/20261019/fire/near/001200749_ward_skyVnR5rUhv8qGSi_0.80.jpg",
-          "modifiedAt": "2026-10-18T15:12:00.746Z"
+          "path": "data/collect/20261019/fire/near/004225256_ward_skyVnR5rUhv8qGSi_0.38.jpg",
+          "modifiedAt": "2026-10-18T15:42:25.253Z"
         },
         {
-          "path": "data/collect/20261019/fire/near/001200749_ward_skyVnR5rUhv8qGSi_0.80.json",
-          "modifiedAt": "2026-10-18T15:12:00.746Z"
+          "path": "data/collect/20261019/fire/near/004225256_ward_skyVnR5rUhv8qGSi_0.38.json",
+          "modifiedAt": "2026-10-18T15:42:25.253Z"
         },
         {
-          "path": "data/collect/20261019/random/r_001200749_ward_skyVnR5rUhv8qGSi_0.80.jpg",
-          "modifiedAt": "2026-10-18T15:12:00.746Z"
+          "path": "data/collect/20261019/fire/near/004213871_ward_skyVnR5rUhv8qGSi_0.44.jpg",
+          "modifiedAt": "2026-10-18T15:42:13.869Z"
         },
         {
-          "path": "data/collect/20261019/random/r_001200749_ward_skyVnR5rUhv8qGSi_0.80.json",
-          "modifiedAt": "2026-10-18T15:12:00.746Z"
+          "path": "data/collect/20261019/fire/near/004213871_ward_skyVnR5rUhv8qGSi_0.44.json",
+          "modifiedAt": "2026-10-18T15:42:13.869Z"
         },
         {
-          "path": "data/collect/20261019/fire/near/001104472_ward_skyVnR5rUhv8qGSi_0.62.jpg",
-          "modifiedAt": "2026-10-18T15:11:04.466Z"
+          "path": "data/collect/20261019/fire/alert/004207949_ward_skyVnR5rUhv8qGSi_0.53.jpg",
+          "modifiedAt": "2026-10-18T15:42:07.945Z"
         },
         {
-          "path": "data/collect/20261019/fire/near/001104472_ward_skyVnR5rUhv8qGSi_0.62.json",
-          "modifiedAt": "2026-10-18T15:11:04.466Z"
+          "path": "data/collect/20261019/fire/alert/004207949_ward_skyVnR5rUhv8qGSi_0.53.json",
+          "modifiedAt": "2026-10-18T15:42:07.945Z"
         },
         {
-          "path": "data/collect/20261019/fire/near/000950639_ward_skyVnR5rUhv8qGSi_0.64.jpg",
-          "modifiedAt": "2026-10-18T15:09:50.636Z"
+          "path": "data/collect/20261019/fire/near/004201753_ward_skyVnR5rUhv8qGSi_0.55.jpg",
+          "modifiedAt": "2026-10-18T15:42:01.749Z"
         },
         {
-          "path": "data/collect/20261019/fire/near/000950639_ward_skyVnR5rUhv8qGSi_0.64.json",
-          "modifiedAt": "2026-10-18T15:09:50.636Z"
+          "path": "data/collect/20261019/fire/near/004201753_ward_skyVnR5rUhv8qGSi_0.55.json",
+          "modifiedAt": "2026-10-18T15:42:01.749Z"
         }
       ],
       "summary": [
@@ -2209,7 +2225,7 @@
         }
       ],
       "structure": {
-        "fileCount": 430,
+        "fileCount": 432,
         "dirCount": 120,
         "mainFolders": [
           "docs",
@@ -2279,7 +2295,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 1233,
+        "commitCount": 1239,
         "authors": [
           {
             "count": 1400,
@@ -2292,7 +2308,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 46,
+            "count": 48,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2313,21 +2329,37 @@
           }
         ],
         "latestCommit": {
-          "hash": "aa2c57a",
+          "hash": "5a22983",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-10-19T00:11:39+09:00",
+          "date": "2026-10-19T00:30:22+09:00",
           "subject": "Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
         },
-        "summary": "총 1233개 커밋, 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(46), 최근: Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
+        "summary": "총 1239개 커밋, 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(48), 최근: Merge branch 'develop' of https://github.com/Dongyang-Mirae-University-software/SilverBridgeFe into develop"
       },
       "recentFiles": [
         {
-          "path": "src/app/(ward)/ward/camera/_components/CameraRegisterModal.module.css",
-          "modifiedAt": "2026-10-18T15:11:39.338Z"
+          "path": "src/app/(ward)/ward/camera/_components/cameraAction.test.ts",
+          "modifiedAt": "2026-10-18T15:30:22.782Z"
+        },
+        {
+          "path": "src/app/(ward)/ward/camera/_components/cameraAction.ts",
+          "modifiedAt": "2026-10-18T15:30:22.782Z"
         },
         {
           "path": "src/app/(ward)/ward/camera/_components/CameraRegisterModal.tsx",
+          "modifiedAt": "2026-10-18T15:30:22.782Z"
+        },
+        {
+          "path": "src/app/(ward)/ward/camera/_components/captureQuality.test.ts",
+          "modifiedAt": "2026-10-18T15:30:22.782Z"
+        },
+        {
+          "path": "src/app/(ward)/ward/camera/_components/captureQuality.ts",
+          "modifiedAt": "2026-10-18T15:30:22.782Z"
+        },
+        {
+          "path": "src/app/(ward)/ward/camera/_components/CameraRegisterModal.module.css",
           "modifiedAt": "2026-10-18T15:11:39.338Z"
         },
         {
@@ -2337,22 +2369,6 @@
         {
           "path": "src/app/(guardian)/guardian/detection/_components/LiveCameraModal.tsx",
           "modifiedAt": "2026-10-18T15:05:41.472Z"
-        },
-        {
-          "path": "public/firebase-messaging-sw.js",
-          "modifiedAt": "2026-10-16T07:19:16.370Z"
-        },
-        {
-          "path": "src/components/PushNotificationListener.tsx",
-          "modifiedAt": "2026-10-16T07:19:16.370Z"
-        },
-        {
-          "path": "src/components/settings/AlertTypeSettingsSection.tsx",
-          "modifiedAt": "2026-10-16T07:14:03.685Z"
-        },
-        {
-          "path": "src/components/settings/AlertTypeSettingsSection.module.css",
-          "modifiedAt": "2026-10-16T07:14:03.681Z"
         }
       ],
       "summary": [
@@ -2360,8 +2376,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1233",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(46)"
+        "Git 커밋 수: 1239",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(48)"
       ]
     },
     {
