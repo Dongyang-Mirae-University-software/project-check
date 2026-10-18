@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-18T13:12:03.577Z",
-  "generatedAtKst": "2026-10-18 22:12:03 KST",
+  "generatedAt": "2026-10-18T13:42:09.017Z",
+  "generatedAtKst": "2026-10-18 22:42:09 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7701
+          "count": 7702
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7739
+      "count": 7740
     },
     {
       "name": "YUNA0222",
@@ -1276,22 +1276,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7564,
+        "commitCount": 7565,
         "authors": [
           {
-            "count": 7564,
+            "count": 7565,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "6ec3ef43e",
+          "hash": "d949975da",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-18T21:42:01+09:00",
+          "date": "2026-10-18T22:12:07+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7564개 커밋, 상위 계정: gosky(7564), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7565개 커밋, 상위 계정: gosky(7565), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1332,8 +1332,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7564",
-        "Git 상위 계정: gosky(7564)"
+        "Git 커밋 수: 7565",
+        "Git 상위 계정: gosky(7565)"
       ]
     },
     {
@@ -1476,7 +1476,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 5 minutes",
+            "status": "Up 35 minutes",
             "ports": ""
           }
         ],
@@ -1662,8 +1662,8 @@
         }
       ],
       "structure": {
-        "fileCount": 2692,
-        "dirCount": 110,
+        "fileCount": 2706,
+        "dirCount": 118,
         "mainFolders": [
           "app",
           "data",
@@ -1716,7 +1716,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 5 minutes",
+            "status": "Up 35 minutes",
             "ports": ""
           }
         ],
@@ -1754,18 +1754,13 @@
           12530,
           12707,
           13062,
-          13255,
           13375,
           13494,
-          13743,
-          13847,
-          13890,
           13900,
           14255,
           14436,
           14568,
           14814,
-          14824,
           15230,
           16177,
           33370,
@@ -1818,36 +1813,36 @@
       },
       "recentFiles": [
         {
-          "path": "app/services/training_sample_collector.py",
-          "modifiedAt": "2026-10-18T13:06:44.434Z"
+          "path": "data/collect/20261018/knife/near/221821902_ward_XMearkEqllaDvR81_0.25.jpg",
+          "modifiedAt": "2026-10-18T13:18:21.895Z"
         },
         {
-          "path": "tests/test_training_sample_collector.py",
-          "modifiedAt": "2026-10-18T13:06:44.434Z"
+          "path": "data/collect/20261018/knife/near/221821902_ward_XMearkEqllaDvR81_0.25.json",
+          "modifiedAt": "2026-10-18T13:18:21.895Z"
         },
         {
-          "path": ".env.example",
-          "modifiedAt": "2026-10-18T13:06:44.430Z"
+          "path": "data/collect/20261018/fire/near/221810730_ward_XMearkEqllaDvR81_0.63.jpg",
+          "modifiedAt": "2026-10-18T13:18:10.727Z"
         },
         {
-          "path": "app/core/config.py",
-          "modifiedAt": "2026-10-18T13:06:44.430Z"
+          "path": "data/collect/20261018/fire/near/221810730_ward_XMearkEqllaDvR81_0.63.json",
+          "modifiedAt": "2026-10-18T13:18:10.727Z"
         },
         {
-          "path": "app/services/stream_session_service.py",
-          "modifiedAt": "2026-10-18T13:06:44.430Z"
+          "path": "data/collect/20261018/fall/near/221801871_ward_XMearkEqllaDvR81_0.52.jpg",
+          "modifiedAt": "2026-10-18T13:18:01.867Z"
         },
         {
-          "path": ".env",
-          "modifiedAt": "2026-10-18T13:03:06.282Z"
+          "path": "data/collect/20261018/fall/near/221801871_ward_XMearkEqllaDvR81_0.52.json",
+          "modifiedAt": "2026-10-18T13:18:01.867Z"
         },
         {
-          "path": "models/new/knife.pt",
-          "modifiedAt": "2026-10-17T16:25:31.515Z"
+          "path": "data/collect/20261018/knife/near/221752312_ward_XMearkEqllaDvR81_0.72.jpg",
+          "modifiedAt": "2026-10-18T13:17:52.308Z"
         },
         {
-          "path": "models/new/backup/knife_20261018-0125.pt",
-          "modifiedAt": "2026-10-17T16:25:31.475Z"
+          "path": "data/collect/20261018/knife/near/221752312_ward_XMearkEqllaDvR81_0.72.json",
+          "modifiedAt": "2026-10-18T13:17:52.308Z"
         }
       ],
       "summary": [
