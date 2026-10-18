@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-18 23:12:16 KST
+- 점검 시각: 2026-10-18 23:42:22 KST
 
 ## 추정 기술 스택
 
@@ -44,8 +44,8 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2706
-- 디렉토리 개수: 118
+- 파일 개수: 2784
+- 디렉토리 개수: 120
 - 주요 폴더: app, data, docs, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, models/new/backup, tests
 
@@ -58,7 +58,7 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1000, 1008, 1024, 1115, 1219, 1222, 1271, 1280, 2000, 5432, 6012, 6015, 6017, 6019, 10150, 11380, 11477, 11535, 11565, 11630, 11786, 12027, 12467, 12530, 12707, 13062, 13375, 13494, 13900, 14255, 14436, 14568, 14814, 15230, 16177, 33370, 56862, 59168, 62061, 62927
+- 관련 포트: 1000, 1008, 1024, 1037, 1069, 1077, 1115, 1124, 1150, 1166, 1181, 1184, 1186, 1187, 1201, 1259, 1273, 2000, 5432, 6012, 6015, 6017, 6019, 10000, 10576, 10595, 10897, 11165, 11218, 11361, 11471, 11561, 11675, 11766, 11798, 11802, 11831, 11856, 11877, 11949, 12027, 12090, 12335, 12737, 12789, 13092, 13435, 13441, 33370, 62061
 - 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
@@ -75,14 +75,14 @@
 
 ## 최근 수정 파일
 
-- data/collect/20261018/knife/near/221821902_ward_XMearkEqllaDvR81_0.25.jpg (2026-10-18 22:18:21 KST)
-- data/collect/20261018/knife/near/221821902_ward_XMearkEqllaDvR81_0.25.json (2026-10-18 22:18:21 KST)
-- data/collect/20261018/fire/near/221810730_ward_XMearkEqllaDvR81_0.63.jpg (2026-10-18 22:18:10 KST)
-- data/collect/20261018/fire/near/221810730_ward_XMearkEqllaDvR81_0.63.json (2026-10-18 22:18:10 KST)
-- data/collect/20261018/fall/near/221801871_ward_XMearkEqllaDvR81_0.52.jpg (2026-10-18 22:18:01 KST)
-- data/collect/20261018/fall/near/221801871_ward_XMearkEqllaDvR81_0.52.json (2026-10-18 22:18:01 KST)
-- data/collect/20261018/knife/near/221752312_ward_XMearkEqllaDvR81_0.72.jpg (2026-10-18 22:17:52 KST)
-- data/collect/20261018/knife/near/221752312_ward_XMearkEqllaDvR81_0.72.json (2026-10-18 22:17:52 KST)
+- data/collect/20261018/random/r_234217018_ward_skyVnR5rUhv8qGSi_0.00.json (2026-10-18 23:42:17 KST)
+- data/collect/20261018/random/r_234217018_ward_skyVnR5rUhv8qGSi_0.00.jpg (2026-10-18 23:42:17 KST)
+- data/collect/20261018/random/r_234021735_ward_skyVnR5rUhv8qGSi_0.00.jpg (2026-10-18 23:40:21 KST)
+- data/collect/20261018/random/r_234021735_ward_skyVnR5rUhv8qGSi_0.00.json (2026-10-18 23:40:21 KST)
+- data/collect/20261018/random/r_233816349_ward_skyVnR5rUhv8qGSi_0.00.jpg (2026-10-18 23:38:16 KST)
+- data/collect/20261018/random/r_233816349_ward_skyVnR5rUhv8qGSi_0.00.json (2026-10-18 23:38:16 KST)
+- data/collect/20261018/random/r_233548071_ward_skyVnR5rUhv8qGSi_0.00.jpg (2026-10-18 23:35:48 KST)
+- data/collect/20261018/random/r_233548071_ward_skyVnR5rUhv8qGSi_0.00.json (2026-10-18 23:35:48 KST)
 
 ## 점검 결과 요약
 
