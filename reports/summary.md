@@ -1,25 +1,25 @@
 # 프로젝트 상태 요약
 
-- 전체 프로젝트 개수: 21
+- 전체 프로젝트 개수: 20
 - 프론트엔드 프로젝트 개수: 4
 - 백엔드 프로젝트 개수: 8
-- AI 서버 프로젝트 개수: 7
-- DB 사용 프로젝트 개수: 9
-- Git 저장소 프로젝트 개수: 17
-- 실행 중인 서비스 개수: 16
+- AI 서버 프로젝트 개수: 6
+- DB 사용 프로젝트 개수: 8
+- Git 저장소 프로젝트 개수: 16
+- 실행 중인 서비스 개수: 15
 - 꺼져 있는 서비스 개수: 5
-- 마지막 스캔 시간: 2026-10-18 21:41:58 KST
+- 마지막 스캔 시간: 2026-10-18 22:12:03 KST
 
 ## 계정별 커밋 수
 
 | 계정 | 이메일별 커밋 수 | 합산 커밋 수 |
 | --- | --- | ---: |
-| gosky | lovesky00317@gmail.com (7737); gosky@gosky.kr (48); gosky.dev@gmail.com (5) | 7790 |
+| gosky | lovesky00317@gmail.com (7701); gosky@gosky.kr (33); gosky.dev@gmail.com (5) | 7739 |
 | YUNA0222 | gold8077@gmail.com (1441); 89885846+yuna0222@users.noreply.github.com (18) | 1459 |
-| skarndaudwls1 | skarndaudwls@gmail.com (1093); skarndaudwls1@gmail.com (89) | 1182 |
+| skarndaudwls1 | skarndaudwls@gmail.com (1077); skarndaudwls1@gmail.com (89) | 1166 |
 | Jaehe-he | hywuljh1@naver.com (701) | 701 |
 | yuna0222 | gold8077@gmail.com (345) | 345 |
-| namgung | skarndaudwls@gmail.com (22) | 22 |
+| namgung | skarndaudwls@gmail.com (11) | 11 |
 
 ## 프로젝트 목록
 
@@ -42,5 +42,4 @@
 - WhitehouseBE | 백엔드 | 실행 중 | DB 사용
 - WhiteHouseBELJH | 백엔드 | 실행 중 | DB 사용
 - WhitehouseFE | 프론트엔드 | 실행 중 | DB 미사용
-- wt-collect-random | AI 서버 | 실행 중 | DB 사용
 - xai-credit-scoring_sky | AI 서버 | 확인 불가 | DB 미사용

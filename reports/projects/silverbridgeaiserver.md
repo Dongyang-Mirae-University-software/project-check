@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-18 21:42:00 KST
+- 점검 시각: 2026-10-18 22:12:05 KST
 
 ## 추정 기술 스택
 
@@ -53,7 +53,7 @@
 
 - 사용 여부: 예
 - 연결 추정 DB: PostgreSQL, SQLite
-- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 156개 확인, DB 관련 파일 4개 확인, 추정 DB: PostgreSQL, SQLite
+- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 162개 확인, DB 관련 파일 4개 확인, 추정 DB: PostgreSQL, SQLite
 
 ## 실행 상태
 
@@ -65,24 +65,24 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 88
+- 총 커밋 수: 90
 - 계정별 커밋 수:
   - gosky <lovesky00317@gmail.com>: 37
   - skarndaudwls1 <skarndaudwls@gmail.com>: 16
   - gosky <gosky@gosky.kr>: 15
   - namgung <skarndaudwls@gmail.com>: 11
-- 최근 커밋: 699de5f / namgung <skarndaudwls@gmail.com> / Merge pull request #20 from Dongyang-Mirae-University-software/feature/live-infer-quality-timing
+- 최근 커밋: 461b3f0 / gosky <65769312+gosky2@users.noreply.github.com> / Merge pull request #21 from Dongyang-Mirae-University-software/feature/collect-random-frames
 
 ## 최근 수정 파일
 
+- app/services/training_sample_collector.py (2026-10-18 22:06:44 KST)
+- tests/test_training_sample_collector.py (2026-10-18 22:06:44 KST)
+- .env.example (2026-10-18 22:06:44 KST)
+- app/core/config.py (2026-10-18 22:06:44 KST)
+- app/services/stream_session_service.py (2026-10-18 22:06:44 KST)
+- .env (2026-10-18 22:03:06 KST)
 - models/new/knife.pt (2026-10-18 01:25:31 KST)
 - models/new/backup/knife_20261018-0125.pt (2026-10-18 01:25:31 KST)
-- data/collect/20261016/fire/near/151332615_ward_XMearkEqllaDvR81_0.56.jpg (2026-10-16 15:13:32 KST)
-- data/collect/20261016/fire/near/151332615_ward_XMearkEqllaDvR81_0.56.json (2026-10-16 15:13:32 KST)
-- data/collect/20261016/fire/near/143311369_ward_XMearkEqllaDvR81_0.37.jpg (2026-10-16 14:33:11 KST)
-- data/collect/20261016/fire/near/143311369_ward_XMearkEqllaDvR81_0.37.json (2026-10-16 14:33:11 KST)
-- data/collect/20261016/fire/near/143211382_ward_XMearkEqllaDvR81_0.36.jpg (2026-10-16 14:32:11 KST)
-- data/collect/20261016/fire/near/143211382_ward_XMearkEqllaDvR81_0.36.json (2026-10-16 14:32:11 KST)
 
 ## 점검 결과 요약
 
@@ -90,5 +90,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 88
+- Git 커밋 수: 90
 - Git 상위 계정: gosky(37), skarndaudwls1(16), gosky(15)
