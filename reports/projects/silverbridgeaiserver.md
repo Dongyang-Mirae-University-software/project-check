@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-19 15:15:12 KST
+- 점검 시각: 2026-10-19 15:45:18 KST
 
 ## 추정 기술 스택
 
@@ -44,7 +44,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 3492
+- 파일 개수: 3600
 - 디렉토리 개수: 130
 - 주요 폴더: app, data, docs, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, models/new/backup, tests
@@ -58,7 +58,7 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1000, 1008, 1024, 2000, 5432, 6012, 6015, 6017, 6019, 6236, 10679, 12345, 16532, 16939, 17182, 21193, 26259, 26384, 26647, 26987, 27101, 27145, 27267, 27568, 27573, 28070, 28074, 28170, 28521, 30666, 32366, 32490, 34585, 35467, 36553, 36743, 37241, 38196, 39511, 39832, 40818, 40828, 41410, 41457, 41501, 41504, 41686, 41831, 41839, 42505, 42660, 42816, 42969, 43822, 44048, 44837, 47075, 47366, 48054, 48833, 50034, 50961, 51916, 52307, 53184
+- 관련 포트: 1000, 1008, 1017, 1024, 1043, 1045, 1046, 2000, 5432, 6012, 6015, 6017, 6019, 12345, 14844, 17313, 18612, 19064, 19191, 19597, 19880, 20301, 20375, 20646, 20674, 20897, 20941, 20960, 21065, 21110, 21206, 21242, 21395, 21413, 21477, 21725, 21735, 22332, 23534, 23814, 24924, 25635, 25849, 26837, 29801, 35032, 35755, 36105, 36262, 38443, 40828, 41789, 42360, 42616, 45173, 46985, 54915, 57015, 60486, 62506, 62697, 62785, 63792, 63901, 64163, 64693
 - 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
@@ -75,14 +75,14 @@
 
 ## 최근 수정 파일
 
-- tests/test_live_multi_detection.py (2026-10-19 15:00:50 KST)
-- .env.example (2026-10-19 15:00:50 KST)
-- app/core/config.py (2026-10-19 15:00:50 KST)
-- app/services/fall_detection_service.py (2026-10-19 15:00:50 KST)
-- app/services/fall_hold_tracker.py (2026-10-19 15:00:50 KST)
-- app/services/stream_session_service.py (2026-10-19 15:00:50 KST)
-- app/services/yolo_class_detector.py (2026-10-19 15:00:50 KST)
-- tests/test_fall_max_box_area.py (2026-10-19 15:00:50 KST)
+- data/collect/20261019/knife/near/154513902_ward_tcRgQlszTGw8Wmis_0.51.jpg (2026-10-19 15:45:13 KST)
+- data/collect/20261019/knife/near/154513902_ward_tcRgQlszTGw8Wmis_0.51.json (2026-10-19 15:45:13 KST)
+- data/collect/20261019/fire/near/154508838_ward_tcRgQlszTGw8Wmis_0.52.jpg (2026-10-19 15:45:08 KST)
+- data/collect/20261019/fire/near/154508838_ward_tcRgQlszTGw8Wmis_0.52.json (2026-10-19 15:45:08 KST)
+- data/collect/20261019/fire/alert/154501370_ward_tcRgQlszTGw8Wmis_0.78.jpg (2026-10-19 15:45:01 KST)
+- data/collect/20261019/fire/alert/154501370_ward_tcRgQlszTGw8Wmis_0.78.json (2026-10-19 15:45:01 KST)
+- data/collect/20261019/knife/near/154457995_ward_tcRgQlszTGw8Wmis_0.32.jpg (2026-10-19 15:44:57 KST)
+- data/collect/20261019/knife/near/154457995_ward_tcRgQlszTGw8Wmis_0.32.json (2026-10-19 15:44:57 KST)
 
 ## 점검 결과 요약
 

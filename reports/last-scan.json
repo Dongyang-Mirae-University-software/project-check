@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-19T06:15:10.159Z",
-  "generatedAtKst": "2026-10-19 15:15:10 KST",
+  "generatedAt": "2026-10-19T06:45:15.825Z",
+  "generatedAtKst": "2026-10-19 15:45:15 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7735
+          "count": 7736
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7773
+      "count": 7774
     },
     {
       "name": "YUNA0222",
@@ -1276,22 +1276,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7598,
+        "commitCount": 7599,
         "authors": [
           {
-            "count": 7598,
+            "count": 7599,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "f15e7d6ba",
+          "hash": "e6689fb8b",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-19T14:45:08+09:00",
+          "date": "2026-10-19T15:15:13+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7598개 커밋, 상위 계정: gosky(7598), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7599개 커밋, 상위 계정: gosky(7599), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1332,8 +1332,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7598",
-        "Git 상위 계정: gosky(7598)"
+        "Git 커밋 수: 7599",
+        "Git 상위 계정: gosky(7599)"
       ]
     },
     {
@@ -1476,7 +1476,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 14 minutes",
+            "status": "Up 44 minutes",
             "ports": ""
           }
         ],
@@ -1662,7 +1662,7 @@
         }
       ],
       "structure": {
-        "fileCount": 3492,
+        "fileCount": 3600,
         "dirCount": 130,
         "mainFolders": [
           "app",
@@ -1716,7 +1716,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 14 minutes",
+            "status": "Up 44 minutes",
             "ports": ""
           }
         ],
@@ -1730,69 +1730,70 @@
         "allCandidatePorts": [
           1000,
           1008,
+          1017,
           1024,
+          1043,
+          1045,
+          1046,
           2000,
           5432,
           6012,
           6015,
           6017,
           6019,
-          6236,
-          10679,
           12345,
-          16532,
-          16939,
-          17182,
-          21193,
-          26259,
-          26384,
-          26647,
-          26987,
-          27101,
-          27145,
-          27267,
-          27568,
-          27573,
-          28070,
-          28074,
-          28170,
-          28521,
-          30666,
-          32366,
-          32490,
-          34585,
-          35467,
-          36553,
-          36743,
-          37241,
-          38196,
-          39511,
-          39832,
-          40818,
+          14844,
+          17313,
+          18612,
+          19064,
+          19191,
+          19597,
+          19880,
+          20301,
+          20375,
+          20646,
+          20674,
+          20897,
+          20941,
+          20960,
+          21065,
+          21110,
+          21206,
+          21242,
+          21395,
+          21413,
+          21477,
+          21725,
+          21735,
+          22332,
+          23534,
+          23814,
+          24924,
+          25635,
+          25849,
+          26837,
+          29801,
+          35032,
+          35755,
+          36105,
+          36262,
+          38443,
           40828,
-          41410,
-          41457,
-          41501,
-          41504,
-          41686,
-          41831,
-          41839,
-          42505,
-          42660,
-          42816,
-          42969,
-          43822,
-          44048,
-          44837,
-          47075,
-          47366,
-          48054,
-          48833,
-          50034,
-          50961,
-          51916,
-          52307,
-          53184
+          41789,
+          42360,
+          42616,
+          45173,
+          46985,
+          54915,
+          57015,
+          60486,
+          62506,
+          62697,
+          62785,
+          63792,
+          63901,
+          64163,
+          64693
         ],
         "summary": [
           "실행 중",
@@ -1838,36 +1839,36 @@
       },
       "recentFiles": [
         {
-          "path": "tests/test_live_multi_detection.py",
-          "modifiedAt": "2026-10-19T06:00:50.143Z"
+          "path": "data/collect/20261019/knife/near/154513902_ward_tcRgQlszTGw8Wmis_0.51.jpg",
+          "modifiedAt": "2026-10-19T06:45:13.895Z"
         },
         {
-          "path": ".env.example",
-          "modifiedAt": "2026-10-19T06:00:50.139Z"
+          "path": "data/collect/20261019/knife/near/154513902_ward_tcRgQlszTGw8Wmis_0.51.json",
+          "modifiedAt": "2026-10-19T06:45:13.895Z"
         },
         {
-          "path": "app/core/config.py",
-          "modifiedAt": "2026-10-19T06:00:50.139Z"
+          "path": "data/collect/20261019/fire/near/154508838_ward_tcRgQlszTGw8Wmis_0.52.jpg",
+          "modifiedAt": "2026-10-19T06:45:08.831Z"
         },
         {
-          "path": "app/services/fall_detection_service.py",
-          "modifiedAt": "2026-10-19T06:00:50.139Z"
+          "path": "data/collect/20261019/fire/near/154508838_ward_tcRgQlszTGw8Wmis_0.52.json",
+          "modifiedAt": "2026-10-19T06:45:08.831Z"
         },
         {
-          "path": "app/services/fall_hold_tracker.py",
-          "modifiedAt": "2026-10-19T06:00:50.139Z"
+          "path": "data/collect/20261019/fire/alert/154501370_ward_tcRgQlszTGw8Wmis_0.78.jpg",
+          "modifiedAt": "2026-10-19T06:45:01.364Z"
         },
         {
-          "path": "app/services/stream_session_service.py",
-          "modifiedAt": "2026-10-19T06:00:50.139Z"
+          "path": "data/collect/20261019/fire/alert/154501370_ward_tcRgQlszTGw8Wmis_0.78.json",
+          "modifiedAt": "2026-10-19T06:45:01.364Z"
         },
         {
-          "path": "app/services/yolo_class_detector.py",
-          "modifiedAt": "2026-10-19T06:00:50.139Z"
+          "path": "data/collect/20261019/knife/near/154457995_ward_tcRgQlszTGw8Wmis_0.32.jpg",
+          "modifiedAt": "2026-10-19T06:44:57.992Z"
         },
         {
-          "path": "tests/test_fall_max_box_area.py",
-          "modifiedAt": "2026-10-19T06:00:50.139Z"
+          "path": "data/collect/20261019/knife/near/154457995_ward_tcRgQlszTGw8Wmis_0.32.json",
+          "modifiedAt": "2026-10-19T06:44:57.992Z"
         }
       ],
       "summary": [
