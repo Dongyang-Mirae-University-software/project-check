@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-19T06:45:15.825Z",
-  "generatedAtKst": "2026-10-19 15:45:15 KST",
+  "generatedAt": "2026-10-19T07:15:21.727Z",
+  "generatedAtKst": "2026-10-19 16:15:21 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7736
+          "count": 7737
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7774
+      "count": 7775
     },
     {
       "name": "YUNA0222",
@@ -1276,22 +1276,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7599,
+        "commitCount": 7600,
         "authors": [
           {
-            "count": 7599,
+            "count": 7600,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "e6689fb8b",
+          "hash": "ce37b5ee5",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-19T15:15:13+09:00",
+          "date": "2026-10-19T15:45:19+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7599개 커밋, 상위 계정: gosky(7599), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7600개 커밋, 상위 계정: gosky(7600), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1332,8 +1332,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7599",
-        "Git 상위 계정: gosky(7599)"
+        "Git 커밋 수: 7600",
+        "Git 상위 계정: gosky(7600)"
       ]
     },
     {
@@ -1476,7 +1476,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 44 minutes",
+            "status": "Up About an hour",
             "ports": ""
           }
         ],
@@ -1662,7 +1662,7 @@
         }
       ],
       "structure": {
-        "fileCount": 3600,
+        "fileCount": 3654,
         "dirCount": 130,
         "mainFolders": [
           "app",
@@ -1716,7 +1716,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 44 minutes",
+            "status": "Up About an hour",
             "ports": ""
           }
         ],
@@ -1730,25 +1730,44 @@
         "allCandidatePorts": [
           1000,
           1008,
-          1017,
           1024,
-          1043,
-          1045,
-          1046,
           2000,
           5432,
           6012,
           6015,
           6017,
           6019,
+          11502,
+          11740,
+          11901,
+          12121,
           12345,
+          13527,
+          14496,
           14844,
+          15457,
+          15916,
+          16315,
+          16755,
+          17278,
           17313,
+          17359,
+          17821,
+          18016,
+          18065,
+          18257,
+          18349,
           18612,
           19064,
+          19091,
+          19185,
           19191,
+          19260,
           19597,
           19880,
+          20129,
+          20228,
+          20249,
           20301,
           20375,
           20646,
@@ -1766,34 +1785,19 @@
           21725,
           21735,
           22332,
+          23454,
           23534,
           23814,
           24924,
-          25635,
+          25101,
           25849,
+          26090,
+          26575,
           26837,
-          29801,
           35032,
           35755,
-          36105,
           36262,
-          38443,
-          40828,
-          41789,
-          42360,
-          42616,
-          45173,
-          46985,
-          54915,
-          57015,
-          60486,
-          62506,
-          62697,
-          62785,
-          63792,
-          63901,
-          64163,
-          64693
+          38443
         ],
         "summary": [
           "실행 중",
@@ -1839,36 +1843,36 @@
       },
       "recentFiles": [
         {
-          "path": "data/collect/20261019/knife/near/154513902_ward_tcRgQlszTGw8Wmis_0.51.jpg",
-          "modifiedAt": "2026-10-19T06:45:13.895Z"
+          "path": "data/collect/20261019/fire/alert/154801147_ward_tcRgQlszTGw8Wmis_0.80.jpg",
+          "modifiedAt": "2026-10-19T06:48:01.143Z"
         },
         {
-          "path": "data/collect/20261019/knife/near/154513902_ward_tcRgQlszTGw8Wmis_0.51.json",
-          "modifiedAt": "2026-10-19T06:45:13.895Z"
+          "path": "data/collect/20261019/fire/alert/154801147_ward_tcRgQlszTGw8Wmis_0.80.json",
+          "modifiedAt": "2026-10-19T06:48:01.143Z"
         },
         {
-          "path": "data/collect/20261019/fire/near/154508838_ward_tcRgQlszTGw8Wmis_0.52.jpg",
-          "modifiedAt": "2026-10-19T06:45:08.831Z"
+          "path": "data/collect/20261019/fire/alert/154751042_ward_tcRgQlszTGw8Wmis_0.80.jpg",
+          "modifiedAt": "2026-10-19T06:47:51.036Z"
         },
         {
-          "path": "data/collect/20261019/fire/near/154508838_ward_tcRgQlszTGw8Wmis_0.52.json",
-          "modifiedAt": "2026-10-19T06:45:08.831Z"
+          "path": "data/collect/20261019/fire/alert/154751042_ward_tcRgQlszTGw8Wmis_0.80.json",
+          "modifiedAt": "2026-10-19T06:47:51.036Z"
         },
         {
-          "path": "data/collect/20261019/fire/alert/154501370_ward_tcRgQlszTGw8Wmis_0.78.jpg",
-          "modifiedAt": "2026-10-19T06:45:01.364Z"
+          "path": "data/collect/20261019/fire/alert/154741014_ward_tcRgQlszTGw8Wmis_0.73.jpg",
+          "modifiedAt": "2026-10-19T06:47:41.008Z"
         },
         {
-          "path": "data/collect/20261019/fire/alert/154501370_ward_tcRgQlszTGw8Wmis_0.78.json",
-          "modifiedAt": "2026-10-19T06:45:01.364Z"
+          "path": "data/collect/20261019/fire/alert/154741014_ward_tcRgQlszTGw8Wmis_0.73.json",
+          "modifiedAt": "2026-10-19T06:47:41.008Z"
         },
         {
-          "path": "data/collect/20261019/knife/near/154457995_ward_tcRgQlszTGw8Wmis_0.32.jpg",
-          "modifiedAt": "2026-10-19T06:44:57.992Z"
+          "path": "data/collect/20261019/fire/alert/154730991_ward_tcRgQlszTGw8Wmis_0.71.jpg",
+          "modifiedAt": "2026-10-19T06:47:30.988Z"
         },
         {
-          "path": "data/collect/20261019/knife/near/154457995_ward_tcRgQlszTGw8Wmis_0.32.json",
-          "modifiedAt": "2026-10-19T06:44:57.992Z"
+          "path": "data/collect/20261019/fire/alert/154730991_ward_tcRgQlszTGw8Wmis_0.71.json",
+          "modifiedAt": "2026-10-19T06:47:30.988Z"
         }
       ],
       "summary": [
