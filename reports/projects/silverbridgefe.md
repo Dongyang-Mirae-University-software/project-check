@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-20 13:19:23 KST
+- 점검 시각: 2026-10-20 13:49:28 KST
 
 ## 추정 기술 스택
 
@@ -58,21 +58,21 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1253
+- 총 커밋 수: 1255
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 345
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 52
-  - gosky <gosky@gosky.kr>: 19
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 53
+  - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 8a560b9 / gosky <gosky@gosky.kr> / fix: prod compose 프로젝트명(silver-bridge-fe-prod) 분리 - dev와 같은 디렉터리라 기본 프로젝트명이 겹쳐 prod up 시 dev 컨테이너가 교체되는 것 방지
+- 최근 커밋: 996ac32 / namgung <skarndaudwls@gmail.com> / Merge pull request #82 from Dongyang-Mirae-University-software/feature/guardian-hospital-submit-hint
 
 ## 최근 수정 파일
 
+- src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.tsx (2026-10-20 13:40:08 KST)
 - docker-compose.prod.yml (2026-10-20 11:53:54 KST)
 - Dockerfile (2026-10-20 11:50:05 KST)
-- src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.tsx (2026-10-20 11:06:53 KST)
 - docker-compose.dev.yml (2026-10-20 11:06:49 KST)
 - src/app/api/reservation/[...path]/route.ts (2026-10-20 11:06:49 KST)
 - src/lib/server/reservationConfig.test.ts (2026-10-20 11:06:49 KST)
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1253
-- Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(52)
+- Git 커밋 수: 1255
+- Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(53)
