@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-10-20 12:49:18 KST
+- 점검 시각: 2026-10-20 13:19:23 KST
 
 ## 추정 기술 스택
 
@@ -57,22 +57,22 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1076
+- 총 커밋 수: 1078
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 898
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 899
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
   - gosky <gosky@gosky.kr>: 2
-- 최근 커밋: 9fdb5ff / gosky <gosky@gosky.kr> / fix: prod compose 프로젝트명(dmu-prod) 분리 - dev와 같은 디렉터리라 기본 프로젝트명이 겹쳐 prod up 시 dev 컨테이너가 교체되던 문제 수정
+- 최근 커밋: 703607d / namgung <skarndaudwls@gmail.com> / Merge pull request #359 from Dongyang-Mirae-University-software/fix/chat-ward-id-audit-findings
 
 ## 최근 수정 파일
 
+- docs/(2026-10-20) audit-chat-ward-id-validation.md (2026-10-20 13:04:28 KST)
+- docs/audit-index.md (2026-10-20 13:04:28 KST)
+- docs/progress.md (2026-10-20 13:04:28 KST)
 - docker-compose.prod.yml (2026-10-20 11:53:28 KST)
 - docs/(2026-10-20) fix-chat-reservation-security.md (2026-10-20 11:48:57 KST)
-- docs/audit-index.md (2026-10-20 11:48:57 KST)
-- docs/progress.md (2026-10-20 11:48:57 KST)
 - CLAUDE.md (2026-10-20 11:48:57 KST)
-- docs/(2026-10-20) audit-chat-ward-id-validation.md (2026-10-20 11:48:57 KST)
 - docs/(2026-10-16) test-ai-knife-hold-quality-speed.md (2026-10-20 11:11:11 KST)
 - docs/(2026-10-20) analysis-ai-chat-reservation.md (2026-10-20 11:11:11 KST)
 
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1076
-- Git 상위 계정: skarndaudwls1(898), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1078
+- Git 상위 계정: skarndaudwls1(899), skarndaudwls1(65), gosky(4)
