@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-10-20 11:19:01 KST
+- 점검 시각: 2026-10-20 11:49:07 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 229
+- 파일 개수: 232
 - 디렉토리 개수: 33
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/integrationTest, src/integrationTest/java, src/integrationTest/java/kr, src/integrationTest/java/kr/silverbridge, src/integrationTest/java/kr/silverbridge/main, src/integrationTest/java/kr/silverbridge/main/domain, src/integrationTest/java/kr/silverbridge/main/migration, src/integrationTest/java/kr/silverbridge/main/support, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration, src/test
@@ -50,30 +50,31 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1024, 1536, 2000, 3000, 5173, 5432, 6379, 6510, 6511, 6513, 6514, 8080, 10000, 10485, 18000, 60480
+- 관련 포트: 1024, 1536, 2000, 3000, 5173, 5432, 6011, 6013, 6014, 6379, 6510, 6511, 6513, 6514, 8080, 10000, 10485, 18000, 60480
 - 관련 Docker 컨테이너: 확인 불가
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1069
+- 총 커밋 수: 1075
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 897
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 898
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
-- 최근 커밋: 2b779ed / namgung <skarndaudwls@gmail.com> / Merge pull request #356 from Dongyang-Mirae-University-software/fix/chat-ward-id-validation
+  - gosky <gosky@gosky.kr>: 1
+- 최근 커밋: 3044268 / gosky <gosky@gosky.kr> / chore: 운영(prod) docker compose 추가 - dmu-prod-api/db/redis 컨테이너, dmu-prod-net 네트워크 분리 - 호스트 루프백 6011/6013/6014 publish (nginx api.dmu.gosky.kr → 6011) - 데이터는 .data/prod/{postgres,redis,clips} 바인드 마운트 - 비밀값은 .env.prod (git 제외)
 
 ## 최근 수정 파일
 
+- docker-compose.prod.yml (2026-10-20 11:48:57 KST)
+- docs/(2026-10-20) fix-chat-reservation-security.md (2026-10-20 11:48:57 KST)
+- docs/audit-index.md (2026-10-20 11:48:57 KST)
+- docs/progress.md (2026-10-20 11:48:57 KST)
+- CLAUDE.md (2026-10-20 11:48:57 KST)
+- docs/(2026-10-20) audit-chat-ward-id-validation.md (2026-10-20 11:48:57 KST)
 - docs/(2026-10-16) test-ai-knife-hold-quality-speed.md (2026-10-20 11:11:11 KST)
 - docs/(2026-10-20) analysis-ai-chat-reservation.md (2026-10-20 11:11:11 KST)
-- src/main/resources/db/migration/V61__add_camera_link_lost_to_guardian_notification_preference.sql (2026-10-16 13:30:59 KST)
-- CLAUDE.md (2026-10-16 13:30:59 KST)
-- docs/(2026-10-16) audit-impact-anomaly-multi-danger-link-health.md (2026-10-16 13:30:59 KST)
-- docs/(2026-10-16) feature-anomaly-multi-danger-and-ai-link-health.md (2026-10-16 13:30:59 KST)
-- docs/audit-index.md (2026-10-16 13:30:59 KST)
-- docs/progress.md (2026-10-16 13:30:59 KST)
 
 ## 점검 결과 요약
 
@@ -81,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1069
-- Git 상위 계정: skarndaudwls1(897), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1075
+- Git 상위 계정: skarndaudwls1(898), skarndaudwls1(65), gosky(4)

@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-20T02:18:59.426Z",
-  "generatedAtKst": "2026-10-20 11:18:59 KST",
+  "generatedAt": "2026-10-20T02:49:05.251Z",
+  "generatedAtKst": "2026-10-20 11:49:05 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,18 +19,18 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7775
+          "count": 7776
         },
         {
           "email": "gosky@gosky.kr",
-          "count": 32
+          "count": 33
         },
         {
           "email": "gosky.dev@gmail.com",
           "count": 5
         }
       ],
-      "count": 7812
+      "count": 7814
     },
     {
       "name": "YUNA0222",
@@ -51,14 +51,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 1094
+          "count": 1095
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 1183
+      "count": 1184
     },
     {
       "name": "Jaehe-he",
@@ -1276,22 +1276,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7638,
+        "commitCount": 7639,
         "authors": [
           {
-            "count": 7638,
+            "count": 7639,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "8c5b2a087",
+          "hash": "bf6cc62d2",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-20T10:48:57+09:00",
+          "date": "2026-10-20T11:19:03+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7638개 커밋, 상위 계정: gosky(7638), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7639개 커밋, 상위 계정: gosky(7639), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1332,8 +1332,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7638",
-        "Git 상위 계정: gosky(7638)"
+        "Git 커밋 수: 7639",
+        "Git 상위 계정: gosky(7639)"
       ]
     },
     {
@@ -1476,7 +1476,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 12 minutes",
+            "status": "Up 42 minutes",
             "ports": ""
           }
         ],
@@ -1716,7 +1716,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 12 minutes",
+            "status": "Up 42 minutes",
             "ports": ""
           }
         ],
@@ -1831,11 +1831,11 @@
       },
       "recentFiles": [
         {
-          "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-10-20T02:19:00.570Z"
+          "path": "data/postgres/pg_wal/000000010000000000000002",
+          "modifiedAt": "2026-10-20T02:19:04.374Z"
         },
         {
-          "path": "data/postgres/pg_wal/000000010000000000000002",
+          "path": "data/postgres/global/pg_control",
           "modifiedAt": "2026-10-20T02:19:00.570Z"
         },
         {
@@ -1965,7 +1965,7 @@
         }
       ],
       "structure": {
-        "fileCount": 229,
+        "fileCount": 232,
         "dirCount": 33,
         "mainFolders": [
           "db",
@@ -2018,11 +2018,11 @@
         "docker": [],
         "ports": [
           5432,
+          6011,
+          6013,
+          6014,
           6379,
-          6510,
-          6511,
-          6513,
-          6514
+          6510
         ],
         "allCandidatePorts": [
           1024,
@@ -2031,6 +2031,9 @@
           3000,
           5173,
           5432,
+          6011,
+          6013,
+          6014,
           6379,
           6510,
           6511,
@@ -2046,16 +2049,16 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 5432, 6379, 6510, 6511, 6513, 6514"
+          "포트 5432, 6011, 6013, 6014, 6379, 6510"
         ]
       },
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 1069,
+        "commitCount": 1075,
         "authors": [
           {
-            "count": 897,
+            "count": 898,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2068,18 +2071,47 @@
             "count": 4,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
+          },
+          {
+            "count": 1,
+            "name": "gosky",
+            "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "2b779ed",
-          "author": "namgung",
-          "email": "skarndaudwls@gmail.com",
-          "date": "2026-10-20T11:10:49+09:00",
-          "subject": "Merge pull request #356 from Dongyang-Mirae-University-software/fix/chat-ward-id-validation"
+          "hash": "3044268",
+          "author": "gosky",
+          "email": "gosky@gosky.kr",
+          "date": "2026-10-20T11:48:30+09:00",
+          "subject": "chore: 운영(prod) docker compose 추가 - dmu-prod-api/db/redis 컨테이너, dmu-prod-net 네트워크 분리 - 호스트 루프백 6011/6013/6014 publish (nginx api.dmu.gosky.kr → 6011) - 데이터는 .data/prod/{postgres,redis,clips} 바인드 마운트 - 비밀값은 .env.prod (git 제외)"
         },
-        "summary": "총 1069개 커밋, 상위 계정: skarndaudwls1(897), skarndaudwls1(65), gosky(4), 최근: Merge pull request #356 from Dongyang-Mirae-University-software/fix/chat-ward-id-validation"
+        "summary": "총 1075개 커밋, 상위 계정: skarndaudwls1(898), skarndaudwls1(65), gosky(4), 최근: chore: 운영(prod) docker compose 추가 - dmu-prod-api/db/redis 컨테이너, dmu-prod-net 네트워크 분리 - 호스트 루프백 6011/6013/6014 publish (nginx api.dmu.gosky.kr → 6011) - 데이터는 .data/prod/{postgres,redis,clips} 바인드 마운트 - 비밀값은 .env.prod (git 제외)"
       },
       "recentFiles": [
+        {
+          "path": "docker-compose.prod.yml",
+          "modifiedAt": "2026-10-20T02:48:57.998Z"
+        },
+        {
+          "path": "docs/(2026-10-20) fix-chat-reservation-security.md",
+          "modifiedAt": "2026-10-20T02:48:57.994Z"
+        },
+        {
+          "path": "docs/audit-index.md",
+          "modifiedAt": "2026-10-20T02:48:57.994Z"
+        },
+        {
+          "path": "docs/progress.md",
+          "modifiedAt": "2026-10-20T02:48:57.994Z"
+        },
+        {
+          "path": "CLAUDE.md",
+          "modifiedAt": "2026-10-20T02:48:57.990Z"
+        },
+        {
+          "path": "docs/(2026-10-20) audit-chat-ward-id-validation.md",
+          "modifiedAt": "2026-10-20T02:48:57.990Z"
+        },
         {
           "path": "docs/(2026-10-16) test-ai-knife-hold-quality-speed.md",
           "modifiedAt": "2026-10-20T02:11:11.198Z"
@@ -2087,30 +2119,6 @@
         {
           "path": "docs/(2026-10-20) analysis-ai-chat-reservation.md",
           "modifiedAt": "2026-10-20T02:11:11.198Z"
-        },
-        {
-          "path": "src/main/resources/db/migration/V61__add_camera_link_lost_to_guardian_notification_preference.sql",
-          "modifiedAt": "2026-10-16T04:30:59.836Z"
-        },
-        {
-          "path": "CLAUDE.md",
-          "modifiedAt": "2026-10-16T04:30:59.832Z"
-        },
-        {
-          "path": "docs/(2026-10-16) audit-impact-anomaly-multi-danger-link-health.md",
-          "modifiedAt": "2026-10-16T04:30:59.832Z"
-        },
-        {
-          "path": "docs/(2026-10-16) feature-anomaly-multi-danger-and-ai-link-health.md",
-          "modifiedAt": "2026-10-16T04:30:59.832Z"
-        },
-        {
-          "path": "docs/audit-index.md",
-          "modifiedAt": "2026-10-16T04:30:59.832Z"
-        },
-        {
-          "path": "docs/progress.md",
-          "modifiedAt": "2026-10-16T04:30:59.832Z"
         }
       ],
       "summary": [
@@ -2118,8 +2126,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1069",
-        "Git 상위 계정: skarndaudwls1(897), skarndaudwls1(65), gosky(4)"
+        "Git 커밋 수: 1075",
+        "Git 상위 계정: skarndaudwls1(898), skarndaudwls1(65), gosky(4)"
       ]
     },
     {
@@ -2710,7 +2718,7 @@
           {
             "name": "silverbridgereservation-reservation-api-1",
             "image": "silverbridgereservation-reservation-api",
-            "status": "Up 23 minutes",
+            "status": "Up 53 minutes",
             "ports": "127.0.0.1:6015->6015/tcp"
           }
         ],
