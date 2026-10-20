@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-20T05:19:31.392Z",
-  "generatedAtKst": "2026-10-20 14:19:31 KST",
+  "generatedAt": "2026-10-20T05:49:36.789Z",
+  "generatedAtKst": "2026-10-20 14:49:36 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7781
+          "count": 7782
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7827
+      "count": 7828
     },
     {
       "name": "YUNA0222",
@@ -51,14 +51,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 1097
+          "count": 1099
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 1186
+      "count": 1188
     },
     {
       "name": "Jaehe-he",
@@ -1276,22 +1276,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7644,
+        "commitCount": 7645,
         "authors": [
           {
-            "count": 7644,
+            "count": 7645,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "20ce05907",
+          "hash": "e47fbca15",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-20T13:49:29+09:00",
+          "date": "2026-10-20T14:19:35+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7644개 커밋, 상위 계정: gosky(7644), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7645개 커밋, 상위 계정: gosky(7645), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1332,8 +1332,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7644",
-        "Git 상위 계정: gosky(7644)"
+        "Git 커밋 수: 7645",
+        "Git 상위 계정: gosky(7645)"
       ]
     },
     {
@@ -1476,7 +1476,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 23 minutes",
+            "status": "Up 53 minutes",
             "ports": ""
           }
         ],
@@ -1716,7 +1716,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 23 minutes",
+            "status": "Up 53 minutes",
             "ports": ""
           }
         ],
@@ -2058,7 +2058,7 @@
         "commitCount": 1078,
         "authors": [
           {
-            "count": 899,
+            "count": 901,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2085,7 +2085,7 @@
           "date": "2026-10-20T13:03:58+09:00",
           "subject": "Merge pull request #359 from Dongyang-Mirae-University-software/fix/chat-ward-id-audit-findings"
         },
-        "summary": "총 1078개 커밋, 상위 계정: skarndaudwls1(899), skarndaudwls1(65), gosky(4), 최근: Merge pull request #359 from Dongyang-Mirae-University-software/fix/chat-ward-id-audit-findings"
+        "summary": "총 1078개 커밋, 상위 계정: skarndaudwls1(901), skarndaudwls1(65), gosky(4), 최근: Merge pull request #359 from Dongyang-Mirae-University-software/fix/chat-ward-id-audit-findings"
       },
       "recentFiles": [
         {
@@ -2127,7 +2127,7 @@
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
         "Git 커밋 수: 1078",
-        "Git 상위 계정: skarndaudwls1(899), skarndaudwls1(65), gosky(4)"
+        "Git 상위 계정: skarndaudwls1(901), skarndaudwls1(65), gosky(4)"
       ]
     },
     {
@@ -2720,7 +2720,7 @@
           {
             "name": "silverbridgereservation-reservation-api-1",
             "image": "silverbridgereservation-reservation-api",
-            "status": "Up 3 hours",
+            "status": "Up 4 hours",
             "ports": "127.0.0.1:6015->6015/tcp"
           }
         ],
