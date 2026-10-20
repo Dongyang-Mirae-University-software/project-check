@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-20 21:20:51 KST
+- 점검 시각: 2026-10-20 21:50:57 KST
 
 ## 추정 기술 스택
 
@@ -44,7 +44,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 3733
+- 파일 개수: 3741
 - 디렉토리 개수: 136
 - 주요 폴더: app, data, docs, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, models/new/backup, tests
@@ -58,7 +58,7 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1000, 1008, 1011, 1024, 1034, 1035, 2000, 5432, 6012, 6015, 6017, 6019, 10718, 10727, 11140, 12345, 13949, 14570, 15171, 15186, 15457, 15916, 16315, 17278, 17359, 56132, 56195
+- 관련 포트: 1000, 1008, 1011, 1012, 1024, 1034, 1035, 2000, 5432, 6012, 6015, 6017, 6019, 10718, 10727, 11140, 12345, 13949, 14570, 15171, 15186, 15315, 15329, 17359, 56132, 56195
 - 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
@@ -75,14 +75,14 @@
 
 ## 최근 수정 파일
 
-- data/postgres/pg_wal/000000010000000000000002 (2026-10-20 21:19:19 KST)
-- data/postgres/global/pg_control (2026-10-20 21:19:12 KST)
-- data/postgres/base/16384/32958 (2026-10-20 21:19:12 KST)
-- data/postgres/base/16384/32957 (2026-10-20 21:19:12 KST)
-- data/postgres/base/16384/32956 (2026-10-20 21:19:12 KST)
-- data/postgres/base/16384/32955 (2026-10-20 21:19:12 KST)
-- data/postgres/base/16384/32950 (2026-10-20 21:19:11 KST)
-- data/postgres/base/16384/32948 (2026-10-20 21:19:11 KST)
+- data/collect/20261020/fire/alert/212828805_ward_Wrqm2TVp8tcXyUBf_0.64.jpg (2026-10-20 21:28:28 KST)
+- data/collect/20261020/fire/alert/212828805_ward_Wrqm2TVp8tcXyUBf_0.64.json (2026-10-20 21:28:28 KST)
+- data/collect/20261020/fire/alert/212818764_ward_Wrqm2TVp8tcXyUBf_0.64.jpg (2026-10-20 21:28:18 KST)
+- data/collect/20261020/fire/alert/212818764_ward_Wrqm2TVp8tcXyUBf_0.64.json (2026-10-20 21:28:18 KST)
+- data/collect/20261020/fire/alert/212808739_ward_Wrqm2TVp8tcXyUBf_0.65.jpg (2026-10-20 21:28:08 KST)
+- data/collect/20261020/fire/alert/212808739_ward_Wrqm2TVp8tcXyUBf_0.65.json (2026-10-20 21:28:08 KST)
+- data/collect/20261020/fire/near/212806675_ward_Wrqm2TVp8tcXyUBf_0.66.jpg (2026-10-20 21:28:06 KST)
+- data/collect/20261020/fire/near/212806675_ward_Wrqm2TVp8tcXyUBf_0.66.json (2026-10-20 21:28:06 KST)
 
 ## 점검 결과 요약
 
