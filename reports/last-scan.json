@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-20T02:49:05.251Z",
-  "generatedAtKst": "2026-10-20 11:49:05 KST",
+  "generatedAt": "2026-10-20T03:19:10.384Z",
+  "generatedAtKst": "2026-10-20 12:19:10 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,18 +19,18 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7776
+          "count": 7777
         },
         {
           "email": "gosky@gosky.kr",
-          "count": 33
+          "count": 36
         },
         {
           "email": "gosky.dev@gmail.com",
           "count": 5
         }
       ],
-      "count": 7814
+      "count": 7818
     },
     {
       "name": "YUNA0222",
@@ -1276,22 +1276,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7639,
+        "commitCount": 7640,
         "authors": [
           {
-            "count": 7639,
+            "count": 7640,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "bf6cc62d2",
+          "hash": "3e3e556c2",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-20T11:19:03+09:00",
+          "date": "2026-10-20T11:49:08+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7639개 커밋, 상위 계정: gosky(7639), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7640개 커밋, 상위 계정: gosky(7640), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1332,8 +1332,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7639",
-        "Git 상위 계정: gosky(7639)"
+        "Git 커밋 수: 7640",
+        "Git 상위 계정: gosky(7640)"
       ]
     },
     {
@@ -1476,7 +1476,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 42 minutes",
+            "status": "Up About an hour",
             "ports": ""
           }
         ],
@@ -1716,7 +1716,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 42 minutes",
+            "status": "Up About an hour",
             "ports": ""
           }
         ],
@@ -2022,7 +2022,10 @@
           6013,
           6014,
           6379,
-          6510
+          6510,
+          6511,
+          6513,
+          6514
         ],
         "allCandidatePorts": [
           1024,
@@ -2049,13 +2052,13 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 5432, 6011, 6013, 6014, 6379, 6510"
+          "포트 5432, 6011, 6013, 6014, 6379, 6510, 6511, 6513, 6514"
         ]
       },
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 1075,
+        "commitCount": 1076,
         "authors": [
           {
             "count": 898,
@@ -2073,24 +2076,24 @@
             "email": "lovesky00317@gmail.com"
           },
           {
-            "count": 1,
+            "count": 2,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "3044268",
+          "hash": "9fdb5ff",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-10-20T11:48:30+09:00",
-          "subject": "chore: 운영(prod) docker compose 추가 - dmu-prod-api/db/redis 컨테이너, dmu-prod-net 네트워크 분리 - 호스트 루프백 6011/6013/6014 publish (nginx api.dmu.gosky.kr → 6011) - 데이터는 .data/prod/{postgres,redis,clips} 바인드 마운트 - 비밀값은 .env.prod (git 제외)"
+          "date": "2026-10-20T11:54:23+09:00",
+          "subject": "fix: prod compose 프로젝트명(dmu-prod) 분리 - dev와 같은 디렉터리라 기본 프로젝트명이 겹쳐 prod up 시 dev 컨테이너가 교체되던 문제 수정"
         },
-        "summary": "총 1075개 커밋, 상위 계정: skarndaudwls1(898), skarndaudwls1(65), gosky(4), 최근: chore: 운영(prod) docker compose 추가 - dmu-prod-api/db/redis 컨테이너, dmu-prod-net 네트워크 분리 - 호스트 루프백 6011/6013/6014 publish (nginx api.dmu.gosky.kr → 6011) - 데이터는 .data/prod/{postgres,redis,clips} 바인드 마운트 - 비밀값은 .env.prod (git 제외)"
+        "summary": "총 1076개 커밋, 상위 계정: skarndaudwls1(898), skarndaudwls1(65), gosky(4), 최근: fix: prod compose 프로젝트명(dmu-prod) 분리 - dev와 같은 디렉터리라 기본 프로젝트명이 겹쳐 prod up 시 dev 컨테이너가 교체되던 문제 수정"
       },
       "recentFiles": [
         {
           "path": "docker-compose.prod.yml",
-          "modifiedAt": "2026-10-20T02:48:57.998Z"
+          "modifiedAt": "2026-10-20T02:53:28.974Z"
         },
         {
           "path": "docs/(2026-10-20) fix-chat-reservation-security.md",
@@ -2126,7 +2129,7 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1075",
+        "Git 커밋 수: 1076",
         "Git 상위 계정: skarndaudwls1(898), skarndaudwls1(65), gosky(4)"
       ]
     },
@@ -2272,6 +2275,7 @@
         "docker": [],
         "ports": [
           6000,
+          6010,
           6015,
           6510,
           8000
@@ -2281,6 +2285,7 @@
           3000,
           4000,
           6000,
+          6010,
           6015,
           6510,
           8000,
@@ -2290,13 +2295,13 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 6000, 6015, 6510, 8000"
+          "포트 6000, 6010, 6015, 6510, 8000"
         ]
       },
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 1251,
+        "commitCount": 1253,
         "authors": [
           {
             "count": 1400,
@@ -2314,7 +2319,7 @@
             "email": "skarndaudwls@gmail.com"
           },
           {
-            "count": 17,
+            "count": 19,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           },
@@ -2330,15 +2335,23 @@
           }
         ],
         "latestCommit": {
-          "hash": "2d885da",
+          "hash": "8a560b9",
           "author": "gosky",
           "email": "gosky@gosky.kr",
-          "date": "2026-10-20T11:06:49+09:00",
-          "subject": "Merge remote-tracking branch 'origin/develop' into develop"
+          "date": "2026-10-20T11:54:25+09:00",
+          "subject": "fix: prod compose 프로젝트명(silver-bridge-fe-prod) 분리 - dev와 같은 디렉터리라 기본 프로젝트명이 겹쳐 prod up 시 dev 컨테이너가 교체되는 것 방지"
         },
-        "summary": "총 1251개 커밋, 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(52), 최근: Merge remote-tracking branch 'origin/develop' into develop"
+        "summary": "총 1253개 커밋, 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(52), 최근: fix: prod compose 프로젝트명(silver-bridge-fe-prod) 분리 - dev와 같은 디렉터리라 기본 프로젝트명이 겹쳐 prod up 시 dev 컨테이너가 교체되는 것 방지"
       },
       "recentFiles": [
+        {
+          "path": "docker-compose.prod.yml",
+          "modifiedAt": "2026-10-20T02:53:54.033Z"
+        },
+        {
+          "path": "Dockerfile",
+          "modifiedAt": "2026-10-20T02:50:05.233Z"
+        },
         {
           "path": "src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.tsx",
           "modifiedAt": "2026-10-20T02:06:53.879Z"
@@ -2362,14 +2375,6 @@
         {
           "path": "src/app/(guardian)/guardian/detection/_components/AnomalyHistoryContent.tsx",
           "modifiedAt": "2026-10-18T16:19:36.471Z"
-        },
-        {
-          "path": "src/app/(guardian)/guardian/detection/_components/AnomalyHistoryContent.module.css",
-          "modifiedAt": "2026-10-18T16:19:36.467Z"
-        },
-        {
-          "path": "src/app/(guardian)/guardian/detection/_components/AnomalyClipModal.module.css",
-          "modifiedAt": "2026-10-18T16:15:17.106Z"
         }
       ],
       "summary": [
@@ -2377,7 +2382,7 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1251",
+        "Git 커밋 수: 1253",
         "Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(52)"
       ]
     },
@@ -2718,7 +2723,7 @@
           {
             "name": "silverbridgereservation-reservation-api-1",
             "image": "silverbridgereservation-reservation-api",
-            "status": "Up 53 minutes",
+            "status": "Up About an hour",
             "ports": "127.0.0.1:6015->6015/tcp"
           }
         ],

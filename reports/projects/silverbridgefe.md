@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-20 11:49:07 KST
+- 점검 시각: 2026-10-20 12:19:12 KST
 
 ## 추정 기술 스택
 
@@ -51,33 +51,33 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1900, 3000, 4000, 6000, 6015, 6510, 8000, 60836
+- 관련 포트: 1900, 3000, 4000, 6000, 6010, 6015, 6510, 8000, 60836
 - 관련 Docker 컨테이너: 확인 불가
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1251
+- 총 커밋 수: 1253
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 345
   - skarndaudwls1 <skarndaudwls@gmail.com>: 52
-  - gosky <gosky@gosky.kr>: 17
+  - gosky <gosky@gosky.kr>: 19
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 2d885da / gosky <gosky@gosky.kr> / Merge remote-tracking branch 'origin/develop' into develop
+- 최근 커밋: 8a560b9 / gosky <gosky@gosky.kr> / fix: prod compose 프로젝트명(silver-bridge-fe-prod) 분리 - dev와 같은 디렉터리라 기본 프로젝트명이 겹쳐 prod up 시 dev 컨테이너가 교체되는 것 방지
 
 ## 최근 수정 파일
 
+- docker-compose.prod.yml (2026-10-20 11:53:54 KST)
+- Dockerfile (2026-10-20 11:50:05 KST)
 - src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.tsx (2026-10-20 11:06:53 KST)
 - docker-compose.dev.yml (2026-10-20 11:06:49 KST)
 - src/app/api/reservation/[...path]/route.ts (2026-10-20 11:06:49 KST)
 - src/lib/server/reservationConfig.test.ts (2026-10-20 11:06:49 KST)
 - src/lib/server/reservationConfig.ts (2026-10-20 11:06:49 KST)
 - src/app/(guardian)/guardian/detection/_components/AnomalyHistoryContent.tsx (2026-10-19 01:19:36 KST)
-- src/app/(guardian)/guardian/detection/_components/AnomalyHistoryContent.module.css (2026-10-19 01:19:36 KST)
-- src/app/(guardian)/guardian/detection/_components/AnomalyClipModal.module.css (2026-10-19 01:15:17 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1251
+- Git 커밋 수: 1253
 - Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(52)

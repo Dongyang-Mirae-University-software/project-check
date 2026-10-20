@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-10-20 11:49:07 KST
+- 점검 시각: 2026-10-20 12:19:12 KST
 
 ## 추정 기술 스택
 
@@ -57,17 +57,17 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1075
+- 총 커밋 수: 1076
 - 계정별 커밋 수:
   - skarndaudwls1 <skarndaudwls@gmail.com>: 898
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
-  - gosky <gosky@gosky.kr>: 1
-- 최근 커밋: 3044268 / gosky <gosky@gosky.kr> / chore: 운영(prod) docker compose 추가 - dmu-prod-api/db/redis 컨테이너, dmu-prod-net 네트워크 분리 - 호스트 루프백 6011/6013/6014 publish (nginx api.dmu.gosky.kr → 6011) - 데이터는 .data/prod/{postgres,redis,clips} 바인드 마운트 - 비밀값은 .env.prod (git 제외)
+  - gosky <gosky@gosky.kr>: 2
+- 최근 커밋: 9fdb5ff / gosky <gosky@gosky.kr> / fix: prod compose 프로젝트명(dmu-prod) 분리 - dev와 같은 디렉터리라 기본 프로젝트명이 겹쳐 prod up 시 dev 컨테이너가 교체되던 문제 수정
 
 ## 최근 수정 파일
 
-- docker-compose.prod.yml (2026-10-20 11:48:57 KST)
+- docker-compose.prod.yml (2026-10-20 11:53:28 KST)
 - docs/(2026-10-20) fix-chat-reservation-security.md (2026-10-20 11:48:57 KST)
 - docs/audit-index.md (2026-10-20 11:48:57 KST)
 - docs/progress.md (2026-10-20 11:48:57 KST)
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1075
+- Git 커밋 수: 1076
 - Git 상위 계정: skarndaudwls1(898), skarndaudwls1(65), gosky(4)
