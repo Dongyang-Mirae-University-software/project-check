@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-20T04:49:26.813Z",
-  "generatedAtKst": "2026-10-20 13:49:26 KST",
+  "generatedAt": "2026-10-20T05:19:31.392Z",
+  "generatedAtKst": "2026-10-20 14:19:31 KST",
   "summary": {
     "total": 20,
     "frontend": 4,
@@ -19,18 +19,18 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7780
+          "count": 7781
         },
         {
           "email": "gosky@gosky.kr",
-          "count": 37
+          "count": 41
         },
         {
           "email": "gosky.dev@gmail.com",
           "count": 5
         }
       ],
-      "count": 7822
+      "count": 7827
     },
     {
       "name": "YUNA0222",
@@ -1006,7 +1006,7 @@
         }
       ],
       "structure": {
-        "fileCount": 15,
+        "fileCount": 18,
         "dirCount": 3,
         "mainFolders": [
           "contest",
@@ -1042,6 +1042,22 @@
       },
       "recentFiles": [
         {
+          "path": "dev-server/nginx/testai.gosky.kr",
+          "modifiedAt": "2026-10-20T04:52:51.568Z"
+        },
+        {
+          "path": "dev-server/nginx/api.devdmu.gosky.kr",
+          "modifiedAt": "2026-10-20T04:52:51.544Z"
+        },
+        {
+          "path": "dev-server/nginx/api.dmu.gosky.kr",
+          "modifiedAt": "2026-10-20T04:52:51.544Z"
+        },
+        {
+          "path": "dev-server/nginx/conf.d-dmu-upstreams.conf",
+          "modifiedAt": "2026-10-20T04:52:51.544Z"
+        },
+        {
           "path": "dev-server/env-vars.md",
           "modifiedAt": "2026-10-15T09:02:53.900Z"
         },
@@ -1054,24 +1070,8 @@
           "modifiedAt": "2026-10-15T09:01:10.257Z"
         },
         {
-          "path": "dev-server/nginx/api.devdmu.gosky.kr",
-          "modifiedAt": "2026-10-15T09:01:10.257Z"
-        },
-        {
           "path": "dev-server/nginx/reservation.dmu.gosky.kr",
           "modifiedAt": "2026-10-15T09:01:10.257Z"
-        },
-        {
-          "path": "contest/공모전_제출문.txt",
-          "modifiedAt": "2026-10-13T10:41:41.407Z"
-        },
-        {
-          "path": "contest/5_예약시나리오_결과표.png",
-          "modifiedAt": "2026-10-13T10:36:02.924Z"
-        },
-        {
-          "path": "contest/3_AI챗봇_증상상담_병원예약.png",
-          "modifiedAt": "2026-10-13T10:36:02.920Z"
         }
       ],
       "summary": [
@@ -1276,22 +1276,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7643,
+        "commitCount": 7644,
         "authors": [
           {
-            "count": 7643,
+            "count": 7644,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "f157da1b9",
+          "hash": "20ce05907",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-20T13:19:25+09:00",
+          "date": "2026-10-20T13:49:29+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7643개 커밋, 상위 계정: gosky(7643), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7644개 커밋, 상위 계정: gosky(7644), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1332,8 +1332,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7643",
-        "Git 상위 계정: gosky(7643)"
+        "Git 커밋 수: 7644",
+        "Git 상위 계정: gosky(7644)"
       ]
     },
     {
@@ -1476,7 +1476,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 3 hours",
+            "status": "Up 23 minutes",
             "ports": ""
           }
         ],
@@ -1702,7 +1702,7 @@
         "evidence": [
           "docker-compose.yml 확인",
           "requirements.txt 확인",
-          ".env 키 165개 확인",
+          ".env 키 167개 확인",
           "DB 관련 파일 4개 확인",
           "추정 DB: PostgreSQL, SQLite"
         ],
@@ -1716,7 +1716,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 3 hours",
+            "status": "Up 23 minutes",
             "ports": ""
           }
         ],
@@ -1770,13 +1770,10 @@
           20249,
           20646,
           20897,
-          21065,
-          21110,
           21206,
           21242,
           21395,
           21413,
-          21477,
           21725,
           21735,
           22332,
@@ -1797,7 +1794,7 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 96,
+        "commitCount": 97,
         "authors": [
           {
             "count": 37,
@@ -1810,7 +1807,7 @@
             "email": "skarndaudwls@gmail.com"
           },
           {
-            "count": 15,
+            "count": 16,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           },
@@ -1821,15 +1818,39 @@
           }
         ],
         "latestCommit": {
-          "hash": "cff3c4e",
-          "author": "namgung",
-          "email": "skarndaudwls@gmail.com",
-          "date": "2026-10-20T10:57:58+09:00",
-          "subject": "Merge pull request #24 from Dongyang-Mirae-University-software/fix/reservation-secret-no-default"
+          "hash": "52483a8",
+          "author": "gosky",
+          "email": "gosky@gosky.kr",
+          "date": "2026-10-20T13:51:26+09:00",
+          "subject": "fix: 게임 API 키 요구를 서버 간 경로에만 적용 - GAME_REQUIRE_API_KEY 를 라우터 전체가 아니라 목록·시작·progress·activity 에만 적용 - iframe 과 그 안의 JS 가 키 없이 부르는 /embed·/state·/answer·/reset 은 항상 열어 게임 화면 401 방지 - 플래그를 요청 시점에 읽도록 바꿔 FE 프록시 전환 없이 켤 수 있게 함"
         },
-        "summary": "총 96개 커밋, 상위 계정: gosky(37), skarndaudwls1(19), gosky(15), 최근: Merge pull request #24 from Dongyang-Mirae-University-software/fix/reservation-secret-no-default"
+        "summary": "총 97개 커밋, 상위 계정: gosky(37), skarndaudwls1(19), gosky(16), 최근: fix: 게임 API 키 요구를 서버 간 경로에만 적용 - GAME_REQUIRE_API_KEY 를 라우터 전체가 아니라 목록·시작·progress·activity 에만 적용 - iframe 과 그 안의 JS 가 키 없이 부르는 /embed·/state·/answer·/reset 은 항상 열어 게임 화면 401 방지 - 플래그를 요청 시점에 읽도록 바꿔 FE 프록시 전환 없이 켤 수 있게 함"
       },
       "recentFiles": [
+        {
+          "path": ".env",
+          "modifiedAt": "2026-10-20T04:55:38.682Z"
+        },
+        {
+          "path": ".env.example",
+          "modifiedAt": "2026-10-20T04:51:26.797Z"
+        },
+        {
+          "path": "tests/test_qa_followup_fixes.py",
+          "modifiedAt": "2026-10-20T04:50:28.442Z"
+        },
+        {
+          "path": "app/core/security.py",
+          "modifiedAt": "2026-10-20T04:50:24.306Z"
+        },
+        {
+          "path": "app/main.py",
+          "modifiedAt": "2026-10-20T04:50:24.306Z"
+        },
+        {
+          "path": "app/routers/game_router.py",
+          "modifiedAt": "2026-10-20T04:50:24.306Z"
+        },
         {
           "path": "data/postgres/pg_wal/000000010000000000000002",
           "modifiedAt": "2026-10-20T02:19:04.374Z"
@@ -1837,30 +1858,6 @@
         {
           "path": "data/postgres/global/pg_control",
           "modifiedAt": "2026-10-20T02:19:00.570Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32948",
-          "modifiedAt": "2026-10-20T02:19:00.470Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32947",
-          "modifiedAt": "2026-10-20T02:19:00.370Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32946",
-          "modifiedAt": "2026-10-20T02:19:00.270Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32945",
-          "modifiedAt": "2026-10-20T02:19:00.170Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32935_vm",
-          "modifiedAt": "2026-10-20T02:19:00.070Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32935",
-          "modifiedAt": "2026-10-20T02:18:59.970Z"
         }
       ],
       "summary": [
@@ -1868,8 +1865,8 @@
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI",
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 96",
-        "Git 상위 계정: gosky(37), skarndaudwls1(19), gosky(15)"
+        "Git 커밋 수: 97",
+        "Git 상위 계정: gosky(37), skarndaudwls1(19), gosky(16)"
       ]
     },
     {
@@ -3404,24 +3401,45 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 24,
+        "commitCount": 27,
         "authors": [
           {
             "count": 24,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
+          },
+          {
+            "count": 3,
+            "name": "gosky",
+            "email": "gosky@gosky.kr"
           }
         ],
         "latestCommit": {
-          "hash": "6e2daf5",
+          "hash": "5b9a6f6",
           "author": "gosky",
-          "email": "lovesky00317@gmail.com",
-          "date": "2026-06-01T14:43:40+09:00",
-          "subject": "feat(ui): expand stream test monitor for all detector outputs"
+          "email": "gosky@gosky.kr",
+          "date": "2026-10-20T13:56:12+09:00",
+          "subject": "docs: .env.example 에서 실제 AI 키 제거 - 예시 파일에 실 운영 키가 들어 있어 공개 리포에 노출되던 것을 빈 값으로 교체"
         },
-        "summary": "총 24개 커밋, 상위 계정: gosky(24), 최근: feat(ui): expand stream test monitor for all detector outputs"
+        "summary": "총 27개 커밋, 상위 계정: gosky(24), gosky(3), 최근: docs: .env.example 에서 실제 AI 키 제거 - 예시 파일에 실 운영 키가 들어 있어 공개 리포에 노출되던 것을 빈 값으로 교체"
       },
       "recentFiles": [
+        {
+          "path": ".env.example",
+          "modifiedAt": "2026-10-20T04:56:12.773Z"
+        },
+        {
+          "path": "src/App.jsx",
+          "modifiedAt": "2026-10-20T04:55:08.574Z"
+        },
+        {
+          "path": "docker-compose.yml",
+          "modifiedAt": "2026-10-20T04:54:40.235Z"
+        },
+        {
+          "path": "Dockerfile",
+          "modifiedAt": "2026-10-20T04:54:40.235Z"
+        },
         {
           "path": "package.json",
           "modifiedAt": "2026-06-23T23:54:46.158Z"
@@ -3431,28 +3449,12 @@
           "modifiedAt": "2026-06-01T05:42:21.743Z"
         },
         {
-          "path": "src/App.jsx",
-          "modifiedAt": "2026-06-01T05:40:49.584Z"
-        },
-        {
           "path": "src/ChatConsultPanel.jsx",
           "modifiedAt": "2026-06-01T00:57:47.179Z"
         },
         {
           "path": "src/GameIframePanel.jsx",
           "modifiedAt": "2026-06-01T00:57:47.179Z"
-        },
-        {
-          "path": ".env.example",
-          "modifiedAt": "2026-06-01T00:57:47.171Z"
-        },
-        {
-          "path": "src/ChatToolResult.jsx",
-          "modifiedAt": "2026-06-01T00:57:47.171Z"
-        },
-        {
-          "path": "src/index.css",
-          "modifiedAt": "2026-06-01T00:57:47.171Z"
         }
       ],
       "summary": [
@@ -3460,8 +3462,8 @@
         "기술 추정: Node.js, React, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 24",
-        "Git 상위 계정: gosky(24)"
+        "Git 커밋 수: 27",
+        "Git 상위 계정: gosky(24), gosky(3)"
       ]
     },
     {

@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeStreamTestFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-20 13:49:29 KST
+- 점검 시각: 2026-10-20 14:19:35 KST
 
 ## 추정 기술 스택
 
@@ -57,21 +57,22 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 24
+- 총 커밋 수: 27
 - 계정별 커밋 수:
   - gosky <lovesky00317@gmail.com>: 24
-- 최근 커밋: 6e2daf5 / gosky <lovesky00317@gmail.com> / feat(ui): expand stream test monitor for all detector outputs
+  - gosky <gosky@gosky.kr>: 3
+- 최근 커밋: 5b9a6f6 / gosky <gosky@gosky.kr> / docs: .env.example 에서 실제 AI 키 제거 - 예시 파일에 실 운영 키가 들어 있어 공개 리포에 노출되던 것을 빈 값으로 교체
 
 ## 최근 수정 파일
 
+- .env.example (2026-10-20 13:56:12 KST)
+- src/App.jsx (2026-10-20 13:55:08 KST)
+- docker-compose.yml (2026-10-20 13:54:40 KST)
+- Dockerfile (2026-10-20 13:54:40 KST)
 - package.json (2026-06-24 08:54:46 KST)
 - README.md (2026-06-01 14:42:21 KST)
-- src/App.jsx (2026-06-01 14:40:49 KST)
 - src/ChatConsultPanel.jsx (2026-06-01 09:57:47 KST)
 - src/GameIframePanel.jsx (2026-06-01 09:57:47 KST)
-- .env.example (2026-06-01 09:57:47 KST)
-- src/ChatToolResult.jsx (2026-06-01 09:57:47 KST)
-- src/index.css (2026-06-01 09:57:47 KST)
 
 ## 점검 결과 요약
 
@@ -79,5 +80,5 @@
 - 기술 추정: Node.js, React, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 24
-- Git 상위 계정: gosky(24)
+- Git 커밋 수: 27
+- Git 상위 계정: gosky(24), gosky(3)
