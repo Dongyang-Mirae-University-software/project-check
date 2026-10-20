@@ -1,20 +1,20 @@
 # 프로젝트 상태 요약
 
-- 전체 프로젝트 개수: 20
+- 전체 프로젝트 개수: 21
 - 프론트엔드 프로젝트 개수: 4
 - 백엔드 프로젝트 개수: 8
 - AI 서버 프로젝트 개수: 6
 - DB 사용 프로젝트 개수: 8
 - Git 저장소 프로젝트 개수: 16
 - 실행 중인 서비스 개수: 15
-- 꺼져 있는 서비스 개수: 5
-- 마지막 스캔 시간: 2026-10-20 20:50:43 KST
+- 꺼져 있는 서비스 개수: 6
+- 마지막 스캔 시간: 2026-10-20 21:20:49 KST
 
 ## 계정별 커밋 수
 
 | 계정 | 이메일별 커밋 수 | 합산 커밋 수 |
 | --- | --- | ---: |
-| gosky | lovesky00317@gmail.com (7794); gosky@gosky.kr (41); gosky.dev@gmail.com (5) | 7840 |
+| gosky | lovesky00317@gmail.com (7795); gosky@gosky.kr (41); gosky.dev@gmail.com (5) | 7841 |
 | YUNA0222 | gold8077@gmail.com (1441); 89885846+yuna0222@users.noreply.github.com (18) | 1459 |
 | skarndaudwls1 | skarndaudwls@gmail.com (1099); skarndaudwls1@gmail.com (89) | 1188 |
 | Jaehe-he | hywuljh1@naver.com (701) | 701 |
@@ -23,6 +23,7 @@
 
 ## 프로젝트 목록
 
+- 자료 | 기타 | 확인 불가 | DB 미사용
 - AiSilverBridgeSky | AI 서버 | 실행 중 | DB 미사용
 - CharacterAi | AI 서버 | 정지 | DB 미사용
 - ChatSilverBridge | AI 서버 | 실행 중 | DB 미사용

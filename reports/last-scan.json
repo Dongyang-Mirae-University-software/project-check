@@ -1,17 +1,17 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-20T11:50:43.931Z",
-  "generatedAtKst": "2026-10-20 20:50:43 KST",
+  "generatedAt": "2026-10-20T12:20:49.716Z",
+  "generatedAtKst": "2026-10-20 21:20:49 KST",
   "summary": {
-    "total": 20,
+    "total": 21,
     "frontend": 4,
     "backend": 8,
     "ai": 6,
     "db": 8,
     "gitRepos": 16,
     "running": 15,
-    "stopped": 5
+    "stopped": 6
   },
   "gitAuthors": [
     {
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7794
+          "count": 7795
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7840
+      "count": 7841
     },
     {
       "name": "YUNA0222",
@@ -92,6 +92,161 @@
     }
   ],
   "projects": [
+    {
+      "projectName": "자료",
+      "projectPath": "/home/apps/SilverBridgeSky/자료",
+      "classification": "기타",
+      "stack": [
+        "확인 불가"
+      ],
+      "mainFiles": [
+        {
+          "file": "package.json",
+          "exists": false
+        },
+        {
+          "file": "vite.config.js",
+          "exists": false
+        },
+        {
+          "file": "vite.config.ts",
+          "exists": false
+        },
+        {
+          "file": "vite.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "vite.config.cjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.js",
+          "exists": false
+        },
+        {
+          "file": "next.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.ts",
+          "exists": false
+        },
+        {
+          "file": "requirements.txt",
+          "exists": false
+        },
+        {
+          "file": "pyproject.toml",
+          "exists": false
+        },
+        {
+          "file": "Dockerfile",
+          "exists": false
+        },
+        {
+          "file": "docker-compose.yml",
+          "exists": false
+        },
+        {
+          "file": "docker-compose.yaml",
+          "exists": false
+        },
+        {
+          "file": "compose.yml",
+          "exists": false
+        },
+        {
+          "file": "compose.yaml",
+          "exists": false
+        },
+        {
+          "file": ".env.example",
+          "exists": false
+        },
+        {
+          "file": ".env",
+          "exists": false
+        },
+        {
+          "file": "pom.xml",
+          "exists": false
+        },
+        {
+          "file": "build.gradle",
+          "exists": false
+        },
+        {
+          "file": "build.gradle.kts",
+          "exists": false
+        }
+      ],
+      "structure": {
+        "fileCount": 6,
+        "dirCount": 0,
+        "mainFolders": [],
+        "majorPaths": []
+      },
+      "database": {
+        "used": false,
+        "types": [],
+        "clueFiles": [],
+        "evidence": [],
+        "summary": "DB 사용 흔적 없음"
+      },
+      "runtime": {
+        "status": "확인 불가",
+        "running": false,
+        "pm2": [],
+        "docker": [],
+        "ports": [],
+        "allCandidatePorts": [],
+        "summary": [
+          "정지 또는 확인 불가"
+        ]
+      },
+      "git": {
+        "isRepo": false,
+        "branch": "확인 불가",
+        "commitCount": null,
+        "authors": [],
+        "latestCommit": null,
+        "summary": "Git 저장소 아님"
+      },
+      "recentFiles": [
+        {
+          "path": "[SilverBridge] CareAI_1학기_중간발표.pptx",
+          "modifiedAt": "2026-10-20T11:53:37.924Z"
+        },
+        {
+          "path": "KakaoTalk_20261020_193055309.mp4",
+          "modifiedAt": "2026-10-20T11:53:37.720Z"
+        },
+        {
+          "path": "KakaoTalk_20261020_193049717.mp4",
+          "modifiedAt": "2026-10-20T11:53:37.612Z"
+        },
+        {
+          "path": "[SilverBridge] CareAI_1학기_최종발표.pptx",
+          "modifiedAt": "2026-10-20T11:53:37.476Z"
+        },
+        {
+          "path": "[SilverBridge] CareAI_2학기 프로젝트 계획서.pptx",
+          "modifiedAt": "2026-10-20T11:53:37.085Z"
+        },
+        {
+          "path": "SilverBridge 브로셔.pdf",
+          "modifiedAt": "2026-10-20T11:53:36.665Z"
+        }
+      ],
+      "summary": [
+        "분류: 기타",
+        "기술 추정: 확인 불가",
+        "DB 사용 흔적 없음",
+        "실행 상태: 확인 불가",
+        "Git 저장소: 아님"
+      ]
+    },
     {
       "projectName": "AiSilverBridgeSky",
       "projectPath": "/home/apps/SilverBridgeSky/AiSilverBridgeSky",
@@ -1276,22 +1431,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7657,
+        "commitCount": 7658,
         "authors": [
           {
-            "count": 7657,
+            "count": 7658,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "60de633b8",
+          "hash": "a041991eb",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-20T20:20:42+09:00",
+          "date": "2026-10-20T20:50:47+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7657개 커밋, 상위 계정: gosky(7657), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7658개 커밋, 상위 계정: gosky(7658), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1332,8 +1487,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7657",
-        "Git 상위 계정: gosky(7657)"
+        "Git 커밋 수: 7658",
+        "Git 상위 계정: gosky(7658)"
       ]
     },
     {
@@ -1662,8 +1817,8 @@
         }
       ],
       "structure": {
-        "fileCount": 3655,
-        "dirCount": 130,
+        "fileCount": 3733,
+        "dirCount": 136,
         "mainFolders": [
           "app",
           "data",
@@ -1730,59 +1885,31 @@
         "allCandidatePorts": [
           1000,
           1008,
+          1011,
           1024,
+          1034,
+          1035,
           2000,
           5432,
           6012,
           6015,
           6017,
           6019,
-          11502,
-          11740,
-          11901,
-          12121,
+          10718,
+          10727,
+          11140,
           12345,
-          13527,
-          14496,
-          14844,
+          13949,
+          14570,
+          15171,
+          15186,
           15457,
           15916,
           16315,
-          16755,
           17278,
-          17313,
           17359,
-          17821,
-          18016,
-          18065,
-          18257,
-          18349,
-          18612,
-          19064,
-          19091,
-          19185,
-          19191,
-          19260,
-          19597,
-          19880,
-          20129,
-          20228,
-          20249,
-          20646,
-          20897,
-          21206,
-          21242,
-          21395,
-          21413,
-          21725,
-          21735,
-          22332,
-          23454,
-          23534,
-          25101,
-          26090,
-          26575,
-          26837
+          56132,
+          56195
         ],
         "summary": [
           "실행 중",
@@ -1828,36 +1955,36 @@
       },
       "recentFiles": [
         {
-          "path": ".env",
-          "modifiedAt": "2026-10-20T04:55:38.682Z"
-        },
-        {
-          "path": ".env.example",
-          "modifiedAt": "2026-10-20T04:51:26.797Z"
-        },
-        {
-          "path": "tests/test_qa_followup_fixes.py",
-          "modifiedAt": "2026-10-20T04:50:28.442Z"
-        },
-        {
-          "path": "app/core/security.py",
-          "modifiedAt": "2026-10-20T04:50:24.306Z"
-        },
-        {
-          "path": "app/main.py",
-          "modifiedAt": "2026-10-20T04:50:24.306Z"
-        },
-        {
-          "path": "app/routers/game_router.py",
-          "modifiedAt": "2026-10-20T04:50:24.306Z"
-        },
-        {
           "path": "data/postgres/pg_wal/000000010000000000000002",
-          "modifiedAt": "2026-10-20T02:19:04.374Z"
+          "modifiedAt": "2026-10-20T12:19:19.668Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-10-20T02:19:00.570Z"
+          "modifiedAt": "2026-10-20T12:19:12.464Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32958",
+          "modifiedAt": "2026-10-20T12:19:12.360Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32957",
+          "modifiedAt": "2026-10-20T12:19:12.260Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32956",
+          "modifiedAt": "2026-10-20T12:19:12.160Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32955",
+          "modifiedAt": "2026-10-20T12:19:12.060Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32950",
+          "modifiedAt": "2026-10-20T12:19:11.960Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32948",
+          "modifiedAt": "2026-10-20T12:19:11.860Z"
         }
       ],
       "summary": [
