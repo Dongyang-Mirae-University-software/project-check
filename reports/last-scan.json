@@ -1,17 +1,17 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-21T01:23:21.805Z",
-  "generatedAtKst": "2026-10-21 10:23:21 KST",
+  "generatedAt": "2026-10-21T01:54:26.323Z",
+  "generatedAtKst": "2026-10-21 10:54:26 KST",
   "summary": {
-    "total": 21,
+    "total": 22,
     "frontend": 4,
-    "backend": 8,
+    "backend": 9,
     "ai": 6,
     "db": 8,
     "gitRepos": 16,
     "running": 15,
-    "stopped": 6
+    "stopped": 7
   },
   "gitAuthors": [
     {
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7821
+          "count": 7822
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7867
+      "count": 7868
     },
     {
       "name": "YUNA0222",
@@ -1431,22 +1431,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7684,
+        "commitCount": 7685,
         "authors": [
           {
-            "count": 7684,
+            "count": 7685,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "9479796da",
+          "hash": "38e795fe6",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-21T09:53:20+09:00",
+          "date": "2026-10-21T10:23:25+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7684개 커밋, 상위 계정: gosky(7684), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7685개 커밋, 상위 계정: gosky(7685), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1487,8 +1487,188 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7684",
-        "Git 상위 계정: gosky(7684)"
+        "Git 커밋 수: 7685",
+        "Git 상위 계정: gosky(7685)"
+      ]
+    },
+    {
+      "projectName": "RemotionVideo",
+      "projectPath": "/home/apps/SilverBridgeSky/RemotionVideo",
+      "classification": "백엔드",
+      "stack": [
+        "React",
+        "Python",
+        "Next.js",
+        "fastapi"
+      ],
+      "mainFiles": [
+        {
+          "file": "package.json",
+          "exists": true
+        },
+        {
+          "file": "vite.config.js",
+          "exists": false
+        },
+        {
+          "file": "vite.config.ts",
+          "exists": false
+        },
+        {
+          "file": "vite.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "vite.config.cjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.js",
+          "exists": false
+        },
+        {
+          "file": "next.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.ts",
+          "exists": false
+        },
+        {
+          "file": "requirements.txt",
+          "exists": false
+        },
+        {
+          "file": "pyproject.toml",
+          "exists": false
+        },
+        {
+          "file": "Dockerfile",
+          "exists": false
+        },
+        {
+          "file": "docker-compose.yml",
+          "exists": false
+        },
+        {
+          "file": "docker-compose.yaml",
+          "exists": false
+        },
+        {
+          "file": "compose.yml",
+          "exists": false
+        },
+        {
+          "file": "compose.yaml",
+          "exists": false
+        },
+        {
+          "file": ".env.example",
+          "exists": false
+        },
+        {
+          "file": ".env",
+          "exists": false
+        },
+        {
+          "file": "pom.xml",
+          "exists": false
+        },
+        {
+          "file": "build.gradle",
+          "exists": false
+        },
+        {
+          "file": "build.gradle.kts",
+          "exists": false
+        }
+      ],
+      "structure": {
+        "fileCount": 16,
+        "dirCount": 5,
+        "mainFolders": [
+          "out",
+          "public",
+          "scripts",
+          "src"
+        ],
+        "majorPaths": [
+          "public",
+          "public/fonts",
+          "src"
+        ]
+      },
+      "database": {
+        "used": false,
+        "types": [],
+        "clueFiles": [],
+        "evidence": [
+          "package.json 확인"
+        ],
+        "summary": "DB 사용 흔적 없음"
+      },
+      "runtime": {
+        "status": "정지",
+        "running": false,
+        "pm2": [],
+        "docker": [],
+        "ports": [],
+        "allCandidatePorts": [
+          1500,
+          44100
+        ],
+        "summary": [
+          "정지 또는 확인 불가"
+        ]
+      },
+      "git": {
+        "isRepo": false,
+        "branch": "확인 불가",
+        "commitCount": null,
+        "authors": [],
+        "latestCommit": null,
+        "summary": "Git 저장소 아님"
+      },
+      "recentFiles": [
+        {
+          "path": "src/Video.tsx",
+          "modifiedAt": "2026-10-21T01:49:21.645Z"
+        },
+        {
+          "path": "public/fonts/NanumSquareRoundB.ttf",
+          "modifiedAt": "2026-10-21T01:47:34.402Z"
+        },
+        {
+          "path": "public/fonts/NanumSquareRoundR.ttf",
+          "modifiedAt": "2026-10-21T01:47:34.402Z"
+        },
+        {
+          "path": "package.json",
+          "modifiedAt": "2026-10-21T01:46:44.919Z"
+        },
+        {
+          "path": "src/Root.tsx",
+          "modifiedAt": "2026-10-21T01:46:44.251Z"
+        },
+        {
+          "path": "remotion.config.ts",
+          "modifiedAt": "2026-10-21T01:46:44.247Z"
+        },
+        {
+          "path": "src/index.ts",
+          "modifiedAt": "2026-10-21T01:46:44.247Z"
+        },
+        {
+          "path": "tsconfig.json",
+          "modifiedAt": "2026-10-21T01:46:44.247Z"
+        }
+      ],
+      "summary": [
+        "분류: 백엔드",
+        "기술 추정: React, Python, Next.js, fastapi",
+        "DB 사용 흔적 없음",
+        "실행 상태: 정지",
+        "Git 저장소: 아님"
       ]
     },
     {
@@ -1631,7 +1811,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 20 hours",
+            "status": "Up 21 hours",
             "ports": ""
           }
         ],
@@ -1817,8 +1997,8 @@
         }
       ],
       "structure": {
-        "fileCount": 3741,
-        "dirCount": 136,
+        "fileCount": 3857,
+        "dirCount": 140,
         "mainFolders": [
           "app",
           "data",
@@ -1871,7 +2051,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 20 hours",
+            "status": "Up 21 hours",
             "ports": ""
           }
         ],
@@ -1884,31 +2064,27 @@
         ],
         "allCandidatePorts": [
           1000,
+          1007,
           1008,
-          1011,
-          1012,
           1024,
-          1034,
-          1035,
+          1029,
+          1234,
+          1238,
           2000,
           5432,
           6012,
           6015,
           6017,
           6019,
-          10718,
-          10727,
-          11140,
+          10052,
+          10197,
           12345,
-          13949,
-          14570,
-          15171,
-          15186,
-          15315,
-          15329,
-          17359,
-          56132,
-          56195
+          17029,
+          17273,
+          18519,
+          46385,
+          51082,
+          62394
         ],
         "summary": [
           "실행 중",
@@ -1954,36 +2130,36 @@
       },
       "recentFiles": [
         {
-          "path": "data/collect/20261020/fire/alert/212828805_ward_Wrqm2TVp8tcXyUBf_0.64.jpg",
-          "modifiedAt": "2026-10-20T12:28:28.801Z"
+          "path": "data/collect/20261021/fire/alert/104321117_ward_UHZsmAZcxFPjyVjG_0.67.jpg",
+          "modifiedAt": "2026-10-21T01:43:21.113Z"
         },
         {
-          "path": "data/collect/20261020/fire/alert/212828805_ward_Wrqm2TVp8tcXyUBf_0.64.json",
-          "modifiedAt": "2026-10-20T12:28:28.801Z"
+          "path": "data/collect/20261021/fire/alert/104321117_ward_UHZsmAZcxFPjyVjG_0.67.json",
+          "modifiedAt": "2026-10-21T01:43:21.113Z"
         },
         {
-          "path": "data/collect/20261020/fire/alert/212818764_ward_Wrqm2TVp8tcXyUBf_0.64.jpg",
-          "modifiedAt": "2026-10-20T12:28:18.761Z"
+          "path": "data/collect/20261021/fire/alert/104310868_ward_UHZsmAZcxFPjyVjG_0.67.jpg",
+          "modifiedAt": "2026-10-21T01:43:10.865Z"
         },
         {
-          "path": "data/collect/20261020/fire/alert/212818764_ward_Wrqm2TVp8tcXyUBf_0.64.json",
-          "modifiedAt": "2026-10-20T12:28:18.761Z"
+          "path": "data/collect/20261021/fire/alert/104310868_ward_UHZsmAZcxFPjyVjG_0.67.json",
+          "modifiedAt": "2026-10-21T01:43:10.865Z"
         },
         {
-          "path": "data/collect/20261020/fire/alert/212808739_ward_Wrqm2TVp8tcXyUBf_0.65.jpg",
-          "modifiedAt": "2026-10-20T12:28:08.737Z"
+          "path": "data/collect/20261021/fire/alert/104300844_ward_UHZsmAZcxFPjyVjG_0.63.jpg",
+          "modifiedAt": "2026-10-21T01:43:00.841Z"
         },
         {
-          "path": "data/collect/20261020/fire/alert/212808739_ward_Wrqm2TVp8tcXyUBf_0.65.json",
-          "modifiedAt": "2026-10-20T12:28:08.737Z"
+          "path": "data/collect/20261021/fire/alert/104300844_ward_UHZsmAZcxFPjyVjG_0.63.json",
+          "modifiedAt": "2026-10-21T01:43:00.841Z"
         },
         {
-          "path": "data/collect/20261020/fire/near/212806675_ward_Wrqm2TVp8tcXyUBf_0.66.jpg",
-          "modifiedAt": "2026-10-20T12:28:06.673Z"
+          "path": "data/collect/20261021/fire/alert/104250829_ward_UHZsmAZcxFPjyVjG_0.63.jpg",
+          "modifiedAt": "2026-10-21T01:42:50.825Z"
         },
         {
-          "path": "data/collect/20261020/fire/near/212806675_ward_Wrqm2TVp8tcXyUBf_0.66.json",
-          "modifiedAt": "2026-10-20T12:28:06.673Z"
+          "path": "data/collect/20261021/fire/alert/104250829_ward_UHZsmAZcxFPjyVjG_0.63.json",
+          "modifiedAt": "2026-10-21T01:42:50.825Z"
         }
       ],
       "summary": [
@@ -2140,6 +2316,7 @@
         "pm2": [],
         "docker": [],
         "ports": [
+          3000,
           5432,
           6011,
           6013,
@@ -2175,7 +2352,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 5432, 6011, 6013, 6014, 6379, 6510, 6511, 6513, 6514"
+          "포트 3000, 5432, 6011, 6013, 6014, 6379, 6510, 6511, 6513, 6514"
         ]
       },
       "git": {
@@ -2397,6 +2574,7 @@
         "pm2": [],
         "docker": [],
         "ports": [
+          3000,
           6000,
           6010,
           6015,
@@ -2418,7 +2596,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 6000, 6010, 6015, 6510, 8000"
+          "포트 3000, 6000, 6010, 6015, 6510, 8000"
         ]
       },
       "git": {
@@ -2846,7 +3024,7 @@
           {
             "name": "silverbridgereservation-reservation-api-1",
             "image": "silverbridgereservation-reservation-api",
-            "status": "Up 23 hours",
+            "status": "Up 24 hours",
             "ports": "127.0.0.1:6015->6015/tcp"
           }
         ],
@@ -3090,6 +3268,7 @@
         ],
         "docker": [],
         "ports": [
+          3000,
           5432,
           6379,
           8000
@@ -3106,7 +3285,7 @@
           "실행 중",
           "PM2 1개",
           "Docker 없음",
-          "포트 5432, 6379, 8000"
+          "포트 3000, 5432, 6379, 8000"
         ]
       },
       "git": {
@@ -4134,6 +4313,7 @@
         "pm2": [],
         "docker": [],
         "ports": [
+          3000,
           5432,
           6700,
           6701,
@@ -4155,7 +4335,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 5432, 6700, 6701, 6705"
+          "포트 3000, 5432, 6700, 6701, 6705"
         ]
       },
       "git": {
@@ -4365,7 +4545,9 @@
             "ports": "0.0.0.0:6700->3000/tcp, [::]:6700->3000/tcp"
           }
         ],
-        "ports": [],
+        "ports": [
+          3000
+        ],
         "allCandidatePorts": [
           1024,
           1280,
@@ -4376,7 +4558,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 1개",
-          "포트 확인 불가"
+          "포트 3000"
         ]
       },
       "git": {

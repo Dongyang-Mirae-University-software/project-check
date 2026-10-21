@@ -1,6 +1,6 @@
 # 데이터베이스 상태
 
-- 스캔 시각: 2026-10-21 10:23:25 KST
+- 스캔 시각: 2026-10-21 10:54:33 KST
 
 | 프로젝트 | DB 사용 여부 | 추정 DB | 실행 상태 | 관련 포트 | 관련 컨테이너 |
 | --- | --- | --- | --- | --- | --- |
@@ -11,8 +11,9 @@
 | ChatSilverBridgeTest | 아니오 | 확인 불가 | 실행 중 | 8010 | chatsilverbridgetest-web-1 |
 | docs | 아니오 | 확인 불가 | 확인 불가 | 확인 불가 | 확인 불가 |
 | project-check | 예 | MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle | 실행 중 | 1000, 1024, 1234, 1280, 1400, 1433, 1500, 1521, 2026, 2700, 3306, 5432, 6379, 8080, 8456, 26214, 27017 | 확인 불가 |
+| RemotionVideo | 아니오 | 확인 불가 | 정지 | 1500, 44100 | 확인 불가 |
 | SilverBridgeAi | 아니오 | 확인 불가 | 실행 중 | 1000, 1234, 1280, 1500, 2026, 2700, 8080, 8456 | silverbridge-ai-server |
-| SilverBridgeAiServer | 예 | PostgreSQL, SQLite | 실행 중 | 1000, 1008, 1011, 1012, 1024, 1034, 1035, 2000, 5432, 6012, 6015, 6017, 6019, 10718, 10727, 11140, 12345, 13949, 14570, 15171, 15186, 15315, 15329, 17359, 56132, 56195 | silverbridge-ai-server |
+| SilverBridgeAiServer | 예 | PostgreSQL, SQLite | 실행 중 | 1000, 1007, 1008, 1024, 1029, 1234, 1238, 2000, 5432, 6012, 6015, 6017, 6019, 10052, 10197, 12345, 17029, 17273, 18519, 46385, 51082, 62394 | silverbridge-ai-server |
 | SilverBridgeBe | 예 | PostgreSQL, Redis | 실행 중 | 1024, 1536, 2000, 3000, 5173, 5432, 6011, 6013, 6014, 6379, 6510, 6511, 6513, 6514, 8080, 10000, 10485, 18000, 60480 | 확인 불가 |
 | SilverBridgeFe | 아니오 | 확인 불가 | 실행 중 | 1900, 3000, 4000, 6000, 6010, 6015, 6510, 8000, 60836 | 확인 불가 |
 | SilverBridgeJH | 아니오 | 확인 불가 | 정지 | 확인 불가 | 확인 불가 |
@@ -40,6 +41,8 @@
 - docs: DB 사용 흔적 없음
 - project-check: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle 사용 추정
   - 근거: requirements.txt 확인, package.json 확인, .env 키 8개 확인, 추정 DB: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle
+- RemotionVideo: DB 사용 흔적 없음
+  - 근거: package.json 확인
 - SilverBridgeAi: DB 사용 흔적 없음
   - 근거: requirements.txt 확인, .env 키 8개 확인
 - SilverBridgeAiServer: PostgreSQL, SQLite 사용 추정

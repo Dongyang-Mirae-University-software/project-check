@@ -1,6 +1,6 @@
 # 실행 상태
 
-- 스캔 시각: 2026-10-21 10:23:25 KST
+- 스캔 시각: 2026-10-21 10:54:33 KST
 
 | 프로젝트 | 분류 | 실행 상태 | PM2 | Docker | 포트 |
 | --- | --- | --- | --- | --- | --- |
@@ -11,8 +11,9 @@
 | ChatSilverBridgeTest | 프론트엔드 | 실행 중 | 확인 불가 | chatsilverbridgetest-web-1 | 8010 |
 | docs | 기타 | 확인 불가 | 확인 불가 | 확인 불가 | 확인 불가 |
 | project-check | 백엔드 | 실행 중 | project-check | 확인 불가 | 1000, 1024, 1234, 1280, 1400, 1433, 1500, 1521, 2026, 2700, 3306, 5432, 6379, 8080, 8456, 26214, 27017 |
+| RemotionVideo | 백엔드 | 정지 | 확인 불가 | 확인 불가 | 1500, 44100 |
 | SilverBridgeAi | AI 서버 | 실행 중 | 확인 불가 | silverbridge-ai-server | 1000, 1234, 1280, 1500, 2026, 2700, 8080, 8456 |
-| SilverBridgeAiServer | AI 서버 | 실행 중 | 확인 불가 | silverbridge-ai-server | 1000, 1008, 1011, 1012, 1024, 1034, 1035, 2000, 5432, 6012, 6015, 6017, 6019, 10718, 10727, 11140, 12345, 13949, 14570, 15171, 15186, 15315, 15329, 17359, 56132, 56195 |
+| SilverBridgeAiServer | AI 서버 | 실행 중 | 확인 불가 | silverbridge-ai-server | 1000, 1007, 1008, 1024, 1029, 1234, 1238, 2000, 5432, 6012, 6015, 6017, 6019, 10052, 10197, 12345, 17029, 17273, 18519, 46385, 51082, 62394 |
 | SilverBridgeBe | 백엔드 | 실행 중 | 확인 불가 | 확인 불가 | 1024, 1536, 2000, 3000, 5173, 5432, 6011, 6013, 6014, 6379, 6510, 6511, 6513, 6514, 8080, 10000, 10485, 18000, 60480 |
 | SilverBridgeFe | 프론트엔드 | 실행 중 | 확인 불가 | 확인 불가 | 1900, 3000, 4000, 6000, 6010, 6015, 6510, 8000, 60836 |
 | SilverBridgeJH | 백엔드 | 정지 | 확인 불가 | 확인 불가 | 확인 불가 |
@@ -35,17 +36,18 @@
 - ChatSilverBridgeTest: 실행 중 / PM2 없음 / Docker 1개 / 포트 확인 불가
 - docs: 정지 또는 확인 불가
 - project-check: 실행 중 / PM2 1개 / Docker 없음 / 포트 1433, 3306, 5432, 6379
+- RemotionVideo: 정지 또는 확인 불가
 - SilverBridgeAi: 실행 중 / PM2 없음 / Docker 1개 / 포트 확인 불가
 - SilverBridgeAiServer: 실행 중 / PM2 없음 / Docker 1개 / 포트 5432, 6012, 6015, 6017, 6019
-- SilverBridgeBe: 실행 중 / PM2 없음 / Docker 없음 / 포트 5432, 6011, 6013, 6014, 6379, 6510, 6511, 6513, 6514
-- SilverBridgeFe: 실행 중 / PM2 없음 / Docker 없음 / 포트 6000, 6010, 6015, 6510, 8000
+- SilverBridgeBe: 실행 중 / PM2 없음 / Docker 없음 / 포트 3000, 5432, 6011, 6013, 6014, 6379, 6510, 6511, 6513, 6514
+- SilverBridgeFe: 실행 중 / PM2 없음 / Docker 없음 / 포트 3000, 6000, 6010, 6015, 6510, 8000
 - SilverBridgeJH: 정지 또는 확인 불가
 - SilverBridgeReservation: 실행 중 / PM2 없음 / Docker 1개 / 포트 6015, 6017, 6018
-- SilverBridgeSky: 실행 중 / PM2 1개 / Docker 없음 / 포트 5432, 6379, 8000
+- SilverBridgeSky: 실행 중 / PM2 1개 / Docker 없음 / 포트 3000, 5432, 6379, 8000
 - SilverBridgeSSOBe: 실행 중 / PM2 없음 / Docker 없음 / 포트 3306, 6379
 - SilverBridgeStreamTestFe: 실행 중 / PM2 없음 / Docker 없음 / 포트 6018
 - TestSilverBridge: 정지 또는 확인 불가
 - WhitehouseBE: 실행 중 / PM2 없음 / Docker 2개 / 포트 5432, 6701
-- WhiteHouseBELJH: 실행 중 / PM2 없음 / Docker 없음 / 포트 5432, 6700, 6701, 6705
-- WhitehouseFE: 실행 중 / PM2 없음 / Docker 1개 / 포트 확인 불가
+- WhiteHouseBELJH: 실행 중 / PM2 없음 / Docker 없음 / 포트 3000, 5432, 6700, 6701, 6705
+- WhitehouseFE: 실행 중 / PM2 없음 / Docker 1개 / 포트 3000
 - xai-credit-scoring_sky: 정지 또는 확인 불가
