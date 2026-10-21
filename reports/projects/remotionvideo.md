@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/RemotionVideo`
 - 분류: 백엔드
-- 점검 시각: 2026-10-21 10:54:30 KST
+- 점검 시각: 2026-10-21 11:24:36 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 16
+- 파일 개수: 19
 - 디렉토리 개수: 5
 - 주요 폴더: out, public, scripts, src
 - 주요 경로: public, public/fonts, src
@@ -60,14 +60,14 @@
 
 ## 최근 수정 파일
 
-- src/Video.tsx (2026-10-21 10:49:21 KST)
+- out/thumbnail.png (2026-10-21 11:04:38 KST)
+- src/Video.tsx (2026-10-21 11:04:36 KST)
+- public/thumb_shot.png (2026-10-21 11:04:26 KST)
+- src/Root.tsx (2026-10-21 11:04:09 KST)
+- out/silverbridge.mp4 (2026-10-21 10:54:32 KST)
 - public/fonts/NanumSquareRoundB.ttf (2026-10-21 10:47:34 KST)
 - public/fonts/NanumSquareRoundR.ttf (2026-10-21 10:47:34 KST)
 - package.json (2026-10-21 10:46:44 KST)
-- src/Root.tsx (2026-10-21 10:46:44 KST)
-- remotion.config.ts (2026-10-21 10:46:44 KST)
-- src/index.ts (2026-10-21 10:46:44 KST)
-- tsconfig.json (2026-10-21 10:46:44 KST)
 
 ## 점검 결과 요약
 

@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-21T01:54:26.323Z",
-  "generatedAtKst": "2026-10-21 10:54:26 KST",
+  "generatedAt": "2026-10-21T02:24:35.152Z",
+  "generatedAtKst": "2026-10-21 11:24:35 KST",
   "summary": {
     "total": 22,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7822
+          "count": 7823
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7868
+      "count": 7869
     },
     {
       "name": "YUNA0222",
@@ -1431,22 +1431,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7685,
+        "commitCount": 7686,
         "authors": [
           {
-            "count": 7685,
+            "count": 7686,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "38e795fe6",
+          "hash": "cd76d5f10",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-21T10:23:25+09:00",
+          "date": "2026-10-21T10:54:33+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7685개 커밋, 상위 계정: gosky(7685), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7686개 커밋, 상위 계정: gosky(7686), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1487,8 +1487,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7685",
-        "Git 상위 계정: gosky(7685)"
+        "Git 커밋 수: 7686",
+        "Git 상위 계정: gosky(7686)"
       ]
     },
     {
@@ -1584,7 +1584,7 @@
         }
       ],
       "structure": {
-        "fileCount": 16,
+        "fileCount": 19,
         "dirCount": 5,
         "mainFolders": [
           "out",
@@ -1631,8 +1631,24 @@
       },
       "recentFiles": [
         {
+          "path": "out/thumbnail.png",
+          "modifiedAt": "2026-10-21T02:04:38.738Z"
+        },
+        {
           "path": "src/Video.tsx",
-          "modifiedAt": "2026-10-21T01:49:21.645Z"
+          "modifiedAt": "2026-10-21T02:04:36.498Z"
+        },
+        {
+          "path": "public/thumb_shot.png",
+          "modifiedAt": "2026-10-21T02:04:26.714Z"
+        },
+        {
+          "path": "src/Root.tsx",
+          "modifiedAt": "2026-10-21T02:04:09.398Z"
+        },
+        {
+          "path": "out/silverbridge.mp4",
+          "modifiedAt": "2026-10-21T01:54:32.269Z"
         },
         {
           "path": "public/fonts/NanumSquareRoundB.ttf",
@@ -1645,22 +1661,6 @@
         {
           "path": "package.json",
           "modifiedAt": "2026-10-21T01:46:44.919Z"
-        },
-        {
-          "path": "src/Root.tsx",
-          "modifiedAt": "2026-10-21T01:46:44.251Z"
-        },
-        {
-          "path": "remotion.config.ts",
-          "modifiedAt": "2026-10-21T01:46:44.247Z"
-        },
-        {
-          "path": "src/index.ts",
-          "modifiedAt": "2026-10-21T01:46:44.247Z"
-        },
-        {
-          "path": "tsconfig.json",
-          "modifiedAt": "2026-10-21T01:46:44.247Z"
         }
       ],
       "summary": [
@@ -2316,7 +2316,6 @@
         "pm2": [],
         "docker": [],
         "ports": [
-          3000,
           5432,
           6011,
           6013,
@@ -2352,7 +2351,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 3000, 5432, 6011, 6013, 6014, 6379, 6510, 6511, 6513, 6514"
+          "포트 5432, 6011, 6013, 6014, 6379, 6510, 6511, 6513, 6514"
         ]
       },
       "git": {
@@ -2574,7 +2573,6 @@
         "pm2": [],
         "docker": [],
         "ports": [
-          3000,
           6000,
           6010,
           6015,
@@ -2596,7 +2594,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 3000, 6000, 6010, 6015, 6510, 8000"
+          "포트 6000, 6010, 6015, 6510, 8000"
         ]
       },
       "git": {
@@ -3268,7 +3266,6 @@
         ],
         "docker": [],
         "ports": [
-          3000,
           5432,
           6379,
           8000
@@ -3285,7 +3282,7 @@
           "실행 중",
           "PM2 1개",
           "Docker 없음",
-          "포트 3000, 5432, 6379, 8000"
+          "포트 5432, 6379, 8000"
         ]
       },
       "git": {
@@ -4313,7 +4310,6 @@
         "pm2": [],
         "docker": [],
         "ports": [
-          3000,
           5432,
           6700,
           6701,
@@ -4335,7 +4331,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 3000, 5432, 6700, 6701, 6705"
+          "포트 5432, 6700, 6701, 6705"
         ]
       },
       "git": {
@@ -4545,9 +4541,7 @@
             "ports": "0.0.0.0:6700->3000/tcp, [::]:6700->3000/tcp"
           }
         ],
-        "ports": [
-          3000
-        ],
+        "ports": [],
         "allCandidatePorts": [
           1024,
           1280,
@@ -4558,7 +4552,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 1개",
-          "포트 3000"
+          "포트 확인 불가"
         ]
       },
       "git": {
