@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-22T05:00:38.901Z",
-  "generatedAtKst": "2026-10-22 14:00:38 KST",
+  "generatedAt": "2026-10-22T05:30:44.442Z",
+  "generatedAtKst": "2026-10-22 14:30:44 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7876
+          "count": 7877
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7922
+      "count": 7923
     },
     {
       "name": "YUNA0222",
@@ -51,14 +51,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 1139
+          "count": 1141
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 1228
+      "count": 1230
     },
     {
       "name": "Jaehe-he",
@@ -1617,22 +1617,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7739,
+        "commitCount": 7740,
         "authors": [
           {
-            "count": 7739,
+            "count": 7740,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "32628d421",
+          "hash": "0d8f7e92d",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-22T13:30:37+09:00",
+          "date": "2026-10-22T14:00:42+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7739개 커밋, 상위 계정: gosky(7739), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7740개 커밋, 상위 계정: gosky(7740), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1673,8 +1673,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7739",
-        "Git 상위 계정: gosky(7739)"
+        "Git 커밋 수: 7740",
+        "Git 상위 계정: gosky(7740)"
       ]
     },
     {
@@ -1997,7 +1997,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 11 minutes",
+            "status": "Up 41 minutes",
             "ports": ""
           }
         ],
@@ -2237,7 +2237,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 11 minutes",
+            "status": "Up 41 minutes",
             "ports": ""
           }
         ],
@@ -2312,35 +2312,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000002",
-          "modifiedAt": "2026-10-22T04:59:12.121Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32938_vm",
-          "modifiedAt": "2026-10-22T04:58:40.897Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32935",
-          "modifiedAt": "2026-10-22T04:58:30.281Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32938",
-          "modifiedAt": "2026-10-22T04:58:30.277Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32946",
-          "modifiedAt": "2026-10-22T04:58:30.253Z"
+          "modifiedAt": "2026-10-22T05:02:05.790Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-10-22T04:51:37.048Z"
+          "modifiedAt": "2026-10-22T05:01:58.986Z"
         },
         {
-          "path": "data/postgres/pg_logical/replorigin_checkpoint",
-          "modifiedAt": "2026-10-22T04:51:36.445Z"
+          "path": "data/postgres/base/16384/32958",
+          "modifiedAt": "2026-10-22T05:01:58.882Z"
         },
         {
-          "path": "tests/test_chat_log_credential_strip.py",
-          "modifiedAt": "2026-10-22T04:48:30.700Z"
+          "path": "data/postgres/base/16384/32957",
+          "modifiedAt": "2026-10-22T05:01:58.782Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32956",
+          "modifiedAt": "2026-10-22T05:01:58.682Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32955",
+          "modifiedAt": "2026-10-22T05:01:58.582Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32950",
+          "modifiedAt": "2026-10-22T05:01:58.482Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32948",
+          "modifiedAt": "2026-10-22T05:01:58.382Z"
         }
       ],
       "summary": [
@@ -2707,7 +2707,7 @@
         }
       ],
       "structure": {
-        "fileCount": 444,
+        "fileCount": 450,
         "dirCount": 121,
         "mainFolders": [
           "docs",
@@ -2781,7 +2781,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 1257,
+        "commitCount": 1261,
         "authors": [
           {
             "count": 1400,
@@ -2794,7 +2794,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 54,
+            "count": 56,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2815,46 +2815,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "d3d1dea",
+          "hash": "9267f10",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-10-22T13:40:41+09:00",
-          "subject": "Merge pull request #83 from Dongyang-Mirae-University-software/feature/medication-add-ocr"
+          "date": "2026-10-22T14:22:25+09:00",
+          "subject": "Merge pull request #85 from Dongyang-Mirae-University-software/test/medication-modal-browser"
         },
-        "summary": "총 1257개 커밋, 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(54), 최근: Merge pull request #83 from Dongyang-Mirae-University-software/feature/medication-add-ocr"
+        "summary": "총 1261개 커밋, 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(56), 최근: Merge pull request #85 from Dongyang-Mirae-University-software/test/medication-modal-browser"
       },
       "recentFiles": [
         {
-          "path": "src/service/api/guardian/medication.ts",
-          "modifiedAt": "2026-10-22T04:40:55.433Z"
+          "path": "src/app/(guardian)/guardian/medication/_components/MedicationAddModal.tsx",
+          "modifiedAt": "2026-10-22T05:22:33.746Z"
         },
         {
-          "path": "src/service/interface/medication.ts",
-          "modifiedAt": "2026-10-22T04:40:55.433Z"
+          "path": "src/app/(guardian)/guardian/medication/_components/MedicationFormModal.browser.test.tsx",
+          "modifiedAt": "2026-10-22T05:22:33.746Z"
         },
         {
-          "path": "src/service/query/guardian/medication.ts",
-          "modifiedAt": "2026-10-22T04:40:55.433Z"
+          "path": "src/app/(guardian)/guardian/medication/_components/MedicationFormModal.tsx",
+          "modifiedAt": "2026-10-22T05:22:33.746Z"
         },
         {
-          "path": "src/utils/medication/medicationDraft.test.ts",
-          "modifiedAt": "2026-10-22T04:40:55.433Z"
+          "path": "src/hooks/useModalDialog.ts",
+          "modifiedAt": "2026-10-22T05:22:33.746Z"
         },
         {
-          "path": "src/utils/medication/medicationDraft.ts",
-          "modifiedAt": "2026-10-22T04:40:55.433Z"
+          "path": "src/utils/medication/ocrImage.browser.test.tsx",
+          "modifiedAt": "2026-10-22T05:22:33.746Z"
         },
         {
-          "path": "src/utils/medication/ocrImage.test.ts",
-          "modifiedAt": "2026-10-22T04:40:55.433Z"
+          "path": "vitest.browser.config.ts",
+          "modifiedAt": "2026-10-22T05:22:33.746Z"
         },
         {
-          "path": "src/utils/medication/ocrImage.ts",
-          "modifiedAt": "2026-10-22T04:40:55.433Z"
+          "path": "package-lock.json",
+          "modifiedAt": "2026-10-22T05:22:33.742Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/medication/_components/MedicationAddModal.module.css",
-          "modifiedAt": "2026-10-22T04:40:55.429Z"
+          "path": "package.json",
+          "modifiedAt": "2026-10-22T05:22:33.742Z"
         }
       ],
       "summary": [
@@ -2862,8 +2862,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1257",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(54)"
+        "Git 커밋 수: 1261",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(56)"
       ]
     },
     {
@@ -3204,7 +3204,7 @@
           {
             "name": "silverbridgereservation-reservation-api-1",
             "image": "silverbridgereservation-reservation-api",
-            "status": "Up 3 hours",
+            "status": "Up 4 hours",
             "ports": "127.0.0.1:6015->6015/tcp"
           }
         ],
