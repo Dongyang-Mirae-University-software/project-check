@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/ChatSilverBridge-deploy`
 - 분류: DB
-- 점검 시각: 2026-10-22 09:59:55 KST
+- 점검 시각: 2026-10-22 10:30:01 KST
 
 ## 추정 기술 스택
 
@@ -33,9 +33,9 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 6
-- 디렉토리 개수: 1
-- 주요 폴더: backup
+- 파일 개수: 188
+- 디렉토리 개수: 8
+- 주요 폴더: backup, mysql-data
 - 주요 경로: 확인 불가
 
 ## DB 사용 여부
@@ -47,7 +47,7 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1816, 3045, 3306, 3307, 6012, 6015, 6516, 7627, 10000, 15070, 20000, 27217, 50000, 54903
+- 관련 포트: 3306, 3307, 6012, 6015, 6516
 - 관련 Docker 컨테이너: 확인 불가
 - 관련 PM2 프로세스: 확인 불가
 
@@ -57,12 +57,14 @@
 
 ## 최근 수정 파일
 
-- docker-compose.yml (2026-10-22 09:56:32 KST)
-- api.env (2026-10-22 09:56:32 KST)
-- mysql.env (2026-10-22 09:56:32 KST)
-- backup/chatsilverbridge-20261022-0956.sql (2026-10-22 09:56:32 KST)
-- backup/api-inspect-20261022-0956.json (2026-10-22 09:56:32 KST)
-- backup/mysql-inspect-20261022-0956.json (2026-10-22 09:56:32 KST)
+- mysql-data/#innodb_redo/#ib_redo9 (2026-10-22 10:13:31 KST)
+- mysql-data/#ib_16384_0.dblwr (2026-10-22 10:13:31 KST)
+- mysql-data/undo_001 (2026-10-22 10:13:31 KST)
+- mysql-data/undo_002 (2026-10-22 10:13:31 KST)
+- mysql-data/mysql.ibd (2026-10-22 10:11:32 KST)
+- mysql-data/ibdata1 (2026-10-22 10:11:31 KST)
+- mysql-data/ibtmp1 (2026-10-22 10:11:31 KST)
+- mysql-data/#innodb_temp/temp_1.ibt (2026-10-22 10:11:31 KST)
 
 ## 점검 결과 요약
 

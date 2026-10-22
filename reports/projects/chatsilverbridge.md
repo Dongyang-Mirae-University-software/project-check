@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/ChatSilverBridge`
 - 분류: AI 서버
-- 점검 시각: 2026-10-22 09:59:55 KST
+- 점검 시각: 2026-10-22 10:30:01 KST
 
 ## 추정 기술 스택
 
@@ -57,7 +57,7 @@
 
 - 상태: 실행 중
 - 관련 포트: 8010, 8090
-- 관련 Docker 컨테이너: chatsilverbridge-restored-mysql-1, chatsilverbridgetest-web-1
+- 관련 Docker 컨테이너: chatsilverbridge-api-1, chatsilverbridge-mysql-1, chatsilverbridgetest-web-1
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황

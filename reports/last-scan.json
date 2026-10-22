@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-22T00:59:55.386Z",
-  "generatedAtKst": "2026-10-22 09:59:55 KST",
+  "generatedAt": "2026-10-22T01:30:00.909Z",
+  "generatedAtKst": "2026-10-22 10:30:00 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7868
+          "count": 7869
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7914
+      "count": 7915
     },
     {
       "name": "YUNA0222",
@@ -51,14 +51,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 1103
+          "count": 1105
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 1192
+      "count": 1194
     },
     {
       "name": "Jaehe-he",
@@ -779,10 +779,16 @@
         "pm2": [],
         "docker": [
           {
-            "name": "chatsilverbridge-restored-mysql-1",
+            "name": "chatsilverbridge-api-1",
+            "image": "chatsilverbridge-api:latest",
+            "status": "Up 18 minutes",
+            "ports": "127.0.0.1:6012->6012/tcp"
+          },
+          {
+            "name": "chatsilverbridge-mysql-1",
             "image": "mysql:8.0",
-            "status": "Restarting (1) 49 seconds ago",
-            "ports": ""
+            "status": "Up 18 minutes (healthy)",
+            "ports": "33060/tcp, 127.0.0.1:3307->3306/tcp"
           },
           {
             "name": "chatsilverbridgetest-web-1",
@@ -799,7 +805,7 @@
         "summary": [
           "실행 중",
           "PM2 없음",
-          "Docker 2개",
+          "Docker 3개",
           "포트 확인 불가"
         ]
       },
@@ -956,10 +962,11 @@
         }
       ],
       "structure": {
-        "fileCount": 6,
-        "dirCount": 1,
+        "fileCount": 188,
+        "dirCount": 8,
         "mainFolders": [
-          "backup"
+          "backup",
+          "mysql-data"
         ],
         "majorPaths": []
       },
@@ -982,31 +989,23 @@
         "docker": [],
         "ports": [
           3306,
+          3307,
+          6012,
           6015,
-          6516,
-          20000
+          6516
         ],
         "allCandidatePorts": [
-          1816,
-          3045,
           3306,
           3307,
           6012,
           6015,
-          6516,
-          7627,
-          10000,
-          15070,
-          20000,
-          27217,
-          50000,
-          54903
+          6516
         ],
         "summary": [
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 3306, 6015, 6516, 20000"
+          "포트 3306, 3307, 6012, 6015, 6516"
         ]
       },
       "git": {
@@ -1019,28 +1018,36 @@
       },
       "recentFiles": [
         {
-          "path": "docker-compose.yml",
-          "modifiedAt": "2026-10-22T00:56:32.588Z"
+          "path": "mysql-data/#innodb_redo/#ib_redo9",
+          "modifiedAt": "2026-10-22T01:13:31.802Z"
         },
         {
-          "path": "api.env",
-          "modifiedAt": "2026-10-22T00:56:32.572Z"
+          "path": "mysql-data/#ib_16384_0.dblwr",
+          "modifiedAt": "2026-10-22T01:13:31.730Z"
         },
         {
-          "path": "mysql.env",
-          "modifiedAt": "2026-10-22T00:56:32.560Z"
+          "path": "mysql-data/undo_001",
+          "modifiedAt": "2026-10-22T01:13:31.730Z"
         },
         {
-          "path": "backup/chatsilverbridge-20261022-0956.sql",
-          "modifiedAt": "2026-10-22T00:56:32.540Z"
+          "path": "mysql-data/undo_002",
+          "modifiedAt": "2026-10-22T01:13:31.730Z"
         },
         {
-          "path": "backup/api-inspect-20261022-0956.json",
-          "modifiedAt": "2026-10-22T00:56:32.436Z"
+          "path": "mysql-data/mysql.ibd",
+          "modifiedAt": "2026-10-22T01:11:32.719Z"
         },
         {
-          "path": "backup/mysql-inspect-20261022-0956.json",
-          "modifiedAt": "2026-10-22T00:56:32.424Z"
+          "path": "mysql-data/ibdata1",
+          "modifiedAt": "2026-10-22T01:11:31.719Z"
+        },
+        {
+          "path": "mysql-data/ibtmp1",
+          "modifiedAt": "2026-10-22T01:11:31.719Z"
+        },
+        {
+          "path": "mysql-data/#innodb_temp/temp_1.ibt",
+          "modifiedAt": "2026-10-22T01:11:31.715Z"
         }
       ],
       "summary": [
@@ -1610,22 +1617,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7731,
+        "commitCount": 7732,
         "authors": [
           {
-            "count": 7731,
+            "count": 7732,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "7235de747",
+          "hash": "524b4c75f",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-22T09:29:53+09:00",
+          "date": "2026-10-22T09:59:59+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7731개 커밋, 상위 계정: gosky(7731), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7732개 커밋, 상위 계정: gosky(7732), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1666,8 +1673,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7731",
-        "Git 상위 계정: gosky(7731)"
+        "Git 커밋 수: 7732",
+        "Git 상위 계정: gosky(7732)"
       ]
     },
     {
@@ -1990,7 +1997,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 52 minutes",
+            "status": "Up 5 minutes",
             "ports": ""
           }
         ],
@@ -2176,7 +2183,7 @@
         }
       ],
       "structure": {
-        "fileCount": 3863,
+        "fileCount": 3864,
         "dirCount": 140,
         "mainFolders": [
           "app",
@@ -2230,24 +2237,23 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 52 minutes",
+            "status": "Up 5 minutes",
             "ports": ""
           }
         ],
         "ports": [
           5432,
+          6012,
           6015,
           6017,
           6019
         ],
         "allCandidatePorts": [
           1000,
-          1007,
           1008,
           1024,
           1029,
           1234,
-          1238,
           2000,
           5432,
           6012,
@@ -2257,7 +2263,6 @@
           10052,
           12345,
           17029,
-          17273,
           18519,
           46385,
           51082,
@@ -2267,13 +2272,13 @@
           "실행 중",
           "PM2 없음",
           "Docker 1개",
-          "포트 5432, 6015, 6017, 6019"
+          "포트 5432, 6012, 6015, 6017, 6019"
         ]
       },
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 104,
+        "commitCount": 107,
         "authors": [
           {
             "count": 37,
@@ -2281,7 +2286,7 @@
             "email": "lovesky00317@gmail.com"
           },
           {
-            "count": 23,
+            "count": 25,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2297,46 +2302,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "bfd4a05",
+          "hash": "258b83d",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-10-22T09:45:51+09:00",
-          "subject": "Merge pull request #27 from Dongyang-Mirae-University-software/fix/ai-postgres-bind-localhost"
+          "date": "2026-10-22T10:19:28+09:00",
+          "subject": "Merge pull request #28 from Dongyang-Mirae-University-software/fix/reservation-confirm-audit-findings"
         },
-        "summary": "총 104개 커밋, 상위 계정: gosky(37), skarndaudwls1(23), gosky(16), 최근: Merge pull request #27 from Dongyang-Mirae-University-software/fix/ai-postgres-bind-localhost"
+        "summary": "총 107개 커밋, 상위 계정: gosky(37), skarndaudwls1(25), gosky(16), 최근: Merge pull request #28 from Dongyang-Mirae-University-software/fix/reservation-confirm-audit-findings"
       },
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000002",
-          "modifiedAt": "2026-10-22T00:51:37.962Z"
+          "modifiedAt": "2026-10-22T01:28:54.479Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-10-22T00:51:32.358Z"
+          "modifiedAt": "2026-10-22T01:26:35.157Z"
         },
         {
-          "path": "data/postgres/pg_multixact/offsets/0000",
-          "modifiedAt": "2026-10-22T00:51:32.358Z"
+          "path": "data/postgres/base/16384/32958",
+          "modifiedAt": "2026-10-22T01:26:35.053Z"
         },
         {
-          "path": "data/postgres/pg_logical/replorigin_checkpoint",
-          "modifiedAt": "2026-10-22T00:51:32.354Z"
+          "path": "data/postgres/base/16384/32957",
+          "modifiedAt": "2026-10-22T01:26:34.953Z"
         },
         {
-          "path": "data/postgres/pg_subtrans/0000",
-          "modifiedAt": "2026-10-22T00:51:32.354Z"
+          "path": "data/postgres/base/16384/32956",
+          "modifiedAt": "2026-10-22T01:26:34.853Z"
         },
         {
-          "path": "data/postgres/pg_xact/0000",
-          "modifiedAt": "2026-10-22T00:51:32.354Z"
+          "path": "data/postgres/base/16384/2619",
+          "modifiedAt": "2026-10-22T01:26:34.757Z"
         },
         {
-          "path": "data/postgres/base/5/pg_internal.init",
-          "modifiedAt": "2026-10-22T00:47:02.336Z"
+          "path": "data/postgres/base/16384/2840",
+          "modifiedAt": "2026-10-22T01:26:34.757Z"
         },
         {
-          "path": "data/postgres/global/pg_internal.init",
-          "modifiedAt": "2026-10-22T00:47:02.332Z"
+          "path": "data/postgres/base/16384/32955",
+          "modifiedAt": "2026-10-22T01:26:34.753Z"
         }
       ],
       "summary": [
@@ -2344,8 +2349,8 @@
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI",
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 104",
-        "Git 상위 계정: gosky(37), skarndaudwls1(23), gosky(16)"
+        "Git 커밋 수: 107",
+        "Git 상위 계정: gosky(37), skarndaudwls1(25), gosky(16)"
       ]
     },
     {
@@ -3199,7 +3204,7 @@
           {
             "name": "silverbridgereservation-reservation-api-1",
             "image": "silverbridgereservation-reservation-api",
-            "status": "Up 47 hours",
+            "status": "Up 2 days",
             "ports": "127.0.0.1:6015->6015/tcp"
           }
         ],
