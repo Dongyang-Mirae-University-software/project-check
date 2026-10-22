@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-22 08:59:46 KST
+- 점검 시각: 2026-10-22 09:29:51 KST
 
 ## 추정 기술 스택
 
@@ -44,7 +44,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 3855
+- 파일 개수: 3863
 - 디렉토리 개수: 140
 - 주요 폴더: app, data, docs, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, models/new/backup, tests
@@ -65,24 +65,24 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 97
+- 총 커밋 수: 102
 - 계정별 커밋 수:
   - gosky <lovesky00317@gmail.com>: 37
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 19
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 22
   - gosky <gosky@gosky.kr>: 16
   - namgung <skarndaudwls@gmail.com>: 11
-- 최근 커밋: 52483a8 / gosky <gosky@gosky.kr> / fix: 게임 API 키 요구를 서버 간 경로에만 적용 - GAME_REQUIRE_API_KEY 를 라우터 전체가 아니라 목록·시작·progress·activity 에만 적용 - iframe 과 그 안의 JS 가 키 없이 부르는 /embed·/state·/answer·/reset 은 항상 열어 게임 화면 401 방지 - 플래그를 요청 시점에 읽도록 바꿔 FE 프록시 전환 없이 켤 수 있게 함
+- 최근 커밋: 298b3e2 / namgung <skarndaudwls@gmail.com> / Merge pull request #26 from Dongyang-Mirae-University-software/feature/reservation-confirm-cancel
 
 ## 최근 수정 파일
 
-- data/collect/20261021/fire/alert/104321117_ward_UHZsmAZcxFPjyVjG_0.67.jpg (2026-10-21 10:43:21 KST)
-- data/collect/20261021/fire/alert/104321117_ward_UHZsmAZcxFPjyVjG_0.67.json (2026-10-21 10:43:21 KST)
-- data/collect/20261021/fire/alert/104310868_ward_UHZsmAZcxFPjyVjG_0.67.jpg (2026-10-21 10:43:10 KST)
-- data/collect/20261021/fire/alert/104310868_ward_UHZsmAZcxFPjyVjG_0.67.json (2026-10-21 10:43:10 KST)
-- data/collect/20261021/fire/alert/104300844_ward_UHZsmAZcxFPjyVjG_0.63.jpg (2026-10-21 10:43:00 KST)
-- data/collect/20261021/fire/alert/104300844_ward_UHZsmAZcxFPjyVjG_0.63.json (2026-10-21 10:43:00 KST)
-- data/collect/20261021/fire/alert/104250829_ward_UHZsmAZcxFPjyVjG_0.63.jpg (2026-10-21 10:42:50 KST)
-- data/collect/20261021/fire/alert/104250829_ward_UHZsmAZcxFPjyVjG_0.63.json (2026-10-21 10:42:50 KST)
+- data/postgres/pg_wal/000000010000000000000002 (2026-10-22 09:15:15 KST)
+- data/postgres/global/pg_control (2026-10-22 09:14:56 KST)
+- data/postgres/base/16384/32958 (2026-10-22 09:14:56 KST)
+- data/postgres/base/16384/32957 (2026-10-22 09:14:56 KST)
+- data/postgres/base/16384/32956 (2026-10-22 09:14:56 KST)
+- data/postgres/base/16384/32955 (2026-10-22 09:14:56 KST)
+- data/postgres/base/16384/32950 (2026-10-22 09:14:55 KST)
+- data/postgres/base/16384/32948 (2026-10-22 09:14:55 KST)
 
 ## 점검 결과 요약
 
@@ -90,5 +90,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 97
-- Git 상위 계정: gosky(37), skarndaudwls1(19), gosky(16)
+- Git 커밋 수: 102
+- Git 상위 계정: gosky(37), skarndaudwls1(22), gosky(16)
