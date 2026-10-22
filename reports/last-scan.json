@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-22T07:31:06.477Z",
-  "generatedAtKst": "2026-10-22 16:31:06 KST",
+  "generatedAt": "2026-10-22T08:01:12.538Z",
+  "generatedAtKst": "2026-10-22 17:01:12 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7881
+          "count": 7882
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7927
+      "count": 7928
     },
     {
       "name": "YUNA0222",
@@ -51,14 +51,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 1153
+          "count": 1155
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 1242
+      "count": 1244
     },
     {
       "name": "Jaehe-he",
@@ -781,13 +781,13 @@
           {
             "name": "chatsilverbridge-api-1",
             "image": "chatsilverbridge-api:latest",
-            "status": "Up 6 hours",
+            "status": "Up 7 hours",
             "ports": "127.0.0.1:6012->6012/tcp"
           },
           {
             "name": "chatsilverbridge-mysql-1",
             "image": "mysql:8.0",
-            "status": "Up 6 hours (healthy)",
+            "status": "Up 7 hours (healthy)",
             "ports": "33060/tcp, 127.0.0.1:3307->3306/tcp"
           },
           {
@@ -1617,22 +1617,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7744,
+        "commitCount": 7745,
         "authors": [
           {
-            "count": 7744,
+            "count": 7745,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "7bb46bfed",
+          "hash": "5d1dcfedf",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-22T16:01:04+09:00",
+          "date": "2026-10-22T16:31:10+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7744개 커밋, 상위 계정: gosky(7744), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7745개 커밋, 상위 계정: gosky(7745), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1673,8 +1673,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7744",
-        "Git 상위 계정: gosky(7744)"
+        "Git 커밋 수: 7745",
+        "Git 상위 계정: gosky(7745)"
       ]
     },
     {
@@ -1997,7 +1997,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 45 minutes",
+            "status": "Up About an hour",
             "ports": ""
           }
         ],
@@ -2238,7 +2238,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 45 minutes",
+            "status": "Up About an hour",
             "ports": ""
           }
         ],
@@ -2707,7 +2707,7 @@
         }
       ],
       "structure": {
-        "fileCount": 451,
+        "fileCount": 452,
         "dirCount": 121,
         "mainFolders": [
           "docs",
@@ -2781,7 +2781,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 1265,
+        "commitCount": 1269,
         "authors": [
           {
             "count": 1400,
@@ -2794,7 +2794,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 58,
+            "count": 60,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2815,46 +2815,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "ec3af89",
+          "hash": "fea0cef",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-10-22T16:07:42+09:00",
-          "subject": "Merge pull request #87 from Dongyang-Mirae-University-software/feature/medication-card-registered-today"
+          "date": "2026-10-22T16:56:41+09:00",
+          "subject": "Merge pull request #89 from Dongyang-Mirae-University-software/fix/medication-add-unified-times"
         },
-        "summary": "총 1265개 커밋, 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(58), 최근: Merge pull request #87 from Dongyang-Mirae-University-software/feature/medication-card-registered-today"
+        "summary": "총 1269개 커밋, 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(60), 최근: Merge pull request #89 from Dongyang-Mirae-University-software/fix/medication-add-unified-times"
       },
       "recentFiles": [
         {
-          "path": "src/app/(guardian)/guardian/medication/_components/WardMedicationCard.tsx",
-          "modifiedAt": "2026-10-22T07:07:52.440Z"
-        },
-        {
-          "path": "src/service/interface/medication.ts",
-          "modifiedAt": "2026-10-22T07:07:52.440Z"
-        },
-        {
-          "path": "src/utils/format/medication.test.ts",
-          "modifiedAt": "2026-10-22T07:07:52.440Z"
-        },
-        {
-          "path": "src/utils/format/medication.ts",
-          "modifiedAt": "2026-10-22T07:07:52.440Z"
-        },
-        {
           "path": "src/app/(guardian)/guardian/medication/_components/MedicationAddModal.browser.test.tsx",
-          "modifiedAt": "2026-10-22T06:45:20.098Z"
+          "modifiedAt": "2026-10-22T07:56:45.666Z"
         },
         {
           "path": "src/app/(guardian)/guardian/medication/_components/MedicationAddModal.module.css",
-          "modifiedAt": "2026-10-22T06:45:20.098Z"
+          "modifiedAt": "2026-10-22T07:56:45.666Z"
         },
         {
           "path": "src/app/(guardian)/guardian/medication/_components/MedicationAddModal.tsx",
-          "modifiedAt": "2026-10-22T06:45:20.098Z"
+          "modifiedAt": "2026-10-22T07:56:45.666Z"
         },
         {
           "path": "src/app/(guardian)/guardian/medication/_components/MedicationDoseTimeStep.tsx",
-          "modifiedAt": "2026-10-22T06:45:20.098Z"
+          "modifiedAt": "2026-10-22T07:56:45.666Z"
+        },
+        {
+          "path": "src/app/(guardian)/guardian/medication/_components/MedicationDraftForm.tsx",
+          "modifiedAt": "2026-10-22T07:56:45.666Z"
+        },
+        {
+          "path": "src/utils/medication/medicationDraft.test.ts",
+          "modifiedAt": "2026-10-22T07:56:45.666Z"
+        },
+        {
+          "path": "src/utils/medication/medicationDraft.ts",
+          "modifiedAt": "2026-10-22T07:56:45.666Z"
+        },
+        {
+          "path": "src/app/(guardian)/guardian/medication/_components/WardMedicationCard.browser.test.tsx",
+          "modifiedAt": "2026-10-22T07:32:43.531Z"
         }
       ],
       "summary": [
@@ -2862,8 +2862,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1265",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(58)"
+        "Git 커밋 수: 1269",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(60)"
       ]
     },
     {
