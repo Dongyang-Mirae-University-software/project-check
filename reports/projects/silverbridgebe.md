@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-10-22 13:00:30 KST
+- 점검 시각: 2026-10-22 13:30:35 KST
 
 ## 추정 기술 스택
 
@@ -57,24 +57,24 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1107
+- 총 커밋 수: 1111
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 918
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 922
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
   - gosky <gosky@gosky.kr>: 2
-- 최근 커밋: ff8957b / namgung <skarndaudwls@gmail.com> / Merge pull request #364 from Dongyang-Mirae-University-software/fix/chat-deadline-executor
+- 최근 커밋: 5d2b0a9 / namgung <skarndaudwls@gmail.com> / Merge pull request #365 from Dongyang-Mirae-University-software/fix/ai-stream-clip-deadline
 
 ## 최근 수정 파일
 
-- docs/progress.md (2026-10-22 11:24:09 KST)
-- docs/(2026-10-22) audit-ai-reservation-confirm-flow.md (2026-10-22 11:16:53 KST)
+- docs/progress.md (2026-10-22 13:20:41 KST)
+- docs/(2026-10-20) analysis-ai-chat-reservation.md (2026-10-22 13:20:41 KST)
+- docs/(2026-10-22) audit-ai-reservation-confirm-flow.md (2026-10-22 13:20:41 KST)
+- docs/audit-index.md (2026-10-22 13:20:41 KST)
 - docs/(2026-10-22) audit-medication-ocr-batch-half-dose.md (2026-10-22 11:16:53 KST)
 - docs/(2026-10-22) feature-medication-batch-half-dose.md (2026-10-22 11:16:53 KST)
 - docs/(2026-10-22) feature-medication-ocr.md (2026-10-22 11:16:53 KST)
-- docs/audit-index.md (2026-10-22 11:16:53 KST)
 - src/main/resources/application.yaml (2026-10-22 10:56:08 KST)
-- src/main/resources/db/migration/V62__allow_half_dose_amount.sql (2026-10-22 10:56:08 KST)
 
 ## 점검 결과 요약
 
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1107
-- Git 상위 계정: skarndaudwls1(918), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1111
+- Git 상위 계정: skarndaudwls1(922), skarndaudwls1(65), gosky(4)
