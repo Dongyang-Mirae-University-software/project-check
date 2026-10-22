@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-10-22 11:00:08 KST
+- 점검 시각: 2026-10-22 11:30:14 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 237
+- 파일 개수: 239
 - 디렉토리 개수: 33
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/integrationTest, src/integrationTest/java, src/integrationTest/java/kr, src/integrationTest/java/kr/silverbridge, src/integrationTest/java/kr/silverbridge/main, src/integrationTest/java/kr/silverbridge/main/domain, src/integrationTest/java/kr/silverbridge/main/migration, src/integrationTest/java/kr/silverbridge/main/support, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration, src/test
@@ -57,24 +57,24 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1098
+- 총 커밋 수: 1107
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 912
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 918
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
   - gosky <gosky@gosky.kr>: 2
-- 최근 커밋: f4883d4 / namgung <skarndaudwls@gmail.com> / Merge pull request #362 from Dongyang-Mirae-University-software/feature/medication-batch-half-dose
+- 최근 커밋: ff8957b / namgung <skarndaudwls@gmail.com> / Merge pull request #364 from Dongyang-Mirae-University-software/fix/chat-deadline-executor
 
 ## 최근 수정 파일
 
+- docs/progress.md (2026-10-22 11:24:09 KST)
+- docs/(2026-10-22) audit-ai-reservation-confirm-flow.md (2026-10-22 11:16:53 KST)
+- docs/(2026-10-22) audit-medication-ocr-batch-half-dose.md (2026-10-22 11:16:53 KST)
+- docs/(2026-10-22) feature-medication-batch-half-dose.md (2026-10-22 11:16:53 KST)
+- docs/(2026-10-22) feature-medication-ocr.md (2026-10-22 11:16:53 KST)
+- docs/audit-index.md (2026-10-22 11:16:53 KST)
 - src/main/resources/application.yaml (2026-10-22 10:56:08 KST)
 - src/main/resources/db/migration/V62__allow_half_dose_amount.sql (2026-10-22 10:56:08 KST)
-- docs/progress.md (2026-10-22 10:56:08 KST)
-- CLAUDE.md (2026-10-22 10:56:08 KST)
-- docs/(2026-10-20) analysis-ai-chat-reservation.md (2026-10-22 10:56:08 KST)
-- docs/(2026-10-22) audit-ai-chat-reservation-confirm.md (2026-10-22 10:56:08 KST)
-- docs/(2026-10-22) feature-medication-batch-half-dose.md (2026-10-22 10:56:08 KST)
-- docs/(2026-10-22) feature-medication-ocr.md (2026-10-22 10:56:08 KST)
 
 ## 점검 결과 요약
 
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1098
-- Git 상위 계정: skarndaudwls1(912), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1107
+- Git 상위 계정: skarndaudwls1(918), skarndaudwls1(65), gosky(4)

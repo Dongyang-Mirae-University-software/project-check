@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-22 11:00:08 KST
+- 점검 시각: 2026-10-22 11:30:14 KST
 
 ## 추정 기술 스택
 
@@ -65,24 +65,24 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 112
+- 총 커밋 수: 118
 - 계정별 커밋 수:
   - gosky <lovesky00317@gmail.com>: 37
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 28
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 31
   - gosky <gosky@gosky.kr>: 16
   - namgung <skarndaudwls@gmail.com>: 11
-- 최근 커밋: 34aeb03 / namgung <skarndaudwls@gmail.com> / Merge pull request #30 from Dongyang-Mirae-University-software/fix/reservation-token-db-claim
+- 최근 커밋: 35dee08 / namgung <skarndaudwls@gmail.com> / Merge pull request #33 from Dongyang-Mirae-University-software/fix/remove-chat-upstream-fallback
 
 ## 최근 수정 파일
 
-- data/postgres/pg_wal/000000010000000000000002 (2026-10-22 10:51:56 KST)
-- data/postgres/global/pg_control (2026-10-22 10:51:40 KST)
-- data/postgres/base/16384/33193 (2026-10-22 10:51:40 KST)
-- data/postgres/base/16384/33191 (2026-10-22 10:51:39 KST)
-- data/postgres/base/16384/33188 (2026-10-22 10:51:39 KST)
-- data/postgres/base/16384/32950 (2026-10-22 10:51:39 KST)
-- data/postgres/base/16384/32948 (2026-10-22 10:51:39 KST)
-- data/postgres/base/16384/32947 (2026-10-22 10:51:39 KST)
+- data/postgres/pg_wal/000000010000000000000002 (2026-10-22 11:29:17 KST)
+- app/core/config.py (2026-10-22 11:27:50 KST)
+- app/services/chat_service.py (2026-10-22 11:27:50 KST)
+- tests/test_chat_llm_failure_fallback.py (2026-10-22 11:27:50 KST)
+- data/postgres/global/pg_control (2026-10-22 11:21:34 KST)
+- data/postgres/base/16384/32935 (2026-10-22 11:21:34 KST)
+- data/postgres/base/16384/2619 (2026-10-22 11:21:33 KST)
+- data/postgres/pg_logical/replorigin_checkpoint (2026-10-22 11:21:33 KST)
 
 ## 점검 결과 요약
 
@@ -90,5 +90,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 112
-- Git 상위 계정: gosky(37), skarndaudwls1(28), gosky(16)
+- Git 커밋 수: 118
+- Git 상위 계정: gosky(37), skarndaudwls1(31), gosky(16)
