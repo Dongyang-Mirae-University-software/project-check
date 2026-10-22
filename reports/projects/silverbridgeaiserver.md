@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-22 13:30:35 KST
+- 점검 시각: 2026-10-22 14:00:41 KST
 
 ## 추정 기술 스택
 
@@ -44,7 +44,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 3876
+- 파일 개수: 3878
 - 디렉토리 개수: 140
 - 주요 폴더: app, data, docs, models, tests
 - 주요 경로: app, app/core, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, models/new/backup, tests
@@ -65,24 +65,24 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 122
+- 총 커밋 수: 125
 - 계정별 커밋 수:
   - gosky <lovesky00317@gmail.com>: 37
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 33
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 35
   - gosky <gosky@gosky.kr>: 16
   - namgung <skarndaudwls@gmail.com>: 11
-- 최근 커밋: b752780 / namgung <skarndaudwls@gmail.com> / Merge pull request #34 from Dongyang-Mirae-University-software/fix/reservation-recheck-findings
+- 최근 커밋: eea6ed1 / namgung <skarndaudwls@gmail.com> / Merge pull request #35 from Dongyang-Mirae-University-software/fix/chat-log-credential-strip
 
 ## 최근 수정 파일
 
-- data/postgres/pg_wal/000000010000000000000002 (2026-10-22 13:29:55 KST)
-- data/postgres/base/16384/32938 (2026-10-22 13:29:03 KST)
-- app/services/reservation_intake.py (2026-10-22 13:05:47 KST)
-- app/services/reservation_orchestrator.py (2026-10-22 13:05:47 KST)
-- tests/test_reservation_recheck_findings.py (2026-10-22 13:05:47 KST)
-- app/services/chat_service.py (2026-10-22 13:05:47 KST)
-- app/services/reservation_confirm_flow.py (2026-10-22 13:05:47 KST)
-- data/postgres/global/pg_control (2026-10-22 11:31:34 KST)
+- data/postgres/pg_wal/000000010000000000000002 (2026-10-22 13:59:12 KST)
+- data/postgres/base/16384/32938_vm (2026-10-22 13:58:40 KST)
+- data/postgres/base/16384/32935 (2026-10-22 13:58:30 KST)
+- data/postgres/base/16384/32938 (2026-10-22 13:58:30 KST)
+- data/postgres/base/16384/32946 (2026-10-22 13:58:30 KST)
+- data/postgres/global/pg_control (2026-10-22 13:51:37 KST)
+- data/postgres/pg_logical/replorigin_checkpoint (2026-10-22 13:51:36 KST)
+- tests/test_chat_log_credential_strip.py (2026-10-22 13:48:30 KST)
 
 ## 점검 결과 요약
 
@@ -90,5 +90,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 122
-- Git 상위 계정: gosky(37), skarndaudwls1(33), gosky(16)
+- Git 커밋 수: 125
+- Git 상위 계정: gosky(37), skarndaudwls1(35), gosky(16)
