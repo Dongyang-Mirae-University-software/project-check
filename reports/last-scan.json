@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-22T08:31:18.245Z",
-  "generatedAtKst": "2026-10-22 17:31:18 KST",
+  "generatedAt": "2026-10-22T09:01:23.914Z",
+  "generatedAtKst": "2026-10-22 18:01:23 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7883
+          "count": 7884
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7929
+      "count": 7930
     },
     {
       "name": "YUNA0222",
@@ -51,14 +51,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 1155
+          "count": 1156
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 1244
+      "count": 1245
     },
     {
       "name": "Jaehe-he",
@@ -781,13 +781,13 @@
           {
             "name": "chatsilverbridge-api-1",
             "image": "chatsilverbridge-api:latest",
-            "status": "Up 7 hours",
+            "status": "Up 8 hours",
             "ports": "127.0.0.1:6012->6012/tcp"
           },
           {
             "name": "chatsilverbridge-mysql-1",
             "image": "mysql:8.0",
-            "status": "Up 7 hours (healthy)",
+            "status": "Up 8 hours (healthy)",
             "ports": "33060/tcp, 127.0.0.1:3307->3306/tcp"
           },
           {
@@ -1617,22 +1617,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7746,
+        "commitCount": 7747,
         "authors": [
           {
-            "count": 7746,
+            "count": 7747,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "798becb67",
+          "hash": "41ebe5b2f",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-22T17:01:16+09:00",
+          "date": "2026-10-22T17:31:22+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7746개 커밋, 상위 계정: gosky(7746), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7747개 커밋, 상위 계정: gosky(7747), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1673,8 +1673,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7746",
-        "Git 상위 계정: gosky(7746)"
+        "Git 커밋 수: 7747",
+        "Git 상위 계정: gosky(7747)"
       ]
     },
     {
@@ -2781,7 +2781,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 1269,
+        "commitCount": 1271,
         "authors": [
           {
             "count": 1400,
@@ -2794,7 +2794,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 60,
+            "count": 61,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2815,42 +2815,42 @@
           }
         ],
         "latestCommit": {
-          "hash": "fea0cef",
+          "hash": "b46493b",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-10-22T16:56:41+09:00",
-          "subject": "Merge pull request #89 from Dongyang-Mirae-University-software/fix/medication-add-unified-times"
+          "date": "2026-10-22T17:55:36+09:00",
+          "subject": "Merge pull request #90 from Dongyang-Mirae-University-software/fix/medication-add-89-followup"
         },
-        "summary": "총 1269개 커밋, 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(60), 최근: Merge pull request #89 from Dongyang-Mirae-University-software/fix/medication-add-unified-times"
+        "summary": "총 1271개 커밋, 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(61), 최근: Merge pull request #90 from Dongyang-Mirae-University-software/fix/medication-add-89-followup"
       },
       "recentFiles": [
         {
-          "path": "src/app/(guardian)/guardian/medication/_components/MedicationAddModal.browser.test.tsx",
-          "modifiedAt": "2026-10-22T07:56:45.666Z"
-        },
-        {
           "path": "src/app/(guardian)/guardian/medication/_components/MedicationAddModal.module.css",
-          "modifiedAt": "2026-10-22T07:56:45.666Z"
+          "modifiedAt": "2026-10-22T08:55:41.332Z"
         },
         {
           "path": "src/app/(guardian)/guardian/medication/_components/MedicationAddModal.tsx",
-          "modifiedAt": "2026-10-22T07:56:45.666Z"
+          "modifiedAt": "2026-10-22T08:55:41.332Z"
         },
         {
           "path": "src/app/(guardian)/guardian/medication/_components/MedicationDoseTimeStep.tsx",
-          "modifiedAt": "2026-10-22T07:56:45.666Z"
+          "modifiedAt": "2026-10-22T08:55:41.332Z"
         },
         {
           "path": "src/app/(guardian)/guardian/medication/_components/MedicationDraftForm.tsx",
-          "modifiedAt": "2026-10-22T07:56:45.666Z"
+          "modifiedAt": "2026-10-22T08:55:41.332Z"
         },
         {
           "path": "src/utils/medication/medicationDraft.test.ts",
-          "modifiedAt": "2026-10-22T07:56:45.666Z"
+          "modifiedAt": "2026-10-22T08:55:41.332Z"
         },
         {
           "path": "src/utils/medication/medicationDraft.ts",
-          "modifiedAt": "2026-10-22T07:56:45.666Z"
+          "modifiedAt": "2026-10-22T08:55:41.332Z"
+        },
+        {
+          "path": "src/app/(guardian)/guardian/medication/_components/MedicationAddModal.browser.test.tsx",
+          "modifiedAt": "2026-10-22T08:55:41.328Z"
         },
         {
           "path": "src/app/(guardian)/guardian/medication/_components/WardMedicationCard.browser.test.tsx",
@@ -2862,8 +2862,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1269",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(60)"
+        "Git 커밋 수: 1271",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(61)"
       ]
     },
     {

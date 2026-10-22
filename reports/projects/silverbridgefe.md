@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-22 17:31:20 KST
+- 점검 시각: 2026-10-22 18:01:26 KST
 
 ## 추정 기술 스택
 
@@ -58,25 +58,25 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1269
+- 총 커밋 수: 1271
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 345
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 60
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 61
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: fea0cef / namgung <skarndaudwls@gmail.com> / Merge pull request #89 from Dongyang-Mirae-University-software/fix/medication-add-unified-times
+- 최근 커밋: b46493b / namgung <skarndaudwls@gmail.com> / Merge pull request #90 from Dongyang-Mirae-University-software/fix/medication-add-89-followup
 
 ## 최근 수정 파일
 
-- src/app/(guardian)/guardian/medication/_components/MedicationAddModal.browser.test.tsx (2026-10-22 16:56:45 KST)
-- src/app/(guardian)/guardian/medication/_components/MedicationAddModal.module.css (2026-10-22 16:56:45 KST)
-- src/app/(guardian)/guardian/medication/_components/MedicationAddModal.tsx (2026-10-22 16:56:45 KST)
-- src/app/(guardian)/guardian/medication/_components/MedicationDoseTimeStep.tsx (2026-10-22 16:56:45 KST)
-- src/app/(guardian)/guardian/medication/_components/MedicationDraftForm.tsx (2026-10-22 16:56:45 KST)
-- src/utils/medication/medicationDraft.test.ts (2026-10-22 16:56:45 KST)
-- src/utils/medication/medicationDraft.ts (2026-10-22 16:56:45 KST)
+- src/app/(guardian)/guardian/medication/_components/MedicationAddModal.module.css (2026-10-22 17:55:41 KST)
+- src/app/(guardian)/guardian/medication/_components/MedicationAddModal.tsx (2026-10-22 17:55:41 KST)
+- src/app/(guardian)/guardian/medication/_components/MedicationDoseTimeStep.tsx (2026-10-22 17:55:41 KST)
+- src/app/(guardian)/guardian/medication/_components/MedicationDraftForm.tsx (2026-10-22 17:55:41 KST)
+- src/utils/medication/medicationDraft.test.ts (2026-10-22 17:55:41 KST)
+- src/utils/medication/medicationDraft.ts (2026-10-22 17:55:41 KST)
+- src/app/(guardian)/guardian/medication/_components/MedicationAddModal.browser.test.tsx (2026-10-22 17:55:41 KST)
 - src/app/(guardian)/guardian/medication/_components/WardMedicationCard.browser.test.tsx (2026-10-22 16:32:43 KST)
 
 ## 점검 결과 요약
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1269
-- Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(60)
+- Git 커밋 수: 1271
+- Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(61)
