@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-22 15:30:57 KST
+- 점검 시각: 2026-10-22 16:01:03 KST
 
 ## 추정 기술 스택
 
@@ -37,7 +37,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 450
+- 파일 개수: 451
 - 디렉토리 개수: 121
 - 주요 폴더: docs, public, src
 - 주요 경로: public, public/images, src, src/app, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/auth, src/app/(auth)/auth/kakao, src/app/(auth)/auth/kakao/callback, src/app/(auth)/find-email, src/app/(auth)/find-email/_components, src/app/(auth)/find-email/_hooks, src/app/(auth)/find-password, src/app/(auth)/find-password/_components, src/app/(auth)/find-password/_hooks, src/app/(auth)/login, src/app/(auth)/login/_components, src/app/(auth)/signup, src/app/(auth)/signup/_components, src/app/(guardian)
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1261
+- 총 커밋 수: 1263
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 345
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 56
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 57
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 9267f10 / namgung <skarndaudwls@gmail.com> / Merge pull request #85 from Dongyang-Mirae-University-software/test/medication-modal-browser
+- 최근 커밋: b19bfd2 / namgung <skarndaudwls@gmail.com> / Merge pull request #86 from Dongyang-Mirae-University-software/feature/medication-add-simple
 
 ## 최근 수정 파일
 
-- src/app/(guardian)/guardian/medication/_components/MedicationAddModal.tsx (2026-10-22 14:22:33 KST)
-- src/app/(guardian)/guardian/medication/_components/MedicationFormModal.browser.test.tsx (2026-10-22 14:22:33 KST)
-- src/app/(guardian)/guardian/medication/_components/MedicationFormModal.tsx (2026-10-22 14:22:33 KST)
-- src/hooks/useModalDialog.ts (2026-10-22 14:22:33 KST)
-- src/utils/medication/ocrImage.browser.test.tsx (2026-10-22 14:22:33 KST)
-- vitest.browser.config.ts (2026-10-22 14:22:33 KST)
-- package-lock.json (2026-10-22 14:22:33 KST)
-- package.json (2026-10-22 14:22:33 KST)
+- src/app/(guardian)/guardian/medication/_components/MedicationAddModal.browser.test.tsx (2026-10-22 15:45:20 KST)
+- src/app/(guardian)/guardian/medication/_components/MedicationAddModal.module.css (2026-10-22 15:45:20 KST)
+- src/app/(guardian)/guardian/medication/_components/MedicationAddModal.tsx (2026-10-22 15:45:20 KST)
+- src/app/(guardian)/guardian/medication/_components/MedicationDoseTimeStep.tsx (2026-10-22 15:45:20 KST)
+- src/app/(guardian)/guardian/medication/_components/MedicationDraftForm.tsx (2026-10-22 15:45:20 KST)
+- src/app/(guardian)/guardian/medication/_components/WardMedicationCard.module.css (2026-10-22 15:45:20 KST)
+- src/app/(guardian)/guardian/medication/_components/WardMedicationCard.tsx (2026-10-22 15:45:20 KST)
+- src/utils/medication/medicationDraft.test.ts (2026-10-22 15:45:20 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1261
-- Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(56)
+- Git 커밋 수: 1263
+- Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(57)
