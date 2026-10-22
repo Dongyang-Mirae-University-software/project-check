@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-22 09:29:51 KST
+- 점검 시각: 2026-10-22 09:59:57 KST
 
 ## 추정 기술 스택
 
@@ -58,31 +58,31 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1000, 1007, 1008, 1024, 1029, 1234, 1238, 2000, 5432, 6012, 6015, 6017, 6019, 10052, 10197, 12345, 17029, 17273, 18519, 46385, 51082, 62394
+- 관련 포트: 1000, 1007, 1008, 1024, 1029, 1234, 1238, 2000, 5432, 6012, 6015, 6017, 6019, 10052, 12345, 17029, 17273, 18519, 46385, 51082, 62394
 - 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 102
+- 총 커밋 수: 104
 - 계정별 커밋 수:
   - gosky <lovesky00317@gmail.com>: 37
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 22
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 23
   - gosky <gosky@gosky.kr>: 16
   - namgung <skarndaudwls@gmail.com>: 11
-- 최근 커밋: 298b3e2 / namgung <skarndaudwls@gmail.com> / Merge pull request #26 from Dongyang-Mirae-University-software/feature/reservation-confirm-cancel
+- 최근 커밋: bfd4a05 / namgung <skarndaudwls@gmail.com> / Merge pull request #27 from Dongyang-Mirae-University-software/fix/ai-postgres-bind-localhost
 
 ## 최근 수정 파일
 
-- data/postgres/pg_wal/000000010000000000000002 (2026-10-22 09:15:15 KST)
-- data/postgres/global/pg_control (2026-10-22 09:14:56 KST)
-- data/postgres/base/16384/32958 (2026-10-22 09:14:56 KST)
-- data/postgres/base/16384/32957 (2026-10-22 09:14:56 KST)
-- data/postgres/base/16384/32956 (2026-10-22 09:14:56 KST)
-- data/postgres/base/16384/32955 (2026-10-22 09:14:56 KST)
-- data/postgres/base/16384/32950 (2026-10-22 09:14:55 KST)
-- data/postgres/base/16384/32948 (2026-10-22 09:14:55 KST)
+- data/postgres/pg_wal/000000010000000000000002 (2026-10-22 09:51:37 KST)
+- data/postgres/global/pg_control (2026-10-22 09:51:32 KST)
+- data/postgres/pg_multixact/offsets/0000 (2026-10-22 09:51:32 KST)
+- data/postgres/pg_logical/replorigin_checkpoint (2026-10-22 09:51:32 KST)
+- data/postgres/pg_subtrans/0000 (2026-10-22 09:51:32 KST)
+- data/postgres/pg_xact/0000 (2026-10-22 09:51:32 KST)
+- data/postgres/base/5/pg_internal.init (2026-10-22 09:47:02 KST)
+- data/postgres/global/pg_internal.init (2026-10-22 09:47:02 KST)
 
 ## 점검 결과 요약
 
@@ -90,5 +90,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 102
-- Git 상위 계정: gosky(37), skarndaudwls1(22), gosky(16)
+- Git 커밋 수: 104
+- Git 상위 계정: gosky(37), skarndaudwls1(23), gosky(16)

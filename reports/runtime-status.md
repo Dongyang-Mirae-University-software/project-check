@@ -1,19 +1,20 @@
 # 실행 상태
 
-- 스캔 시각: 2026-10-22 09:29:53 KST
+- 스캔 시각: 2026-10-22 09:59:59 KST
 
 | 프로젝트 | 분류 | 실행 상태 | PM2 | Docker | 포트 |
 | --- | --- | --- | --- | --- | --- |
 | 자료 | 기타 | 확인 불가 | 확인 불가 | 확인 불가 | 확인 불가 |
 | AiSilverBridgeSky | AI 서버 | 실행 중 | 확인 불가 | 확인 불가 | 1280, 3099, 4306, 4747, 8000, 14122 |
 | CharacterAi | AI 서버 | 정지 | 확인 불가 | 확인 불가 | 확인 불가 |
-| ChatSilverBridge | AI 서버 | 실행 중 | 확인 불가 | chatsilverbridge-api-1, chatsilverbridge-mysql-1, chatsilverbridgetest-web-1 | 8010, 8090 |
+| ChatSilverBridge | AI 서버 | 실행 중 | 확인 불가 | chatsilverbridge-restored-mysql-1, chatsilverbridgetest-web-1 | 8010, 8090 |
+| ChatSilverBridge-deploy | DB | 실행 중 | 확인 불가 | 확인 불가 | 1816, 3045, 3306, 3307, 6012, 6015, 6516, 7627, 10000, 15070, 20000, 27217, 50000, 54903 |
 | ChatSilverBridgeTest | 프론트엔드 | 실행 중 | 확인 불가 | chatsilverbridgetest-web-1 | 8010 |
 | docs | 기타 | 확인 불가 | 확인 불가 | 확인 불가 | 확인 불가 |
 | project-check | 백엔드 | 실행 중 | project-check | 확인 불가 | 1000, 1024, 1234, 1280, 1400, 1433, 1500, 1521, 2026, 2700, 3306, 5432, 6379, 8080, 8456, 26214, 27017 |
 | RemotionVideo | 백엔드 | 정지 | 확인 불가 | 확인 불가 | 1500, 44100 |
 | SilverBridgeAi | AI 서버 | 실행 중 | 확인 불가 | silverbridge-ai-server | 1000, 1234, 1280, 1500, 2026, 2700, 8080, 8456 |
-| SilverBridgeAiServer | AI 서버 | 실행 중 | 확인 불가 | silverbridge-ai-server | 1000, 1007, 1008, 1024, 1029, 1234, 1238, 2000, 5432, 6012, 6015, 6017, 6019, 10052, 10197, 12345, 17029, 17273, 18519, 46385, 51082, 62394 |
+| SilverBridgeAiServer | AI 서버 | 실행 중 | 확인 불가 | silverbridge-ai-server | 1000, 1007, 1008, 1024, 1029, 1234, 1238, 2000, 5432, 6012, 6015, 6017, 6019, 10052, 12345, 17029, 17273, 18519, 46385, 51082, 62394 |
 | SilverBridgeBe | 백엔드 | 실행 중 | 확인 불가 | 확인 불가 | 1024, 1536, 2000, 3000, 5173, 5432, 6011, 6013, 6014, 6379, 6510, 6511, 6513, 6514, 8080, 10000, 10485, 18000, 60480 |
 | SilverBridgeFe | 프론트엔드 | 실행 중 | 확인 불가 | 확인 불가 | 1900, 3000, 4000, 6000, 6010, 6015, 6510, 8000, 60836 |
 | SilverBridgeJH | 백엔드 | 정지 | 확인 불가 | 확인 불가 | 확인 불가 |
@@ -32,13 +33,14 @@
 - 자료: 정지 또는 확인 불가
 - AiSilverBridgeSky: 실행 중 / PM2 없음 / Docker 없음 / 포트 8000
 - CharacterAi: 정지 또는 확인 불가
-- ChatSilverBridge: 실행 중 / PM2 없음 / Docker 3개 / 포트 확인 불가
+- ChatSilverBridge: 실행 중 / PM2 없음 / Docker 2개 / 포트 확인 불가
+- ChatSilverBridge-deploy: 실행 중 / PM2 없음 / Docker 없음 / 포트 3306, 6015, 6516, 20000
 - ChatSilverBridgeTest: 실행 중 / PM2 없음 / Docker 1개 / 포트 확인 불가
 - docs: 정지 또는 확인 불가
 - project-check: 실행 중 / PM2 1개 / Docker 없음 / 포트 1433, 3306, 5432, 6379
 - RemotionVideo: 정지 또는 확인 불가
 - SilverBridgeAi: 실행 중 / PM2 없음 / Docker 1개 / 포트 확인 불가
-- SilverBridgeAiServer: 실행 중 / PM2 없음 / Docker 1개 / 포트 5432, 6012, 6015, 6017, 6019
+- SilverBridgeAiServer: 실행 중 / PM2 없음 / Docker 1개 / 포트 5432, 6015, 6017, 6019
 - SilverBridgeBe: 실행 중 / PM2 없음 / Docker 없음 / 포트 5432, 6011, 6013, 6014, 6379, 6510, 6511, 6513, 6514
 - SilverBridgeFe: 실행 중 / PM2 없음 / Docker 없음 / 포트 6000, 6010, 6015, 6510, 8000
 - SilverBridgeJH: 정지 또는 확인 불가

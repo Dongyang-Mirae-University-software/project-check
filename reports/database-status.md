@@ -1,19 +1,20 @@
 # 데이터베이스 상태
 
-- 스캔 시각: 2026-10-22 09:29:53 KST
+- 스캔 시각: 2026-10-22 09:59:59 KST
 
 | 프로젝트 | DB 사용 여부 | 추정 DB | 실행 상태 | 관련 포트 | 관련 컨테이너 |
 | --- | --- | --- | --- | --- | --- |
 | 자료 | 아니오 | 확인 불가 | 확인 불가 | 확인 불가 | 확인 불가 |
 | AiSilverBridgeSky | 아니오 | 확인 불가 | 실행 중 | 1280, 3099, 4306, 4747, 8000, 14122 | 확인 불가 |
 | CharacterAi | 아니오 | 확인 불가 | 정지 | 확인 불가 | 확인 불가 |
-| ChatSilverBridge | 아니오 | 확인 불가 | 실행 중 | 8010, 8090 | chatsilverbridge-api-1, chatsilverbridge-mysql-1, chatsilverbridgetest-web-1 |
+| ChatSilverBridge | 아니오 | 확인 불가 | 실행 중 | 8010, 8090 | chatsilverbridge-restored-mysql-1, chatsilverbridgetest-web-1 |
+| ChatSilverBridge-deploy | 예 | MySQL | 실행 중 | 1816, 3045, 3306, 3307, 6012, 6015, 6516, 7627, 10000, 15070, 20000, 27217, 50000, 54903 | 확인 불가 |
 | ChatSilverBridgeTest | 아니오 | 확인 불가 | 실행 중 | 8010 | chatsilverbridgetest-web-1 |
 | docs | 아니오 | 확인 불가 | 확인 불가 | 확인 불가 | 확인 불가 |
 | project-check | 예 | MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle | 실행 중 | 1000, 1024, 1234, 1280, 1400, 1433, 1500, 1521, 2026, 2700, 3306, 5432, 6379, 8080, 8456, 26214, 27017 | 확인 불가 |
 | RemotionVideo | 아니오 | 확인 불가 | 정지 | 1500, 44100 | 확인 불가 |
 | SilverBridgeAi | 아니오 | 확인 불가 | 실행 중 | 1000, 1234, 1280, 1500, 2026, 2700, 8080, 8456 | silverbridge-ai-server |
-| SilverBridgeAiServer | 예 | PostgreSQL, SQLite | 실행 중 | 1000, 1007, 1008, 1024, 1029, 1234, 1238, 2000, 5432, 6012, 6015, 6017, 6019, 10052, 10197, 12345, 17029, 17273, 18519, 46385, 51082, 62394 | silverbridge-ai-server |
+| SilverBridgeAiServer | 예 | PostgreSQL, SQLite | 실행 중 | 1000, 1007, 1008, 1024, 1029, 1234, 1238, 2000, 5432, 6012, 6015, 6017, 6019, 10052, 12345, 17029, 17273, 18519, 46385, 51082, 62394 | silverbridge-ai-server |
 | SilverBridgeBe | 예 | PostgreSQL, Redis | 실행 중 | 1024, 1536, 2000, 3000, 5173, 5432, 6011, 6013, 6014, 6379, 6510, 6511, 6513, 6514, 8080, 10000, 10485, 18000, 60480 | 확인 불가 |
 | SilverBridgeFe | 아니오 | 확인 불가 | 실행 중 | 1900, 3000, 4000, 6000, 6010, 6015, 6510, 8000, 60836 | 확인 불가 |
 | SilverBridgeJH | 아니오 | 확인 불가 | 정지 | 확인 불가 | 확인 불가 |
@@ -36,6 +37,8 @@
   - 근거: package.json 확인
 - ChatSilverBridge: DB 사용 흔적 없음
   - 근거: requirements.txt 확인, .env 키 42개 확인
+- ChatSilverBridge-deploy: MySQL 사용 추정
+  - 근거: docker-compose.yml 확인, 추정 DB: MySQL
 - ChatSilverBridgeTest: DB 사용 흔적 없음
   - 근거: package.json 확인
 - docs: DB 사용 흔적 없음

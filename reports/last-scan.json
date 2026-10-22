@@ -1,16 +1,16 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-22T00:29:49.876Z",
-  "generatedAtKst": "2026-10-22 09:29:49 KST",
+  "generatedAt": "2026-10-22T00:59:55.386Z",
+  "generatedAtKst": "2026-10-22 09:59:55 KST",
   "summary": {
-    "total": 22,
+    "total": 23,
     "frontend": 4,
     "backend": 9,
     "ai": 6,
-    "db": 8,
+    "db": 9,
     "gitRepos": 16,
-    "running": 15,
+    "running": 16,
     "stopped": 7
   },
   "gitAuthors": [
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7867
+          "count": 7868
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7913
+      "count": 7914
     },
     {
       "name": "YUNA0222",
@@ -51,14 +51,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 1102
+          "count": 1103
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 1191
+      "count": 1192
     },
     {
       "name": "Jaehe-he",
@@ -779,16 +779,10 @@
         "pm2": [],
         "docker": [
           {
-            "name": "chatsilverbridge-api-1",
-            "image": "chatsilverbridge-api",
-            "status": "Up 2 weeks",
-            "ports": "0.0.0.0:6012->6012/tcp, [::]:6012->6012/tcp"
-          },
-          {
-            "name": "chatsilverbridge-mysql-1",
+            "name": "chatsilverbridge-restored-mysql-1",
             "image": "mysql:8.0",
-            "status": "Up 2 weeks (healthy)",
-            "ports": "33060/tcp, 0.0.0.0:3307->3306/tcp, [::]:3307->3306/tcp"
+            "status": "Restarting (1) 49 seconds ago",
+            "ports": ""
           },
           {
             "name": "chatsilverbridgetest-web-1",
@@ -805,7 +799,7 @@
         "summary": [
           "실행 중",
           "PM2 없음",
-          "Docker 3개",
+          "Docker 2개",
           "포트 확인 불가"
         ]
       },
@@ -870,6 +864,191 @@
         "실행 상태: 실행 중",
         "Git 커밋 수: 2",
         "Git 상위 계정: gosky(2)"
+      ]
+    },
+    {
+      "projectName": "ChatSilverBridge-deploy",
+      "projectPath": "/home/apps/SilverBridgeSky/ChatSilverBridge-deploy",
+      "classification": "DB",
+      "stack": [
+        "Python"
+      ],
+      "mainFiles": [
+        {
+          "file": "package.json",
+          "exists": false
+        },
+        {
+          "file": "vite.config.js",
+          "exists": false
+        },
+        {
+          "file": "vite.config.ts",
+          "exists": false
+        },
+        {
+          "file": "vite.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "vite.config.cjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.js",
+          "exists": false
+        },
+        {
+          "file": "next.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.ts",
+          "exists": false
+        },
+        {
+          "file": "requirements.txt",
+          "exists": false
+        },
+        {
+          "file": "pyproject.toml",
+          "exists": false
+        },
+        {
+          "file": "Dockerfile",
+          "exists": false
+        },
+        {
+          "file": "docker-compose.yml",
+          "exists": true
+        },
+        {
+          "file": "docker-compose.yaml",
+          "exists": false
+        },
+        {
+          "file": "compose.yml",
+          "exists": false
+        },
+        {
+          "file": "compose.yaml",
+          "exists": false
+        },
+        {
+          "file": ".env.example",
+          "exists": false
+        },
+        {
+          "file": ".env",
+          "exists": false
+        },
+        {
+          "file": "pom.xml",
+          "exists": false
+        },
+        {
+          "file": "build.gradle",
+          "exists": false
+        },
+        {
+          "file": "build.gradle.kts",
+          "exists": false
+        }
+      ],
+      "structure": {
+        "fileCount": 6,
+        "dirCount": 1,
+        "mainFolders": [
+          "backup"
+        ],
+        "majorPaths": []
+      },
+      "database": {
+        "used": true,
+        "types": [
+          "MySQL"
+        ],
+        "clueFiles": [],
+        "evidence": [
+          "docker-compose.yml 확인",
+          "추정 DB: MySQL"
+        ],
+        "summary": "MySQL 사용 추정"
+      },
+      "runtime": {
+        "status": "실행 중",
+        "running": true,
+        "pm2": [],
+        "docker": [],
+        "ports": [
+          3306,
+          6015,
+          6516,
+          20000
+        ],
+        "allCandidatePorts": [
+          1816,
+          3045,
+          3306,
+          3307,
+          6012,
+          6015,
+          6516,
+          7627,
+          10000,
+          15070,
+          20000,
+          27217,
+          50000,
+          54903
+        ],
+        "summary": [
+          "실행 중",
+          "PM2 없음",
+          "Docker 없음",
+          "포트 3306, 6015, 6516, 20000"
+        ]
+      },
+      "git": {
+        "isRepo": false,
+        "branch": "확인 불가",
+        "commitCount": null,
+        "authors": [],
+        "latestCommit": null,
+        "summary": "Git 저장소 아님"
+      },
+      "recentFiles": [
+        {
+          "path": "docker-compose.yml",
+          "modifiedAt": "2026-10-22T00:56:32.588Z"
+        },
+        {
+          "path": "api.env",
+          "modifiedAt": "2026-10-22T00:56:32.572Z"
+        },
+        {
+          "path": "mysql.env",
+          "modifiedAt": "2026-10-22T00:56:32.560Z"
+        },
+        {
+          "path": "backup/chatsilverbridge-20261022-0956.sql",
+          "modifiedAt": "2026-10-22T00:56:32.540Z"
+        },
+        {
+          "path": "backup/api-inspect-20261022-0956.json",
+          "modifiedAt": "2026-10-22T00:56:32.436Z"
+        },
+        {
+          "path": "backup/mysql-inspect-20261022-0956.json",
+          "modifiedAt": "2026-10-22T00:56:32.424Z"
+        }
+      ],
+      "summary": [
+        "분류: DB",
+        "기술 추정: Python",
+        "DB 사용 추정: MySQL",
+        "실행 상태: 실행 중",
+        "Git 저장소: 아님"
       ]
     },
     {
@@ -1431,22 +1610,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7730,
+        "commitCount": 7731,
         "authors": [
           {
-            "count": 7730,
+            "count": 7731,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "155ed3a05",
+          "hash": "7235de747",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-22T08:59:47+09:00",
+          "date": "2026-10-22T09:29:53+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7730개 커밋, 상위 계정: gosky(7730), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7731개 커밋, 상위 계정: gosky(7731), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1487,8 +1666,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7730",
-        "Git 상위 계정: gosky(7730)"
+        "Git 커밋 수: 7731",
+        "Git 상위 계정: gosky(7731)"
       ]
     },
     {
@@ -1811,7 +1990,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 22 minutes",
+            "status": "Up 52 minutes",
             "ports": ""
           }
         ],
@@ -2051,13 +2230,12 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 22 minutes",
+            "status": "Up 52 minutes",
             "ports": ""
           }
         ],
         "ports": [
           5432,
-          6012,
           6015,
           6017,
           6019
@@ -2077,7 +2255,6 @@
           6017,
           6019,
           10052,
-          10197,
           12345,
           17029,
           17273,
@@ -2090,13 +2267,13 @@
           "실행 중",
           "PM2 없음",
           "Docker 1개",
-          "포트 5432, 6012, 6015, 6017, 6019"
+          "포트 5432, 6015, 6017, 6019"
         ]
       },
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 102,
+        "commitCount": 104,
         "authors": [
           {
             "count": 37,
@@ -2104,7 +2281,7 @@
             "email": "lovesky00317@gmail.com"
           },
           {
-            "count": 22,
+            "count": 23,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2120,46 +2297,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "298b3e2",
+          "hash": "bfd4a05",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-10-22T00:46:23+09:00",
-          "subject": "Merge pull request #26 from Dongyang-Mirae-University-software/feature/reservation-confirm-cancel"
+          "date": "2026-10-22T09:45:51+09:00",
+          "subject": "Merge pull request #27 from Dongyang-Mirae-University-software/fix/ai-postgres-bind-localhost"
         },
-        "summary": "총 102개 커밋, 상위 계정: gosky(37), skarndaudwls1(22), gosky(16), 최근: Merge pull request #26 from Dongyang-Mirae-University-software/feature/reservation-confirm-cancel"
+        "summary": "총 104개 커밋, 상위 계정: gosky(37), skarndaudwls1(23), gosky(16), 최근: Merge pull request #27 from Dongyang-Mirae-University-software/fix/ai-postgres-bind-localhost"
       },
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000002",
-          "modifiedAt": "2026-10-22T00:15:15.323Z"
+          "modifiedAt": "2026-10-22T00:51:37.962Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-10-22T00:14:56.495Z"
+          "modifiedAt": "2026-10-22T00:51:32.358Z"
         },
         {
-          "path": "data/postgres/base/16384/32958",
-          "modifiedAt": "2026-10-22T00:14:56.391Z"
+          "path": "data/postgres/pg_multixact/offsets/0000",
+          "modifiedAt": "2026-10-22T00:51:32.358Z"
         },
         {
-          "path": "data/postgres/base/16384/32957",
-          "modifiedAt": "2026-10-22T00:14:56.291Z"
+          "path": "data/postgres/pg_logical/replorigin_checkpoint",
+          "modifiedAt": "2026-10-22T00:51:32.354Z"
         },
         {
-          "path": "data/postgres/base/16384/32956",
-          "modifiedAt": "2026-10-22T00:14:56.191Z"
+          "path": "data/postgres/pg_subtrans/0000",
+          "modifiedAt": "2026-10-22T00:51:32.354Z"
         },
         {
-          "path": "data/postgres/base/16384/32955",
-          "modifiedAt": "2026-10-22T00:14:56.091Z"
+          "path": "data/postgres/pg_xact/0000",
+          "modifiedAt": "2026-10-22T00:51:32.354Z"
         },
         {
-          "path": "data/postgres/base/16384/32950",
-          "modifiedAt": "2026-10-22T00:14:55.991Z"
+          "path": "data/postgres/base/5/pg_internal.init",
+          "modifiedAt": "2026-10-22T00:47:02.336Z"
         },
         {
-          "path": "data/postgres/base/16384/32948",
-          "modifiedAt": "2026-10-22T00:14:55.891Z"
+          "path": "data/postgres/global/pg_internal.init",
+          "modifiedAt": "2026-10-22T00:47:02.332Z"
         }
       ],
       "summary": [
@@ -2167,8 +2344,8 @@
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI",
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 102",
-        "Git 상위 계정: gosky(37), skarndaudwls1(22), gosky(16)"
+        "Git 커밋 수: 104",
+        "Git 상위 계정: gosky(37), skarndaudwls1(23), gosky(16)"
       ]
     },
     {
