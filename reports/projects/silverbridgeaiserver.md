@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-23 10:34:42 KST
+- 점검 시각: 2026-10-23 11:04:48 KST
 
 ## 추정 기술 스택
 
@@ -75,14 +75,14 @@
 
 ## 최근 수정 파일
 
-- app/routers/medication_ocr_router.py (2026-10-23 10:32:41 KST)
-- app/services/drug_name_list.py (2026-10-23 10:32:41 KST)
-- README.md (2026-10-23 10:32:41 KST)
-- tests/test_drug_name_list.py (2026-10-23 10:32:41 KST)
-- tests/test_medication_ocr.py (2026-10-23 10:32:41 KST)
-- data/postgres/pg_wal/000000010000000000000003 (2026-10-23 10:27:01 KST)
-- data/postgres/global/pg_control (2026-10-23 10:27:00 KST)
-- data/postgres/base/16384/2840 (2026-10-23 10:27:00 KST)
+- data/postgres/pg_wal/000000010000000000000003 (2026-10-23 11:04:43 KST)
+- data/postgres/global/pg_control (2026-10-23 11:02:03 KST)
+- data/postgres/base/16384/32948 (2026-10-23 11:02:03 KST)
+- data/postgres/base/16384/32947 (2026-10-23 11:02:03 KST)
+- data/postgres/base/16384/32946 (2026-10-23 11:02:03 KST)
+- data/postgres/base/16384/32945 (2026-10-23 11:02:03 KST)
+- data/postgres/base/16384/32939 (2026-10-23 11:02:02 KST)
+- data/postgres/base/16384/32938_vm (2026-10-23 11:02:02 KST)
 
 ## 점검 결과 요약
 
