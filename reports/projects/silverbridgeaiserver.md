@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-23 14:05:21 KST
+- 점검 시각: 2026-10-23 14:35:26 KST
 
 ## 추정 기술 스택
 
@@ -53,7 +53,7 @@
 
 - 사용 여부: 예
 - 연결 추정 DB: PostgreSQL, SQLite
-- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 168개 확인, DB 관련 파일 4개 확인, 추정 DB: PostgreSQL, SQLite
+- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 169개 확인, DB 관련 파일 4개 확인, 추정 DB: PostgreSQL, SQLite
 
 ## 실행 상태
 
@@ -75,14 +75,14 @@
 
 ## 최근 수정 파일
 
-- data/postgres/pg_wal/000000010000000000000003 (2026-10-23 11:57:24 KST)
+- data/postgres/pg_wal/000000010000000000000003 (2026-10-23 14:35:23 KST)
+- .env (2026-10-23 14:34:27 KST)
 - data/postgres/global/pg_control (2026-10-23 11:57:13 KST)
 - data/postgres/base/16384/32948 (2026-10-23 11:57:13 KST)
 - data/postgres/base/16384/32947 (2026-10-23 11:57:12 KST)
 - data/postgres/base/16384/32946 (2026-10-23 11:57:12 KST)
 - data/postgres/base/16384/32945 (2026-10-23 11:57:12 KST)
 - data/postgres/base/16384/32935_vm (2026-10-23 11:57:12 KST)
-- data/postgres/base/16384/32935_fsm (2026-10-23 11:57:12 KST)
 
 ## 점검 결과 요약
 

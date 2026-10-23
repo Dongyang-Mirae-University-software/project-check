@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-23T05:05:19.233Z",
-  "generatedAtKst": "2026-10-23 14:05:19 KST",
+  "generatedAt": "2026-10-23T05:35:24.693Z",
+  "generatedAtKst": "2026-10-23 14:35:24 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7924
+          "count": 7925
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 7970
+      "count": 7971
     },
     {
       "name": "YUNA0222",
@@ -793,7 +793,7 @@
           {
             "name": "chatsilverbridgetest-web-1",
             "image": "chatsilverbridgetest-web",
-            "status": "Up 2 weeks",
+            "status": "Up 3 weeks",
             "ports": "0.0.0.0:6516->6516/tcp, [::]:6516->6516/tcp"
           }
         ],
@@ -1179,7 +1179,7 @@
           {
             "name": "chatsilverbridgetest-web-1",
             "image": "chatsilverbridgetest-web",
-            "status": "Up 2 weeks",
+            "status": "Up 3 weeks",
             "ports": "0.0.0.0:6516->6516/tcp, [::]:6516->6516/tcp"
           }
         ],
@@ -1617,22 +1617,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7787,
+        "commitCount": 7788,
         "authors": [
           {
-            "count": 7787,
+            "count": 7788,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "eafb7ce30",
+          "hash": "ae9263958",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-23T13:35:17+09:00",
+          "date": "2026-10-23T14:05:23+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7787개 커밋, 상위 계정: gosky(7787), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7788개 커밋, 상위 계정: gosky(7788), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1673,8 +1673,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7787",
-        "Git 상위 계정: gosky(7787)"
+        "Git 커밋 수: 7788",
+        "Git 상위 계정: gosky(7788)"
       ]
     },
     {
@@ -1997,7 +1997,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 3 hours",
+            "status": "Up 45 seconds",
             "ports": ""
           }
         ],
@@ -2226,7 +2226,7 @@
         "evidence": [
           "docker-compose.yml 확인",
           "requirements.txt 확인",
-          ".env 키 168개 확인",
+          ".env 키 169개 확인",
           "DB 관련 파일 4개 확인",
           "추정 DB: PostgreSQL, SQLite"
         ],
@@ -2240,7 +2240,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 3 hours",
+            "status": "Up 45 seconds",
             "ports": ""
           }
         ],
@@ -3154,7 +3154,11 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000003",
-          "modifiedAt": "2026-10-23T02:57:24.010Z"
+          "modifiedAt": "2026-10-23T05:35:23.227Z"
+        },
+        {
+          "path": ".env",
+          "modifiedAt": "2026-10-23T05:34:27.684Z"
         },
         {
           "path": "data/postgres/global/pg_control",
@@ -3179,10 +3183,6 @@
         {
           "path": "data/postgres/base/16384/32935_vm",
           "modifiedAt": "2026-10-23T02:57:12.210Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32935_fsm",
-          "modifiedAt": "2026-10-23T02:57:12.110Z"
         }
       ],
       "summary": [
@@ -4046,7 +4046,7 @@
           {
             "name": "silverbridgereservation-reservation-api-1",
             "image": "silverbridgereservation-reservation-api",
-            "status": "Up 27 hours",
+            "status": "Up 28 hours",
             "ports": "127.0.0.1:6015->6015/tcp"
           }
         ],
@@ -5101,13 +5101,13 @@
           {
             "name": "whitehousebe-api-1",
             "image": "whitehousebe-api",
-            "status": "Up 2 weeks",
+            "status": "Up 3 weeks",
             "ports": "0.0.0.0:6701->6701/tcp, [::]:6701->6701/tcp"
           },
           {
             "name": "whitehousebe-db-1",
             "image": "postgres:16",
-            "status": "Up 2 weeks (healthy)",
+            "status": "Up 3 weeks (healthy)",
             "ports": "0.0.0.0:6705->5432/tcp, [::]:6705->5432/tcp"
           }
         ],
@@ -5561,7 +5561,7 @@
           {
             "name": "whitehousefe-web",
             "image": "whitehousefe-web",
-            "status": "Up 2 weeks",
+            "status": "Up 3 weeks",
             "ports": "0.0.0.0:6700->3000/tcp, [::]:6700->3000/tcp"
           }
         ],
