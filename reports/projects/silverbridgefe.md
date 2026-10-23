@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-23 11:34:53 KST
+- 점검 시각: 2026-10-23 12:04:59 KST
 
 ## 추정 기술 스택
 
@@ -58,23 +58,23 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1275
+- 총 커밋 수: 1279
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 345
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 63
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 65
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: ec9e517 / namgung <skarndaudwls@gmail.com> / Merge pull request #92 from Dongyang-Mirae-University-software/docs/audit-medication-ocr-name-check
+- 최근 커밋: d486f1f / namgung <skarndaudwls@gmail.com> / Merge pull request #94 from Dongyang-Mirae-University-software/docs/audit-medication-ocr-name-check-result
 
 ## 최근 수정 파일
 
-- docs/(2026-10-23) audit-medication-ocr-name-check.md (2026-10-23 11:30:49 KST)
-- src/app/(guardian)/guardian/medication/_components/MedicationAddModal.browser.test.tsx (2026-10-23 11:22:40 KST)
-- src/app/(guardian)/guardian/medication/_components/MedicationAddModal.module.css (2026-10-23 11:22:40 KST)
+- docs/(2026-10-23) audit-medication-ocr-name-check.md (2026-10-23 11:36:37 KST)
+- src/app/(guardian)/guardian/medication/_components/MedicationAddModal.browser.test.tsx (2026-10-23 11:35:50 KST)
+- src/app/(guardian)/guardian/medication/_components/MedicationAddModal.module.css (2026-10-23 11:35:50 KST)
+- src/app/(guardian)/guardian/medication/_components/MedicationDraftForm.tsx (2026-10-23 11:35:50 KST)
 - src/app/(guardian)/guardian/medication/_components/MedicationAddModal.tsx (2026-10-23 11:22:40 KST)
-- src/app/(guardian)/guardian/medication/_components/MedicationDraftForm.tsx (2026-10-23 11:22:40 KST)
 - src/service/interface/medication.ts (2026-10-23 11:22:40 KST)
 - src/utils/medication/medicationDraft.test.ts (2026-10-23 11:22:40 KST)
 - src/utils/medication/medicationDraft.ts (2026-10-23 11:22:40 KST)
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1275
-- Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(63)
+- Git 커밋 수: 1279
+- Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(65)
