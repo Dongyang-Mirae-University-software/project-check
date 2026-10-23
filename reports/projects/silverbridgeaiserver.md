@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-23 15:05:32 KST
+- 점검 시각: 2026-10-23 15:35:38 KST
 
 ## 추정 기술 스택
 
@@ -65,24 +65,24 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 138
+- 총 커밋 수: 140
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 43
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 44
   - gosky <lovesky00317@gmail.com>: 37
   - gosky <gosky@gosky.kr>: 16
   - namgung <skarndaudwls@gmail.com>: 11
-- 최근 커밋: 0332854 / namgung <skarndaudwls@gmail.com> / Merge pull request #40 from Dongyang-Mirae-University-software/feature/medgemma-v3-stop-quant
+- 최근 커밋: 802b77c / namgung <skarndaudwls@gmail.com> / Merge pull request #41 from Dongyang-Mirae-University-software/fix/medgemma-v3-example-copy
 
 ## 최근 수정 파일
 
-- data/postgres/pg_wal/000000010000000000000003 (2026-10-23 15:05:27 KST)
-- data/postgres/global/pg_control (2026-10-23 15:02:09 KST)
-- data/postgres/base/16384/32948 (2026-10-23 15:02:09 KST)
-- data/postgres/base/16384/32947 (2026-10-23 15:02:09 KST)
-- data/postgres/base/16384/32946 (2026-10-23 15:02:09 KST)
-- data/postgres/base/16384/32945 (2026-10-23 15:02:09 KST)
-- data/postgres/base/16384/32935_vm (2026-10-23 15:02:09 KST)
-- data/postgres/base/16384/32935_fsm (2026-10-23 15:02:08 KST)
+- data/postgres/pg_wal/000000010000000000000003 (2026-10-23 15:35:33 KST)
+- data/postgres/global/pg_control (2026-10-23 15:32:11 KST)
+- data/postgres/base/16384/32948 (2026-10-23 15:32:11 KST)
+- data/postgres/base/16384/32947 (2026-10-23 15:32:10 KST)
+- data/postgres/base/16384/32946 (2026-10-23 15:32:10 KST)
+- data/postgres/base/16384/32945 (2026-10-23 15:32:10 KST)
+- data/postgres/base/16384/32935_vm (2026-10-23 15:32:10 KST)
+- data/postgres/base/16384/32935_fsm (2026-10-23 15:32:10 KST)
 
 ## 점검 결과 요약
 
@@ -90,5 +90,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 138
-- Git 상위 계정: skarndaudwls1(43), gosky(37), gosky(16)
+- Git 커밋 수: 140
+- Git 상위 계정: skarndaudwls1(44), gosky(37), gosky(16)
