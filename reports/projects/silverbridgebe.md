@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-10-23 14:35:26 KST
+- 점검 시각: 2026-10-23 15:05:32 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 245
+- 파일 개수: 246
 - 디렉토리 개수: 33
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/integrationTest, src/integrationTest/java, src/integrationTest/java/kr, src/integrationTest/java/kr/silverbridge, src/integrationTest/java/kr/silverbridge/main, src/integrationTest/java/kr/silverbridge/main/domain, src/integrationTest/java/kr/silverbridge/main/migration, src/integrationTest/java/kr/silverbridge/main/support, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration, src/test
@@ -57,16 +57,17 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1133
+- 총 커밋 수: 1136
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 940
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 942
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
   - gosky <gosky@gosky.kr>: 2
-- 최근 커밋: 39dda3f / namgung <skarndaudwls@gmail.com> / Merge pull request #368 from Dongyang-Mirae-University-software/fix/medication-ocr-name-check-findings
+- 최근 커밋: 4e3f430 / namgung <skarndaudwls@gmail.com> / Merge pull request #369 from Dongyang-Mirae-University-software/feature/medication-time-group
 
 ## 최근 수정 파일
 
+- docs/(2026-10-23) design-medication-time-group.md (2026-10-23 14:49:14 KST)
 - docs/(2026-10-22) feature-medication-ocr.md (2026-10-23 11:02:39 KST)
 - docs/(2026-10-23) audit-medication-ocr-name-check.md (2026-10-23 11:02:39 KST)
 - docs/audit-index.md (2026-10-23 11:02:39 KST)
@@ -74,7 +75,6 @@
 - CLAUDE.md (2026-10-23 11:02:39 KST)
 - docs/(2026-10-20) analysis-ai-chat-reservation.md (2026-10-23 10:41:50 KST)
 - docs/(2026-10-22) audit-fe-medication-add-unified-times.md (2026-10-23 10:41:50 KST)
-- docs/(2026-10-22) audit-medication-add-two-step-and-card.md (2026-10-23 10:41:50 KST)
 
 ## 점검 결과 요약
 
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1133
-- Git 상위 계정: skarndaudwls1(940), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1136
+- Git 상위 계정: skarndaudwls1(942), skarndaudwls1(65), gosky(4)
