@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-24T17:42:13.745Z",
-  "generatedAtKst": "2026-10-25 02:42:13 KST",
+  "generatedAt": "2026-10-24T18:12:19.856Z",
+  "generatedAtKst": "2026-10-25 03:12:19 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7997
+          "count": 7998
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 8043
+      "count": 8044
     },
     {
       "name": "YUNA0222",
@@ -1617,22 +1617,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7860,
+        "commitCount": 7861,
         "authors": [
           {
-            "count": 7860,
+            "count": 7861,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "76ebeeca9",
+          "hash": "1b6265127",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-25T02:12:11+09:00",
+          "date": "2026-10-25T02:42:17+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7860개 커밋, 상위 계정: gosky(7860), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7861개 커밋, 상위 계정: gosky(7861), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1673,8 +1673,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7860",
-        "Git 상위 계정: gosky(7860)"
+        "Git 커밋 수: 7861",
+        "Git 상위 계정: gosky(7861)"
       ]
     },
     {
@@ -1997,7 +1997,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 29 minutes",
+            "status": "Up 59 minutes",
             "ports": ""
           }
         ],
@@ -2240,7 +2240,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 29 minutes",
+            "status": "Up 59 minutes",
             "ports": ""
           }
         ],
@@ -4744,35 +4744,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000004",
-          "modifiedAt": "2026-10-24T17:42:11.361Z"
-        },
-        {
-          "path": "data/postgres/base/16384/2840",
-          "modifiedAt": "2026-10-24T17:38:21.808Z"
+          "modifiedAt": "2026-10-24T17:58:16.764Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-10-24T17:37:54.580Z"
+          "modifiedAt": "2026-10-24T17:58:04.824Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32950",
+          "modifiedAt": "2026-10-24T17:58:04.724Z"
         },
         {
           "path": "data/postgres/base/16384/32948",
-          "modifiedAt": "2026-10-24T17:37:54.476Z"
+          "modifiedAt": "2026-10-24T17:58:04.624Z"
         },
         {
           "path": "data/postgres/base/16384/32947",
-          "modifiedAt": "2026-10-24T17:37:54.376Z"
+          "modifiedAt": "2026-10-24T17:58:04.524Z"
         },
         {
           "path": "data/postgres/base/16384/32946",
-          "modifiedAt": "2026-10-24T17:37:53.776Z"
+          "modifiedAt": "2026-10-24T17:58:03.920Z"
         },
         {
           "path": "data/postgres/base/16384/32945",
-          "modifiedAt": "2026-10-24T17:37:53.676Z"
+          "modifiedAt": "2026-10-24T17:58:03.820Z"
         },
         {
-          "path": "data/postgres/base/16384/32939",
-          "modifiedAt": "2026-10-24T17:37:53.576Z"
+          "path": "data/postgres/base/16384/32938",
+          "modifiedAt": "2026-10-24T17:58:03.720Z"
         }
       ],
       "summary": [
