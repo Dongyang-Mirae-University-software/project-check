@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-24 19:10:51 KST
+- 점검 시각: 2026-10-24 19:40:57 KST
 
 ## 추정 기술 스택
 
@@ -58,24 +58,24 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1362
+- 총 커밋 수: 1364
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 345
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 111
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 112
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: b8903f0 / namgung <skarndaudwls@gmail.com> / Merge pull request #131 from Dongyang-Mirae-University-software/refactor/remove-medication-alarm-toggle
+- 최근 커밋: bbbd863 / namgung <skarndaudwls@gmail.com> / Merge pull request #132 from Dongyang-Mirae-University-software/test/anomaly-ward-switch-reset
 
 ## 최근 수정 파일
 
+- src/app/(guardian)/guardian/detection/_components/AnomalyHistoryContent.browser.test.tsx (2026-10-24 19:34:43 KST)
 - src/app/(guardian)/guardian/medication/_components/WardMedicationCard.tsx (2026-10-24 17:19:33 KST)
 - src/service/api/guardian/medication.ts (2026-10-24 17:19:33 KST)
 - src/service/interface/medication.ts (2026-10-24 17:19:33 KST)
 - src/service/query/guardian/medication.ts (2026-10-24 17:19:33 KST)
 - src/app/(guardian)/guardian/medication/_components/WardMedicationCard.browser.test.tsx (2026-10-24 17:19:33 KST)
-- src/app/(guardian)/guardian/detection/_components/AnomalyHistoryContent.browser.test.tsx (2026-10-24 17:15:10 KST)
 - src/app/(guardian)/guardian/detection/_components/AnomalyHistoryContent.tsx (2026-10-24 17:15:10 KST)
 - src/service/interface/guardian/anomaly.ts (2026-10-24 17:15:10 KST)
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1362
-- Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(111)
+- Git 커밋 수: 1364
+- Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(112)
