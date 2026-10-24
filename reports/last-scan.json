@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-24T13:11:22.725Z",
-  "generatedAtKst": "2026-10-24 22:11:22 KST",
+  "generatedAt": "2026-10-24T13:41:28.336Z",
+  "generatedAtKst": "2026-10-24 22:41:28 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 7988
+          "count": 7989
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 8034
+      "count": 8035
     },
     {
       "name": "YUNA0222",
@@ -51,14 +51,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 1285
+          "count": 1286
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 1374
+      "count": 1375
     },
     {
       "name": "Jaehe-he",
@@ -1617,22 +1617,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7851,
+        "commitCount": 7852,
         "authors": [
           {
-            "count": 7851,
+            "count": 7852,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "61365251e",
+          "hash": "22ec006db",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-24T21:41:20+09:00",
+          "date": "2026-10-24T22:11:26+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7851개 커밋, 상위 계정: gosky(7851), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7852개 커밋, 상위 계정: gosky(7852), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1673,8 +1673,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7851",
-        "Git 상위 계정: gosky(7851)"
+        "Git 커밋 수: 7852",
+        "Git 상위 계정: gosky(7852)"
       ]
     },
     {
@@ -4447,8 +4447,8 @@
         }
       ],
       "structure": {
-        "fileCount": 505,
-        "dirCount": 125,
+        "fileCount": 507,
+        "dirCount": 126,
         "mainFolders": [
           "docs",
           "public",
@@ -4521,7 +4521,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 1374,
+        "commitCount": 1376,
         "authors": [
           {
             "count": 1400,
@@ -4534,7 +4534,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 116,
+            "count": 117,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -4555,15 +4555,31 @@
           }
         ],
         "latestCommit": {
-          "hash": "da48514",
+          "hash": "c4bdc24",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-10-24T19:48:49+09:00",
-          "subject": "Merge pull request #136 from Dongyang-Mirae-University-software/design/guardian-medication"
+          "date": "2026-10-24T22:31:28+09:00",
+          "subject": "Merge pull request #137 from Dongyang-Mirae-University-software/fix/anomaly-fallback-alert-text"
         },
-        "summary": "총 1374개 커밋, 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(116), 최근: Merge pull request #136 from Dongyang-Mirae-University-software/design/guardian-medication"
+        "summary": "총 1376개 커밋, 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(117), 최근: Merge pull request #137 from Dongyang-Mirae-University-software/fix/anomaly-fallback-alert-text"
       },
       "recentFiles": [
+        {
+          "path": "src/components/PushNotificationListener.tsx",
+          "modifiedAt": "2026-10-24T13:31:38.920Z"
+        },
+        {
+          "path": "src/utils/anomaly/alertText.test.ts",
+          "modifiedAt": "2026-10-24T13:31:38.920Z"
+        },
+        {
+          "path": "src/utils/anomaly/alertText.ts",
+          "modifiedAt": "2026-10-24T13:31:38.920Z"
+        },
+        {
+          "path": "src/utils/dashboard/realtime.ts",
+          "modifiedAt": "2026-10-24T13:31:38.920Z"
+        },
         {
           "path": "src/app/(guardian)/guardian/medication/_components/MedicationAddModal.browser.test.tsx",
           "modifiedAt": "2026-10-24T10:49:15.133Z"
@@ -4579,22 +4595,6 @@
         {
           "path": "src/app/(guardian)/guardian/medication/_components/MedicationDraftForm.tsx",
           "modifiedAt": "2026-10-24T10:49:15.133Z"
-        },
-        {
-          "path": "src/app/(guardian)/guardian/medication/_components/WardMedicationCard.browser.test.tsx",
-          "modifiedAt": "2026-10-24T10:49:15.133Z"
-        },
-        {
-          "path": "src/app/(guardian)/guardian/medication/_components/WardMedicationCard.module.css",
-          "modifiedAt": "2026-10-24T10:49:15.133Z"
-        },
-        {
-          "path": "src/app/(guardian)/guardian/medication/_components/WardMedicationCard.tsx",
-          "modifiedAt": "2026-10-24T10:49:15.133Z"
-        },
-        {
-          "path": "src/app/(ward)/ward/medication/_components/WardMedicationCard.module.css",
-          "modifiedAt": "2026-10-24T10:44:24.376Z"
         }
       ],
       "summary": [
@@ -4602,8 +4602,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1374",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(116)"
+        "Git 커밋 수: 1376",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(117)"
       ]
     },
     {
