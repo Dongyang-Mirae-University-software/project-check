@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-24 16:40:23 KST
+- 점검 시각: 2026-10-24 17:10:28 KST
 
 ## 추정 기술 스택
 
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1354
+- 총 커밋 수: 1358
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 345
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 107
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 109
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: cd2e86d / namgung <skarndaudwls@gmail.com> / Merge pull request #127 from Dongyang-Mirae-University-software/fix/anomaly-audit-findings
+- 최근 커밋: b15beb4 / namgung <skarndaudwls@gmail.com> / Merge pull request #129 from Dongyang-Mirae-University-software/design/chatbot-greeting-honorific
 
 ## 최근 수정 파일
 
+- src/components/chatbot/ChatbotContent.module.css (2026-10-24 16:58:50 KST)
+- src/components/chatbot/ChatbotContent.tsx (2026-10-24 16:58:50 KST)
+- src/service/api/chatPolicy.test.ts (2026-10-24 16:58:50 KST)
+- src/service/api/chatPolicy.ts (2026-10-24 16:58:50 KST)
+- src/service/interface/chat.ts (2026-10-24 16:58:50 KST)
 - src/service/query/guardian/dashboard.ts (2026-10-24 16:32:43 KST)
 - src/app/(guardian)/guardian/_components/GuardianLayout.tsx (2026-10-24 16:32:43 KST)
 - src/app/(guardian)/guardian/detection/_components/AnomalyClipModal.tsx (2026-10-24 16:32:43 KST)
-- src/app/(guardian)/guardian/detection/_components/AnomalyHistoryContent.browser.test.tsx (2026-10-24 16:32:43 KST)
-- src/app/(guardian)/guardian/detection/_components/GuardianMonitorContent.browser.test.tsx (2026-10-24 16:32:43 KST)
-- src/app/(guardian)/guardian/detection/_components/GuardianMonitorContent.tsx (2026-10-24 16:32:43 KST)
-- src/components/PushNotificationListener.tsx (2026-10-24 16:32:43 KST)
-- src/service/query/guardian/anomaly.test.ts (2026-10-24 16:32:43 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1354
-- Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(107)
+- Git 커밋 수: 1358
+- Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(109)

@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-24 16:40:22 KST
+- 점검 시각: 2026-10-24 17:10:28 KST
 
 ## 추정 기술 스택
 
@@ -44,7 +44,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 3897
+- 파일 개수: 3899
 - 디렉토리 개수: 144
 - 주요 폴더: app, data, docs, models, scripts, tests
 - 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, models/new/backup, tests, tests/eval
@@ -53,7 +53,7 @@
 
 - 사용 여부: 예
 - 연결 추정 DB: PostgreSQL, SQLite
-- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 170개 확인, DB 관련 파일 4개 확인, 추정 DB: PostgreSQL, SQLite
+- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 169개 확인, DB 관련 파일 4개 확인, 추정 DB: PostgreSQL, SQLite
 
 ## 실행 상태
 
@@ -65,24 +65,24 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 155
+- 총 커밋 수: 161
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 55
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 59
   - gosky <lovesky00317@gmail.com>: 37
   - gosky <gosky@gosky.kr>: 16
   - namgung <skarndaudwls@gmail.com>: 11
-- 최근 커밋: 17c44e4 / namgung <skarndaudwls@gmail.com> / Merge pull request #45 from Dongyang-Mirae-University-software/feature/router-model-split
+- 최근 커밋: 73a752e / namgung <skarndaudwls@gmail.com> / Merge pull request #46 from Dongyang-Mirae-University-software/fix/chat-safety-audit-followup
 
 ## 최근 수정 파일
 
-- data/postgres/pg_wal/000000010000000000000003 (2026-10-24 16:40:20 KST)
-- data/postgres/global/pg_control (2026-10-24 16:37:44 KST)
-- data/postgres/base/16384/32958 (2026-10-24 16:37:44 KST)
-- data/postgres/base/16384/32957 (2026-10-24 16:37:44 KST)
-- data/postgres/base/16384/32956 (2026-10-24 16:37:44 KST)
-- data/postgres/base/16384/32955 (2026-10-24 16:37:44 KST)
-- data/postgres/base/16384/32950 (2026-10-24 16:37:44 KST)
-- data/postgres/base/16384/32948 (2026-10-24 16:37:44 KST)
+- data/postgres/pg_wal/000000010000000000000003 (2026-10-24 17:10:24 KST)
+- data/postgres/global/pg_control (2026-10-24 17:07:43 KST)
+- data/postgres/base/16384/32948 (2026-10-24 17:07:43 KST)
+- data/postgres/base/16384/32947 (2026-10-24 17:07:43 KST)
+- data/postgres/base/16384/32946 (2026-10-24 17:07:43 KST)
+- data/postgres/base/16384/32945 (2026-10-24 17:07:42 KST)
+- data/postgres/base/16384/32935_vm (2026-10-24 17:07:42 KST)
+- data/postgres/base/16384/32935_fsm (2026-10-24 17:07:42 KST)
 
 ## 점검 결과 요약
 
@@ -90,5 +90,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 155
-- Git 상위 계정: skarndaudwls1(55), gosky(37), gosky(16)
+- Git 커밋 수: 161
+- Git 상위 계정: skarndaudwls1(59), gosky(37), gosky(16)
