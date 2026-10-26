@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-26 09:17:58 KST
+- 점검 시각: 2026-10-26 09:48:04 KST
 
 ## 추정 기술 스택
 
@@ -67,10 +67,11 @@
 - 브랜치: main
 - 총 커밋 수: 183
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 74
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 75
   - gosky <lovesky00317@gmail.com>: 37
   - gosky <gosky@gosky.kr>: 16
   - namgung <skarndaudwls@gmail.com>: 11
+  - Jaehe-he <hywuljh1@naver.com>: 7
 - 최근 커밋: c6b8056 / namgung <skarndaudwls@gmail.com> / Merge pull request #53 from Dongyang-Mirae-University-software/docs/chat-eval-router-fix
 
 ## 최근 수정 파일
@@ -91,4 +92,4 @@
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
 - Git 커밋 수: 183
-- Git 상위 계정: skarndaudwls1(74), gosky(37), gosky(16)
+- Git 상위 계정: skarndaudwls1(75), gosky(37), gosky(16)

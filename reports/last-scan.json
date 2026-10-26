@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-26T00:17:56.190Z",
-  "generatedAtKst": "2026-10-26 09:17:56 KST",
+  "generatedAt": "2026-10-26T00:48:01.864Z",
+  "generatedAtKst": "2026-10-26 09:48:01 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8058
+          "count": 8059
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 8104
+      "count": 8105
     },
     {
       "name": "YUNA0222",
@@ -51,24 +51,24 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 1326
+          "count": 1328
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 1415
+      "count": 1417
     },
     {
       "name": "Jaehe-he",
       "emails": [
         {
           "email": "hywuljh1@naver.com",
-          "count": 715
+          "count": 722
         }
       ],
-      "count": 715
+      "count": 722
     },
     {
       "name": "yuna0222",
@@ -781,13 +781,13 @@
           {
             "name": "chatsilverbridge-api-1",
             "image": "chatsilverbridge-api:latest",
-            "status": "Up 3 days",
+            "status": "Up 4 days",
             "ports": "127.0.0.1:6012->6012/tcp"
           },
           {
             "name": "chatsilverbridge-mysql-1",
             "image": "mysql:8.0",
-            "status": "Up 3 days (healthy)",
+            "status": "Up 4 days (healthy)",
             "ports": "33060/tcp, 127.0.0.1:3307->3306/tcp"
           },
           {
@@ -1617,22 +1617,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7921,
+        "commitCount": 7922,
         "authors": [
           {
-            "count": 7921,
+            "count": 7922,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "9ef895485",
+          "hash": "f23140267",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-26T08:47:54+09:00",
+          "date": "2026-10-26T09:18:00+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7921개 커밋, 상위 계정: gosky(7921), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7922개 커밋, 상위 계정: gosky(7922), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1673,8 +1673,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7921",
-        "Git 상위 계정: gosky(7921)"
+        "Git 커밋 수: 7922",
+        "Git 상위 계정: gosky(7922)"
       ]
     },
     {
@@ -4734,7 +4734,7 @@
         "commitCount": 183,
         "authors": [
           {
-            "count": 74,
+            "count": 75,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -4752,6 +4752,11 @@
             "count": 11,
             "name": "namgung",
             "email": "skarndaudwls@gmail.com"
+          },
+          {
+            "count": 7,
+            "name": "Jaehe-he",
+            "email": "hywuljh1@naver.com"
           }
         ],
         "latestCommit": {
@@ -4761,7 +4766,7 @@
           "date": "2026-10-25T02:56:54+09:00",
           "subject": "Merge pull request #53 from Dongyang-Mirae-University-software/docs/chat-eval-router-fix"
         },
-        "summary": "총 183개 커밋, 상위 계정: skarndaudwls1(74), gosky(37), gosky(16), 최근: Merge pull request #53 from Dongyang-Mirae-University-software/docs/chat-eval-router-fix"
+        "summary": "총 183개 커밋, 상위 계정: skarndaudwls1(75), gosky(37), gosky(16), 최근: Merge pull request #53 from Dongyang-Mirae-University-software/docs/chat-eval-router-fix"
       },
       "recentFiles": [
         {
@@ -4803,7 +4808,7 @@
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
         "Git 커밋 수: 183",
-        "Git 상위 계정: skarndaudwls1(74), gosky(37), gosky(16)"
+        "Git 상위 계정: skarndaudwls1(75), gosky(37), gosky(16)"
       ]
     },
     {
@@ -5235,7 +5240,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 1406,
+        "commitCount": 1408,
         "authors": [
           {
             "count": 1400,
@@ -5248,7 +5253,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 126,
+            "count": 127,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -5269,15 +5274,19 @@
           }
         ],
         "latestCommit": {
-          "hash": "7511eea",
+          "hash": "c335ef1",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-10-26T09:12:35+09:00",
-          "subject": "Merge pull request #145 from Dongyang-Mirae-University-software/design/settings-locked-switch-followup"
+          "date": "2026-10-26T09:31:14+09:00",
+          "subject": "Merge pull request #146 from Dongyang-Mirae-University-software/fix/authshell-test-next-image"
         },
-        "summary": "총 1406개 커밋, 상위 계정: YUNA0222(1400), yuna0222(356), skarndaudwls1(126), 최근: Merge pull request #145 from Dongyang-Mirae-University-software/design/settings-locked-switch-followup"
+        "summary": "총 1408개 커밋, 상위 계정: YUNA0222(1400), yuna0222(356), skarndaudwls1(127), 최근: Merge pull request #146 from Dongyang-Mirae-University-software/fix/authshell-test-next-image"
       },
       "recentFiles": [
+        {
+          "path": "src/app/(auth)/_components/AuthShell.browser.test.tsx",
+          "modifiedAt": "2026-10-26T00:31:24.386Z"
+        },
         {
           "path": "src/components/settings/AlertTypeSettingsSection.module.css",
           "modifiedAt": "2026-10-26T00:12:47.157Z"
@@ -5305,10 +5314,6 @@
         {
           "path": "src/app/(auth)/signup/_components/SignupBasicInfoStep.tsx",
           "modifiedAt": "2026-10-26T00:09:25.616Z"
-        },
-        {
-          "path": "src/app/(auth)/signup/_components/SignupContent.module.css",
-          "modifiedAt": "2026-10-26T00:09:25.616Z"
         }
       ],
       "summary": [
@@ -5316,8 +5321,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1406",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(356), skarndaudwls1(126)"
+        "Git 커밋 수: 1408",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(356), skarndaudwls1(127)"
       ]
     },
     {
