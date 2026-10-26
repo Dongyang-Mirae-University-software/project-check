@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-26 20:50:12 KST
+- 점검 시각: 2026-10-26 21:20:17 KST
 
 ## 추정 기술 스택
 
@@ -37,10 +37,10 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 516
-- 디렉토리 개수: 129
+- 파일 개수: 533
+- 디렉토리 개수: 136
 - 주요 폴더: docs, public, src
-- 주요 경로: public, public/images, src, src/app, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/@modal, src/app/(auth)/@modal/(.)find-email, src/app/(auth)/@modal/(.)find-password, src/app/(auth)/auth, src/app/(auth)/auth/kakao, src/app/(auth)/auth/kakao/callback, src/app/(auth)/find-email, src/app/(auth)/find-email/_components, src/app/(auth)/find-email/_hooks, src/app/(auth)/find-password, src/app/(auth)/find-password/_components, src/app/(auth)/find-password/_hooks, src/app/(auth)/login, src/app/(auth)/login/_components
+- 주요 경로: public, public/images, src, src/app, src/app/(admin), src/app/(admin)/admin, src/app/(admin)/admin/_components, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/@modal, src/app/(auth)/@modal/(.)find-email, src/app/(auth)/@modal/(.)find-password, src/app/(auth)/auth, src/app/(auth)/auth/kakao, src/app/(auth)/auth/kakao/callback, src/app/(auth)/find-email, src/app/(auth)/find-email/_components, src/app/(auth)/find-email/_hooks, src/app/(auth)/find-password, src/app/(auth)/find-password/_components
 
 ## DB 사용 여부
 
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1408
+- 총 커밋 수: 1431
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
-  - yuna0222 <gold8077@gmail.com>: 356
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 127
+  - yuna0222 <gold8077@gmail.com>: 376
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 128
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: c335ef1 / namgung <skarndaudwls@gmail.com> / Merge pull request #146 from Dongyang-Mirae-University-software/fix/authshell-test-next-image
+- 최근 커밋: 3395fd8 / namgung <skarndaudwls@gmail.com> / Merge pull request #148 from Dongyang-Mirae-University-software/fix/camera-register-step4-button-and-limit-error
 
 ## 최근 수정 파일
 
-- src/app/(auth)/_components/AuthShell.browser.test.tsx (2026-10-26 09:31:24 KST)
-- src/components/settings/AlertTypeSettingsSection.module.css (2026-10-26 09:12:47 KST)
-- src/components/settings/AlertTypeSettingsSection.tsx (2026-10-26 09:12:47 KST)
-- src/components/settings/NotificationSettingsSection.module.css (2026-10-26 09:12:47 KST)
-- src/components/settings/settings.browser.test.tsx (2026-10-26 09:12:47 KST)
-- vitest.browser.config.ts (2026-10-26 09:12:47 KST)
-- src/app/(auth)/signup/_components/SignupBasicInfoStep.module.css (2026-10-26 09:09:25 KST)
-- src/app/(auth)/signup/_components/SignupBasicInfoStep.tsx (2026-10-26 09:09:25 KST)
+- src/components/layout/dashboard/SidebarLayout.tsx (2026-10-26 21:09:12 KST)
+- src/constants/dashboard.ts (2026-10-26 21:09:12 KST)
+- src/service/api/admin/dashboard.test.ts (2026-10-26 21:09:12 KST)
+- src/service/api/admin/dashboard.ts (2026-10-26 21:09:12 KST)
+- src/service/interface/admin/dashboard.ts (2026-10-26 21:09:12 KST)
+- src/service/query/admin/dashboard.test.ts (2026-10-26 21:09:12 KST)
+- src/service/query/admin/dashboard.ts (2026-10-26 21:09:12 KST)
+- src/service/query/admin/index.ts (2026-10-26 21:09:12 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1408
-- Git 상위 계정: YUNA0222(1400), yuna0222(356), skarndaudwls1(127)
+- Git 커밋 수: 1431
+- Git 상위 계정: YUNA0222(1400), yuna0222(376), skarndaudwls1(128)
