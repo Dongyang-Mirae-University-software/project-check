@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-10-26 10:18:09 KST
+- 점검 시각: 2026-10-26 10:48:15 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 268
+- 파일 개수: 273
 - 디렉토리 개수: 33
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/integrationTest, src/integrationTest/java, src/integrationTest/java/kr, src/integrationTest/java/kr/silverbridge, src/integrationTest/java/kr/silverbridge/main, src/integrationTest/java/kr/silverbridge/main/domain, src/integrationTest/java/kr/silverbridge/main/migration, src/integrationTest/java/kr/silverbridge/main/support, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration, src/test
@@ -50,31 +50,31 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1024, 1536, 2000, 3000, 5173, 5432, 6011, 6013, 6014, 6379, 6510, 6511, 6513, 6514, 8080, 10000, 10485, 18000, 60480
+- 관련 포트: 1024, 1536, 2000, 3000, 5173, 5432, 6011, 6013, 6014, 6015, 6379, 6510, 6511, 6513, 6514, 8080, 10000, 10485, 18000, 60480
 - 관련 Docker 컨테이너: 확인 불가
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1210
+- 총 커밋 수: 1219
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 1002
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 1007
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
   - gosky <gosky@gosky.kr>: 2
-- 최근 커밋: 6c0b86c / namgung <skarndaudwls@gmail.com> / Merge pull request #381 from Dongyang-Mirae-University-software/feature/admin-announcement-list-paging
+- 최근 커밋: 3e589e3 / namgung <skarndaudwls@gmail.com> / Merge pull request #383 from Dongyang-Mirae-University-software/fix/admin-announcement-list-audit-followup
 
 ## 최근 수정 파일
 
-- docs/(2026-10-25) audit-impact-anomaly-deleted-camera-archive.md (2026-10-26 10:03:35 KST)
-- docs/(2026-10-26) audit-ai-chat-crisis-routing.md (2026-10-26 10:03:35 KST)
-- docs/(2026-10-26) feature-admin-announcement-list-paging.md (2026-10-26 10:03:35 KST)
-- docs/audit-index.md (2026-10-26 10:03:35 KST)
-- docs/progress.md (2026-10-26 10:03:35 KST)
-- docs/(2026-10-20) analysis-ai-chat-reservation.md (2026-10-26 09:09:03 KST)
-- docs/(2026-10-24) audit-ai-chat-router-stability.md (2026-10-26 09:09:03 KST)
-- docs/(2026-10-24) audit-ai-chat-safety-rules.md (2026-10-25 02:32:25 KST)
+- docs/(2026-10-26) audit-admin-announcement-list-paging.md (2026-10-26 10:27:30 KST)
+- docs/audit-index.md (2026-10-26 10:27:30 KST)
+- docs/progress.md (2026-10-26 10:27:30 KST)
+- docs/(2026-10-26) feature-admin-partner-hospital.md (2026-10-26 10:23:48 KST)
+- src/main/resources/application.yaml (2026-10-26 10:19:20 KST)
+- src/main/resources/db/migration/V63__add_hospital_audit_actions.sql (2026-10-26 10:19:20 KST)
+- CLAUDE.md (2026-10-26 10:19:20 KST)
+- docker-compose.gosky.yml (2026-10-26 10:19:20 KST)
 
 ## 점검 결과 요약
 
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1210
-- Git 상위 계정: skarndaudwls1(1002), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1219
+- Git 상위 계정: skarndaudwls1(1007), skarndaudwls1(65), gosky(4)
