@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAi`
 - 분류: AI 서버
-- 점검 시각: 2026-10-26 08:47:52 KST
+- 점검 시각: 2026-10-26 09:17:58 KST
 
 ## 추정 기술 스택
 
@@ -59,7 +59,7 @@
 - 브랜치: developing
 - 총 커밋 수: 686
 - 계정별 커밋 수:
-  - Jaehe-he <hywuljh1@naver.com>: 686
+  - Jaehe-he <hywuljh1@naver.com>: 700
 - 최근 커밋: a99aaca4e / Jaehe-he <hywuljh1@naver.com> / feat: 로깅 기능 추가 - 인물 감지
 
 ## 최근 수정 파일
@@ -80,4 +80,4 @@
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
 - Git 커밋 수: 686
-- Git 상위 계정: Jaehe-he(686)
+- Git 상위 계정: Jaehe-he(700)

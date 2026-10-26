@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-26 08:47:53 KST
+- 점검 시각: 2026-10-26 09:17:58 KST
 
 ## 추정 기술 스택
 
@@ -37,10 +37,10 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 510
-- 디렉토리 개수: 126
+- 파일 개수: 516
+- 디렉토리 개수: 129
 - 주요 폴더: docs, public, src
-- 주요 경로: public, public/images, src, src/app, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/auth, src/app/(auth)/auth/kakao, src/app/(auth)/auth/kakao/callback, src/app/(auth)/find-email, src/app/(auth)/find-email/_components, src/app/(auth)/find-email/_hooks, src/app/(auth)/find-password, src/app/(auth)/find-password/_components, src/app/(auth)/find-password/_hooks, src/app/(auth)/login, src/app/(auth)/login/_components, src/app/(auth)/signup, src/app/(auth)/signup/_components, src/app/(guardian)
+- 주요 경로: public, public/images, src, src/app, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/@modal, src/app/(auth)/@modal/(.)find-email, src/app/(auth)/@modal/(.)find-password, src/app/(auth)/auth, src/app/(auth)/auth/kakao, src/app/(auth)/auth/kakao/callback, src/app/(auth)/find-email, src/app/(auth)/find-email/_components, src/app/(auth)/find-email/_hooks, src/app/(auth)/find-password, src/app/(auth)/find-password/_components, src/app/(auth)/find-password/_hooks, src/app/(auth)/login, src/app/(auth)/login/_components
 
 ## DB 사용 여부
 
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1389
+- 총 커밋 수: 1406
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
-  - yuna0222 <gold8077@gmail.com>: 345
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 123
+  - yuna0222 <gold8077@gmail.com>: 356
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 126
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 254a7d8 / namgung <skarndaudwls@gmail.com> / Merge pull request #143 from Dongyang-Mirae-University-software/design/settings-locked-switch
+- 최근 커밋: 7511eea / namgung <skarndaudwls@gmail.com> / Merge pull request #145 from Dongyang-Mirae-University-software/design/settings-locked-switch-followup
 
 ## 최근 수정 파일
 
-- src/components/settings/AlertTypeSettingsSection.tsx (2026-10-25 23:50:14 KST)
-- src/components/settings/settings.browser.test.tsx (2026-10-25 23:50:14 KST)
-- src/assets/icons/lock.svg (2026-10-25 23:50:14 KST)
-- src/components/Icon.tsx (2026-10-25 23:50:14 KST)
-- src/components/settings/AlertTypeSettingsSection.module.css (2026-10-25 23:50:14 KST)
-- src/app/(guardian)/guardian/detection/_components/AnomalyHistoryContent.browser.test.tsx (2026-10-25 23:42:59 KST)
-- src/app/(guardian)/guardian/detection/_components/AnomalyHistoryContent.tsx (2026-10-25 23:42:59 KST)
-- src/service/query/ward/medication.test.ts (2026-10-25 02:18:57 KST)
+- src/components/settings/AlertTypeSettingsSection.module.css (2026-10-26 09:12:47 KST)
+- src/components/settings/AlertTypeSettingsSection.tsx (2026-10-26 09:12:47 KST)
+- src/components/settings/NotificationSettingsSection.module.css (2026-10-26 09:12:47 KST)
+- src/components/settings/settings.browser.test.tsx (2026-10-26 09:12:47 KST)
+- vitest.browser.config.ts (2026-10-26 09:12:47 KST)
+- src/app/(auth)/signup/_components/SignupBasicInfoStep.module.css (2026-10-26 09:09:25 KST)
+- src/app/(auth)/signup/_components/SignupBasicInfoStep.tsx (2026-10-26 09:09:25 KST)
+- src/app/(auth)/signup/_components/SignupContent.module.css (2026-10-26 09:09:25 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1389
-- Git 상위 계정: YUNA0222(1400), yuna0222(345), skarndaudwls1(123)
+- Git 커밋 수: 1406
+- Git 상위 계정: YUNA0222(1400), yuna0222(356), skarndaudwls1(126)
