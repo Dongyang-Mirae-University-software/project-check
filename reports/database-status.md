@@ -1,6 +1,6 @@
 # 데이터베이스 상태
 
-- 스캔 시각: 2026-10-26 17:49:38 KST
+- 스캔 시각: 2026-10-26 18:19:44 KST
 
 | 프로젝트 | DB 사용 여부 | 추정 DB | 실행 상태 | 관련 포트 | 관련 컨테이너 |
 | --- | --- | --- | --- | --- | --- |
@@ -49,7 +49,7 @@
 - SilverBridgeAi: DB 사용 흔적 없음
   - 근거: requirements.txt 확인, .env 키 8개 확인
 - SilverBridgeAiServer: PostgreSQL, SQLite 사용 추정
-  - 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 169개 확인, DB 관련 파일 2개 확인, 추정 DB: PostgreSQL, SQLite
+  - 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 170개 확인, DB 관련 파일 2개 확인, 추정 DB: PostgreSQL, SQLite
 - SilverBridgeBe: PostgreSQL, Redis 사용 추정
   - 근거: docker-compose.yml 확인, application.yml 확인, 추정 DB: PostgreSQL, Redis
 - SilverBridgeFe: DB 사용 흔적 없음
