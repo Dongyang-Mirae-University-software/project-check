@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-10-26 09:48:04 KST
+- 점검 시각: 2026-10-26 10:18:09 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 266
+- 파일 개수: 268
 - 디렉토리 개수: 33
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/integrationTest, src/integrationTest/java, src/integrationTest/java/kr, src/integrationTest/java/kr/silverbridge, src/integrationTest/java/kr/silverbridge/main, src/integrationTest/java/kr/silverbridge/main/domain, src/integrationTest/java/kr/silverbridge/main/migration, src/integrationTest/java/kr/silverbridge/main/support, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration, src/test
@@ -57,24 +57,24 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1205
+- 총 커밋 수: 1210
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 998
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 1002
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
   - gosky <gosky@gosky.kr>: 2
-- 최근 커밋: b5a8eec / skarndaudwls1 <skarndaudwls@gmail.com> / docs: 챗봇 라우터 자해 플래그·예약+증상 경로 결과 기록
+- 최근 커밋: 6c0b86c / namgung <skarndaudwls@gmail.com> / Merge pull request #381 from Dongyang-Mirae-University-software/feature/admin-announcement-list-paging
 
 ## 최근 수정 파일
 
+- docs/(2026-10-25) audit-impact-anomaly-deleted-camera-archive.md (2026-10-26 10:03:35 KST)
+- docs/(2026-10-26) audit-ai-chat-crisis-routing.md (2026-10-26 10:03:35 KST)
+- docs/(2026-10-26) feature-admin-announcement-list-paging.md (2026-10-26 10:03:35 KST)
+- docs/audit-index.md (2026-10-26 10:03:35 KST)
+- docs/progress.md (2026-10-26 10:03:35 KST)
 - docs/(2026-10-20) analysis-ai-chat-reservation.md (2026-10-26 09:09:03 KST)
 - docs/(2026-10-24) audit-ai-chat-router-stability.md (2026-10-26 09:09:03 KST)
-- docs/(2026-10-25) audit-impact-anomaly-deleted-camera-archive.md (2026-10-26 09:09:03 KST)
-- docs/audit-index.md (2026-10-26 09:09:03 KST)
-- docs/progress.md (2026-10-26 09:09:03 KST)
 - docs/(2026-10-24) audit-ai-chat-safety-rules.md (2026-10-25 02:32:25 KST)
-- docs/(2026-10-24) audit-anomaly-history-deleted-camera-filter.md (2026-10-25 02:32:25 KST)
-- docs/(2026-10-24) audit-anomaly-ws-title-body.md (2026-10-25 02:32:25 KST)
 
 ## 점검 결과 요약
 
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1205
-- Git 상위 계정: skarndaudwls1(998), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1210
+- Git 상위 계정: skarndaudwls1(1002), skarndaudwls1(65), gosky(4)
