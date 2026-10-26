@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-26T14:50:44.226Z",
-  "generatedAtKst": "2026-10-26 23:50:44 KST",
+  "generatedAt": "2026-10-26T15:20:50.415Z",
+  "generatedAtKst": "2026-10-27 24:20:50 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8087
+          "count": 8088
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 8133
+      "count": 8134
     },
     {
       "name": "YUNA0222",
@@ -51,14 +51,14 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 1362
+          "count": 1363
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 1451
+      "count": 1452
     },
     {
       "name": "Jaehe-he",
@@ -1617,22 +1617,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7950,
+        "commitCount": 7951,
         "authors": [
           {
-            "count": 7950,
+            "count": 7951,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "3ca44417a",
+          "hash": "d9bcf54d0",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-26T23:20:42+09:00",
+          "date": "2026-10-26T23:50:48+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7950개 커밋, 상위 계정: gosky(7950), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7951개 커밋, 상위 계정: gosky(7951), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1673,8 +1673,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7950",
-        "Git 상위 계정: gosky(7950)"
+        "Git 커밋 수: 7951",
+        "Git 상위 계정: gosky(7951)"
       ]
     },
     {
@@ -2746,7 +2746,7 @@
         }
       ],
       "structure": {
-        "fileCount": 533,
+        "fileCount": 534,
         "dirCount": 136,
         "mainFolders": [
           "docs",
@@ -2820,7 +2820,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 1431,
+        "commitCount": 1433,
         "authors": [
           {
             "count": 1400,
@@ -2833,7 +2833,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 128,
+            "count": 129,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2854,15 +2854,27 @@
           }
         ],
         "latestCommit": {
-          "hash": "3395fd8",
+          "hash": "eb4cfba",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-10-26T21:08:59+09:00",
-          "subject": "Merge pull request #148 from Dongyang-Mirae-University-software/fix/camera-register-step4-button-and-limit-error"
+          "date": "2026-10-27T00:03:41+09:00",
+          "subject": "Merge pull request #149 from Dongyang-Mirae-University-software/fix/camera-register-cancel-pending-media"
         },
-        "summary": "총 1431개 커밋, 상위 계정: YUNA0222(1400), yuna0222(376), skarndaudwls1(128), 최근: Merge pull request #148 from Dongyang-Mirae-University-software/fix/camera-register-step4-button-and-limit-error"
+        "summary": "총 1433개 커밋, 상위 계정: YUNA0222(1400), yuna0222(376), skarndaudwls1(129), 최근: Merge pull request #149 from Dongyang-Mirae-University-software/fix/camera-register-cancel-pending-media"
       },
       "recentFiles": [
+        {
+          "path": "src/app/(ward)/ward/camera/_components/CameraRegisterModal.tsx",
+          "modifiedAt": "2026-10-26T15:03:45.585Z"
+        },
+        {
+          "path": "docs/(2026-10-26) audit-camera-register-step4.md",
+          "modifiedAt": "2026-10-26T15:03:45.581Z"
+        },
+        {
+          "path": "src/app/(ward)/ward/camera/_components/CameraRegisterModal.browser.test.tsx",
+          "modifiedAt": "2026-10-26T15:03:45.581Z"
+        },
         {
           "path": "src/components/layout/dashboard/SidebarLayout.tsx",
           "modifiedAt": "2026-10-26T12:09:12.447Z"
@@ -2882,18 +2894,6 @@
         {
           "path": "src/service/interface/admin/dashboard.ts",
           "modifiedAt": "2026-10-26T12:09:12.447Z"
-        },
-        {
-          "path": "src/service/query/admin/dashboard.test.ts",
-          "modifiedAt": "2026-10-26T12:09:12.447Z"
-        },
-        {
-          "path": "src/service/query/admin/dashboard.ts",
-          "modifiedAt": "2026-10-26T12:09:12.447Z"
-        },
-        {
-          "path": "src/service/query/admin/index.ts",
-          "modifiedAt": "2026-10-26T12:09:12.447Z"
         }
       ],
       "summary": [
@@ -2901,8 +2901,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1431",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(376), skarndaudwls1(128)"
+        "Git 커밋 수: 1433",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(376), skarndaudwls1(129)"
       ]
     },
     {
