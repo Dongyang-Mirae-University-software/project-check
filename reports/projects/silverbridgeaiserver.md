@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-26 16:49:25 KST
+- 점검 시각: 2026-10-26 17:19:30 KST
 
 ## 추정 기술 스택
 
@@ -53,7 +53,7 @@
 
 - 사용 여부: 예
 - 연결 추정 DB: PostgreSQL, SQLite
-- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 170개 확인, DB 관련 파일 2개 확인, 추정 DB: PostgreSQL, SQLite
+- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 169개 확인, DB 관련 파일 2개 확인, 추정 DB: PostgreSQL, SQLite
 
 ## 실행 상태
 
@@ -76,14 +76,14 @@
 
 ## 최근 수정 파일
 
-- data/postgres/pg_wal/000000010000000000000004 (2026-10-26 16:49:23 KST)
-- data/postgres/global/pg_control (2026-10-26 16:48:41 KST)
-- data/postgres/base/16384/32948 (2026-10-26 16:48:41 KST)
-- data/postgres/base/16384/32947 (2026-10-26 16:48:41 KST)
-- data/postgres/base/16384/32946 (2026-10-26 16:48:40 KST)
-- data/postgres/base/16384/32945 (2026-10-26 16:48:40 KST)
-- data/postgres/base/16384/32939 (2026-10-26 16:48:40 KST)
-- data/postgres/base/16384/32938 (2026-10-26 16:48:40 KST)
+- data/postgres/pg_wal/000000010000000000000004 (2026-10-26 16:53:57 KST)
+- data/postgres/global/pg_control (2026-10-26 16:53:53 KST)
+- data/postgres/base/16384/32950 (2026-10-26 16:53:53 KST)
+- data/postgres/base/16384/32948 (2026-10-26 16:53:52 KST)
+- data/postgres/base/16384/32947 (2026-10-26 16:53:52 KST)
+- data/postgres/base/16384/32946 (2026-10-26 16:53:51 KST)
+- data/postgres/base/16384/32945 (2026-10-26 16:53:51 KST)
+- data/postgres/base/16384/32938 (2026-10-26 16:53:51 KST)
 
 ## 점검 결과 요약
 
