@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-27T01:52:55.334Z",
-  "generatedAtKst": "2026-10-27 10:52:55 KST",
+  "generatedAt": "2026-10-27T02:23:01.119Z",
+  "generatedAtKst": "2026-10-27 11:23:01 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8109
+          "count": 8110
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,21 @@
           "count": 5
         }
       ],
-      "count": 8155
+      "count": 8156
+    },
+    {
+      "name": "skarndaudwls1",
+      "emails": [
+        {
+          "email": "skarndaudwls@gmail.com",
+          "count": 1370
+        },
+        {
+          "email": "skarndaudwls1@gmail.com",
+          "count": 89
+        }
+      ],
+      "count": 1459
     },
     {
       "name": "YUNA0222",
@@ -45,20 +59,6 @@
         }
       ],
       "count": 1459
-    },
-    {
-      "name": "skarndaudwls1",
-      "emails": [
-        {
-          "email": "skarndaudwls@gmail.com",
-          "count": 1369
-        },
-        {
-          "email": "skarndaudwls1@gmail.com",
-          "count": 89
-        }
-      ],
-      "count": 1458
     },
     {
       "name": "Jaehe-he",
@@ -1617,22 +1617,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7972,
+        "commitCount": 7973,
         "authors": [
           {
-            "count": 7972,
+            "count": 7973,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "f45678b04",
+          "hash": "cd8461244",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-27T10:22:53+09:00",
+          "date": "2026-10-27T10:52:59+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7972개 커밋, 상위 계정: gosky(7972), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7973개 커밋, 상위 계정: gosky(7973), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1673,8 +1673,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7972",
-        "Git 상위 계정: gosky(7972)"
+        "Git 커밋 수: 7973",
+        "Git 상위 계정: gosky(7973)"
       ]
     },
     {
@@ -1997,7 +1997,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 9 minutes",
+            "status": "Up 39 minutes",
             "ports": ""
           }
         ],
@@ -2237,7 +2237,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 9 minutes",
+            "status": "Up 39 minutes",
             "ports": ""
           }
         ],
@@ -2886,35 +2886,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000005",
-          "modifiedAt": "2026-10-27T01:44:04.437Z"
+          "modifiedAt": "2026-10-27T01:59:23.173Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-10-27T01:44:00.837Z"
+          "modifiedAt": "2026-10-27T01:59:02.842Z"
         },
         {
-          "path": "data/postgres/base/16384/2840",
-          "modifiedAt": "2026-10-27T01:44:00.733Z"
+          "path": "data/postgres/base/16384/32948",
+          "modifiedAt": "2026-10-27T01:59:02.742Z"
         },
         {
-          "path": "data/postgres/pg_logical/replorigin_checkpoint",
-          "modifiedAt": "2026-10-27T01:44:00.733Z"
+          "path": "data/postgres/base/16384/32947",
+          "modifiedAt": "2026-10-27T01:59:02.642Z"
         },
         {
-          "path": "app/core/config.py",
-          "modifiedAt": "2026-10-27T01:43:00.838Z"
+          "path": "data/postgres/base/16384/32946",
+          "modifiedAt": "2026-10-27T01:59:02.042Z"
         },
         {
-          "path": "app/models/medgemma_loader.py",
-          "modifiedAt": "2026-10-27T01:43:00.838Z"
+          "path": "data/postgres/base/16384/32945",
+          "modifiedAt": "2026-10-27T01:59:01.942Z"
         },
         {
-          "path": "app/services/medical_llm_service.py",
-          "modifiedAt": "2026-10-27T01:43:00.838Z"
+          "path": "data/postgres/base/16384/32935_vm",
+          "modifiedAt": "2026-10-27T01:59:01.842Z"
         },
         {
-          "path": "docs/eval-results/2026-10-26-int8-gen10-retest.json",
-          "modifiedAt": "2026-10-27T01:43:00.838Z"
+          "path": "data/postgres/base/16384/32935_fsm",
+          "modifiedAt": "2026-10-27T01:59:01.738Z"
         }
       ],
       "summary": [
@@ -3117,7 +3117,7 @@
         "commitCount": 1236,
         "authors": [
           {
-            "count": 1020,
+            "count": 1021,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -3144,7 +3144,7 @@
           "date": "2026-10-27T10:42:59+09:00",
           "subject": "Merge pull request #386 from Dongyang-Mirae-University-software/chore/swagger-tag-sync"
         },
-        "summary": "총 1236개 커밋, 상위 계정: skarndaudwls1(1020), skarndaudwls1(65), gosky(4), 최근: Merge pull request #386 from Dongyang-Mirae-University-software/chore/swagger-tag-sync"
+        "summary": "총 1236개 커밋, 상위 계정: skarndaudwls1(1021), skarndaudwls1(65), gosky(4), 최근: Merge pull request #386 from Dongyang-Mirae-University-software/chore/swagger-tag-sync"
       },
       "recentFiles": [
         {
@@ -3186,7 +3186,7 @@
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
         "Git 커밋 수: 1236",
-        "Git 상위 계정: skarndaudwls1(1020), skarndaudwls1(65), gosky(4)"
+        "Git 상위 계정: skarndaudwls1(1021), skarndaudwls1(65), gosky(4)"
       ]
     },
     {
