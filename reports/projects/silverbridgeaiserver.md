@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-27 16:24:00 KST
+- 점검 시각: 2026-10-27 16:54:06 KST
 
 ## 추정 기술 스택
 
@@ -76,14 +76,14 @@
 
 ## 최근 수정 파일
 
-- app/services/medical_llm_service.py (2026-10-27 16:22:54 KST)
-- tests/eval/eval_set_v6.json (2026-10-27 16:22:54 KST)
-- tests/test_chat_safety_rules.py (2026-10-27 16:22:54 KST)
-- tests/test_eval_harness.py (2026-10-27 16:22:54 KST)
-- data/postgres/pg_wal/000000010000000000000005 (2026-10-27 16:22:34 KST)
-- app/services/reservation_confirm_flow.py (2026-10-27 16:18:05 KST)
-- app/services/reservation_orchestrator.py (2026-10-27 16:18:05 KST)
-- docs/eval-results/2026-10-27-drug-alcohol.json (2026-10-27 16:18:05 KST)
+- data/postgres/pg_wal/000000010000000000000005 (2026-10-27 16:34:18 KST)
+- data/postgres/global/pg_control (2026-10-27 16:34:12 KST)
+- data/postgres/base/16384/32950 (2026-10-27 16:34:11 KST)
+- data/postgres/base/16384/32948 (2026-10-27 16:34:11 KST)
+- data/postgres/base/16384/32947 (2026-10-27 16:34:11 KST)
+- data/postgres/base/16384/32946 (2026-10-27 16:34:11 KST)
+- data/postgres/base/16384/32945 (2026-10-27 16:34:11 KST)
+- data/postgres/base/16384/32935_vm (2026-10-27 16:34:11 KST)
 
 ## 점검 결과 요약
 
