@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-27 11:23:03 KST
+- 점검 시각: 2026-10-27 11:53:09 KST
 
 ## 추정 기술 스택
 
@@ -37,7 +37,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 534
+- 파일 개수: 537
 - 디렉토리 개수: 136
 - 주요 폴더: docs, public, src
 - 주요 경로: public, public/images, src, src/app, src/app/(admin), src/app/(admin)/admin, src/app/(admin)/admin/_components, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/@modal, src/app/(auth)/@modal/(.)find-email, src/app/(auth)/@modal/(.)find-password, src/app/(auth)/auth, src/app/(auth)/auth/kakao, src/app/(auth)/auth/kakao/callback, src/app/(auth)/find-email, src/app/(auth)/find-email/_components, src/app/(auth)/find-email/_hooks, src/app/(auth)/find-password, src/app/(auth)/find-password/_components
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1433
+- 총 커밋 수: 1435
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 376
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 129
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 130
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: eb4cfba / namgung <skarndaudwls@gmail.com> / Merge pull request #149 from Dongyang-Mirae-University-software/fix/camera-register-cancel-pending-media
+- 최근 커밋: 38dcbfc / namgung <skarndaudwls@gmail.com> / Merge pull request #150 from Dongyang-Mirae-University-software/fix/reservation-demo-label-r6
 
 ## 최근 수정 파일
 
-- src/app/(ward)/ward/camera/_components/CameraRegisterModal.tsx (2026-10-27 24:03:45 KST)
-- docs/(2026-10-26) audit-camera-register-step4.md (2026-10-27 24:03:45 KST)
-- src/app/(ward)/ward/camera/_components/CameraRegisterModal.browser.test.tsx (2026-10-27 24:03:45 KST)
-- src/components/layout/dashboard/SidebarLayout.tsx (2026-10-26 21:09:12 KST)
-- src/constants/dashboard.ts (2026-10-26 21:09:12 KST)
-- src/service/api/admin/dashboard.test.ts (2026-10-26 21:09:12 KST)
-- src/service/api/admin/dashboard.ts (2026-10-26 21:09:12 KST)
-- src/service/interface/admin/dashboard.ts (2026-10-26 21:09:12 KST)
+- src/constants/reservation.ts (2026-10-27 11:30:44 KST)
+- src/lib/server/reservationRoutes.ts (2026-10-27 11:30:44 KST)
+- src/service/api/guardian/reservation.ts (2026-10-27 11:30:44 KST)
+- src/service/query/guardian/reservation.ts (2026-10-27 11:30:44 KST)
+- src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.browser.test.tsx (2026-10-27 11:30:44 KST)
+- src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.tsx (2026-10-27 11:30:44 KST)
+- src/app/(ward)/ward/hospital/_components/WardHospitalContent.browser.test.tsx (2026-10-27 11:30:44 KST)
+- src/app/(ward)/ward/hospital/_components/WardHospitalContent.tsx (2026-10-27 11:30:44 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1433
-- Git 상위 계정: YUNA0222(1400), yuna0222(376), skarndaudwls1(129)
+- Git 커밋 수: 1435
+- Git 상위 계정: YUNA0222(1400), yuna0222(376), skarndaudwls1(130)

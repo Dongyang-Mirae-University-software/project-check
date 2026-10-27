@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeReservation`
 - 분류: 백엔드
-- 점검 시각: 2026-10-27 11:23:04 KST
+- 점검 시각: 2026-10-27 11:53:10 KST
 
 ## 추정 기술 스택
 
@@ -42,10 +42,10 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 92
-- 디렉토리 개수: 32
+- 파일 개수: 94
+- 디렉토리 개수: 33
 - 주요 폴더: admin-ui, docs, prisma, src, test, v8-compile-cache-0
-- 주요 경로: admin-ui/src/pages, prisma, prisma/migrations, prisma/migrations/20260410002451_init, prisma/migrations/20260527114400_api_key_access, prisma/migrations/20261022120000_active_reservation_unique, src, src/admin, src/admin/dto, src/auth, src/auth/decorators, src/auth/dto, src/auth/guards, src/auth/strategies, src/common, src/common/config, src/common/filters, src/common/utils, src/hospital, src/hospital/dto
+- 주요 경로: admin-ui/src/pages, prisma, prisma/migrations, prisma/migrations/20260410002451_init, prisma/migrations/20260527114400_api_key_access, prisma/migrations/20261022120000_active_reservation_unique, prisma/migrations/20261027120000_active_slot_per_department, src, src/admin, src/admin/dto, src/auth, src/auth/decorators, src/auth/dto, src/auth/guards, src/auth/strategies, src/common, src/common/config, src/common/filters, src/common/utils, src/hospital
 
 ## DB 사용 여부
 
@@ -56,29 +56,29 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 5173, 6015, 6017, 6018
+- 관련 포트: 2026, 5173, 6015, 6017, 6018
 - 관련 Docker 컨테이너: silverbridgereservation-reservation-api-1
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 58
+- 총 커밋 수: 60
 - 계정별 커밋 수:
   - gosky <lovesky00317@gmail.com>: 53
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 3
-- 최근 커밋: a6e0f06 / namgung <skarndaudwls@gmail.com> / Merge pull request #2 from Dongyang-Mirae-University-software/fix/reservation-active-slot-unique
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 4
+- 최근 커밋: bc05f9b / namgung <skarndaudwls@gmail.com> / Merge pull request #3 from Dongyang-Mirae-University-software/fix/reservation-demo-label-r6
 
 ## 최근 수정 파일
 
-- package.json (2026-10-22 10:42:35 KST)
-- prisma/migrations/20261022120000_active_reservation_unique/migration.sql (2026-10-22 10:42:35 KST)
-- prisma/schema.prisma (2026-10-22 10:42:35 KST)
-- src/admin/admin.service.ts (2026-10-22 10:42:35 KST)
-- src/common/active-slot-conflict.ts (2026-10-22 10:42:35 KST)
-- src/reservation/reservation.service.ts (2026-10-22 10:42:35 KST)
-- test/active-slot-unique.test.ts (2026-10-22 10:42:35 KST)
-- src/auth/auth.service.ts (2026-10-20 10:53:54 KST)
+- src/mcp/reservation-mcp.ts (2026-10-27 11:28:29 KST)
+- src/reservation/reservation.service.ts (2026-10-27 11:28:29 KST)
+- test/active-slot-unique.test.ts (2026-10-27 11:28:29 KST)
+- test/department-slot-kst.test.ts (2026-10-27 11:28:29 KST)
+- prisma/migrations/20261027120000_active_slot_per_department/migration.sql (2026-10-27 11:28:29 KST)
+- prisma/schema.prisma (2026-10-27 11:28:29 KST)
+- src/admin/admin.service.ts (2026-10-27 11:28:29 KST)
+- src/common/active-slot-conflict.ts (2026-10-27 11:28:29 KST)
 
 ## 점검 결과 요약
 
@@ -86,5 +86,5 @@
 - 기술 추정: Node.js, Prisma, React, Vue, Vite, nestjs, NestJS, Express, express, Frontend
 - DB 사용 추정: SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 58
-- Git 상위 계정: gosky(53), skarndaudwls1(3)
+- Git 커밋 수: 60
+- Git 상위 계정: gosky(53), skarndaudwls1(4)
