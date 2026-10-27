@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeReservation`
 - 분류: 백엔드
-- 점검 시각: 2026-10-27 14:53:44 KST
+- 점검 시각: 2026-10-27 15:23:50 KST
 
 ## 추정 기술 스택
 
@@ -42,7 +42,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 95
+- 파일 개수: 96
 - 디렉토리 개수: 33
 - 주요 폴더: admin-ui, docs, prisma, src, test, v8-compile-cache-0
 - 주요 경로: admin-ui/src/pages, prisma, prisma/migrations, prisma/migrations/20260410002451_init, prisma/migrations/20260527114400_api_key_access, prisma/migrations/20261022120000_active_reservation_unique, prisma/migrations/20261027120000_active_slot_per_department, src, src/admin, src/admin/dto, src/auth, src/auth/decorators, src/auth/dto, src/auth/guards, src/auth/strategies, src/common, src/common/config, src/common/filters, src/common/utils, src/hospital
@@ -63,22 +63,22 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 62
+- 총 커밋 수: 64
 - 계정별 커밋 수:
   - gosky <lovesky00317@gmail.com>: 53
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 5
-- 최근 커밋: 77cdbc9 / namgung <skarndaudwls@gmail.com> / Merge pull request #4 from Dongyang-Mirae-University-software/fix/reservation-reject-past-time
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 6
+- 최근 커밋: e06e4f6 / namgung <skarndaudwls@gmail.com> / Merge pull request #5 from Dongyang-Mirae-University-software/fix/reservation-department-rename
 
 ## 최근 수정 파일
 
+- src/admin/admin.service.ts (2026-10-27 15:07:09 KST)
+- test/department-rename.test.ts (2026-10-27 15:07:09 KST)
 - src/common/active-slot-conflict.ts (2026-10-27 14:18:23 KST)
 - src/common/utils/time.util.ts (2026-10-27 14:18:23 KST)
 - src/hospital/hospital.service.ts (2026-10-27 14:18:23 KST)
 - src/reservation/reservation.service.ts (2026-10-27 14:18:23 KST)
 - test/past-time.test.ts (2026-10-27 14:18:23 KST)
 - src/mcp/reservation-mcp.ts (2026-10-27 11:28:29 KST)
-- test/active-slot-unique.test.ts (2026-10-27 11:28:29 KST)
-- test/department-slot-kst.test.ts (2026-10-27 11:28:29 KST)
 
 ## 점검 결과 요약
 
@@ -86,5 +86,5 @@
 - 기술 추정: Node.js, Prisma, React, Vue, Vite, nestjs, NestJS, Express, express, Frontend
 - DB 사용 추정: SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 62
-- Git 상위 계정: gosky(53), skarndaudwls1(5)
+- Git 커밋 수: 64
+- Git 상위 계정: gosky(53), skarndaudwls1(6)

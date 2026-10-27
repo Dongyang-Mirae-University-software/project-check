@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-27 14:53:43 KST
+- 점검 시각: 2026-10-27 15:23:48 KST
 
 ## 추정 기술 스택
 
@@ -65,25 +65,25 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 224
+- 총 커밋 수: 226
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 98
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 99
   - gosky <lovesky00317@gmail.com>: 37
   - gosky <gosky@gosky.kr>: 16
   - namgung <skarndaudwls@gmail.com>: 11
   - Jaehe-he <hywuljh1@naver.com>: 7
-- 최근 커밋: 6d8a0af / namgung <skarndaudwls@gmail.com> / Merge pull request #70 from Dongyang-Mirae-University-software/fix/reservation-reject-past-time
+- 최근 커밋: 243d17e / namgung <skarndaudwls@gmail.com> / Merge pull request #71 from Dongyang-Mirae-University-software/fix/d5-contradiction
 
 ## 최근 수정 파일
 
-- app/services/reservation_confirm_flow.py (2026-10-27 14:45:25 KST)
-- tests/test_reservation_past_time.py (2026-10-27 14:45:25 KST)
-- data/postgres/pg_wal/000000010000000000000005 (2026-10-27 14:44:34 KST)
-- data/postgres/global/pg_control (2026-10-27 14:44:15 KST)
-- data/postgres/base/16384/32950 (2026-10-27 14:44:15 KST)
-- data/postgres/base/16384/32948 (2026-10-27 14:44:15 KST)
-- data/postgres/base/16384/32947 (2026-10-27 14:44:15 KST)
-- data/postgres/base/16384/32946 (2026-10-27 14:44:14 KST)
+- data/postgres/pg_wal/000000010000000000000005 (2026-10-27 15:23:45 KST)
+- data/postgres/global/pg_control (2026-10-27 15:09:12 KST)
+- data/postgres/base/16384/32948 (2026-10-27 15:09:12 KST)
+- data/postgres/base/16384/32947 (2026-10-27 15:09:12 KST)
+- data/postgres/base/16384/32946 (2026-10-27 15:09:11 KST)
+- data/postgres/base/16384/32945 (2026-10-27 15:09:11 KST)
+- data/postgres/base/16384/32935_vm (2026-10-27 15:09:11 KST)
+- data/postgres/base/16384/32935_fsm (2026-10-27 15:09:11 KST)
 
 ## 점검 결과 요약
 
@@ -91,5 +91,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 224
-- Git 상위 계정: skarndaudwls1(98), gosky(37), gosky(16)
+- Git 커밋 수: 226
+- Git 상위 계정: skarndaudwls1(99), gosky(37), gosky(16)
