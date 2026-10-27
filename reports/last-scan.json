@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-27T16:55:48.051Z",
-  "generatedAtKst": "2026-10-28 01:55:48 KST",
+  "generatedAt": "2026-10-27T17:25:54.033Z",
+  "generatedAtKst": "2026-10-28 02:25:54 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8139
+          "count": 8140
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 8185
+      "count": 8186
     },
     {
       "name": "skarndaudwls1",
@@ -1617,22 +1617,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8002,
+        "commitCount": 8003,
         "authors": [
           {
-            "count": 8002,
+            "count": 8003,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "6d62681f1",
+          "hash": "cce3fdc7f",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-28T01:25:46+09:00",
+          "date": "2026-10-28T01:55:51+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8002개 커밋, 상위 계정: gosky(8002), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8003개 커밋, 상위 계정: gosky(8003), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1673,8 +1673,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8002",
-        "Git 상위 계정: gosky(8002)"
+        "Git 커밋 수: 8003",
+        "Git 상위 계정: gosky(8003)"
       ]
     },
     {
@@ -4877,7 +4877,7 @@
           {
             "name": "silverbridgereservation-reservation-api-1",
             "image": "silverbridgereservation-reservation-api",
-            "status": "Up 10 hours",
+            "status": "Up 11 hours",
             "ports": "127.0.0.1:6015->6015/tcp"
           }
         ],
