@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-27T00:52:43.955Z",
-  "generatedAtKst": "2026-10-27 09:52:43 KST",
+  "generatedAt": "2026-10-27T01:22:49.641Z",
+  "generatedAtKst": "2026-10-27 10:22:49 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8107
+          "count": 8108
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 8153
+      "count": 8154
     },
     {
       "name": "YUNA0222",
@@ -1617,22 +1617,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 7970,
+        "commitCount": 7971,
         "authors": [
           {
-            "count": 7970,
+            "count": 7971,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "5d7e34b38",
+          "hash": "a3cafc7ed",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-27T09:22:42+09:00",
+          "date": "2026-10-27T09:52:47+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 7970개 커밋, 상위 계정: gosky(7970), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 7971개 커밋, 상위 계정: gosky(7971), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1673,8 +1673,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 7970",
-        "Git 상위 계정: gosky(7970)"
+        "Git 커밋 수: 7971",
+        "Git 상위 계정: gosky(7971)"
       ]
     },
     {
@@ -2348,36 +2348,36 @@
       },
       "recentFiles": [
         {
-          "path": "data/collect/20261026/fire/near/212834675_ward_ezD5bv0Em9l8D3s9_0.36.jpg",
-          "modifiedAt": "2026-10-26T12:28:34.673Z"
+          "path": "data/postgres/pg_wal/000000010000000000000005",
+          "modifiedAt": "2026-10-27T01:19:03.835Z"
         },
         {
-          "path": "data/collect/20261026/fire/near/212834675_ward_ezD5bv0Em9l8D3s9_0.36.json",
-          "modifiedAt": "2026-10-26T12:28:34.673Z"
+          "path": "data/postgres/global/pg_control",
+          "modifiedAt": "2026-10-27T01:19:01.231Z"
         },
         {
-          "path": "data/collect/20261026/fire/alert/212826278_ward_ezD5bv0Em9l8D3s9_0.83.jpg",
-          "modifiedAt": "2026-10-26T12:28:26.273Z"
+          "path": "data/postgres/base/16384/32948",
+          "modifiedAt": "2026-10-27T01:19:01.131Z"
         },
         {
-          "path": "data/collect/20261026/fire/alert/212826278_ward_ezD5bv0Em9l8D3s9_0.83.json",
-          "modifiedAt": "2026-10-26T12:28:26.273Z"
+          "path": "data/postgres/base/16384/32947",
+          "modifiedAt": "2026-10-27T01:19:01.031Z"
         },
         {
-          "path": "data/collect/20261026/fire/alert/212816211_ward_ezD5bv0Em9l8D3s9_0.76.jpg",
-          "modifiedAt": "2026-10-26T12:28:16.209Z"
+          "path": "data/postgres/base/16384/32946",
+          "modifiedAt": "2026-10-27T01:19:00.832Z"
         },
         {
-          "path": "data/collect/20261026/fire/alert/212816211_ward_ezD5bv0Em9l8D3s9_0.76.json",
-          "modifiedAt": "2026-10-26T12:28:16.209Z"
+          "path": "data/postgres/base/16384/32945",
+          "modifiedAt": "2026-10-27T01:19:00.732Z"
         },
         {
-          "path": "data/collect/20261026/fire/alert/212806160_ward_ezD5bv0Em9l8D3s9_0.77.jpg",
-          "modifiedAt": "2026-10-26T12:28:06.157Z"
+          "path": "data/postgres/base/16384/32935_vm",
+          "modifiedAt": "2026-10-27T01:19:00.632Z"
         },
         {
-          "path": "data/collect/20261026/fire/alert/212806160_ward_ezD5bv0Em9l8D3s9_0.77.json",
-          "modifiedAt": "2026-10-26T12:28:06.157Z"
+          "path": "data/postgres/base/16384/32935_fsm",
+          "modifiedAt": "2026-10-27T01:19:00.528Z"
         }
       ],
       "summary": [
@@ -3243,7 +3243,7 @@
           {
             "name": "silverbridgereservation-reservation-api-1",
             "image": "silverbridgereservation-reservation-api",
-            "status": "Up 4 days",
+            "status": "Up 5 days",
             "ports": "127.0.0.1:6015->6015/tcp"
           }
         ],

@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-27 09:52:46 KST
+- 점검 시각: 2026-10-27 10:22:51 KST
 
 ## 추정 기술 스택
 
@@ -76,14 +76,14 @@
 
 ## 최근 수정 파일
 
-- data/collect/20261026/fire/near/212834675_ward_ezD5bv0Em9l8D3s9_0.36.jpg (2026-10-26 21:28:34 KST)
-- data/collect/20261026/fire/near/212834675_ward_ezD5bv0Em9l8D3s9_0.36.json (2026-10-26 21:28:34 KST)
-- data/collect/20261026/fire/alert/212826278_ward_ezD5bv0Em9l8D3s9_0.83.jpg (2026-10-26 21:28:26 KST)
-- data/collect/20261026/fire/alert/212826278_ward_ezD5bv0Em9l8D3s9_0.83.json (2026-10-26 21:28:26 KST)
-- data/collect/20261026/fire/alert/212816211_ward_ezD5bv0Em9l8D3s9_0.76.jpg (2026-10-26 21:28:16 KST)
-- data/collect/20261026/fire/alert/212816211_ward_ezD5bv0Em9l8D3s9_0.76.json (2026-10-26 21:28:16 KST)
-- data/collect/20261026/fire/alert/212806160_ward_ezD5bv0Em9l8D3s9_0.77.jpg (2026-10-26 21:28:06 KST)
-- data/collect/20261026/fire/alert/212806160_ward_ezD5bv0Em9l8D3s9_0.77.json (2026-10-26 21:28:06 KST)
+- data/postgres/pg_wal/000000010000000000000005 (2026-10-27 10:19:03 KST)
+- data/postgres/global/pg_control (2026-10-27 10:19:01 KST)
+- data/postgres/base/16384/32948 (2026-10-27 10:19:01 KST)
+- data/postgres/base/16384/32947 (2026-10-27 10:19:01 KST)
+- data/postgres/base/16384/32946 (2026-10-27 10:19:00 KST)
+- data/postgres/base/16384/32945 (2026-10-27 10:19:00 KST)
+- data/postgres/base/16384/32935_vm (2026-10-27 10:19:00 KST)
+- data/postgres/base/16384/32935_fsm (2026-10-27 10:19:00 KST)
 
 ## 점검 결과 요약
 
