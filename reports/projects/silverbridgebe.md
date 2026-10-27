@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-10-27 10:22:51 KST
+- 점검 시각: 2026-10-27 10:52:57 KST
 
 ## 추정 기술 스택
 
@@ -57,24 +57,24 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1232
+- 총 커밋 수: 1236
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 1017
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 1020
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
   - gosky <gosky@gosky.kr>: 2
-- 최근 커밋: 82f0d5e / skarndaudwls1 <skarndaudwls@gmail.com> / docs: MedGemma 8비트 + 반복 금지 채택 결과 기록
+- 최근 커밋: f541ea4 / namgung <skarndaudwls@gmail.com> / Merge pull request #386 from Dongyang-Mirae-University-software/chore/swagger-tag-sync
 
 ## 최근 수정 파일
 
-- docs/progress.md (2026-10-26 20:51:23 KST)
-- docs/(2026-10-20) analysis-ai-chat-reservation.md (2026-10-26 20:51:23 KST)
+- 프로젝트_설명.txt (2026-10-27 10:46:08 KST)
+- docs/(2026-10-20) analysis-ai-chat-reservation.md (2026-10-27 10:46:08 KST)
+- docs/progress.md (2026-10-27 10:46:08 KST)
 - docs/(2026-10-26) audit-admin-partner-hospital.md (2026-10-26 20:51:23 KST)
 - docs/(2026-10-26) audit-ai-chat-crisis-routing.md (2026-10-26 20:51:23 KST)
 - docs/(2026-10-26) feature-admin-partner-hospital.md (2026-10-26 20:51:23 KST)
 - docs/audit-index.md (2026-10-26 20:51:23 KST)
 - docs/(2026-10-26) api-contract-admin-hospital.md (2026-10-26 11:03:19 KST)
-- docs/(2026-10-26) audit-impact-page-offset-clamp.md (2026-10-26 10:51:09 KST)
 
 ## 점검 결과 요약
 
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1232
-- Git 상위 계정: skarndaudwls1(1017), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1236
+- Git 상위 계정: skarndaudwls1(1020), skarndaudwls1(65), gosky(4)
