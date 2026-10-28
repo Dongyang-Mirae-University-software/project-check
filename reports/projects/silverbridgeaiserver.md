@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-28 10:27:29 KST
+- 점검 시각: 2026-10-28 10:57:35 KST
 
 ## 추정 기술 스택
 
@@ -65,25 +65,25 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 252
+- 총 커밋 수: 254
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 112
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 115
   - gosky <lovesky00317@gmail.com>: 37
   - gosky <gosky@gosky.kr>: 16
   - Jaehe-he <hywuljh1@naver.com>: 16
   - namgung <skarndaudwls@gmail.com>: 11
-- 최근 커밋: c147414 / namgung <skarndaudwls@gmail.com> / Merge pull request #84 from Dongyang-Mirae-University-software/feat/chat-stats
+- 최근 커밋: 774e8f4 / namgung <skarndaudwls@gmail.com> / Merge pull request #85 from Dongyang-Mirae-University-software/fix/reservation-day-off-reselect
 
 ## 최근 수정 파일
 
+- app/services/reservation_confirm_flow.py (2026-10-28 10:37:44 KST)
+- tests/test_reservation_extract_state.py (2026-10-28 10:37:44 KST)
 - app/routers/chat_router.py (2026-10-28 10:25:27 KST)
 - app/services/chat_stats_service.py (2026-10-28 10:25:27 KST)
 - tests/test_chat_stats.py (2026-10-28 10:25:27 KST)
 - data/postgres/pg_wal/000000010000000000000005 (2026-10-28 10:19:35 KST)
 - data/postgres/global/pg_control (2026-10-28 10:19:32 KST)
 - data/postgres/base/16384/32948 (2026-10-28 10:19:32 KST)
-- data/postgres/base/16384/32945 (2026-10-28 10:19:32 KST)
-- data/postgres/base/16384/32935 (2026-10-28 10:19:32 KST)
 
 ## 점검 결과 요약
 
@@ -91,5 +91,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 252
-- Git 상위 계정: skarndaudwls1(112), gosky(37), gosky(16)
+- Git 커밋 수: 254
+- Git 상위 계정: skarndaudwls1(115), gosky(37), gosky(16)
