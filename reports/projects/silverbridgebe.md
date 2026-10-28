@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-10-28 10:57:35 KST
+- 점검 시각: 2026-10-28 11:27:41 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 281
+- 파일 개수: 282
 - 디렉토리 개수: 33
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/integrationTest, src/integrationTest/java, src/integrationTest/java/kr, src/integrationTest/java/kr/silverbridge, src/integrationTest/java/kr/silverbridge/main, src/integrationTest/java/kr/silverbridge/main/domain, src/integrationTest/java/kr/silverbridge/main/migration, src/integrationTest/java/kr/silverbridge/main/support, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration, src/test
@@ -57,24 +57,24 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1272
+- 총 커밋 수: 1279
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 1048
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 1053
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
   - gosky <gosky@gosky.kr>: 2
-- 최근 커밋: 9eb177f / namgung <skarndaudwls@gmail.com> / Merge pull request #394 from Dongyang-Mirae-University-software/feature/hospital-break-closed-days
+- 최근 커밋: 6c01318 / namgung <skarndaudwls@gmail.com> / Merge pull request #396 from Dongyang-Mirae-University-software/feature/hospital-weekday-hours
 
 ## 최근 수정 파일
 
-- docs/(2026-10-20) analysis-ai-chat-reservation.md (2026-10-28 10:30:42 KST)
+- docs/(2026-10-20) analysis-ai-chat-reservation.md (2026-10-28 11:03:48 KST)
+- docs/(2026-10-28) audit-ai-chat-stats.md (2026-10-28 11:03:48 KST)
+- docs/audit-index.md (2026-10-28 11:03:48 KST)
+- docs/progress.md (2026-10-28 11:03:48 KST)
 - docs/(2026-10-28) feature-pending-connection-guardian-photo.md (2026-10-28 10:30:42 KST)
 - 프로젝트_설명.txt (2026-10-28 09:59:53 KST)
-- docs/progress.md (2026-10-28 09:59:53 KST)
 - docs/(2026-10-28) audit-reservation-flow-1027.md (2026-10-28 09:59:53 KST)
-- docs/audit-index.md (2026-10-28 09:59:53 KST)
 - docs/(2026-10-27) audit-ai-chat-crisis-cleanup.md (2026-10-27 15:18:40 KST)
-- docs/(2026-10-27) fix-ward-sms-plain.md (2026-10-27 15:18:40 KST)
 
 ## 점검 결과 요약
 
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1272
-- Git 상위 계정: skarndaudwls1(1048), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1279
+- Git 상위 계정: skarndaudwls1(1053), skarndaudwls1(65), gosky(4)

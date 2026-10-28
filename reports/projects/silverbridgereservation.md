@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeReservation`
 - 분류: 백엔드
-- 점검 시각: 2026-10-28 10:57:36 KST
+- 점검 시각: 2026-10-28 11:27:42 KST
 
 ## 추정 기술 스택
 
@@ -42,10 +42,10 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 101
-- 디렉토리 개수: 34
+- 파일 개수: 104
+- 디렉토리 개수: 35
 - 주요 폴더: admin-ui, docs, prisma, src, test, v8-compile-cache-0
-- 주요 경로: admin-ui/src/pages, prisma, prisma/migrations, prisma/migrations/20260410002451_init, prisma/migrations/20260527114400_api_key_access, prisma/migrations/20261022120000_active_reservation_unique, prisma/migrations/20261027120000_active_slot_per_department, prisma/migrations/20261028120000_hospital_break_closed_days, src, src/admin, src/admin/dto, src/auth, src/auth/decorators, src/auth/dto, src/auth/guards, src/auth/strategies, src/common, src/common/config, src/common/filters, src/common/utils
+- 주요 경로: admin-ui/src/pages, prisma, prisma/migrations, prisma/migrations/20260410002451_init, prisma/migrations/20260527114400_api_key_access, prisma/migrations/20261022120000_active_reservation_unique, prisma/migrations/20261027120000_active_slot_per_department, prisma/migrations/20261028120000_hospital_break_closed_days, prisma/migrations/20261028140000_hospital_weekday_hours, src, src/admin, src/admin/dto, src/auth, src/auth/decorators, src/auth/dto, src/auth/guards, src/auth/strategies, src/common, src/common/config, src/common/filters
 
 ## DB 사용 여부
 
@@ -63,22 +63,22 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 72
+- 총 커밋 수: 74
 - 계정별 커밋 수:
   - gosky <lovesky00317@gmail.com>: 53
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 10
-- 최근 커밋: 8c123b6 / namgung <skarndaudwls@gmail.com> / Merge pull request #9 from Dongyang-Mirae-University-software/feature/hospital-break-closed-days
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 11
+- 최근 커밋: 611e117 / namgung <skarndaudwls@gmail.com> / Merge pull request #10 from Dongyang-Mirae-University-software/feature/hospital-weekday-hours
 
 ## 최근 수정 파일
 
-- prisma/migrations/20261028120000_hospital_break_closed_days/migration.sql (2026-10-28 10:21:46 KST)
-- prisma/schema.prisma (2026-10-28 10:21:46 KST)
-- src/admin/admin.service.ts (2026-10-28 10:21:46 KST)
-- src/admin/dto/create-hospital.dto.ts (2026-10-28 10:21:46 KST)
-- src/admin/dto/update-hospital.dto.ts (2026-10-28 10:21:46 KST)
-- src/common/hospital-schedule.ts (2026-10-28 10:21:46 KST)
-- src/hospital/hospital.service.ts (2026-10-28 10:21:46 KST)
-- src/reservation/reservation.service.ts (2026-10-28 10:21:46 KST)
+- prisma/migrations/20261028140000_hospital_weekday_hours/migration.sql (2026-10-28 11:08:38 KST)
+- prisma/schema.prisma (2026-10-28 11:08:38 KST)
+- src/admin/admin.service.ts (2026-10-28 11:08:38 KST)
+- src/admin/dto/create-hospital.dto.ts (2026-10-28 11:08:38 KST)
+- src/admin/dto/update-hospital.dto.ts (2026-10-28 11:08:38 KST)
+- src/admin/dto/weekday-hours.dto.ts (2026-10-28 11:08:38 KST)
+- src/common/hospital-schedule.ts (2026-10-28 11:08:38 KST)
+- src/hospital/hospital.service.ts (2026-10-28 11:08:38 KST)
 
 ## 점검 결과 요약
 
@@ -86,5 +86,5 @@
 - 기술 추정: Node.js, Prisma, React, Vue, Vite, nestjs, NestJS, Express, express, Frontend
 - DB 사용 추정: SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 72
-- Git 상위 계정: gosky(53), skarndaudwls1(10)
+- Git 커밋 수: 74
+- Git 상위 계정: gosky(53), skarndaudwls1(11)
