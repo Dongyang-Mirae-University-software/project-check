@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeReservation`
 - 분류: 백엔드
-- 점검 시각: 2026-10-28 09:27:19 KST
+- 점검 시각: 2026-10-28 09:57:25 KST
 
 ## 추정 기술 스택
 
@@ -63,14 +63,15 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 66
+- 총 커밋 수: 68
 - 계정별 커밋 수:
   - gosky <lovesky00317@gmail.com>: 53
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 7
-- 최근 커밋: 1ab4f01 / namgung <skarndaudwls@gmail.com> / Merge pull request #6 from Dongyang-Mirae-University-software/fix/reservation-today-count
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 8
+- 최근 커밋: 211d626 / namgung <skarndaudwls@gmail.com> / Merge pull request #7 from Dongyang-Mirae-University-software/fix/mcp-status-no-today-count
 
 ## 최근 수정 파일
 
+- src/mcp/reservation-mcp.ts (2026-10-28 09:30:23 KST)
 - src/admin/admin.service.ts (2026-10-27 15:45:46 KST)
 - src/admin/dto/update-hospital-status.dto.ts (2026-10-27 15:45:46 KST)
 - src/common/today-reservation-count.ts (2026-10-27 15:45:46 KST)
@@ -78,7 +79,6 @@
 - src/reservation/reservation.service.ts (2026-10-27 15:45:46 KST)
 - test/department-slot-kst.test.ts (2026-10-27 15:45:46 KST)
 - test/today-count.test.ts (2026-10-27 15:45:46 KST)
-- test/department-rename.test.ts (2026-10-27 15:07:09 KST)
 
 ## 점검 결과 요약
 
@@ -86,5 +86,5 @@
 - 기술 추정: Node.js, Prisma, React, Vue, Vite, nestjs, NestJS, Express, express, Frontend
 - DB 사용 추정: SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 66
-- Git 상위 계정: gosky(53), skarndaudwls1(7)
+- Git 커밋 수: 68
+- Git 상위 계정: gosky(53), skarndaudwls1(8)

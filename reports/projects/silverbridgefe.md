@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-28 09:27:18 KST
+- 점검 시각: 2026-10-28 09:57:23 KST
 
 ## 추정 기술 스택
 
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1435
+- 총 커밋 수: 1437
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 376
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 130
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 131
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 38dcbfc / namgung <skarndaudwls@gmail.com> / Merge pull request #150 from Dongyang-Mirae-University-software/fix/reservation-demo-label-r6
+- 최근 커밋: b088303 / namgung <skarndaudwls@gmail.com> / Merge pull request #151 from Dongyang-Mirae-University-software/fix/reservation-bff-department-chars
 
 ## 최근 수정 파일
 
+- src/app/api/reservation/[...path]/route.test.ts (2026-10-28 09:30:44 KST)
+- src/lib/server/reservationRoutes.ts (2026-10-28 09:30:44 KST)
 - src/constants/reservation.ts (2026-10-27 11:30:44 KST)
-- src/lib/server/reservationRoutes.ts (2026-10-27 11:30:44 KST)
 - src/service/api/guardian/reservation.ts (2026-10-27 11:30:44 KST)
 - src/service/query/guardian/reservation.ts (2026-10-27 11:30:44 KST)
 - src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.browser.test.tsx (2026-10-27 11:30:44 KST)
 - src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.tsx (2026-10-27 11:30:44 KST)
 - src/app/(ward)/ward/hospital/_components/WardHospitalContent.browser.test.tsx (2026-10-27 11:30:44 KST)
-- src/app/(ward)/ward/hospital/_components/WardHospitalContent.tsx (2026-10-27 11:30:44 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1435
-- Git 상위 계정: YUNA0222(1400), yuna0222(376), skarndaudwls1(130)
+- Git 커밋 수: 1437
+- Git 상위 계정: YUNA0222(1400), yuna0222(376), skarndaudwls1(131)

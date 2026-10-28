@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-28T00:27:15.828Z",
-  "generatedAtKst": "2026-10-28 09:27:15 KST",
+  "generatedAt": "2026-10-28T00:57:21.527Z",
+  "generatedAtKst": "2026-10-28 09:57:21 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8154
+          "count": 8155
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 5
         }
       ],
-      "count": 8200
+      "count": 8201
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 1404
+          "count": 1409
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 1493
+      "count": 1498
     },
     {
       "name": "YUNA0222",
@@ -781,13 +781,13 @@
           {
             "name": "chatsilverbridge-api-1",
             "image": "chatsilverbridge-api:latest",
-            "status": "Up 5 days",
+            "status": "Up 6 days",
             "ports": "127.0.0.1:6012->6012/tcp"
           },
           {
             "name": "chatsilverbridge-mysql-1",
             "image": "mysql:8.0",
-            "status": "Up 5 days (healthy)",
+            "status": "Up 6 days (healthy)",
             "ports": "33060/tcp, 127.0.0.1:3307->3306/tcp"
           },
           {
@@ -1617,22 +1617,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8017,
+        "commitCount": 8018,
         "authors": [
           {
-            "count": 8017,
+            "count": 8018,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "4ee4eb78f",
+          "hash": "29564842b",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-28T08:57:13+09:00",
+          "date": "2026-10-28T09:27:19+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8017개 커밋, 상위 계정: gosky(8017), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8018개 커밋, 상위 계정: gosky(8018), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1673,8 +1673,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8017",
-        "Git 상위 계정: gosky(8017)"
+        "Git 커밋 수: 8018",
+        "Git 상위 계정: gosky(8018)"
       ]
     },
     {
@@ -1997,7 +1997,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 15 minutes",
+            "status": "Up 19 minutes",
             "ports": ""
           }
         ],
@@ -2183,7 +2183,7 @@
         }
       ],
       "structure": {
-        "fileCount": 3583,
+        "fileCount": 3584,
         "dirCount": 137,
         "mainFolders": [
           "app",
@@ -2234,7 +2234,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 15 minutes",
+            "status": "Up 19 minutes",
             "ports": ""
           }
         ],
@@ -2300,6 +2300,7 @@
           2000,
           2019,
           2023,
+          2030,
           2048,
           2066,
           2079,
@@ -2320,7 +2321,9 @@
           2180,
           2184,
           2185,
+          2188,
           2190,
+          2194,
           2197,
           2198,
           2200,
@@ -2333,6 +2336,7 @@
           2227,
           2234,
           2239,
+          2245,
           2247,
           2248,
           2252,
@@ -2374,6 +2378,7 @@
           2396,
           2397,
           2398,
+          2400,
           2401,
           2402,
           2406,
@@ -2399,7 +2404,9 @@
           2456,
           2459,
           2461,
+          2467,
           2473,
+          2474,
           2476,
           2477,
           2478,
@@ -2415,6 +2422,7 @@
           2498,
           2500,
           2502,
+          2504,
           2511,
           2513,
           2515,
@@ -2432,6 +2440,7 @@
           2538,
           2543,
           2544,
+          2546,
           2548,
           2550,
           2551,
@@ -2439,19 +2448,26 @@
           2553,
           2555,
           2556,
+          2562,
+          2565,
+          2567,
           2569,
           2577,
           2578,
           2579,
           2583,
           2584,
+          2588,
           2589,
           2590,
           2591,
           2593,
           2594,
           2597,
+          2602,
+          2607,
           2609,
+          2612,
           2615,
           2616,
           2617,
@@ -2474,6 +2490,7 @@
           2664,
           2666,
           2668,
+          2669,
           2671,
           2673,
           2676,
@@ -2481,16 +2498,19 @@
           2685,
           2687,
           2688,
+          2692,
           2697,
           2699,
           2700,
           2704,
           2705,
           2709,
+          2713,
           2718,
           2719,
           2720,
           2723,
+          2737,
           2739,
           2744,
           2745,
@@ -2507,6 +2527,7 @@
           2766,
           2769,
           2770,
+          2771,
           2773,
           2776,
           2782,
@@ -2529,6 +2550,7 @@
           2824,
           2831,
           2833,
+          2834,
           2840,
           2841,
           2845,
@@ -2572,6 +2594,7 @@
           2910,
           2911,
           2912,
+          2913,
           2914,
           2915,
           2916,
@@ -2590,6 +2613,7 @@
           2969,
           2970,
           2971,
+          2972,
           2975,
           2976,
           2978,
@@ -2621,6 +2645,7 @@
           3037,
           3045,
           3047,
+          3049,
           3051,
           3053,
           3057,
@@ -2633,6 +2658,7 @@
           3073,
           3078,
           3086,
+          3093,
           3101,
           3105,
           3106,
@@ -2669,8 +2695,10 @@
           3221,
           3223,
           3226,
+          3241,
           3247,
           3261,
+          3272,
           3276,
           3277,
           3278,
@@ -2688,13 +2716,16 @@
           3340,
           3346,
           3350,
+          3353,
           3356,
+          3366,
           3367,
           3369,
           3372,
           3378,
           3380,
           3396,
+          3398,
           3401,
           3407,
           3408,
@@ -2708,6 +2739,7 @@
           3445,
           3446,
           3449,
+          3450,
           3455,
           3463,
           3468,
@@ -2749,6 +2781,7 @@
           3651,
           3666,
           3680,
+          3696,
           3717,
           3733,
           3739,
@@ -2809,6 +2842,7 @@
           4349,
           4382,
           4405,
+          4415,
           4416,
           4423,
           4424,
@@ -3013,6 +3047,7 @@
           7950,
           7996,
           8000,
+          8096,
           8108,
           8122,
           8125,
@@ -3060,6 +3095,7 @@
           8532,
           8534,
           8549,
+          8554,
           8560,
           8563,
           8567,
@@ -3072,6 +3108,7 @@
           8662,
           8685,
           8694,
+          8695,
           8702,
           8705,
           8723,
@@ -3091,6 +3128,7 @@
           8871,
           8875,
           8903,
+          8904,
           8921,
           8927,
           8928,
@@ -3102,21 +3140,26 @@
           9078,
           9086,
           9117,
+          9123,
           9128,
           9133,
           9145,
           9161,
           9167,
+          9175,
           9176,
           9183,
           9184,
           9188,
+          9192,
           9193,
           9195,
+          9196,
           9204,
           9229,
           9234,
           9253,
+          9254,
           9258,
           9272,
           9281,
@@ -3124,6 +3167,7 @@
           9286,
           9292,
           9293,
+          9305,
           9318,
           9323,
           9325,
@@ -3172,6 +3216,8 @@
           9699,
           9700,
           9701,
+          9711,
+          9716,
           9722,
           9723,
           9724,
@@ -3182,6 +3228,7 @@
           9733,
           9759,
           9760,
+          9781,
           9795,
           9840,
           9859,
@@ -3194,6 +3241,7 @@
           9918,
           9924,
           9930,
+          9943,
           9956,
           9960,
           9964,
@@ -3209,6 +3257,7 @@
           10030,
           10031,
           10043,
+          10051,
           10071,
           10072,
           10076,
@@ -3221,18 +3270,22 @@
           10121,
           10122,
           10141,
+          10146,
           10186,
           10195,
           10199,
           10207,
           10210,
+          10241,
           10246,
           10247,
           10258,
           10262,
           10280,
+          10283,
           10286,
           10290,
+          10294,
           10305,
           10308,
           10309,
@@ -3241,9 +3294,11 @@
           10339,
           10342,
           10369,
+          10372,
           10380,
           10385,
           10392,
+          10396,
           10424,
           10430,
           10431,
@@ -3258,22 +3313,29 @@
           10482,
           10486,
           10493,
+          10496,
           10497,
           10505,
           10524,
           10526,
           10527,
           10529,
+          10549,
+          10570,
+          10578,
           10587,
           10600,
           10602,
+          10622,
           10626,
           10637,
           10638,
           10641,
           10643,
+          10645,
           10672,
           10678,
+          10687,
           10703,
           10707,
           10713,
@@ -3285,12 +3347,16 @@
           10756,
           10757,
           10759,
+          10760,
           10763,
           10764,
+          10768,
+          10769,
           10772,
           10776,
           10780,
           10798,
+          10800,
           10805,
           10806,
           10814,
@@ -3298,6 +3364,7 @@
           10823,
           10827,
           10850,
+          10860,
           10861,
           10862,
           10865,
@@ -3320,7 +3387,9 @@
           11002,
           11007,
           11011,
+          11014,
           11015,
+          11020,
           11021,
           11023,
           11027,
@@ -3332,6 +3401,7 @@
           11053,
           11064,
           11069,
+          11071,
           11088,
           11090,
           11092,
@@ -3363,8 +3433,11 @@
           11240,
           11245,
           11253,
+          11263,
+          11274,
           11288,
           11307,
+          11309,
           11316,
           11319,
           11323,
@@ -3375,9 +3448,14 @@
           11341,
           11346,
           11375,
+          11385,
+          11389,
+          11394,
           11396,
+          11397,
           11399,
           11400,
+          11403,
           11412,
           11413,
           11417,
@@ -3388,6 +3466,9 @@
           11440,
           11454,
           11456,
+          11457,
+          11480,
+          11484,
           11490,
           11492,
           11494,
@@ -3432,17 +3513,23 @@
           11769,
           11775,
           11779,
+          11781,
           11783,
+          11785,
           11789,
+          11793,
           11796,
           11800,
           11804,
           11807,
           11810,
           11811,
+          11812,
           11813,
           11816,
+          11827,
           11834,
+          11835,
           11836,
           11838,
           11839,
@@ -3464,7 +3551,9 @@
           11951,
           11954,
           11955,
+          11958,
           11959,
+          11962,
           11982,
           11985,
           11991,
@@ -3475,6 +3564,7 @@
           12013,
           12014,
           12017,
+          12023,
           12026,
           12027,
           12030,
@@ -3506,6 +3596,9 @@
           12188,
           12189,
           12192,
+          12197,
+          12200,
+          12206,
           12208,
           12212,
           12213,
@@ -3538,10 +3631,12 @@
           12344,
           12345,
           12348,
+          12364,
           12370,
           12381,
           12385,
           12392,
+          12397,
           12398,
           12405,
           12408,
@@ -3569,7 +3664,9 @@
           12484,
           12488,
           12498,
+          12500,
           12502,
+          12504,
           12510,
           12513,
           12514,
@@ -3583,7 +3680,11 @@
           12555,
           12556,
           12559,
+          12569,
+          12572,
+          12578,
           12580,
+          12582,
           12584,
           12596,
           12600,
@@ -3596,15 +3697,21 @@
           12641,
           12643,
           12647,
+          12653,
+          12657,
           12662,
+          12664,
           12689,
           12692,
           12698,
+          12700,
           12704,
           12708,
           12714,
           12720,
+          12747,
           12748,
+          12750,
           12752,
           12764,
           12768,
@@ -3621,6 +3728,7 @@
           12807,
           12815,
           12821,
+          12841,
           12845,
           12849,
           12856,
@@ -3649,9 +3757,14 @@
           13007,
           13023,
           13024,
+          13027,
+          13031,
           13039,
           13043,
+          13047,
+          13048,
           13049,
+          13052,
           13053,
           13057,
           13073,
@@ -3663,10 +3776,14 @@
           13104,
           13108,
           13115,
+          13118,
           13119,
           13120,
+          13122,
           13129,
           13138,
+          13140,
+          13143,
           13144,
           13146,
           13150,
@@ -3683,13 +3800,17 @@
           13206,
           13207,
           13209,
+          13211,
           13217,
           13221,
           13222,
           13226,
+          13234,
           13236,
           13237,
+          13238,
           13239,
+          13240,
           13241,
           13242,
           13246,
@@ -3697,15 +3818,26 @@
           13254,
           13256,
           13259,
+          13262,
           13265,
           13280,
           13285,
+          13291,
           13306,
+          13334,
+          13336,
+          13338,
           13367,
           13371,
+          13372,
+          13375,
+          13376,
+          13392,
           13399,
           13402,
+          13406,
           13407,
+          13409,
           13410,
           13440,
           13446,
@@ -3730,6 +3862,7 @@
           13598,
           13602,
           13606,
+          13683,
           13690,
           13693,
           13696,
@@ -3742,6 +3875,7 @@
           13775,
           13776,
           13780,
+          13781,
           13785,
           13786,
           13790,
@@ -3754,8 +3888,11 @@
           13831,
           13832,
           13833,
+          13836,
           13837,
           13847,
+          13864,
+          13870,
           13909,
           13913,
           13915,
@@ -3766,7 +3903,11 @@
           13964,
           13968,
           13974,
+          13977,
           13979,
+          13981,
+          13998,
+          14001,
           14006,
           14010,
           14019,
@@ -3777,12 +3918,16 @@
           14073,
           14092,
           14114,
+          14150,
+          14153,
           14154,
           14158,
+          14165,
           14169,
           14170,
           14173,
           14174,
+          14180,
           14184,
           14187,
           14191,
@@ -3797,8 +3942,11 @@
           14272,
           14275,
           14276,
+          14280,
           14284,
           14288,
+          14313,
+          14317,
           14325,
           14328,
           14329,
@@ -3852,20 +4000,35 @@
           14696,
           14699,
           14703,
+          14735,
+          14739,
           14743,
           14746,
           14781,
+          14820,
+          14824,
           14827,
           14832,
+          14860,
+          14864,
+          14909,
           14918,
+          14922,
+          14926,
           14941,
           14945,
+          14955,
+          14959,
           14991,
           14996,
           15025,
           15031,
+          15066,
+          15070,
           15076,
           15083,
+          15106,
+          15109,
           15122,
           15125,
           15140,
@@ -3875,9 +4038,15 @@
           15186,
           15191,
           15192,
+          15337,
+          15341,
           15378,
+          15380,
+          15384,
           15446,
           15450,
+          15461,
+          15464,
           15521,
           15522,
           15525,
@@ -3888,6 +4057,8 @@
           15554,
           15557,
           15558,
+          15607,
+          15611,
           15614,
           15618,
           15626,
@@ -3902,6 +4073,8 @@
           15749,
           15765,
           15769,
+          15780,
+          15783,
           15823,
           15827,
           15871,
@@ -3913,6 +4086,8 @@
           15925,
           15938,
           15943,
+          15954,
+          15958,
           16004,
           16006,
           16007,
@@ -3921,10 +4096,18 @@
           16028,
           16102,
           16106,
+          16112,
+          16115,
           16119,
           16123,
           16167,
           16170,
+          16188,
+          16192,
+          16228,
+          16231,
+          16247,
+          16251,
           16252,
           16256,
           16312,
@@ -3936,6 +4119,8 @@
           16410,
           16444,
           16466,
+          16495,
+          16499,
           16525,
           16529,
           16530,
@@ -3945,6 +4130,10 @@
           16591,
           16592,
           16600,
+          16653,
+          16657,
+          16691,
+          16695,
           16853,
           16857,
           16861,
@@ -4023,7 +4212,6 @@
           29775,
           30170,
           32838,
-          35863,
           43873
         ],
         "summary": [
@@ -4036,10 +4224,10 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 240,
+        "commitCount": 246,
         "authors": [
           {
-            "count": 106,
+            "count": 109,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -4065,46 +4253,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "8b50406",
+          "hash": "6cfd86c",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-10-28T09:09:36+09:00",
-          "subject": "Merge pull request #78 from Dongyang-Mirae-University-software/fix/medication-self-adjust"
+          "date": "2026-10-28T09:36:40+09:00",
+          "subject": "Merge pull request #81 from Dongyang-Mirae-University-software/fix/example-copy-department"
         },
-        "summary": "총 240개 커밋, 상위 계정: skarndaudwls1(106), gosky(37), gosky(16), 최근: Merge pull request #78 from Dongyang-Mirae-University-software/fix/medication-self-adjust"
+        "summary": "총 246개 커밋, 상위 계정: skarndaudwls1(109), gosky(37), gosky(16), 최근: Merge pull request #81 from Dongyang-Mirae-University-software/fix/example-copy-department"
       },
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000005",
-          "modifiedAt": "2026-10-28T00:27:07.221Z"
+          "modifiedAt": "2026-10-28T00:56:35.218Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-10-28T00:24:32.028Z"
+          "modifiedAt": "2026-10-28T00:54:33.287Z"
         },
         {
           "path": "data/postgres/base/16384/32948",
-          "modifiedAt": "2026-10-28T00:24:31.924Z"
+          "modifiedAt": "2026-10-28T00:54:33.183Z"
         },
         {
           "path": "data/postgres/base/16384/32947",
-          "modifiedAt": "2026-10-28T00:24:31.824Z"
+          "modifiedAt": "2026-10-28T00:54:33.083Z"
         },
         {
           "path": "data/postgres/base/16384/32946",
-          "modifiedAt": "2026-10-28T00:24:30.924Z"
+          "modifiedAt": "2026-10-28T00:54:32.283Z"
         },
         {
           "path": "data/postgres/base/16384/32945",
-          "modifiedAt": "2026-10-28T00:24:30.824Z"
+          "modifiedAt": "2026-10-28T00:54:32.183Z"
         },
         {
           "path": "data/postgres/base/16384/32935_vm",
-          "modifiedAt": "2026-10-28T00:24:30.724Z"
+          "modifiedAt": "2026-10-28T00:54:32.083Z"
         },
         {
           "path": "data/postgres/base/16384/32935_fsm",
-          "modifiedAt": "2026-10-28T00:24:30.624Z"
+          "modifiedAt": "2026-10-28T00:54:31.983Z"
         }
       ],
       "summary": [
@@ -4112,8 +4300,8 @@
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI",
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 240",
-        "Git 상위 계정: skarndaudwls1(106), gosky(37), gosky(16)"
+        "Git 커밋 수: 246",
+        "Git 상위 계정: skarndaudwls1(109), gosky(37), gosky(16)"
       ]
     },
     {
@@ -4547,7 +4735,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 1435,
+        "commitCount": 1437,
         "authors": [
           {
             "count": 1400,
@@ -4560,7 +4748,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 130,
+            "count": 131,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -4581,21 +4769,25 @@
           }
         ],
         "latestCommit": {
-          "hash": "38dcbfc",
+          "hash": "b088303",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-10-27T11:30:28+09:00",
-          "subject": "Merge pull request #150 from Dongyang-Mirae-University-software/fix/reservation-demo-label-r6"
+          "date": "2026-10-28T09:30:03+09:00",
+          "subject": "Merge pull request #151 from Dongyang-Mirae-University-software/fix/reservation-bff-department-chars"
         },
-        "summary": "총 1435개 커밋, 상위 계정: YUNA0222(1400), yuna0222(376), skarndaudwls1(130), 최근: Merge pull request #150 from Dongyang-Mirae-University-software/fix/reservation-demo-label-r6"
+        "summary": "총 1437개 커밋, 상위 계정: YUNA0222(1400), yuna0222(376), skarndaudwls1(131), 최근: Merge pull request #151 from Dongyang-Mirae-University-software/fix/reservation-bff-department-chars"
       },
       "recentFiles": [
         {
-          "path": "src/constants/reservation.ts",
-          "modifiedAt": "2026-10-27T02:30:44.978Z"
+          "path": "src/app/api/reservation/[...path]/route.test.ts",
+          "modifiedAt": "2026-10-28T00:30:44.321Z"
         },
         {
           "path": "src/lib/server/reservationRoutes.ts",
+          "modifiedAt": "2026-10-28T00:30:44.321Z"
+        },
+        {
+          "path": "src/constants/reservation.ts",
           "modifiedAt": "2026-10-27T02:30:44.978Z"
         },
         {
@@ -4617,10 +4809,6 @@
         {
           "path": "src/app/(ward)/ward/hospital/_components/WardHospitalContent.browser.test.tsx",
           "modifiedAt": "2026-10-27T02:30:44.974Z"
-        },
-        {
-          "path": "src/app/(ward)/ward/hospital/_components/WardHospitalContent.tsx",
-          "modifiedAt": "2026-10-27T02:30:44.974Z"
         }
       ],
       "summary": [
@@ -4628,8 +4816,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1435",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(376), skarndaudwls1(130)"
+        "Git 커밋 수: 1437",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(376), skarndaudwls1(131)"
       ]
     },
     {
@@ -4970,7 +5158,7 @@
           {
             "name": "silverbridgereservation-reservation-api-1",
             "image": "silverbridgereservation-reservation-api",
-            "status": "Up 18 hours",
+            "status": "Up 26 minutes",
             "ports": "127.0.0.1:6015->6015/tcp"
           }
         ],
@@ -4996,7 +5184,7 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 66,
+        "commitCount": 68,
         "authors": [
           {
             "count": 53,
@@ -5004,21 +5192,25 @@
             "email": "lovesky00317@gmail.com"
           },
           {
-            "count": 7,
+            "count": 8,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "1ab4f01",
+          "hash": "211d626",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-10-27T15:45:42+09:00",
-          "subject": "Merge pull request #6 from Dongyang-Mirae-University-software/fix/reservation-today-count"
+          "date": "2026-10-28T09:29:58+09:00",
+          "subject": "Merge pull request #7 from Dongyang-Mirae-University-software/fix/mcp-status-no-today-count"
         },
-        "summary": "총 66개 커밋, 상위 계정: gosky(53), skarndaudwls1(7), 최근: Merge pull request #6 from Dongyang-Mirae-University-software/fix/reservation-today-count"
+        "summary": "총 68개 커밋, 상위 계정: gosky(53), skarndaudwls1(8), 최근: Merge pull request #7 from Dongyang-Mirae-University-software/fix/mcp-status-no-today-count"
       },
       "recentFiles": [
+        {
+          "path": "src/mcp/reservation-mcp.ts",
+          "modifiedAt": "2026-10-28T00:30:23.885Z"
+        },
         {
           "path": "src/admin/admin.service.ts",
           "modifiedAt": "2026-10-27T06:45:46.824Z"
@@ -5046,10 +5238,6 @@
         {
           "path": "test/today-count.test.ts",
           "modifiedAt": "2026-10-27T06:45:46.824Z"
-        },
-        {
-          "path": "test/department-rename.test.ts",
-          "modifiedAt": "2026-10-27T06:07:09.507Z"
         }
       ],
       "summary": [
@@ -5057,8 +5245,8 @@
         "기술 추정: Node.js, Prisma, React, Vue, Vite, nestjs, NestJS, Express, express, Frontend",
         "DB 사용 추정: SQLite",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 66",
-        "Git 상위 계정: gosky(53), skarndaudwls1(7)"
+        "Git 커밋 수: 68",
+        "Git 상위 계정: gosky(53), skarndaudwls1(8)"
       ]
     },
     {
