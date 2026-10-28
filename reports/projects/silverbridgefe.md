@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-28 09:57:23 KST
+- 점검 시각: 2026-10-28 10:27:29 KST
 
 ## 추정 기술 스택
 
@@ -62,7 +62,7 @@
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 376
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 131
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 132
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
@@ -86,4 +86,4 @@
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
 - Git 커밋 수: 1437
-- Git 상위 계정: YUNA0222(1400), yuna0222(376), skarndaudwls1(131)
+- Git 상위 계정: YUNA0222(1400), yuna0222(376), skarndaudwls1(132)
