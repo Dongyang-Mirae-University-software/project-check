@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-29 19:33:59 KST
+- 점검 시각: 2026-10-29 20:04:05 KST
 
 ## 추정 기술 스택
 
@@ -76,14 +76,14 @@
 
 ## 최근 수정 파일
 
-- data/postgres/pg_wal/000000010000000000000006 (2026-10-29 19:33:56 KST)
-- app/services/medical_llm_service.py (2026-10-29 19:32:09 KST)
-- docs/design/2026-10-29-chat-followup-question.md (2026-10-29 19:32:09 KST)
-- docs/eval-results/2026-10-29-answer-quality-followup.json (2026-10-29 19:32:09 KST)
-- docs/eval-results/2026-10-29-answer-quality-followup.md (2026-10-29 19:32:09 KST)
-- docs/eval-results/2026-10-29-medgemma-profile-timeout.json (2026-10-29 19:32:09 KST)
-- docs/eval-results/2026-10-29-medgemma-profile-timeout.md (2026-10-29 19:32:09 KST)
-- tests/test_chat_answer_quality.py (2026-10-29 19:32:09 KST)
+- data/postgres/pg_wal/000000010000000000000006 (2026-10-29 20:00:22 KST)
+- data/postgres/global/pg_control (2026-10-29 20:00:20 KST)
+- data/postgres/base/16384/33564 (2026-10-29 20:00:20 KST)
+- data/postgres/base/16384/33193 (2026-10-29 20:00:20 KST)
+- data/postgres/base/16384/33191 (2026-10-29 20:00:20 KST)
+- data/postgres/base/16384/33188 (2026-10-29 20:00:20 KST)
+- data/postgres/base/16384/32948 (2026-10-29 20:00:19 KST)
+- data/postgres/base/16384/32947 (2026-10-29 20:00:19 KST)
 
 ## 점검 결과 요약
 
