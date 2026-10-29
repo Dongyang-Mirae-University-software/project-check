@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-10-29 10:32:12 KST
+- 점검 시각: 2026-10-29 11:02:17 KST
 
 ## 추정 기술 스택
 
@@ -57,21 +57,21 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1292
+- 총 커밋 수: 1297
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 1063
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 1067
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
   - gosky <gosky@gosky.kr>: 2
-- 최근 커밋: dcbb2f3 / namgung <skarndaudwls@gmail.com> / Merge pull request #399 from Dongyang-Mirae-University-software/fix/global-handler-raw-log
+- 최근 커밋: 4dd2a63 / namgung <skarndaudwls@gmail.com> / Merge pull request #400 from Dongyang-Mirae-University-software/fix/chat-relay-drop-history
 
 ## 최근 수정 파일
 
-- docs/progress.md (2026-10-28 14:44:43 KST)
+- docs/progress.md (2026-10-29 10:49:09 KST)
+- docs/(2026-10-20) analysis-ai-chat-reservation.md (2026-10-29 10:49:09 KST)
 - docs/(2026-10-28) audit-admin-ai-chat-stats.md (2026-10-28 14:44:43 KST)
 - docs/(2026-10-28) feature-admin-ai-chat-stats.md (2026-10-28 14:44:43 KST)
 - src/main/resources/application.yaml (2026-10-28 14:17:39 KST)
-- docs/(2026-10-20) analysis-ai-chat-reservation.md (2026-10-28 14:17:39 KST)
 - docs/audit-index.md (2026-10-28 14:17:39 KST)
 - CLAUDE.md (2026-10-28 13:52:56 KST)
 - docs/(2026-10-28) audit-ai-chat-stats.md (2026-10-28 11:03:48 KST)
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1292
-- Git 상위 계정: skarndaudwls1(1063), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1297
+- Git 상위 계정: skarndaudwls1(1067), skarndaudwls1(65), gosky(4)

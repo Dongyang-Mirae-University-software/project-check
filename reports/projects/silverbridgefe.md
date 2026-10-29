@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-29 10:32:12 KST
+- 점검 시각: 2026-10-29 11:02:17 KST
 
 ## 추정 기술 스택
 
@@ -37,7 +37,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 537
+- 파일 개수: 538
 - 디렉토리 개수: 136
 - 주요 폴더: docs, public, src
 - 주요 경로: public, public/images, src, src/app, src/app/(admin), src/app/(admin)/admin, src/app/(admin)/admin/_components, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/@modal, src/app/(auth)/@modal/(.)find-email, src/app/(auth)/@modal/(.)find-password, src/app/(auth)/auth, src/app/(auth)/auth/kakao, src/app/(auth)/auth/kakao/callback, src/app/(auth)/find-email, src/app/(auth)/find-email/_components, src/app/(auth)/find-email/_hooks, src/app/(auth)/find-password, src/app/(auth)/find-password/_components
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1443
+- 총 커밋 수: 1445
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 376
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 134
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 135
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 7e81532 / namgung <skarndaudwls@gmail.com> / Merge pull request #154 from Dongyang-Mirae-University-software/feature/hospital-weekday-hours
+- 최근 커밋: 341f04f / namgung <skarndaudwls@gmail.com> / Merge pull request #155 from Dongyang-Mirae-University-software/fix/chat-drop-history
 
 ## 최근 수정 파일
 
+- src/components/chatbot/ChatbotContent.tsx (2026-10-29 10:49:47 KST)
+- src/components/chatbot/chatRequestNoHistory.test.ts (2026-10-29 10:49:47 KST)
 - src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.browser.test.tsx (2026-10-28 11:17:48 KST)
 - src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.tsx (2026-10-28 11:17:48 KST)
 - src/service/interface/reservation.ts (2026-10-28 11:17:48 KST)
 - src/utils/reservation/reservationView.test.ts (2026-10-28 11:17:48 KST)
 - src/utils/reservation/reservationView.ts (2026-10-28 11:17:48 KST)
 - src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.module.css (2026-10-28 10:35:06 KST)
-- src/service/api/admin/dashboard.test.ts (2026-10-28 10:35:06 KST)
-- src/app/api/reservation/[...path]/route.test.ts (2026-10-28 09:30:44 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1443
-- Git 상위 계정: YUNA0222(1400), yuna0222(376), skarndaudwls1(134)
+- Git 커밋 수: 1445
+- Git 상위 계정: YUNA0222(1400), yuna0222(376), skarndaudwls1(135)
