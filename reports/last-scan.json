@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-29T06:33:09.078Z",
-  "generatedAtKst": "2026-10-29 15:33:09 KST",
+  "generatedAt": "2026-10-29T07:03:15.085Z",
+  "generatedAtKst": "2026-10-29 16:03:15 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8214
+          "count": 8215
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 8260
+      "count": 8261
     },
     {
       "name": "skarndaudwls1",
@@ -1617,22 +1617,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8077,
+        "commitCount": 8078,
         "authors": [
           {
-            "count": 8077,
+            "count": 8078,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "7c1891b8a",
+          "hash": "42248e70a",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-29T15:03:07+09:00",
+          "date": "2026-10-29T15:33:13+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8077개 커밋, 상위 계정: gosky(8077), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8078개 커밋, 상위 계정: gosky(8078), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1673,8 +1673,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8077",
-        "Git 상위 계정: gosky(8077)"
+        "Git 커밋 수: 8078",
+        "Git 상위 계정: gosky(8078)"
       ]
     },
     {
@@ -1997,7 +1997,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 39 minutes",
+            "status": "Up About an hour",
             "ports": ""
           }
         ],
@@ -2234,7 +2234,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 39 minutes",
+            "status": "Up About an hour",
             "ports": ""
           }
         ],
@@ -5056,35 +5056,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000005",
-          "modifiedAt": "2026-10-29T06:33:04.814Z"
+          "modifiedAt": "2026-10-29T06:45:30.012Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-10-29T06:30:12.042Z"
+          "modifiedAt": "2026-10-29T06:45:19.076Z"
         },
         {
           "path": "data/postgres/base/16384/33564",
-          "modifiedAt": "2026-10-29T06:30:11.938Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32958",
-          "modifiedAt": "2026-10-29T06:30:11.838Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32957",
-          "modifiedAt": "2026-10-29T06:30:11.738Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32956",
-          "modifiedAt": "2026-10-29T06:30:11.638Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32955",
-          "modifiedAt": "2026-10-29T06:30:11.538Z"
+          "modifiedAt": "2026-10-29T06:45:18.972Z"
         },
         {
           "path": "data/postgres/base/16384/32950",
-          "modifiedAt": "2026-10-29T06:30:11.438Z"
+          "modifiedAt": "2026-10-29T06:45:18.872Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32948",
+          "modifiedAt": "2026-10-29T06:45:18.772Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32947",
+          "modifiedAt": "2026-10-29T06:45:18.672Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32946",
+          "modifiedAt": "2026-10-29T06:45:17.772Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32945",
+          "modifiedAt": "2026-10-29T06:45:17.672Z"
         }
       ],
       "summary": [
@@ -5950,7 +5950,7 @@
           {
             "name": "silverbridgereservation-reservation-api-1",
             "image": "silverbridgereservation-reservation-api",
-            "status": "Up 28 hours",
+            "status": "Up 29 hours",
             "ports": "127.0.0.1:6015->6015/tcp"
           }
         ],
