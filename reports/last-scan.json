@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-29T12:34:21.902Z",
-  "generatedAtKst": "2026-10-29 21:34:21 KST",
+  "generatedAt": "2026-10-29T13:04:27.643Z",
+  "generatedAtKst": "2026-10-29 22:04:27 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8226
+          "count": 8227
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 8272
+      "count": 8273
     },
     {
       "name": "skarndaudwls1",
@@ -1617,22 +1617,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8089,
+        "commitCount": 8090,
         "authors": [
           {
-            "count": 8089,
+            "count": 8090,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "a4b73a562",
+          "hash": "76c4cdcc7",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-29T21:04:20+09:00",
+          "date": "2026-10-29T21:34:25+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8089개 커밋, 상위 계정: gosky(8089), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8090개 커밋, 상위 계정: gosky(8090), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1673,8 +1673,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8089",
-        "Git 상위 계정: gosky(8089)"
+        "Git 커밋 수: 8090",
+        "Git 상위 계정: gosky(8090)"
       ]
     },
     {
@@ -1997,7 +1997,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 6 minutes",
+            "status": "Up 36 minutes",
             "ports": ""
           }
         ],
@@ -2234,7 +2234,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 6 minutes",
+            "status": "Up 36 minutes",
             "ports": ""
           }
         ],
@@ -4103,35 +4103,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000006",
-          "modifiedAt": "2026-10-29T12:34:22.310Z"
+          "modifiedAt": "2026-10-29T13:04:23.123Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-10-29T12:30:17.420Z"
+          "modifiedAt": "2026-10-29T13:00:14.774Z"
         },
         {
           "path": "data/postgres/base/16384/33564",
-          "modifiedAt": "2026-10-29T12:30:17.316Z"
+          "modifiedAt": "2026-10-29T13:00:14.674Z"
         },
         {
           "path": "data/postgres/base/16384/32948",
-          "modifiedAt": "2026-10-29T12:30:17.216Z"
+          "modifiedAt": "2026-10-29T13:00:14.574Z"
         },
         {
           "path": "data/postgres/base/16384/32947",
-          "modifiedAt": "2026-10-29T12:30:17.116Z"
+          "modifiedAt": "2026-10-29T13:00:14.474Z"
         },
         {
           "path": "data/postgres/base/16384/32946",
-          "modifiedAt": "2026-10-29T12:30:16.416Z"
+          "modifiedAt": "2026-10-29T13:00:13.674Z"
         },
         {
           "path": "data/postgres/base/16384/32945",
-          "modifiedAt": "2026-10-29T12:30:16.316Z"
+          "modifiedAt": "2026-10-29T13:00:13.574Z"
         },
         {
           "path": "data/postgres/base/16384/32935_vm",
-          "modifiedAt": "2026-10-29T12:30:16.216Z"
+          "modifiedAt": "2026-10-29T13:00:13.470Z"
         }
       ],
       "summary": [
@@ -4997,7 +4997,7 @@
           {
             "name": "silverbridgereservation-reservation-api-1",
             "image": "silverbridgereservation-reservation-api",
-            "status": "Up 34 hours",
+            "status": "Up 35 hours",
             "ports": "127.0.0.1:6015->6015/tcp"
           }
         ],
