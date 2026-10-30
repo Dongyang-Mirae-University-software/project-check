@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-10-30T02:07:00.346Z",
-  "generatedAtKst": "2026-10-30 11:07:00 KST",
+  "generatedAt": "2026-10-30T02:37:05.907Z",
+  "generatedAtKst": "2026-10-30 11:37:05 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8253
+          "count": 8254
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 5
         }
       ],
-      "count": 8299
+      "count": 8300
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 1505
+          "count": 1517
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 1594
+      "count": 1606
     },
     {
       "name": "YUNA0222",
@@ -1617,22 +1617,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8116,
+        "commitCount": 8117,
         "authors": [
           {
-            "count": 8116,
+            "count": 8117,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "27e2fd06d",
+          "hash": "ab0669417",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-10-30T10:36:58+09:00",
+          "date": "2026-10-30T11:07:04+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8116개 커밋, 상위 계정: gosky(8116), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8117개 커밋, 상위 계정: gosky(8117), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1673,8 +1673,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8116",
-        "Git 상위 계정: gosky(8116)"
+        "Git 커밋 수: 8117",
+        "Git 상위 계정: gosky(8117)"
       ]
     },
     {
@@ -1997,7 +1997,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 52 minutes",
+            "status": "Up 25 minutes",
             "ports": ""
           }
         ],
@@ -2183,7 +2183,7 @@
         }
       ],
       "structure": {
-        "fileCount": 3635,
+        "fileCount": 3638,
         "dirCount": 139,
         "mainFolders": [
           "app",
@@ -2234,7 +2234,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 52 minutes",
+            "status": "Up 25 minutes",
             "ports": ""
           }
         ],
@@ -2255,6 +2255,7 @@
           1024,
           1050,
           1091,
+          1120,
           1377,
           1448,
           1460,
@@ -2273,11 +2274,14 @@
           1581,
           1582,
           1593,
+          1600,
           1602,
+          1603,
           1607,
           1634,
           1646,
           1657,
+          1661,
           1691,
           1708,
           1712,
@@ -2287,6 +2291,7 @@
           1747,
           1752,
           1754,
+          1761,
           1775,
           1782,
           1790,
@@ -2300,6 +2305,8 @@
           1924,
           1932,
           1950,
+          1953,
+          1968,
           1980,
           1996,
           1999,
@@ -2312,6 +2319,7 @@
           2154,
           2165,
           2179,
+          2189,
           2195,
           2199,
           2208,
@@ -2330,6 +2338,7 @@
           2338,
           2347,
           2358,
+          2363,
           2368,
           2372,
           2379,
@@ -2381,6 +2390,7 @@
           2587,
           2588,
           2593,
+          2597,
           2598,
           2599,
           2600,
@@ -2409,6 +2419,7 @@
           2658,
           2660,
           2661,
+          2662,
           2664,
           2668,
           2670,
@@ -2419,12 +2430,14 @@
           2686,
           2689,
           2692,
+          2700,
           2713,
           2716,
           2717,
           2720,
           2723,
           2724,
+          2725,
           2730,
           2742,
           2746,
@@ -2448,6 +2461,8 @@
           2803,
           2806,
           2809,
+          2815,
+          2850,
           2852,
           2863,
           2864,
@@ -2459,6 +2474,7 @@
           2888,
           2903,
           2904,
+          2905,
           2907,
           2908,
           2912,
@@ -2489,6 +2505,7 @@
           3021,
           3024,
           3028,
+          3035,
           3044,
           3046,
           3047,
@@ -2557,6 +2574,7 @@
           3577,
           3587,
           3593,
+          3626,
           3637,
           3672,
           3675,
@@ -2628,23 +2646,31 @@
           4338,
           4343,
           4369,
+          4390,
           4453,
           4455,
           4463,
+          4467,
           4482,
+          4600,
           4602,
           4613,
           4617,
+          4620,
+          4625,
           4666,
           4682,
           4690,
+          4764,
           4771,
           4802,
           4831,
           4836,
           4837,
+          4839,
           4841,
           4844,
+          4845,
           4870,
           4931,
           4944,
@@ -2704,13 +2730,18 @@
           5583,
           5591,
           5600,
+          5648,
           5652,
           5656,
           5670,
           5676,
+          5741,
           5744,
           5748,
+          5749,
           5752,
+          5756,
+          5761,
           5887,
           5893,
           5896,
@@ -2771,6 +2802,7 @@
           6796,
           6808,
           6811,
+          6845,
           6907,
           6921,
           6926,
@@ -2778,6 +2810,7 @@
           6950,
           6970,
           6974,
+          6981,
           6986,
           6991,
           7050,
@@ -2791,6 +2824,7 @@
           7195,
           7196,
           7201,
+          7219,
           7276,
           7298,
           7300,
@@ -2818,11 +2852,16 @@
           7653,
           7654,
           7657,
+          7684,
+          7688,
           7690,
           7693,
           7695,
+          7708,
           7711,
+          7714,
           7716,
+          7718,
           7728,
           7740,
           7747,
@@ -2844,6 +2883,8 @@
           8185,
           8224,
           8225,
+          8230,
+          8234,
           8263,
           8267,
           8310,
@@ -2878,6 +2919,8 @@
           8879,
           8913,
           8927,
+          8956,
+          8960,
           8970,
           8975,
           8978,
@@ -2905,6 +2948,7 @@
           9285,
           9351,
           9396,
+          9397,
           9401,
           9404,
           9416,
@@ -2922,6 +2966,7 @@
           9526,
           9538,
           9551,
+          9552,
           9564,
           9566,
           9574,
@@ -2932,6 +2977,9 @@
           9610,
           9611,
           9630,
+          9631,
+          9635,
+          9645,
           9650,
           9652,
           9660,
@@ -2979,6 +3027,7 @@
           9890,
           9896,
           9903,
+          9904,
           9912,
           9913,
           9920,
@@ -2986,6 +3035,7 @@
           9944,
           9947,
           9949,
+          9955,
           9957,
           9969,
           9989,
@@ -3021,6 +3071,8 @@
           10305,
           10351,
           10376,
+          10408,
+          10412,
           10417,
           10443,
           10451,
@@ -3050,6 +3102,8 @@
           10641,
           10645,
           10662,
+          10679,
+          10683,
           10710,
           10713,
           10756,
@@ -3090,6 +3144,8 @@
           11361,
           11369,
           11385,
+          11398,
+          11402,
           11404,
           11411,
           11424,
@@ -3101,6 +3157,8 @@
           11544,
           11552,
           11557,
+          11565,
+          11569,
           11578,
           11600,
           11601,
@@ -3116,6 +3174,7 @@
           11714,
           11726,
           11752,
+          11756,
           11765,
           11769,
           11773,
@@ -3153,7 +3212,9 @@
           12028,
           12032,
           12048,
+          12050,
           12053,
+          12054,
           12075,
           12126,
           12141,
@@ -3298,6 +3359,7 @@
           12973,
           12976,
           12977,
+          12990,
           13002,
           13006,
           13012,
@@ -3348,6 +3410,7 @@
           13765,
           13809,
           13856,
+          13904,
           13935,
           13939,
           13950,
@@ -3425,10 +3488,14 @@
           15447,
           15476,
           15481,
+          15525,
+          15529,
           15538,
           15540,
           15541,
           15544,
+          15653,
+          15656,
           15666,
           15670,
           15697,
@@ -3511,10 +3578,10 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 328,
+        "commitCount": 333,
         "authors": [
           {
-            "count": 151,
+            "count": 154,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -3540,46 +3607,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "dd9b128",
+          "hash": "3cf136a",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-10-30T10:14:06+09:00",
-          "subject": "Merge pull request #118 from Dongyang-Mirae-University-software/fix/p107-audit-low"
+          "date": "2026-10-30T10:45:50+09:00",
+          "subject": "Merge pull request #120 from Dongyang-Mirae-University-software/fix/chat-remaining-risks"
         },
-        "summary": "총 328개 커밋, 상위 계정: skarndaudwls1(151), gosky(37), gosky(16), 최근: Merge pull request #118 from Dongyang-Mirae-University-software/fix/p107-audit-low"
+        "summary": "총 333개 커밋, 상위 계정: skarndaudwls1(154), gosky(37), gosky(16), 최근: Merge pull request #120 from Dongyang-Mirae-University-software/fix/chat-remaining-risks"
       },
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000006",
-          "modifiedAt": "2026-10-30T02:06:59.441Z"
+          "modifiedAt": "2026-10-30T02:37:07.806Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-10-30T02:05:30.874Z"
+          "modifiedAt": "2026-10-30T02:35:29.519Z"
         },
         {
           "path": "data/postgres/base/16384/33564",
-          "modifiedAt": "2026-10-30T02:05:30.774Z"
+          "modifiedAt": "2026-10-30T02:35:29.419Z"
         },
         {
           "path": "data/postgres/base/16384/32948",
-          "modifiedAt": "2026-10-30T02:05:30.674Z"
+          "modifiedAt": "2026-10-30T02:35:29.319Z"
         },
         {
           "path": "data/postgres/base/16384/32947",
-          "modifiedAt": "2026-10-30T02:05:30.574Z"
+          "modifiedAt": "2026-10-30T02:35:29.219Z"
         },
         {
           "path": "data/postgres/base/16384/32946",
-          "modifiedAt": "2026-10-30T02:05:29.774Z"
+          "modifiedAt": "2026-10-30T02:35:28.319Z"
         },
         {
           "path": "data/postgres/base/16384/32945",
-          "modifiedAt": "2026-10-30T02:05:29.674Z"
+          "modifiedAt": "2026-10-30T02:35:28.219Z"
         },
         {
           "path": "data/postgres/base/16384/32935_vm",
-          "modifiedAt": "2026-10-30T02:05:29.570Z"
+          "modifiedAt": "2026-10-30T02:35:28.119Z"
         }
       ],
       "summary": [
@@ -3587,8 +3654,8 @@
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI",
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 328",
-        "Git 상위 계정: skarndaudwls1(151), gosky(37), gosky(16)"
+        "Git 커밋 수: 333",
+        "Git 상위 계정: skarndaudwls1(154), gosky(37), gosky(16)"
       ]
     },
     {
@@ -3684,7 +3751,7 @@
         }
       ],
       "structure": {
-        "fileCount": 285,
+        "fileCount": 289,
         "dirCount": 33,
         "mainFolders": [
           "db",
@@ -3779,10 +3846,10 @@
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 1314,
+        "commitCount": 1325,
         "authors": [
           {
-            "count": 1083,
+            "count": 1092,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -3803,46 +3870,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "e6f3aa1",
+          "hash": "b247d8e",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-10-30T10:23:36+09:00",
-          "subject": "Merge pull request #401 from Dongyang-Mirae-University-software/feature/sos-history-press-group"
+          "date": "2026-10-30T11:29:42+09:00",
+          "subject": "Merge pull request #403 from Dongyang-Mirae-University-software/fix/sos-history-audit-followup"
         },
-        "summary": "총 1314개 커밋, 상위 계정: skarndaudwls1(1083), skarndaudwls1(65), gosky(4), 최근: Merge pull request #401 from Dongyang-Mirae-University-software/feature/sos-history-press-group"
+        "summary": "총 1325개 커밋, 상위 계정: skarndaudwls1(1092), skarndaudwls1(65), gosky(4), 최근: Merge pull request #403 from Dongyang-Mirae-University-software/fix/sos-history-audit-followup"
       },
       "recentFiles": [
         {
-          "path": "CLAUDE.md",
-          "modifiedAt": "2026-10-30T01:25:37.042Z"
-        },
-        {
-          "path": "docs/(2026-10-20) analysis-ai-chat-reservation.md",
-          "modifiedAt": "2026-10-30T01:25:37.042Z"
-        },
-        {
-          "path": "docs/(2026-10-30) feature-sos-history-press-group.md",
-          "modifiedAt": "2026-10-30T01:25:37.042Z"
-        },
-        {
           "path": "docs/audit-index.md",
-          "modifiedAt": "2026-10-30T01:25:37.042Z"
+          "modifiedAt": "2026-10-30T02:31:32.132Z"
         },
         {
           "path": "docs/progress.md",
-          "modifiedAt": "2026-10-30T01:25:37.042Z"
+          "modifiedAt": "2026-10-30T02:31:32.132Z"
         },
         {
-          "path": "src/main/resources/application.yaml",
-          "modifiedAt": "2026-10-30T01:25:37.042Z"
+          "path": "CLAUDE.md",
+          "modifiedAt": "2026-10-30T02:31:32.128Z"
         },
         {
-          "path": "docs/(2026-10-28) audit-admin-ai-chat-stats.md",
-          "modifiedAt": "2026-10-28T05:44:43.254Z"
+          "path": "docs/(2026-10-30) audit-sos-history-group-called-guardian.md",
+          "modifiedAt": "2026-10-30T02:31:32.128Z"
         },
         {
-          "path": "docs/(2026-10-28) feature-admin-ai-chat-stats.md",
-          "modifiedAt": "2026-10-28T05:44:43.254Z"
+          "path": "docs/(2026-10-30) claude-md-update-history.md",
+          "modifiedAt": "2026-10-30T02:31:32.128Z"
+        },
+        {
+          "path": "docs/(2026-10-30) feature-sos-called-guardian.md",
+          "modifiedAt": "2026-10-30T02:31:32.128Z"
+        },
+        {
+          "path": "src/main/resources/db/migration/V64__add_sos_event_called_guardian.sql",
+          "modifiedAt": "2026-10-30T02:15:21.461Z"
+        },
+        {
+          "path": "docs/(2026-10-20) analysis-ai-chat-reservation.md",
+          "modifiedAt": "2026-10-30T02:15:21.457Z"
         }
       ],
       "summary": [
@@ -3850,8 +3917,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1314",
-        "Git 상위 계정: skarndaudwls1(1083), skarndaudwls1(65), gosky(4)"
+        "Git 커밋 수: 1325",
+        "Git 상위 계정: skarndaudwls1(1092), skarndaudwls1(65), gosky(4)"
       ]
     },
     {
