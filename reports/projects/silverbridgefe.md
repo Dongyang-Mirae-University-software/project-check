@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-30 10:06:51 KST
+- 점검 시각: 2026-10-30 10:36:57 KST
 
 ## 추정 기술 스택
 
@@ -37,7 +37,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 551
+- 파일 개수: 553
 - 디렉토리 개수: 137
 - 주요 폴더: docs, public, src
 - 주요 경로: public, public/images, src, src/app, src/app/(admin), src/app/(admin)/admin, src/app/(admin)/admin/_components, src/app/(admin)/admin/members, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/@modal, src/app/(auth)/@modal/(.)find-email, src/app/(auth)/@modal/(.)find-password, src/app/(auth)/auth, src/app/(auth)/auth/kakao, src/app/(auth)/auth/kakao/callback, src/app/(auth)/find-email, src/app/(auth)/find-email/_components, src/app/(auth)/find-email/_hooks, src/app/(auth)/find-password
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1527
+- 총 커밋 수: 1531
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
-  - yuna0222 <gold8077@gmail.com>: 456
+  - yuna0222 <gold8077@gmail.com>: 460
   - skarndaudwls1 <skarndaudwls@gmail.com>: 135
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: c0c0c5f / yuna0222 <gold8077@gmail.com> / Merge pull request #157 from Dongyang-Mirae-University-software/feature/proto-v13-guardian
+- 최근 커밋: ff5d404 / yuna0222 <gold8077@gmail.com> / Fix: 로그인 소개 문구 폰트를 레퍼런스와 통일
 
 ## 최근 수정 파일
 
+- src/app/(auth)/_components/AuthShell.module.css (2026-10-30 10:07:11 KST)
+- src/app/fonts/Fredoka.woff2 (2026-10-30 10:07:11 KST)
+- src/app/fonts/GmarketSansBold.woff (2026-10-30 10:07:11 KST)
+- src/app/layout.tsx (2026-10-30 10:07:11 KST)
+- src/components/SilverBridgeLogo.module.css (2026-10-30 10:07:11 KST)
+- src/components/SilverBridgeLogo.tsx (2026-10-30 10:07:11 KST)
 - src/app/(ward)/ward/medication/_components/WardMedicationCard.module.css (2026-10-29 21:23:43 KST)
 - src/app/(ward)/ward/medication/_components/WardMedicationCard.tsx (2026-10-29 21:23:43 KST)
-- src/app/(ward)/ward/medication/_components/WardMedicationContent.browser.test.tsx (2026-10-29 21:23:43 KST)
-- src/app/(ward)/ward/medication/_components/WardMedicationContent.module.css (2026-10-29 21:23:43 KST)
-- src/app/(ward)/ward/medication/_components/WardMedicationContent.tsx (2026-10-29 21:23:43 KST)
-- src/app/(ward)/ward/medication/page.tsx (2026-10-29 21:23:43 KST)
-- src/app/(ward)/ward/sos/_components/WardGuardianCallSection.module.css (2026-10-29 21:23:43 KST)
-- src/app/(ward)/ward/sos/_components/WardSosContent.browser.test.tsx (2026-10-29 21:23:43 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1527
-- Git 상위 계정: YUNA0222(1400), yuna0222(456), skarndaudwls1(135)
+- Git 커밋 수: 1531
+- Git 상위 계정: YUNA0222(1400), yuna0222(460), skarndaudwls1(135)
