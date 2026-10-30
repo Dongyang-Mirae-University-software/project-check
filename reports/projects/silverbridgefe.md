@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-30 17:08:15 KST
+- 점검 시각: 2026-10-30 17:38:21 KST
 
 ## 추정 기술 스택
 
@@ -37,7 +37,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 634
+- 파일 개수: 636
 - 디렉토리 개수: 141
 - 주요 폴더: docs, public, scripts, src
 - 주요 경로: public, public/icons, public/icons/push, public/images, src, src/app, src/app/(admin), src/app/(admin)/admin, src/app/(admin)/admin/_components, src/app/(admin)/admin/members, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/@modal, src/app/(auth)/@modal/(.)find-email, src/app/(auth)/@modal/(.)find-password, src/app/(auth)/auth, src/app/(auth)/auth/kakao, src/app/(auth)/auth/kakao/callback, src/app/(auth)/find-email, src/app/(auth)/find-email/_components
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1600
+- 총 커밋 수: 1616
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 460
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 177
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 187
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 1d84c24 / namgung <skarndaudwls@gmail.com> / Merge pull request #184 from Dongyang-Mirae-University-software/fix/web-push-click-focus
+- 최근 커밋: 8782a68 / namgung <skarndaudwls@gmail.com> / Merge pull request #189 from Dongyang-Mirae-University-software/fix/web-push-audit-followups
 
 ## 최근 수정 파일
 
-- docs/(2026-10-30) design-web-push-redesign.md (2026-10-30 17:04:17 KST)
-- public/firebase-messaging-sw.js (2026-10-30 17:04:17 KST)
-- docs/(2026-10-30) feature-chat-suggested-questions.md (2026-10-30 16:58:54 KST)
-- src/components/chatbot/ChatbotContent.browser.test.tsx (2026-10-30 16:58:54 KST)
-- src/components/chatbot/ChatbotContent.tsx (2026-10-30 16:58:54 KST)
-- src/service/interface/chat.ts (2026-10-30 16:58:54 KST)
-- public/icons/push/app-192.png (2026-10-30 16:55:07 KST)
-- public/icons/push/app-192.svg (2026-10-30 16:55:07 KST)
+- docs/(2026-10-30) audit-web-push.md (2026-10-30 17:38:14 KST)
+- public/push-sw-logic.js (2026-10-30 17:38:14 KST)
+- src/components/PushNotificationListener.kind.test.ts (2026-10-30 17:38:14 KST)
+- src/components/PushNotificationListener.kind.ts (2026-10-30 17:38:14 KST)
+- src/components/PushNotificationListener.tsx (2026-10-30 17:38:14 KST)
+- src/lib/fcm.test.ts (2026-10-30 17:38:14 KST)
+- src/lib/fcm.ts (2026-10-30 17:38:14 KST)
+- src/lib/push/firebaseMessagingSw.test.ts (2026-10-30 17:38:14 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1600
-- Git 상위 계정: YUNA0222(1400), yuna0222(460), skarndaudwls1(177)
+- Git 커밋 수: 1616
+- Git 상위 계정: YUNA0222(1400), yuna0222(460), skarndaudwls1(187)
