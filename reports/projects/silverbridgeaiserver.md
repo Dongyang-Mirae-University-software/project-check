@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-10-30 16:08:03 KST
+- 점검 시각: 2026-10-30 16:38:10 KST
 
 ## 추정 기술 스택
 
@@ -44,7 +44,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 3829
+- 파일 개수: 3831
 - 디렉토리 개수: 140
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
 - 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, models/new/backup, tests, tests/eval
@@ -58,32 +58,32 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1000, 1008, 2048, 4000, 4096, 5432, 6012, 6017, 6019, 12345
+- 관련 포트: 1000, 2048, 4000, 4096, 5432, 6012, 6017, 6019, 12345
 - 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 356
+- 총 커밋 수: 360
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 165
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 167
   - gosky <lovesky00317@gmail.com>: 37
   - gosky <gosky@gosky.kr>: 16
   - Jaehe-he <hywuljh1@naver.com>: 16
   - namgung <skarndaudwls@gmail.com>: 11
-- 최근 커밋: 9df4c39 / namgung <skarndaudwls@gmail.com> / Merge pull request #133 from Dongyang-Mirae-University-software/fix/reservation-no-shared-fallback
+- 최근 커밋: eb92678 / namgung <skarndaudwls@gmail.com> / Merge pull request #132 from Dongyang-Mirae-University-software/fix/chat-remaining-risks-3
 
 ## 최근 수정 파일
 
-- data/postgres/pg_wal/000000010000000000000007 (2026-10-30 16:07:58 KST)
-- data/postgres/global/pg_control (2026-10-30 16:07:35 KST)
-- data/postgres/base/16384/33564 (2026-10-30 16:07:35 KST)
-- data/postgres/base/16384/32948 (2026-10-30 16:07:34 KST)
-- data/postgres/base/16384/32947 (2026-10-30 16:07:34 KST)
-- data/postgres/base/16384/32946 (2026-10-30 16:07:33 KST)
-- data/postgres/base/16384/32945 (2026-10-30 16:07:33 KST)
-- data/postgres/base/16384/32935_vm (2026-10-30 16:07:33 KST)
+- data/postgres/pg_wal/000000010000000000000007 (2026-10-30 16:38:00 KST)
+- data/postgres/global/pg_control (2026-10-30 16:37:36 KST)
+- data/postgres/base/16384/33564 (2026-10-30 16:37:36 KST)
+- data/postgres/base/16384/32958 (2026-10-30 16:37:36 KST)
+- data/postgres/base/16384/32957 (2026-10-30 16:37:36 KST)
+- data/postgres/base/16384/32956 (2026-10-30 16:37:35 KST)
+- data/postgres/base/16384/32955 (2026-10-30 16:37:35 KST)
+- data/postgres/base/16384/32950 (2026-10-30 16:37:35 KST)
 
 ## 점검 결과 요약
 
@@ -91,5 +91,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 356
-- Git 상위 계정: skarndaudwls1(165), gosky(37), gosky(16)
+- Git 커밋 수: 360
+- Git 상위 계정: skarndaudwls1(167), gosky(37), gosky(16)
