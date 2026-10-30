@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-10-31 01:09:48 KST
+- 점검 시각: 2026-10-31 01:39:54 KST
 
 ## 추정 기술 스택
 
@@ -37,9 +37,9 @@
 ## 주요 폴더 구조
 
 - 파일 개수: 295
-- 디렉토리 개수: 33
+- 디렉토리 개수: 34
 - 주요 폴더: db, docs, gradle, src, tools
-- 주요 경로: src, src/integrationTest, src/integrationTest/java, src/integrationTest/java/kr, src/integrationTest/java/kr/silverbridge, src/integrationTest/java/kr/silverbridge/main, src/integrationTest/java/kr/silverbridge/main/domain, src/integrationTest/java/kr/silverbridge/main/migration, src/integrationTest/java/kr/silverbridge/main/support, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration, src/test
+- 주요 경로: src, src/integrationTest, src/integrationTest/java, src/integrationTest/java/kr, src/integrationTest/java/kr/silverbridge, src/integrationTest/java/kr/silverbridge/main, src/integrationTest/java/kr/silverbridge/main/domain, src/integrationTest/java/kr/silverbridge/main/global, src/integrationTest/java/kr/silverbridge/main/migration, src/integrationTest/java/kr/silverbridge/main/support, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration
 
 ## DB 사용 여부
 
@@ -57,24 +57,24 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1377
+- 총 커밋 수: 1386
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 1131
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 1137
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
   - gosky <gosky@gosky.kr>: 2
-- 최근 커밋: a6d2035 / skarndaudwls1 <skarndaudwls@gmail.com> / docs: 챗봇 전체 점검(AI #140) 기록 - 4-36·audit-index·policy-chat 예약 대기 메모
+- 최근 커밋: a202dde / namgung <skarndaudwls@gmail.com> / Merge pull request #419 from Dongyang-Mirae-University-software/fix/audit-full-2026-10-retention
 
 ## 최근 수정 파일
 
-- src/main/resources/application.yaml (2026-10-31 24:48:03 KST)
-- docs/progress.md (2026-10-31 24:48:03 KST)
+- src/main/resources/application.yaml (2026-10-31 01:38:45 KST)
+- docs/progress.md (2026-10-31 01:38:45 KST)
+- docs/(2026-10-31) audit-full-2026-10.md (2026-10-31 01:38:45 KST)
+- docs/audit-index.md (2026-10-31 01:38:45 KST)
 - docs/(2026-10-20) analysis-ai-chat-reservation.md (2026-10-31 24:48:03 KST)
 - docs/(2026-10-30) audit-impact-web-push-copy.md (2026-10-31 24:48:03 KST)
 - docs/(2026-10-30) feature-chat-suggested-questions.md (2026-10-31 24:48:03 KST)
 - docs/(2026-10-30) feature-web-push-copy.md (2026-10-31 24:48:03 KST)
-- docs/(2026-10-31) audit-full-2026-10.md (2026-10-31 24:48:03 KST)
-- docs/audit-index.md (2026-10-31 24:48:03 KST)
 
 ## 점검 결과 요약
 
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1377
-- Git 상위 계정: skarndaudwls1(1131), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1386
+- Git 상위 계정: skarndaudwls1(1137), skarndaudwls1(65), gosky(4)
