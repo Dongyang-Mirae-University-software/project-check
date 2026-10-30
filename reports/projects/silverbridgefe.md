@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-30 14:07:36 KST
+- 점검 시각: 2026-10-30 14:37:41 KST
 
 ## 추정 기술 스택
 
@@ -37,7 +37,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 560
+- 파일 개수: 561
 - 디렉토리 개수: 137
 - 주요 폴더: docs, public, src
 - 주요 경로: public, public/images, src, src/app, src/app/(admin), src/app/(admin)/admin, src/app/(admin)/admin/_components, src/app/(admin)/admin/members, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/@modal, src/app/(auth)/@modal/(.)find-email, src/app/(auth)/@modal/(.)find-password, src/app/(auth)/auth, src/app/(auth)/auth/kakao, src/app/(auth)/auth/kakao/callback, src/app/(auth)/find-email, src/app/(auth)/find-email/_components, src/app/(auth)/find-email/_hooks, src/app/(auth)/find-password
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1540
+- 총 커밋 수: 1543
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 460
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 141
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 143
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 4f23f92 / namgung <skarndaudwls@gmail.com> / Merge pull request #160 from Dongyang-Mirae-University-software/fix/sos-guardian-mobile-column
+- 최근 커밋: f88ecca / namgung <skarndaudwls@gmail.com> / Merge pull request #161 from Dongyang-Mirae-University-software/design/ward-hospital-claude-design
 
 ## 최근 수정 파일
 
+- src/app/(ward)/ward/hospital/_components/WardHospitalContent.browser.test.tsx (2026-10-30 14:23:07 KST)
+- src/app/(ward)/ward/hospital/_components/WardHospitalContent.module.css (2026-10-30 14:23:07 KST)
+- src/app/(ward)/ward/hospital/_components/WardHospitalContent.tsx (2026-10-30 14:23:07 KST)
+- docs/(2026-10-30) design-ward-hospital-claude-design.md (2026-10-30 14:23:07 KST)
 - src/app/(ward)/ward/sos/_components/WardGuardianCallSection.module.css (2026-10-30 13:33:20 KST)
 - src/service/api/admin/user.test.ts (2026-10-30 13:23:23 KST)
 - vitest.browser.config.ts (2026-10-30 13:23:23 KST)
 - src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.browser.test.tsx (2026-10-30 13:23:23 KST)
-- src/app/(guardian)/guardian/medication/_components/WardMedicationCard.browser.test.tsx (2026-10-30 13:23:23 KST)
-- src/app/(ward)/ward/medication/_components/WardMedicationContent.browser.test.tsx (2026-10-30 13:23:23 KST)
-- src/components/BirthDateSelects.browser.test.tsx (2026-10-30 13:23:23 KST)
-- src/components/BirthDateSelects.tsx (2026-10-30 13:23:23 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1540
-- Git 상위 계정: YUNA0222(1400), yuna0222(460), skarndaudwls1(141)
+- Git 커밋 수: 1543
+- Git 상위 계정: YUNA0222(1400), yuna0222(460), skarndaudwls1(143)
