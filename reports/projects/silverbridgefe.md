@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-10-31 16:12:42 KST
+- 점검 시각: 2026-10-31 16:42:48 KST
 
 ## 추정 기술 스택
 
@@ -58,18 +58,19 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1639
+- 총 커밋 수: 1641
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 460
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 201
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 202
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 9090995 / namgung <skarndaudwls@gmail.com> / Merge pull request #199 from Dongyang-Mirae-University-software/feature/chatbot-reservation-ward-handoff
+- 최근 커밋: 63d8b40 / namgung <skarndaudwls@gmail.com> / Merge pull request #200 from Dongyang-Mirae-University-software/chore/ward-layout-unused-scrim
 
 ## 최근 수정 파일
 
+- src/app/(ward)/ward/_components/WardLayout.module.css (2026-10-31 16:36:26 KST)
 - src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.browser.test.tsx (2026-10-31 16:11:42 KST)
 - src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.tsx (2026-10-31 16:11:42 KST)
 - src/components/chatbot/ChatbotContent.browser.test.tsx (2026-10-31 16:11:42 KST)
@@ -77,7 +78,6 @@
 - src/components/chatbot/ChatbotContent.tsx (2026-10-31 16:11:42 KST)
 - src/components/chatbot/reservationWardHandoff.test.ts (2026-10-31 16:11:42 KST)
 - src/components/chatbot/reservationWardHandoff.ts (2026-10-31 16:11:42 KST)
-- src/app/(ward)/ward/camera/_components/WardCameraList.module.css (2026-10-31 16:08:57 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1639
-- Git 상위 계정: YUNA0222(1400), yuna0222(460), skarndaudwls1(201)
+- Git 커밋 수: 1641
+- Git 상위 계정: YUNA0222(1400), yuna0222(460), skarndaudwls1(202)
