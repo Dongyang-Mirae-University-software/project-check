@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-11-01 15:47:10 KST
+- 점검 시각: 2026-11-01 16:17:16 KST
 
 ## 추정 기술 스택
 
@@ -57,20 +57,20 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1412
+- 총 커밋 수: 1415
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 1156
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 1158
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
   - gosky <gosky@gosky.kr>: 2
-- 최근 커밋: cd1662d / skarndaudwls1 <skarndaudwls@gmail.com> / docs: 알림 설정 조회 실패 격리(#425) - 정책(notification·connection)·progress·audit-index·통합 테스트 설계 🟡 해소
+- 최근 커밋: 8458e15 / namgung <skarndaudwls@gmail.com> / Merge pull request #426 from Dongyang-Mirae-University-software/feature/chat-log-layout-field
 
 ## 최근 수정 파일
 
-- docs/audit-index.md (2026-11-01 24:59:25 KST)
+- docs/(2026-10-20) analysis-ai-chat-reservation.md (2026-11-01 15:49:47 KST)
+- docs/audit-index.md (2026-11-01 15:49:47 KST)
 - docs/progress.md (2026-11-01 24:59:25 KST)
 - docs/(2026-10-31) design-integration-test-stage2.md (2026-11-01 24:59:25 KST)
-- docs/(2026-10-20) analysis-ai-chat-reservation.md (2026-11-01 24:35:40 KST)
 - src/main/resources/application.yaml (2026-11-01 24:35:40 KST)
 - docs/(2026-10-31) audit-full-2026-10.md (2026-10-31 18:49:00 KST)
 - build.gradle (2026-10-31 18:49:00 KST)
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1412
-- Git 상위 계정: skarndaudwls1(1156), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1415
+- Git 상위 계정: skarndaudwls1(1158), skarndaudwls1(65), gosky(4)

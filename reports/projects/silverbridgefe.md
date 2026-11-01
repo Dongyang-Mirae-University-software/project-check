@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-01 15:47:10 KST
+- 점검 시각: 2026-11-01 16:17:16 KST
 
 ## 추정 기술 스택
 
@@ -37,7 +37,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 648
+- 파일 개수: 649
 - 디렉토리 개수: 141
 - 주요 폴더: docs, public, scripts, src
 - 주요 경로: public, public/icons, public/icons/push, public/images, src, src/app, src/app/(admin), src/app/(admin)/admin, src/app/(admin)/admin/_components, src/app/(admin)/admin/members, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/@modal, src/app/(auth)/@modal/(.)find-email, src/app/(auth)/@modal/(.)find-password, src/app/(auth)/auth, src/app/(auth)/auth/kakao, src/app/(auth)/auth/kakao/callback, src/app/(auth)/find-email, src/app/(auth)/find-email/_components
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1648
+- 총 커밋 수: 1650
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 460
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 207
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 208
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 246da22 / namgung <skarndaudwls@gmail.com> / Merge pull request #202 from Dongyang-Mirae-University-software/fix/audit-chatbot-handoff-auth-post
+- 최근 커밋: fa21b2e / namgung <skarndaudwls@gmail.com> / Merge pull request #203 from Dongyang-Mirae-University-software/feature/chat-reply-layout
 
 ## 최근 수정 파일
 
+- src/components/chatbot/ChatbotContent.tsx (2026-11-01 15:51:03 KST)
+- src/components/chatbot/ChatBubble.browser.test.tsx (2026-11-01 15:51:03 KST)
+- src/components/chatbot/ChatBubble.module.css (2026-11-01 15:51:03 KST)
+- src/components/chatbot/ChatBubble.tsx (2026-11-01 15:51:03 KST)
+- src/service/interface/chat.ts (2026-11-01 15:51:03 KST)
 - src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.browser.test.tsx (2026-10-31 18:49:55 KST)
 - src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.tsx (2026-10-31 18:49:55 KST)
 - src/components/chatbot/ChatbotContent.browser.test.tsx (2026-10-31 18:49:55 KST)
-- src/components/chatbot/ChatbotContent.tsx (2026-10-31 18:49:55 KST)
-- src/components/UserAvatar.tsx (2026-10-31 18:49:55 KST)
-- docs/(2026-10-31) audit-fe-chatbot-handoff-auth-post.md (2026-10-31 18:49:55 KST)
-- src/app/(auth)/authFormsSubmit.browser.test.tsx (2026-10-31 18:49:55 KST)
-- src/app/(auth)/find-password/_components/FindPasswordResetStep.tsx (2026-10-31 18:49:55 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1648
-- Git 상위 계정: YUNA0222(1400), yuna0222(460), skarndaudwls1(207)
+- Git 커밋 수: 1650
+- Git 상위 계정: YUNA0222(1400), yuna0222(460), skarndaudwls1(208)
