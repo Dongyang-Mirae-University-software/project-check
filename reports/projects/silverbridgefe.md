@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-01 16:47:21 KST
+- 점검 시각: 2026-11-01 17:17:27 KST
 
 ## 추정 기술 스택
 
@@ -58,22 +58,22 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1650
+- 총 커밋 수: 1652
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 460
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 208
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 209
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: fa21b2e / namgung <skarndaudwls@gmail.com> / Merge pull request #203 from Dongyang-Mirae-University-software/feature/chat-reply-layout
+- 최근 커밋: 33b0fdb / namgung <skarndaudwls@gmail.com> / Merge pull request #204 from Dongyang-Mirae-University-software/fix/chat-bubble-a11y-xss
 
 ## 최근 수정 파일
 
+- src/components/chatbot/ChatBubble.browser.test.tsx (2026-11-01 17:12:56 KST)
+- src/components/chatbot/ChatBubble.tsx (2026-11-01 17:12:56 KST)
 - src/components/chatbot/ChatbotContent.tsx (2026-11-01 15:51:03 KST)
-- src/components/chatbot/ChatBubble.browser.test.tsx (2026-11-01 15:51:03 KST)
 - src/components/chatbot/ChatBubble.module.css (2026-11-01 15:51:03 KST)
-- src/components/chatbot/ChatBubble.tsx (2026-11-01 15:51:03 KST)
 - src/service/interface/chat.ts (2026-11-01 15:51:03 KST)
 - src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.browser.test.tsx (2026-10-31 18:49:55 KST)
 - src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.tsx (2026-10-31 18:49:55 KST)
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1650
-- Git 상위 계정: YUNA0222(1400), yuna0222(460), skarndaudwls1(208)
+- Git 커밋 수: 1652
+- Git 상위 계정: YUNA0222(1400), yuna0222(460), skarndaudwls1(209)
