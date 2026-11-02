@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-02 22:57:04 KST
+- 점검 시각: 2026-11-02 23:27:10 KST
 
 ## 추정 기술 스택
 
@@ -37,7 +37,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 685
+- 파일 개수: 686
 - 디렉토리 개수: 146
 - 주요 폴더: docs, public, scripts, src
 - 주요 경로: public, public/icons, public/icons/push, public/images, src, src/app, src/app/(admin), src/app/(admin)/admin, src/app/(admin)/admin/_components, src/app/(admin)/admin/ai-stats, src/app/(admin)/admin/devices, src/app/(admin)/admin/inquiries, src/app/(admin)/admin/members, src/app/(admin)/admin/notices, src/app/(admin)/admin/notifications, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/@modal, src/app/(auth)/@modal/(.)find-email, src/app/(auth)/@modal/(.)find-password
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1701
+- 총 커밋 수: 1703
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 500
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 213
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 214
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 7506897 / namgung <skarndaudwls@gmail.com> / Merge pull request #208 from Dongyang-Mirae-University-software/design/login-mobile-footer-two-lines
+- 최근 커밋: d762c81 / namgung <skarndaudwls@gmail.com> / Merge pull request #209 from Dongyang-Mirae-University-software/design/login-mobile-audit-fixes
 
 ## 최근 수정 파일
 
+- docs/(2026-11-02) audit-fe-login-mobile.md (2026-11-02 23:23:51 KST)
+- src/app/(auth)/_components/AuthShell.browser.test.tsx (2026-11-02 23:23:51 KST)
+- src/app/(auth)/_components/AuthShell.module.css (2026-11-02 23:23:51 KST)
+- src/app/(auth)/layout.tsx (2026-11-02 23:23:51 KST)
+- src/app/(auth)/login/_components/LoginContent.module.css (2026-11-02 23:23:51 KST)
+- src/app/(auth)/login/_components/LoginMobileLayout.browser.test.tsx (2026-11-02 23:23:51 KST)
 - package-lock.json (2026-11-02 17:03:46 KST)
 - package.json (2026-11-02 17:03:46 KST)
-- src/app/(auth)/_components/AuthShell.module.css (2026-11-02 17:03:46 KST)
-- next-env.d.ts (2026-11-02 17:01:07 KST)
-- src/components/layout/dashboard/types.ts (2026-11-02 16:49:42 KST)
-- src/constants/dashboard.ts (2026-11-02 16:49:42 KST)
-- src/service/api/admin/announcement.ts (2026-11-02 16:49:42 KST)
-- src/service/interface/admin/announcement.ts (2026-11-02 16:49:42 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1701
-- Git 상위 계정: YUNA0222(1400), yuna0222(500), skarndaudwls1(213)
+- Git 커밋 수: 1703
+- Git 상위 계정: YUNA0222(1400), yuna0222(500), skarndaudwls1(214)
