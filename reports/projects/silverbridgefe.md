@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-02 16:55:54 KST
+- 점검 시각: 2026-11-02 17:25:59 KST
 
 ## 추정 기술 스택
 
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1698
+- 총 커밋 수: 1701
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
-  - yuna0222 <gold8077@gmail.com>: 499
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 212
+  - yuna0222 <gold8077@gmail.com>: 500
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 213
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 7a9f205 / namgung <skarndaudwls@gmail.com> / Merge pull request #207 from Dongyang-Mirae-University-software/design/login-mobile-claude-design
+- 최근 커밋: 7506897 / namgung <skarndaudwls@gmail.com> / Merge pull request #208 from Dongyang-Mirae-University-software/design/login-mobile-footer-two-lines
 
 ## 최근 수정 파일
 
+- package-lock.json (2026-11-02 17:03:46 KST)
+- package.json (2026-11-02 17:03:46 KST)
+- src/app/(auth)/_components/AuthShell.module.css (2026-11-02 17:03:46 KST)
+- next-env.d.ts (2026-11-02 17:01:07 KST)
 - src/components/layout/dashboard/types.ts (2026-11-02 16:49:42 KST)
 - src/constants/dashboard.ts (2026-11-02 16:49:42 KST)
 - src/service/api/admin/announcement.ts (2026-11-02 16:49:42 KST)
 - src/service/interface/admin/announcement.ts (2026-11-02 16:49:42 KST)
-- src/service/query/admin/announcement.ts (2026-11-02 16:49:42 KST)
-- src/service/query/admin/index.ts (2026-11-02 16:49:42 KST)
-- package.json (2026-11-02 16:49:42 KST)
-- public/images/careai-icon.png (2026-11-02 16:49:42 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1698
-- Git 상위 계정: YUNA0222(1400), yuna0222(499), skarndaudwls1(212)
+- Git 커밋 수: 1701
+- Git 상위 계정: YUNA0222(1400), yuna0222(500), skarndaudwls1(213)

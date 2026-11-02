@@ -1,6 +1,6 @@
 # 실행 상태
 
-- 스캔 시각: 2026-11-02 16:55:55 KST
+- 스캔 시각: 2026-11-02 17:26:01 KST
 
 | 프로젝트 | 분류 | 실행 상태 | PM2 | Docker | 포트 |
 | --- | --- | --- | --- | --- | --- |
@@ -41,8 +41,8 @@
 - RemotionVideo: 정지 또는 확인 불가
 - SilverBridgeAi: 실행 중 / PM2 없음 / Docker 1개 / 포트 확인 불가
 - SilverBridgeAiServer: 실행 중 / PM2 없음 / Docker 1개 / 포트 5432, 6012, 6017, 6019, 11004
-- SilverBridgeBe: 실행 중 / PM2 없음 / Docker 없음 / 포트 5432, 6011, 6013, 6014, 6015, 6379, 6511, 6513, 6514
-- SilverBridgeFe: 실행 중 / PM2 없음 / Docker 없음 / 포트 6000, 6010, 6015, 8000
+- SilverBridgeBe: 실행 중 / PM2 없음 / Docker 없음 / 포트 5432, 6011, 6013, 6014, 6015, 6379, 6510, 6511, 6513, 6514
+- SilverBridgeFe: 실행 중 / PM2 없음 / Docker 없음 / 포트 6000, 6010, 6015, 6510, 8000
 - SilverBridgeJH: 정지 또는 확인 불가
 - SilverBridgeReservation: 실행 중 / PM2 없음 / Docker 1개 / 포트 6015, 6017, 6018
 - SilverBridgeSky: 실행 중 / PM2 1개 / Docker 없음 / 포트 5432, 6379, 8000
