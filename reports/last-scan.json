@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-02T07:25:46.067Z",
-  "generatedAtKst": "2026-11-02 16:25:46 KST",
+  "generatedAt": "2026-11-02T07:55:51.786Z",
+  "generatedAtKst": "2026-11-02 16:55:51 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8407
+          "count": 8408
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 5
         }
       ],
-      "count": 8453
+      "count": 8454
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 1726
+          "count": 1727
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 1815
+      "count": 1816
     },
     {
       "name": "YUNA0222",
@@ -75,10 +75,10 @@
       "emails": [
         {
           "email": "gold8077@gmail.com",
-          "count": 497
+          "count": 499
         }
       ],
-      "count": 497
+      "count": 499
     },
     {
       "name": "namgung",
@@ -1617,22 +1617,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8270,
+        "commitCount": 8271,
         "authors": [
           {
-            "count": 8270,
+            "count": 8271,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "c220b7402",
+          "hash": "a0b006e37",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-02T15:55:44+09:00",
+          "date": "2026-11-02T16:25:49+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8270개 커밋, 상위 계정: gosky(8270), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8271개 커밋, 상위 계정: gosky(8271), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1673,8 +1673,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8270",
-        "Git 상위 계정: gosky(8270)"
+        "Git 커밋 수: 8271",
+        "Git 상위 계정: gosky(8271)"
       ]
     },
     {
@@ -1997,7 +1997,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 21 hours",
+            "status": "Up 22 hours",
             "ports": ""
           }
         ],
@@ -2235,7 +2235,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 21 hours",
+            "status": "Up 22 hours",
             "ports": ""
           }
         ],
@@ -3529,7 +3529,6 @@
           6014,
           6015,
           6379,
-          6510,
           6511,
           6513,
           6514
@@ -3561,7 +3560,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 5432, 6011, 6013, 6014, 6015, 6379, 6510, 6511, 6513, 6514"
+          "포트 5432, 6011, 6013, 6014, 6015, 6379, 6511, 6513, 6514"
         ]
       },
       "git": {
@@ -3736,8 +3735,8 @@
         }
       ],
       "structure": {
-        "fileCount": 677,
-        "dirCount": 145,
+        "fileCount": 685,
+        "dirCount": 146,
         "mainFolders": [
           "docs",
           "public",
@@ -3758,13 +3757,13 @@
           "src/app/(admin)/admin/devices",
           "src/app/(admin)/admin/inquiries",
           "src/app/(admin)/admin/members",
+          "src/app/(admin)/admin/notices",
           "src/app/(admin)/admin/notifications",
           "src/app/(auth)",
           "src/app/(auth)/_components",
           "src/app/(auth)/@modal",
           "src/app/(auth)/@modal/(.)find-email",
-          "src/app/(auth)/@modal/(.)find-password",
-          "src/app/(auth)/auth"
+          "src/app/(auth)/@modal/(.)find-password"
         ]
       },
       "database": {
@@ -3787,7 +3786,6 @@
           6000,
           6010,
           6015,
-          6510,
           8000
         ],
         "allCandidatePorts": [
@@ -3806,13 +3804,13 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 6000, 6010, 6015, 6510, 8000"
+          "포트 6000, 6010, 6015, 8000"
         ]
       },
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 1693,
+        "commitCount": 1698,
         "authors": [
           {
             "count": 1400,
@@ -3820,12 +3818,12 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 497,
+            "count": 499,
             "name": "yuna0222",
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 211,
+            "count": 212,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -3846,46 +3844,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "31a6c27",
+          "hash": "7a9f205",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-02T16:09:25+09:00",
-          "subject": "Merge pull request #206 from Dongyang-Mirae-University-software/fix/sos-fallback-title"
+          "date": "2026-11-02T16:49:08+09:00",
+          "subject": "Merge pull request #207 from Dongyang-Mirae-University-software/design/login-mobile-claude-design"
         },
-        "summary": "총 1693개 커밋, 상위 계정: YUNA0222(1400), yuna0222(497), skarndaudwls1(211), 최근: Merge pull request #206 from Dongyang-Mirae-University-software/fix/sos-fallback-title"
+        "summary": "총 1698개 커밋, 상위 계정: YUNA0222(1400), yuna0222(499), skarndaudwls1(212), 최근: Merge pull request #207 from Dongyang-Mirae-University-software/design/login-mobile-claude-design"
       },
       "recentFiles": [
         {
-          "path": "src/app/(admin)/admin/_components/AdminDevicesContent.module.css",
-          "modifiedAt": "2026-11-02T07:09:34.786Z"
-        },
-        {
-          "path": "src/app/(admin)/admin/_components/AdminDevicesContent.tsx",
-          "modifiedAt": "2026-11-02T07:09:34.786Z"
-        },
-        {
-          "path": "src/app/(admin)/admin/devices/page.tsx",
-          "modifiedAt": "2026-11-02T07:09:34.786Z"
-        },
-        {
           "path": "src/components/layout/dashboard/types.ts",
-          "modifiedAt": "2026-11-02T07:09:34.786Z"
-        },
-        {
-          "path": "src/components/PushNotificationListener.browser.test.tsx",
-          "modifiedAt": "2026-11-02T07:09:34.786Z"
-        },
-        {
-          "path": "src/components/PushNotificationListener.tsx",
-          "modifiedAt": "2026-11-02T07:09:34.786Z"
+          "modifiedAt": "2026-11-02T07:49:42.118Z"
         },
         {
           "path": "src/constants/dashboard.ts",
-          "modifiedAt": "2026-11-02T07:09:34.786Z"
+          "modifiedAt": "2026-11-02T07:49:42.118Z"
         },
         {
-          "path": "src/service/api/admin/camera.ts",
-          "modifiedAt": "2026-11-02T07:09:34.786Z"
+          "path": "src/service/api/admin/announcement.ts",
+          "modifiedAt": "2026-11-02T07:49:42.118Z"
+        },
+        {
+          "path": "src/service/interface/admin/announcement.ts",
+          "modifiedAt": "2026-11-02T07:49:42.118Z"
+        },
+        {
+          "path": "src/service/query/admin/announcement.ts",
+          "modifiedAt": "2026-11-02T07:49:42.118Z"
+        },
+        {
+          "path": "src/service/query/admin/index.ts",
+          "modifiedAt": "2026-11-02T07:49:42.118Z"
+        },
+        {
+          "path": "package.json",
+          "modifiedAt": "2026-11-02T07:49:42.114Z"
+        },
+        {
+          "path": "public/images/careai-icon.png",
+          "modifiedAt": "2026-11-02T07:49:42.114Z"
         }
       ],
       "summary": [
@@ -3893,8 +3891,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1693",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(497), skarndaudwls1(211)"
+        "Git 커밋 수: 1698",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(499), skarndaudwls1(212)"
       ]
     },
     {

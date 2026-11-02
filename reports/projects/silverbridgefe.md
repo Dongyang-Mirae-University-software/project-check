@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-02 16:25:48 KST
+- 점검 시각: 2026-11-02 16:55:54 KST
 
 ## 추정 기술 스택
 
@@ -37,10 +37,10 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 677
-- 디렉토리 개수: 145
+- 파일 개수: 685
+- 디렉토리 개수: 146
 - 주요 폴더: docs, public, scripts, src
-- 주요 경로: public, public/icons, public/icons/push, public/images, src, src/app, src/app/(admin), src/app/(admin)/admin, src/app/(admin)/admin/_components, src/app/(admin)/admin/ai-stats, src/app/(admin)/admin/devices, src/app/(admin)/admin/inquiries, src/app/(admin)/admin/members, src/app/(admin)/admin/notifications, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/@modal, src/app/(auth)/@modal/(.)find-email, src/app/(auth)/@modal/(.)find-password, src/app/(auth)/auth
+- 주요 경로: public, public/icons, public/icons/push, public/images, src, src/app, src/app/(admin), src/app/(admin)/admin, src/app/(admin)/admin/_components, src/app/(admin)/admin/ai-stats, src/app/(admin)/admin/devices, src/app/(admin)/admin/inquiries, src/app/(admin)/admin/members, src/app/(admin)/admin/notices, src/app/(admin)/admin/notifications, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/@modal, src/app/(auth)/@modal/(.)find-email, src/app/(auth)/@modal/(.)find-password
 
 ## DB 사용 여부
 
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1693
+- 총 커밋 수: 1698
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
-  - yuna0222 <gold8077@gmail.com>: 497
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 211
+  - yuna0222 <gold8077@gmail.com>: 499
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 212
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 31a6c27 / namgung <skarndaudwls@gmail.com> / Merge pull request #206 from Dongyang-Mirae-University-software/fix/sos-fallback-title
+- 최근 커밋: 7a9f205 / namgung <skarndaudwls@gmail.com> / Merge pull request #207 from Dongyang-Mirae-University-software/design/login-mobile-claude-design
 
 ## 최근 수정 파일
 
-- src/app/(admin)/admin/_components/AdminDevicesContent.module.css (2026-11-02 16:09:34 KST)
-- src/app/(admin)/admin/_components/AdminDevicesContent.tsx (2026-11-02 16:09:34 KST)
-- src/app/(admin)/admin/devices/page.tsx (2026-11-02 16:09:34 KST)
-- src/components/layout/dashboard/types.ts (2026-11-02 16:09:34 KST)
-- src/components/PushNotificationListener.browser.test.tsx (2026-11-02 16:09:34 KST)
-- src/components/PushNotificationListener.tsx (2026-11-02 16:09:34 KST)
-- src/constants/dashboard.ts (2026-11-02 16:09:34 KST)
-- src/service/api/admin/camera.ts (2026-11-02 16:09:34 KST)
+- src/components/layout/dashboard/types.ts (2026-11-02 16:49:42 KST)
+- src/constants/dashboard.ts (2026-11-02 16:49:42 KST)
+- src/service/api/admin/announcement.ts (2026-11-02 16:49:42 KST)
+- src/service/interface/admin/announcement.ts (2026-11-02 16:49:42 KST)
+- src/service/query/admin/announcement.ts (2026-11-02 16:49:42 KST)
+- src/service/query/admin/index.ts (2026-11-02 16:49:42 KST)
+- package.json (2026-11-02 16:49:42 KST)
+- public/images/careai-icon.png (2026-11-02 16:49:42 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1693
-- Git 상위 계정: YUNA0222(1400), yuna0222(497), skarndaudwls1(211)
+- Git 커밋 수: 1698
+- Git 상위 계정: YUNA0222(1400), yuna0222(499), skarndaudwls1(212)
