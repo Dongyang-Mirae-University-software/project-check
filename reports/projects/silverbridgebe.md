@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-11-04 24:05:08 KST
+- 점검 시각: 2026-11-04 24:35:14 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 299
+- 파일 개수: 303
 - 디렉토리 개수: 34
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/integrationTest, src/integrationTest/java, src/integrationTest/java/kr, src/integrationTest/java/kr/silverbridge, src/integrationTest/java/kr/silverbridge/main, src/integrationTest/java/kr/silverbridge/main/domain, src/integrationTest/java/kr/silverbridge/main/global, src/integrationTest/java/kr/silverbridge/main/migration, src/integrationTest/java/kr/silverbridge/main/support, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration
@@ -57,24 +57,24 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1460
+- 총 커밋 수: 1468
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 1192
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 1198
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
   - gosky <gosky@gosky.kr>: 2
-- 최근 커밋: 50253c4 / namgung <skarndaudwls@gmail.com> / Merge pull request #435 from Dongyang-Mirae-University-software/feature/chat-answer-chips
+- 최근 커밋: 4815c36 / namgung <skarndaudwls@gmail.com> / Merge pull request #437 from Dongyang-Mirae-University-software/feature/companion-relay
 
 ## 최근 수정 파일
 
-- docs/progress.md (2026-11-03 24:13:46 KST)
-- CLAUDE.md (2026-11-03 24:13:46 KST)
-- docs/(2026-10-20) analysis-ai-chat-reservation.md (2026-11-03 24:13:46 KST)
-- docs/audit-index.md (2026-11-03 24:13:46 KST)
-- docs/(2026-11-02) feature-sos-ws-title-body.md (2026-11-02 16:11:27 KST)
-- docs/(2026-11-02) audit-sos-ws-title-body.md (2026-11-02 16:11:27 KST)
-- src/main/resources/application.yaml (2026-11-02 11:04:48 KST)
-- docs/(2026-11-02) audit-impact-dispatcher-settings-failure.md (2026-11-02 10:58:54 KST)
+- src/main/resources/application.yaml (2026-11-04 24:25:26 KST)
+- src/main/resources/db/migration/V65__add_companion.sql (2026-11-04 24:25:26 KST)
+- docs/(2026-10-20) analysis-ai-chat-reservation.md (2026-11-04 24:25:26 KST)
+- docs/(2026-10-30) feature-chat-suggested-questions.md (2026-11-04 24:25:26 KST)
+- docs/(2026-11-03) audit-chat-followup-answer-chips.md (2026-11-04 24:25:26 KST)
+- docs/(2026-11-04) companion-question-research.md (2026-11-04 24:25:26 KST)
+- docs/(2026-11-04) feature-companion-relay.md (2026-11-04 24:25:26 KST)
+- docs/audit-index.md (2026-11-04 24:25:26 KST)
 
 ## 점검 결과 요약
 
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1460
-- Git 상위 계정: skarndaudwls1(1192), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1468
+- Git 상위 계정: skarndaudwls1(1198), skarndaudwls1(65), gosky(4)
