@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-04 11:07:20 KST
+- 점검 시각: 2026-11-04 11:37:26 KST
 
 ## 추정 기술 스택
 
@@ -37,7 +37,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 709
+- 파일 개수: 726
 - 디렉토리 개수: 148
 - 주요 폴더: docs, public, scripts, src
 - 주요 경로: public, public/icons, public/icons/push, public/images, src, src/app, src/app/(admin), src/app/(admin)/admin, src/app/(admin)/admin/_components, src/app/(admin)/admin/ai-stats, src/app/(admin)/admin/devices, src/app/(admin)/admin/hospitals, src/app/(admin)/admin/inquiries, src/app/(admin)/admin/members, src/app/(admin)/admin/notices, src/app/(admin)/admin/notifications, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/@modal, src/app/(auth)/@modal/(.)find-email
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1756
+- 총 커밋 수: 1796
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
-  - yuna0222 <gold8077@gmail.com>: 548
+  - yuna0222 <gold8077@gmail.com>: 587
   - skarndaudwls1 <skarndaudwls@gmail.com>: 216
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 53c3bfc / namgung <skarndaudwls@gmail.com> / Merge pull request #211 from Dongyang-Mirae-University-software/fix/chat-ward-loading-lock
+- 최근 커밋: 9327899 / yuna0222 <gold8077@gmail.com> / Design: 회원가입 제목 왼쪽 뒤로가기(<) 화살표를 뺀다 - 단계 이동은 이전 버튼으로 한다
 
 ## 최근 수정 파일
 
-- src/hooks/useSignupForm.tsx (2026-11-03 15:54:29 KST)
-- src/lib/auth/returnPath.ts (2026-11-03 15:54:29 KST)
-- src/lib/kakao/share.ts (2026-11-03 15:54:29 KST)
-- src/service/api/admin/hospital.ts (2026-11-03 15:54:29 KST)
-- src/service/api/guardian/connection.ts (2026-11-03 15:54:29 KST)
-- src/service/api/guardian/sosHistory.ts (2026-11-03 15:54:29 KST)
-- src/service/interface/admin/hospital.ts (2026-11-03 15:54:29 KST)
-- src/service/interface/connection.ts (2026-11-03 15:54:29 KST)
+- src/components/notices/NoticesPage.browser.test.tsx (2026-11-04 11:25:47 KST)
+- src/components/notices/NoticesPage.module.css (2026-11-04 11:25:47 KST)
+- src/components/notices/NoticesPage.tsx (2026-11-04 11:25:47 KST)
+- src/components/settings/settings.browser.test.tsx (2026-11-04 11:25:47 KST)
+- src/hooks/useActiveConnections.ts (2026-11-04 11:25:47 KST)
+- src/lib/auth/tokenStore.ts (2026-11-04 11:25:47 KST)
+- src/lib/server/wardAuth.test.ts (2026-11-04 11:25:47 KST)
+- src/service/api/common/announcement.ts (2026-11-04 11:25:47 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1756
-- Git 상위 계정: YUNA0222(1400), yuna0222(548), skarndaudwls1(216)
+- Git 커밋 수: 1796
+- Git 상위 계정: YUNA0222(1400), yuna0222(587), skarndaudwls1(216)
