@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-11-04 14:38:00 KST
+- 점검 시각: 2026-11-04 15:08:05 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 313
+- 파일 개수: 314
 - 디렉토리 개수: 34
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/integrationTest, src/integrationTest/java, src/integrationTest/java/kr, src/integrationTest/java/kr/silverbridge, src/integrationTest/java/kr/silverbridge/main, src/integrationTest/java/kr/silverbridge/main/domain, src/integrationTest/java/kr/silverbridge/main/global, src/integrationTest/java/kr/silverbridge/main/migration, src/integrationTest/java/kr/silverbridge/main/support, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration
@@ -57,24 +57,24 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1494
+- 총 커밋 수: 1501
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 1215
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 1220
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
   - gosky <gosky@gosky.kr>: 2
-- 최근 커밋: beb16f5 / namgung <skarndaudwls@gmail.com> / Merge pull request #444 from Dongyang-Mirae-University-software/fix/chat-profile-context
+- 최근 커밋: b434dfc5 / namgung <skarndaudwls@gmail.com> / Merge pull request #446 from Dongyang-Mirae-University-software/fix/user-notification-inbox-audit
 
 ## 최근 수정 파일
 
+- docs/progress.md (2026-11-04 14:40:54 KST)
+- docs/(2026-11-04) audit-user-notification-inbox.md (2026-11-04 14:40:54 KST)
+- docs/(2026-11-04) feature-user-notification-inbox.md (2026-11-04 14:40:54 KST)
+- docs/audit-index.md (2026-11-04 14:40:54 KST)
+- docs/(2026-11-04) audit-ai-reservation-choice-only.md (2026-11-04 14:39:27 KST)
 - docs/(2026-11-04) audit-chat-self-identity-context.md (2026-11-04 14:20:08 KST)
-- docs/audit-index.md (2026-11-04 14:20:08 KST)
-- docs/progress.md (2026-11-04 14:20:08 KST)
 - docs/(2026-11-04) audit-impact-medication-reminder-guardian-toggle.md (2026-11-04 14:15:41 KST)
 - src/main/resources/db/migration/V67__add_notification_log_read_at.sql (2026-11-04 14:12:24 KST)
-- docs/(2026-11-04) audit-ai-reservation-choice-only.md (2026-11-04 14:12:24 KST)
-- docs/(2026-11-04) feature-user-notification-inbox.md (2026-11-04 14:12:24 KST)
-- docs/(2026-11-04) fix-medication-reminder-guardian-toggle.md (2026-11-04 14:03:55 KST)
 
 ## 점검 결과 요약
 
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1494
-- Git 상위 계정: skarndaudwls1(1215), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1501
+- Git 상위 계정: skarndaudwls1(1220), skarndaudwls1(65), gosky(4)
