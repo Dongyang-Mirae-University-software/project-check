@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-04 15:38:11 KST
+- 점검 시각: 2026-11-04 16:08:17 KST
 
 ## 추정 기술 스택
 
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1809
+- 총 커밋 수: 1811
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 588
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 222
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 223
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 862947b / namgung <skarndaudwls@gmail.com> / Merge pull request #217 from Dongyang-Mirae-University-software/fix/chatbot-reservation-audit
+- 최근 커밋: 1268a2d / namgung <skarndaudwls@gmail.com> / Merge pull request #218 from Dongyang-Mirae-University-software/design/chatbot-date-calendar-direct
 
 ## 최근 수정 파일
 
+- src/components/chatbot/ChatbotReservation.browser.test.tsx (2026-11-04 15:55:46 KST)
+- src/components/chatbot/ChatUiPrompt.browser.test.tsx (2026-11-04 15:55:46 KST)
+- src/components/chatbot/ChatUiPrompt.tsx (2026-11-04 15:55:46 KST)
 - src/service/interface/chat.ts (2026-11-04 15:36:14 KST)
 - src/components/chatbot/ChatbotContent.tsx (2026-11-04 15:36:13 KST)
-- src/components/chatbot/ChatbotReservation.browser.test.tsx (2026-11-04 15:36:13 KST)
 - src/components/chatbot/ChatToolCard.tsx (2026-11-04 15:36:13 KST)
 - src/components/chatbot/breakSentences.test.ts (2026-11-04 15:23:36 KST)
 - src/components/chatbot/breakSentences.ts (2026-11-04 15:23:36 KST)
-- src/components/chatbot/ChatBubble.browser.test.tsx (2026-11-04 15:23:36 KST)
-- src/components/chatbot/ChatBubble.module.css (2026-11-04 15:23:36 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1809
-- Git 상위 계정: YUNA0222(1400), yuna0222(588), skarndaudwls1(222)
+- Git 커밋 수: 1811
+- Git 상위 계정: YUNA0222(1400), yuna0222(588), skarndaudwls1(223)

@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-04 15:38:11 KST
+- 점검 시각: 2026-11-04 16:08:16 KST
 
 ## 추정 기술 스택
 
@@ -14,7 +14,9 @@
 - PostgreSQL
 - PyTorch
 - Transformers
+- Node.js
 - fastapi
+- express
 - Frontend
 - Backend
 - AI
@@ -44,7 +46,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 3879
+- 파일 개수: 3884
 - 디렉토리 개수: 140
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
 - 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/utils, models, models/new, models/new/backup, tests, tests/eval
@@ -65,31 +67,31 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 443
+- 총 커밋 수: 449
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 212
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 219
   - gosky <lovesky00317@gmail.com>: 37
+  - Jaehe-he <hywuljh1@naver.com>: 20
   - gosky <gosky@gosky.kr>: 16
-  - Jaehe-he <hywuljh1@naver.com>: 16
   - namgung <skarndaudwls@gmail.com>: 11
-- 최근 커밋: 5ef9e54 / namgung <skarndaudwls@gmail.com> / Merge pull request #173 from Dongyang-Mirae-University-software/feature/ward-concise-reply
+- 최근 커밋: 97307e2 / namgung <skarndaudwls@gmail.com> / Merge pull request #175 from Dongyang-Mirae-University-software/feature/reservation-date-choices
 
 ## 최근 수정 파일
 
-- data/postgres/pg_wal/000000010000000000000008 (2026-11-04 15:38:00 KST)
-- data/postgres/global/pg_control (2026-11-04 15:35:01 KST)
-- data/postgres/base/16384/33564 (2026-11-04 15:35:01 KST)
-- data/postgres/base/16384/32958 (2026-11-04 15:35:01 KST)
-- data/postgres/base/16384/32957 (2026-11-04 15:35:00 KST)
-- data/postgres/base/16384/32956 (2026-11-04 15:35:00 KST)
-- data/postgres/base/16384/32955 (2026-11-04 15:35:00 KST)
-- data/postgres/base/16384/32950 (2026-11-04 15:35:00 KST)
+- data/postgres/pg_wal/000000010000000000000009 (2026-11-04 16:08:05 KST)
+- data/postgres/global/pg_control (2026-11-04 16:05:00 KST)
+- data/postgres/base/16384/33564 (2026-11-04 16:05:00 KST)
+- data/postgres/base/16384/32948 (2026-11-04 16:05:00 KST)
+- data/postgres/base/16384/32947 (2026-11-04 16:04:59 KST)
+- data/postgres/base/16384/32946 (2026-11-04 16:04:59 KST)
+- data/postgres/base/16384/32945 (2026-11-04 16:04:58 KST)
+- data/postgres/base/16384/32939 (2026-11-04 16:04:58 KST)
 
 ## 점검 결과 요약
 
 - 분류: AI 서버
-- 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, fastapi, Frontend, Backend, AI
+- 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 443
-- Git 상위 계정: skarndaudwls1(212), gosky(37), gosky(16)
+- Git 커밋 수: 449
+- Git 상위 계정: skarndaudwls1(219), gosky(37), Jaehe-he(20)
