@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-05 20:44:47 KST
+- 점검 시각: 2026-11-05 21:14:53 KST
 
 ## 추정 기술 스택
 
@@ -46,21 +46,21 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2643
-- 디렉토리 개수: 92
+- 파일 개수: 2663
+- 디렉토리 개수: 101
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
-- 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/utils, models, models/companion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b, models/companion/llm/exaone-3.5-2.4b/assets, models/companion/stt-sensevoice, models/companion/stt-sensevoice/example, models/companion/stt-sensevoice/image
+- 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/utils, models, models/companion, models/companion/face-detect, models/companion/face-emotion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b, models/companion/llm/exaone-3.5-2.4b/assets, models/companion/stt-sensevoice
 
 ## DB 사용 여부
 
 - 사용 여부: 예
 - 연결 추정 DB: PostgreSQL, SQLite
-- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 206개 확인, 추정 DB: PostgreSQL, SQLite
+- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 207개 확인, 추정 DB: PostgreSQL, SQLite
 
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1000, 2000, 2048, 2300, 4096, 5432, 6012, 6015, 6017, 6019, 6667, 6707, 7673, 7920, 8386, 8856, 10204, 10695, 11476, 11482, 11583, 11922, 13216, 13527, 14947, 15473, 17271, 17529, 18014, 18260, 33909, 38539, 40124, 40665, 41758, 43626, 58309, 61464
+- 관련 포트: 1000, 2000, 2048, 2300, 4096, 5432, 6012, 6015, 6017, 6019, 6667, 6707, 7673, 7920, 8386, 8856, 10204, 10695, 11476, 11482, 11583, 11922, 13216, 13527, 14947, 15473, 17271, 17529, 18014, 18260, 33909, 41758, 43626, 58309, 61464
 - 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
@@ -78,14 +78,14 @@
 
 ## 최근 수정 파일
 
-- models/companion/stt-sensevoice/model.pt (2026-11-05 20:44:47 KST)
-- data/postgres/pg_wal/000000010000000000000009 (2026-11-05 17:05:54 KST)
-- data/postgres/global/pg_control (2026-11-05 17:05:33 KST)
-- data/postgres/base/16384/33564 (2026-11-05 17:05:33 KST)
-- data/postgres/base/16384/32948 (2026-11-05 17:05:33 KST)
-- data/postgres/base/16384/32947 (2026-11-05 17:05:33 KST)
-- data/postgres/base/16384/32946 (2026-11-05 17:05:33 KST)
-- data/postgres/base/16384/32945 (2026-11-05 17:05:33 KST)
+- data/companion_review.db (2026-11-05 21:10:06 KST)
+- data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/1ace727f04951a05/configuration_exaone.py (2026-11-05 21:10:02 KST)
+- data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/1ace727f04951a05/modeling_exaone.py (2026-11-05 21:10:02 KST)
+- data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/1ace727f04951a05/__init__.py (2026-11-05 21:10:02 KST)
+- data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/5863a128f81724ac/__init__.py (2026-11-05 21:10:02 KST)
+- data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/5863a128f81724ac/configuration_exaone.py (2026-11-05 21:10:02 KST)
+- data/huggingface/modules/__init__.py (2026-11-05 21:10:02 KST)
+- data/huggingface/modules/transformers_modules/__init__.py (2026-11-05 21:10:02 KST)
 
 ## 점검 결과 요약
 

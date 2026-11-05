@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-05T11:44:45.504Z",
-  "generatedAtKst": "2026-11-05 20:44:45 KST",
+  "generatedAt": "2026-11-05T12:14:51.208Z",
+  "generatedAtKst": "2026-11-05 21:14:51 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8559
+          "count": 8560
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 8605
+      "count": 8606
     },
     {
       "name": "skarndaudwls1",
@@ -1617,22 +1617,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8422,
+        "commitCount": 8423,
         "authors": [
           {
-            "count": 8422,
+            "count": 8423,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "6dfb93fa2",
+          "hash": "249c5a2de",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-05T20:14:43+09:00",
+          "date": "2026-11-05T20:44:49+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8422개 커밋, 상위 계정: gosky(8422), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8423개 커밋, 상위 계정: gosky(8423), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1673,8 +1673,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8422",
-        "Git 상위 계정: gosky(8422)"
+        "Git 커밋 수: 8423",
+        "Git 상위 계정: gosky(8423)"
       ]
     },
     {
@@ -1997,7 +1997,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 5 hours",
+            "status": "Up 3 minutes",
             "ports": ""
           }
         ],
@@ -2185,8 +2185,8 @@
         }
       ],
       "structure": {
-        "fileCount": 2643,
-        "dirCount": 92,
+        "fileCount": 2663,
+        "dirCount": 101,
         "mainFolders": [
           "app",
           "data",
@@ -2211,12 +2211,12 @@
           "app/utils",
           "models",
           "models/companion",
+          "models/companion/face-detect",
+          "models/companion/face-emotion",
           "models/companion/llm",
           "models/companion/llm/exaone-3.5-2.4b",
           "models/companion/llm/exaone-3.5-2.4b/assets",
-          "models/companion/stt-sensevoice",
-          "models/companion/stt-sensevoice/example",
-          "models/companion/stt-sensevoice/image"
+          "models/companion/stt-sensevoice"
         ]
       },
       "database": {
@@ -2229,7 +2229,7 @@
         "evidence": [
           "docker-compose.yml 확인",
           "requirements.txt 확인",
-          ".env 키 206개 확인",
+          ".env 키 207개 확인",
           "추정 DB: PostgreSQL, SQLite"
         ],
         "summary": "PostgreSQL, SQLite 사용 추정"
@@ -2242,7 +2242,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 5 hours",
+            "status": "Up 3 minutes",
             "ports": ""
           }
         ],
@@ -2285,9 +2285,6 @@
           18014,
           18260,
           33909,
-          38539,
-          40124,
-          40665,
           41758,
           43626,
           58309,
@@ -2342,36 +2339,36 @@
       },
       "recentFiles": [
         {
-          "path": "models/companion/stt-sensevoice/model.pt",
-          "modifiedAt": "2026-11-05T11:44:47.529Z"
+          "path": "data/companion_review.db",
+          "modifiedAt": "2026-11-05T12:10:06.682Z"
         },
         {
-          "path": "data/postgres/pg_wal/000000010000000000000009",
-          "modifiedAt": "2026-11-05T08:05:54.292Z"
+          "path": "data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/1ace727f04951a05/configuration_exaone.py",
+          "modifiedAt": "2026-11-05T12:10:02.554Z"
         },
         {
-          "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-11-05T08:05:33.993Z"
+          "path": "data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/1ace727f04951a05/modeling_exaone.py",
+          "modifiedAt": "2026-11-05T12:10:02.554Z"
         },
         {
-          "path": "data/postgres/base/16384/33564",
-          "modifiedAt": "2026-11-05T08:05:33.893Z"
+          "path": "data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/1ace727f04951a05/__init__.py",
+          "modifiedAt": "2026-11-05T12:10:02.550Z"
         },
         {
-          "path": "data/postgres/base/16384/32948",
-          "modifiedAt": "2026-11-05T08:05:33.793Z"
+          "path": "data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/5863a128f81724ac/__init__.py",
+          "modifiedAt": "2026-11-05T12:10:02.406Z"
         },
         {
-          "path": "data/postgres/base/16384/32947",
-          "modifiedAt": "2026-11-05T08:05:33.693Z"
+          "path": "data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/5863a128f81724ac/configuration_exaone.py",
+          "modifiedAt": "2026-11-05T12:10:02.406Z"
         },
         {
-          "path": "data/postgres/base/16384/32946",
-          "modifiedAt": "2026-11-05T08:05:33.593Z"
+          "path": "data/huggingface/modules/__init__.py",
+          "modifiedAt": "2026-11-05T12:10:02.402Z"
         },
         {
-          "path": "data/postgres/base/16384/32945",
-          "modifiedAt": "2026-11-05T08:05:33.493Z"
+          "path": "data/huggingface/modules/transformers_modules/__init__.py",
+          "modifiedAt": "2026-11-05T12:10:02.402Z"
         }
       ],
       "summary": [

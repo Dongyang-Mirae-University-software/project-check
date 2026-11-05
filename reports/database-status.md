@@ -1,6 +1,6 @@
 # 데이터베이스 상태
 
-- 스캔 시각: 2026-11-05 20:44:49 KST
+- 스캔 시각: 2026-11-05 21:14:55 KST
 
 | 프로젝트 | DB 사용 여부 | 추정 DB | 실행 상태 | 관련 포트 | 관련 컨테이너 |
 | --- | --- | --- | --- | --- | --- |
@@ -14,7 +14,7 @@
 | project-check | 예 | MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle | 실행 중 | 1000, 1024, 1234, 1280, 1400, 1433, 1500, 1521, 2026, 2700, 3306, 5432, 6379, 8080, 8456, 26214, 27017 | 확인 불가 |
 | RemotionVideo | 아니오 | 확인 불가 | 정지 | 1500, 44100 | 확인 불가 |
 | SilverBridgeAi | 아니오 | 확인 불가 | 실행 중 | 1000, 1234, 1280, 1500, 2026, 2700, 8080, 8456 | silverbridge-ai-server |
-| SilverBridgeAiServer | 예 | PostgreSQL, SQLite | 실행 중 | 1000, 2000, 2048, 2300, 4096, 5432, 6012, 6015, 6017, 6019, 6667, 6707, 7673, 7920, 8386, 8856, 10204, 10695, 11476, 11482, 11583, 11922, 13216, 13527, 14947, 15473, 17271, 17529, 18014, 18260, 33909, 38539, 40124, 40665, 41758, 43626, 58309, 61464 | silverbridge-ai-server |
+| SilverBridgeAiServer | 예 | PostgreSQL, SQLite | 실행 중 | 1000, 2000, 2048, 2300, 4096, 5432, 6012, 6015, 6017, 6019, 6667, 6707, 7673, 7920, 8386, 8856, 10204, 10695, 11476, 11482, 11583, 11922, 13216, 13527, 14947, 15473, 17271, 17529, 18014, 18260, 33909, 41758, 43626, 58309, 61464 | silverbridge-ai-server |
 | SilverBridgeBe | 예 | PostgreSQL, Redis | 실행 중 | 1024, 1536, 2000, 3000, 5173, 5432, 6011, 6013, 6014, 6015, 6379, 6510, 6511, 6513, 6514, 8080, 10000, 10485, 18000, 52428, 60480 | 확인 불가 |
 | SilverBridgeFe | 아니오 | 확인 불가 | 실행 중 | 1900, 3000, 4000, 6000, 6010, 6015, 6510, 8000, 30000, 60836 | 확인 불가 |
 | SilverBridgeJH | 아니오 | 확인 불가 | 정지 | 확인 불가 | 확인 불가 |
@@ -49,7 +49,7 @@
 - SilverBridgeAi: DB 사용 흔적 없음
   - 근거: requirements.txt 확인, .env 키 8개 확인
 - SilverBridgeAiServer: PostgreSQL, SQLite 사용 추정
-  - 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 206개 확인, 추정 DB: PostgreSQL, SQLite
+  - 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 207개 확인, 추정 DB: PostgreSQL, SQLite
 - SilverBridgeBe: PostgreSQL, Redis 사용 추정
   - 근거: docker-compose.yml 확인, application.yml 확인, 추정 DB: PostgreSQL, Redis
 - SilverBridgeFe: DB 사용 흔적 없음
