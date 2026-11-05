@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-05T11:14:39.623Z",
-  "generatedAtKst": "2026-11-05 20:14:39 KST",
+  "generatedAt": "2026-11-05T11:44:45.504Z",
+  "generatedAtKst": "2026-11-05 20:44:45 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8558
+          "count": 8559
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 8604
+      "count": 8605
     },
     {
       "name": "skarndaudwls1",
@@ -1617,22 +1617,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8421,
+        "commitCount": 8422,
         "authors": [
           {
-            "count": 8421,
+            "count": 8422,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "9e7703d77",
+          "hash": "6dfb93fa2",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-05T19:44:37+09:00",
+          "date": "2026-11-05T20:14:43+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8421개 커밋, 상위 계정: gosky(8421), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8422개 커밋, 상위 계정: gosky(8422), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1673,8 +1673,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8421",
-        "Git 상위 계정: gosky(8421)"
+        "Git 커밋 수: 8422",
+        "Git 상위 계정: gosky(8422)"
       ]
     },
     {
@@ -2185,8 +2185,8 @@
         }
       ],
       "structure": {
-        "fileCount": 2611,
-        "dirCount": 89,
+        "fileCount": 2643,
+        "dirCount": 92,
         "mainFolders": [
           "app",
           "data",
@@ -2214,9 +2214,9 @@
           "models/companion/llm",
           "models/companion/llm/exaone-3.5-2.4b",
           "models/companion/llm/exaone-3.5-2.4b/assets",
-          "models/new",
-          "models/new/backup",
-          "tests"
+          "models/companion/stt-sensevoice",
+          "models/companion/stt-sensevoice/example",
+          "models/companion/stt-sensevoice/image"
         ]
       },
       "database": {
@@ -2342,8 +2342,8 @@
       },
       "recentFiles": [
         {
-          "path": "models/companion/llm/exaone-3.5-2.4b/model-00001-of-00002.safetensors",
-          "modifiedAt": "2026-11-05T11:14:41.725Z"
+          "path": "models/companion/stt-sensevoice/model.pt",
+          "modifiedAt": "2026-11-05T11:44:47.529Z"
         },
         {
           "path": "data/postgres/pg_wal/000000010000000000000009",

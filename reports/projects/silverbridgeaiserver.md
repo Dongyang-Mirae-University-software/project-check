@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-05 20:14:41 KST
+- 점검 시각: 2026-11-05 20:44:47 KST
 
 ## 추정 기술 스택
 
@@ -46,10 +46,10 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2611
-- 디렉토리 개수: 89
+- 파일 개수: 2643
+- 디렉토리 개수: 92
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
-- 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/utils, models, models/companion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b, models/companion/llm/exaone-3.5-2.4b/assets, models/new, models/new/backup, tests
+- 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/utils, models, models/companion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b, models/companion/llm/exaone-3.5-2.4b/assets, models/companion/stt-sensevoice, models/companion/stt-sensevoice/example, models/companion/stt-sensevoice/image
 
 ## DB 사용 여부
 
@@ -78,7 +78,7 @@
 
 ## 최근 수정 파일
 
-- models/companion/llm/exaone-3.5-2.4b/model-00001-of-00002.safetensors (2026-11-05 20:14:41 KST)
+- models/companion/stt-sensevoice/model.pt (2026-11-05 20:44:47 KST)
 - data/postgres/pg_wal/000000010000000000000009 (2026-11-05 17:05:54 KST)
 - data/postgres/global/pg_control (2026-11-05 17:05:33 KST)
 - data/postgres/base/16384/33564 (2026-11-05 17:05:33 KST)
