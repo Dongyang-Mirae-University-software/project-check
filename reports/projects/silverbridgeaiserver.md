@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-05 21:44:59 KST
+- 점검 시각: 2026-11-05 22:15:05 KST
 
 ## 추정 기술 스택
 
@@ -69,7 +69,7 @@
 - 브랜치: main
 - 총 커밋 수: 483
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 227
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 237
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 24
   - gosky <gosky@gosky.kr>: 16
@@ -94,4 +94,4 @@
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
 - Git 커밋 수: 483
-- Git 상위 계정: skarndaudwls1(227), gosky(37), Jaehe-he(24)
+- Git 상위 계정: skarndaudwls1(237), gosky(37), Jaehe-he(24)
