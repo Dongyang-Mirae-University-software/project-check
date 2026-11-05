@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-05T04:13:19.044Z",
-  "generatedAtKst": "2026-11-05 13:13:19 KST",
+  "generatedAt": "2026-11-05T04:43:24.627Z",
+  "generatedAtKst": "2026-11-05 13:43:24 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8544
+          "count": 8545
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 8590
+      "count": 8591
     },
     {
       "name": "skarndaudwls1",
@@ -1617,22 +1617,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8407,
+        "commitCount": 8408,
         "authors": [
           {
-            "count": 8407,
+            "count": 8408,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "52cce69cd",
+          "hash": "3cbf37542",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-05T12:43:17+09:00",
+          "date": "2026-11-05T13:13:22+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8407개 커밋, 상위 계정: gosky(8407), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8408개 커밋, 상위 계정: gosky(8408), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1673,8 +1673,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8407",
-        "Git 상위 계정: gosky(8407)"
+        "Git 커밋 수: 8408",
+        "Git 상위 계정: gosky(8408)"
       ]
     },
     {
@@ -1997,7 +1997,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 27 minutes",
+            "status": "Up 57 minutes",
             "ports": ""
           }
         ],
@@ -2239,7 +2239,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 27 minutes",
+            "status": "Up 57 minutes",
             "ports": ""
           }
         ],
@@ -2281,18 +2281,11 @@
           18014,
           18260,
           33909,
-          37625,
           38539,
-          39188,
-          39328,
-          39390,
-          39446,
           39696,
           40124,
-          40312,
           40489,
           40665,
-          40776,
           41480,
           41758,
           42932,
@@ -2349,36 +2342,36 @@
       },
       "recentFiles": [
         {
-          "path": "app/services/chat_keywords.py",
-          "modifiedAt": "2026-11-05T03:45:48.836Z"
+          "path": "data/postgres/pg_wal/000000010000000000000009",
+          "modifiedAt": "2026-11-05T04:30:30.484Z"
         },
         {
-          "path": "app/services/chat_service.py",
-          "modifiedAt": "2026-11-05T03:45:48.836Z"
+          "path": "data/postgres/global/pg_control",
+          "modifiedAt": "2026-11-05T04:30:29.680Z"
         },
         {
-          "path": "docs/audits/2026-11-04-router-emergency-audit.md",
-          "modifiedAt": "2026-11-05T03:45:48.836Z"
+          "path": "data/postgres/base/16384/33564",
+          "modifiedAt": "2026-11-05T04:30:29.580Z"
         },
         {
-          "path": "tests/test_chat_fallback_emergency_actions.py",
-          "modifiedAt": "2026-11-05T03:45:48.836Z"
+          "path": "data/postgres/base/16384/32948",
+          "modifiedAt": "2026-11-05T04:30:29.480Z"
         },
         {
-          "path": "docs/eval-results/2026-11-05-lifestyle-route-audit.md",
-          "modifiedAt": "2026-11-05T03:36:13.866Z"
+          "path": "data/postgres/base/16384/32947",
+          "modifiedAt": "2026-11-05T04:30:29.380Z"
         },
         {
-          "path": "tests/test_chat_quality_holdout_v4.py",
-          "modifiedAt": "2026-11-05T03:36:13.866Z"
+          "path": "data/postgres/base/16384/32946",
+          "modifiedAt": "2026-11-05T04:30:29.280Z"
         },
         {
-          "path": "app/services/medical_llm_service.py",
-          "modifiedAt": "2026-11-05T03:36:13.862Z"
+          "path": "data/postgres/base/16384/32945",
+          "modifiedAt": "2026-11-05T04:30:29.180Z"
         },
         {
-          "path": ".env",
-          "modifiedAt": "2026-11-04T14:02:59.353Z"
+          "path": "data/postgres/base/16384/32939",
+          "modifiedAt": "2026-11-05T04:30:29.080Z"
         }
       ],
       "summary": [
