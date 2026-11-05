@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-05 14:43:38 KST
+- 점검 시각: 2026-11-05 15:13:43 KST
 
 ## 추정 기술 스택
 
@@ -46,7 +46,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2600
+- 파일 개수: 2601
 - 디렉토리 개수: 83
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
 - 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/utils, models, models/new, models/new/backup, tests, tests/eval
@@ -60,7 +60,7 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1000, 2048, 2300, 4096, 5432, 6012, 6015, 6017, 6019, 6667, 6707, 7673, 7920, 8386, 8856, 10204, 10695, 11476, 11482, 11583, 11922, 13216, 13527, 14947, 15473, 17271, 17529, 18014, 18260, 33909, 38539, 39696, 40124, 40489, 40665, 41480, 41758, 42932, 43626, 58309, 61464
+- 관련 포트: 1000, 2048, 2300, 4096, 5432, 6012, 6015, 6017, 6019, 6667, 6707, 7673, 7920, 8386, 8856, 10204, 10695, 11476, 11482, 11583, 11922, 13216, 13527, 14947, 15473, 17271, 17529, 18014, 18260, 33909, 38539, 39696, 40124, 40665, 41480, 41758, 42932, 43626, 58309, 61464
 - 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
@@ -78,6 +78,7 @@
 
 ## 최근 수정 파일
 
+- data/companion_review.db (2026-11-05 15:03:30 KST)
 - data/postgres/pg_wal/000000010000000000000009 (2026-11-05 13:30:30 KST)
 - data/postgres/global/pg_control (2026-11-05 13:30:29 KST)
 - data/postgres/base/16384/33564 (2026-11-05 13:30:29 KST)
@@ -85,7 +86,6 @@
 - data/postgres/base/16384/32947 (2026-11-05 13:30:29 KST)
 - data/postgres/base/16384/32946 (2026-11-05 13:30:29 KST)
 - data/postgres/base/16384/32945 (2026-11-05 13:30:29 KST)
-- data/postgres/base/16384/32939 (2026-11-05 13:30:29 KST)
 
 ## 점검 결과 요약
 
