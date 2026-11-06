@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-06 17:48:55 KST
+- 점검 시각: 2026-11-06 18:19:01 KST
 
 ## 추정 기술 스택
 
@@ -46,7 +46,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2669
+- 파일 개수: 2671
 - 디렉토리 개수: 101
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
 - 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/utils, models, models/companion, models/companion/face-detect, models/companion/face-emotion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b, models/companion/llm/exaone-3.5-2.4b/assets, models/companion/stt-sensevoice
@@ -67,25 +67,25 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 499
+- 총 커밋 수: 501
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 238
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 239
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 24
   - gosky <gosky@gosky.kr>: 16
   - namgung <skarndaudwls@gmail.com>: 11
-- 최근 커밋: 181d308 / namgung <skarndaudwls@gmail.com> / Merge pull request #186 from Dongyang-Mirae-University-software/fix/quality-v5-audit
+- 최근 커밋: 877a3d9 / namgung <skarndaudwls@gmail.com> / Merge pull request #187 from Dongyang-Mirae-University-software/fix/router-fallback-emergency
 
 ## 최근 수정 파일
 
+- app/services/chat_service.py (2026-11-06 18:13:16 KST)
+- docs/eval-results/2026-11-06-router-fallback-emergency-audit.md (2026-11-06 18:13:16 KST)
+- tests/test_router_fallback_emergency.py (2026-11-06 18:13:16 KST)
+- app/services/chat_keywords.py (2026-11-06 18:13:16 KST)
 - app/services/medical_llm_service.py (2026-11-06 17:24:05 KST)
 - docs/eval-results/2026-11-06-quality-v5-audit.md (2026-11-06 17:24:05 KST)
 - tests/test_chat_quality_holdout_v5.py (2026-11-06 17:24:05 KST)
 - docs/tools/replay-offline.md (2026-11-06 17:02:02 KST)
-- tests/eval/holdout_set_v5.json (2026-11-06 17:02:02 KST)
-- tests/test_claude_prompt_cache_and_replay_tool.py (2026-11-06 17:02:02 KST)
-- tools/eval/replay_offline.py (2026-11-06 17:02:02 KST)
-- app/prompts/medical_chat_prompts.py (2026-11-06 17:02:02 KST)
 
 ## 점검 결과 요약
 
@@ -93,5 +93,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 499
-- Git 상위 계정: skarndaudwls1(238), gosky(37), Jaehe-he(24)
+- Git 커밋 수: 501
+- Git 상위 계정: skarndaudwls1(239), gosky(37), Jaehe-he(24)
