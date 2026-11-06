@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-06 11:17:41 KST
+- 점검 시각: 2026-11-06 11:47:47 KST
 
 ## 추정 기술 스택
 
@@ -37,8 +37,8 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 758
-- 디렉토리 개수: 151
+- 파일 개수: 775
+- 디렉토리 개수: 155
 - 주요 폴더: docs, public, scripts, src
 - 주요 경로: public, public/icons, public/icons/push, public/images, src, src/app, src/app/(admin), src/app/(admin)/admin, src/app/(admin)/admin/_components, src/app/(admin)/admin/ai-stats, src/app/(admin)/admin/devices, src/app/(admin)/admin/hospitals, src/app/(admin)/admin/inquiries, src/app/(admin)/admin/members, src/app/(admin)/admin/notices, src/app/(admin)/admin/notifications, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/@modal, src/app/(auth)/@modal/(.)find-email
 
@@ -51,33 +51,33 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1900, 3000, 4000, 6000, 6010, 6015, 6510, 8000, 30000, 60836
+- 관련 포트: 1200, 1900, 3000, 4000, 6000, 6010, 6015, 6510, 8000, 30000, 60836
 - 관련 Docker 컨테이너: 확인 불가
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1826
+- 총 커밋 수: 1845
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
-  - yuna0222 <gold8077@gmail.com>: 594
+  - yuna0222 <gold8077@gmail.com>: 613
   - skarndaudwls1 <skarndaudwls@gmail.com>: 227
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 111457e / namgung <skarndaudwls@gmail.com> / Merge pull request #222 from Dongyang-Mirae-University-software/design/chat-history-sentence-break
+- 최근 커밋: 25863fa9 / yuna0222 <gold8077@gmail.com> / Fix: 챗봇 입력창 높이에 테두리를 빼먹어 '직접 쓰기'가 위로 붙던 것 - 위아래 여백을 같게
 
 ## 최근 수정 파일
 
-- src/components/chatbot/ChatbotContent.module.css (2026-11-05 12:38:14 KST)
-- src/components/chatbot/ChatbotContent.tsx (2026-11-05 12:38:14 KST)
-- src/components/chatbot/ChatbotContent.browser.test.tsx (2026-11-05 12:38:14 KST)
-- docs/(2026-11-04) audit-ward-chat-sentence-break.md (2026-11-05 12:30:25 KST)
-- src/app/(admin)/admin/_components/AdminAiStatsContent.browser.test.tsx (2026-11-05 12:30:25 KST)
-- src/app/(admin)/admin/_components/AdminAiStatsContent.module.css (2026-11-05 12:30:25 KST)
-- src/app/(admin)/admin/_components/AdminAiStatsContent.tsx (2026-11-05 12:30:25 KST)
-- src/app/(admin)/admin/_components/AdminDashboardContent.module.css (2026-11-05 12:30:25 KST)
+- src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx (2026-11-06 11:32:50 KST)
+- src/app/(ward)/ward/companion/_components/WardCompanionContent.module.css (2026-11-06 11:32:50 KST)
+- src/app/(ward)/ward/companion/_components/WardCompanionContent.tsx (2026-11-06 11:32:50 KST)
+- src/app/(ward)/ward/companion/page.tsx (2026-11-06 11:32:50 KST)
+- src/app/globals.css (2026-11-06 11:32:50 KST)
+- src/components/chatbot/ChatbotContent.module.css (2026-11-06 11:32:50 KST)
+- src/components/chatbot/ChatbotContent.tsx (2026-11-06 11:32:50 KST)
+- src/components/chatbot/useVoiceInput.ts (2026-11-06 11:32:50 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1826
-- Git 상위 계정: YUNA0222(1400), yuna0222(594), skarndaudwls1(227)
+- Git 커밋 수: 1845
+- Git 상위 계정: YUNA0222(1400), yuna0222(613), skarndaudwls1(227)
