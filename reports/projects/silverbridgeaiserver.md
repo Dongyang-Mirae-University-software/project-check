@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-07 24:50:20 KST
+- 점검 시각: 2026-11-07 01:20:25 KST
 
 ## 추정 기술 스택
 
@@ -55,7 +55,7 @@
 
 - 사용 여부: 예
 - 연결 추정 DB: PostgreSQL, SQLite
-- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 207개 확인, 추정 DB: PostgreSQL, SQLite
+- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 206개 확인, 추정 DB: PostgreSQL, SQLite
 
 ## 실행 상태
 
@@ -78,6 +78,7 @@
 
 ## 최근 수정 파일
 
+- .env (2026-11-07 24:51:33 KST)
 - app/services/chat_service.py (2026-11-06 18:13:16 KST)
 - docs/eval-results/2026-11-06-router-fallback-emergency-audit.md (2026-11-06 18:13:16 KST)
 - tests/test_router_fallback_emergency.py (2026-11-06 18:13:16 KST)
@@ -85,7 +86,6 @@
 - app/services/medical_llm_service.py (2026-11-06 17:24:05 KST)
 - docs/eval-results/2026-11-06-quality-v5-audit.md (2026-11-06 17:24:05 KST)
 - tests/test_chat_quality_holdout_v5.py (2026-11-06 17:24:05 KST)
-- docs/tools/replay-offline.md (2026-11-06 17:02:02 KST)
 
 ## 점검 결과 요약
 

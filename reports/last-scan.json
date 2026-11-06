@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-06T15:50:18.689Z",
-  "generatedAtKst": "2026-11-07 24:50:18 KST",
+  "generatedAt": "2026-11-06T16:20:23.809Z",
+  "generatedAtKst": "2026-11-07 01:20:23 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8615
+          "count": 8616
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 8661
+      "count": 8662
     },
     {
       "name": "skarndaudwls1",
@@ -1617,22 +1617,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8478,
+        "commitCount": 8479,
         "authors": [
           {
-            "count": 8478,
+            "count": 8479,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "d1554d0e3",
+          "hash": "76861a8eb",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-07T00:20:16+09:00",
+          "date": "2026-11-07T00:50:21+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8478개 커밋, 상위 계정: gosky(8478), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8479개 커밋, 상위 계정: gosky(8479), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1673,8 +1673,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8478",
-        "Git 상위 계정: gosky(8478)"
+        "Git 커밋 수: 8479",
+        "Git 상위 계정: gosky(8479)"
       ]
     },
     {
@@ -2229,7 +2229,7 @@
         "evidence": [
           "docker-compose.yml 확인",
           "requirements.txt 확인",
-          ".env 키 207개 확인",
+          ".env 키 206개 확인",
           "추정 DB: PostgreSQL, SQLite"
         ],
         "summary": "PostgreSQL, SQLite 사용 추정"
@@ -2366,6 +2366,10 @@
       },
       "recentFiles": [
         {
+          "path": ".env",
+          "modifiedAt": "2026-11-06T15:51:33.358Z"
+        },
+        {
           "path": "app/services/chat_service.py",
           "modifiedAt": "2026-11-06T09:13:16.959Z"
         },
@@ -2392,10 +2396,6 @@
         {
           "path": "tests/test_chat_quality_holdout_v5.py",
           "modifiedAt": "2026-11-06T08:24:05.975Z"
-        },
-        {
-          "path": "docs/tools/replay-offline.md",
-          "modifiedAt": "2026-11-06T08:02:02.350Z"
         }
       ],
       "summary": [
