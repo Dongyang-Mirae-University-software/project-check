@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-06T07:48:42.159Z",
-  "generatedAtKst": "2026-11-06 16:48:42 KST",
+  "generatedAt": "2026-11-06T08:18:47.837Z",
+  "generatedAtKst": "2026-11-06 17:18:47 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8599
+          "count": 8600
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 8645
+      "count": 8646
     },
     {
       "name": "skarndaudwls1",
@@ -1617,22 +1617,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8462,
+        "commitCount": 8463,
         "authors": [
           {
-            "count": 8462,
+            "count": 8463,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "857197aa4",
+          "hash": "bd861a86e",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-06T16:18:40+09:00",
+          "date": "2026-11-06T16:48:46+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8462개 커밋, 상위 계정: gosky(8462), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8463개 커밋, 상위 계정: gosky(8463), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1673,8 +1673,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8462",
-        "Git 상위 계정: gosky(8462)"
+        "Git 커밋 수: 8463",
+        "Git 상위 계정: gosky(8463)"
       ]
     },
     {
@@ -1997,7 +1997,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 20 hours",
+            "status": "Up 11 minutes",
             "ports": ""
           }
         ],
@@ -2185,7 +2185,7 @@
         }
       ],
       "structure": {
-        "fileCount": 2663,
+        "fileCount": 2668,
         "dirCount": 101,
         "mainFolders": [
           "app",
@@ -2242,7 +2242,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 20 hours",
+            "status": "Up 11 minutes",
             "ports": ""
           }
         ],
@@ -2264,31 +2264,59 @@
           6015,
           6017,
           6019,
+          6583,
+          6612,
+          6637,
           6667,
           6707,
+          6846,
+          6900,
+          6901,
+          7103,
+          7269,
+          7417,
+          7422,
+          7494,
+          7642,
           7673,
+          7754,
+          7870,
+          7901,
           7920,
+          7924,
+          7983,
+          7995,
+          8284,
           8386,
+          8437,
           8856,
+          9468,
           10204,
           10695,
+          10729,
+          11098,
           11476,
           11482,
+          11532,
           11583,
+          11822,
+          11905,
           11922,
           13216,
           13527,
+          13695,
+          14069,
           14947,
           15473,
+          15674,
+          15799,
           17271,
           17529,
           18014,
           18260,
+          31418,
           33909,
-          41758,
-          43626,
-          58309,
-          61464
+          43626
         ],
         "summary": [
           "실행 중",
@@ -2300,7 +2328,7 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 483,
+        "commitCount": 497,
         "authors": [
           {
             "count": 237,
@@ -2329,46 +2357,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "045df8b",
+          "hash": "ae70dc5",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-05T13:14:27+09:00",
-          "subject": "Merge pull request #182 from Dongyang-Mirae-University-software/feat/router-prompt-cache"
+          "date": "2026-11-05T22:09:14+09:00",
+          "subject": "Merge pull request #185 from Dongyang-Mirae-University-software/fix/chat-quality-v5"
         },
-        "summary": "총 483개 커밋, 상위 계정: skarndaudwls1(237), gosky(37), Jaehe-he(24), 최근: Merge pull request #182 from Dongyang-Mirae-University-software/feat/router-prompt-cache"
+        "summary": "총 497개 커밋, 상위 계정: skarndaudwls1(237), gosky(37), Jaehe-he(24), 최근: Merge pull request #185 from Dongyang-Mirae-University-software/fix/chat-quality-v5"
       },
       "recentFiles": [
         {
-          "path": "data/companion_review.db",
-          "modifiedAt": "2026-11-05T12:10:06.682Z"
+          "path": "docs/tools/replay-offline.md",
+          "modifiedAt": "2026-11-06T08:02:02.350Z"
         },
         {
-          "path": "data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/1ace727f04951a05/configuration_exaone.py",
-          "modifiedAt": "2026-11-05T12:10:02.554Z"
+          "path": "tests/eval/holdout_set_v5.json",
+          "modifiedAt": "2026-11-06T08:02:02.350Z"
         },
         {
-          "path": "data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/1ace727f04951a05/modeling_exaone.py",
-          "modifiedAt": "2026-11-05T12:10:02.554Z"
+          "path": "tests/test_chat_quality_holdout_v5.py",
+          "modifiedAt": "2026-11-06T08:02:02.350Z"
         },
         {
-          "path": "data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/1ace727f04951a05/__init__.py",
-          "modifiedAt": "2026-11-05T12:10:02.550Z"
+          "path": "tests/test_claude_prompt_cache_and_replay_tool.py",
+          "modifiedAt": "2026-11-06T08:02:02.350Z"
         },
         {
-          "path": "data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/5863a128f81724ac/__init__.py",
-          "modifiedAt": "2026-11-05T12:10:02.406Z"
+          "path": "tools/eval/replay_offline.py",
+          "modifiedAt": "2026-11-06T08:02:02.350Z"
         },
         {
-          "path": "data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/5863a128f81724ac/configuration_exaone.py",
-          "modifiedAt": "2026-11-05T12:10:02.406Z"
+          "path": "app/prompts/medical_chat_prompts.py",
+          "modifiedAt": "2026-11-06T08:02:02.346Z"
         },
         {
-          "path": "data/huggingface/modules/__init__.py",
-          "modifiedAt": "2026-11-05T12:10:02.402Z"
+          "path": "app/services/medical_llm_service.py",
+          "modifiedAt": "2026-11-06T08:02:02.346Z"
         },
         {
-          "path": "data/huggingface/modules/transformers_modules/__init__.py",
-          "modifiedAt": "2026-11-05T12:10:02.402Z"
+          "path": "docs/audits/2026-10-30-chat-full-audit.md",
+          "modifiedAt": "2026-11-06T08:02:02.346Z"
         }
       ],
       "summary": [
@@ -2376,7 +2404,7 @@
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI",
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 483",
+        "Git 커밋 수: 497",
         "Git 상위 계정: skarndaudwls1(237), gosky(37), Jaehe-he(24)"
       ]
     },

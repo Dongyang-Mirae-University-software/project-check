@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-06 16:48:44 KST
+- 점검 시각: 2026-11-06 17:18:49 KST
 
 ## 추정 기술 스택
 
@@ -46,7 +46,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2663
+- 파일 개수: 2668
 - 디렉토리 개수: 101
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
 - 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/utils, models, models/companion, models/companion/face-detect, models/companion/face-emotion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b, models/companion/llm/exaone-3.5-2.4b/assets, models/companion/stt-sensevoice
@@ -60,32 +60,32 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1000, 2000, 2048, 2300, 4096, 5432, 6012, 6015, 6017, 6019, 6667, 6707, 7673, 7920, 8386, 8856, 10204, 10695, 11476, 11482, 11583, 11922, 13216, 13527, 14947, 15473, 17271, 17529, 18014, 18260, 33909, 41758, 43626, 58309, 61464
+- 관련 포트: 1000, 2000, 2048, 2300, 4096, 5432, 6012, 6015, 6017, 6019, 6583, 6612, 6637, 6667, 6707, 6846, 6900, 6901, 7103, 7269, 7417, 7422, 7494, 7642, 7673, 7754, 7870, 7901, 7920, 7924, 7983, 7995, 8284, 8386, 8437, 8856, 9468, 10204, 10695, 10729, 11098, 11476, 11482, 11532, 11583, 11822, 11905, 11922, 13216, 13527, 13695, 14069, 14947, 15473, 15674, 15799, 17271, 17529, 18014, 18260, 31418, 33909, 43626
 - 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 483
+- 총 커밋 수: 497
 - 계정별 커밋 수:
   - skarndaudwls1 <skarndaudwls@gmail.com>: 237
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 24
   - gosky <gosky@gosky.kr>: 16
   - namgung <skarndaudwls@gmail.com>: 11
-- 최근 커밋: 045df8b / namgung <skarndaudwls@gmail.com> / Merge pull request #182 from Dongyang-Mirae-University-software/feat/router-prompt-cache
+- 최근 커밋: ae70dc5 / namgung <skarndaudwls@gmail.com> / Merge pull request #185 from Dongyang-Mirae-University-software/fix/chat-quality-v5
 
 ## 최근 수정 파일
 
-- data/companion_review.db (2026-11-05 21:10:06 KST)
-- data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/1ace727f04951a05/configuration_exaone.py (2026-11-05 21:10:02 KST)
-- data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/1ace727f04951a05/modeling_exaone.py (2026-11-05 21:10:02 KST)
-- data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/1ace727f04951a05/__init__.py (2026-11-05 21:10:02 KST)
-- data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/5863a128f81724ac/__init__.py (2026-11-05 21:10:02 KST)
-- data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/5863a128f81724ac/configuration_exaone.py (2026-11-05 21:10:02 KST)
-- data/huggingface/modules/__init__.py (2026-11-05 21:10:02 KST)
-- data/huggingface/modules/transformers_modules/__init__.py (2026-11-05 21:10:02 KST)
+- docs/tools/replay-offline.md (2026-11-06 17:02:02 KST)
+- tests/eval/holdout_set_v5.json (2026-11-06 17:02:02 KST)
+- tests/test_chat_quality_holdout_v5.py (2026-11-06 17:02:02 KST)
+- tests/test_claude_prompt_cache_and_replay_tool.py (2026-11-06 17:02:02 KST)
+- tools/eval/replay_offline.py (2026-11-06 17:02:02 KST)
+- app/prompts/medical_chat_prompts.py (2026-11-06 17:02:02 KST)
+- app/services/medical_llm_service.py (2026-11-06 17:02:02 KST)
+- docs/audits/2026-10-30-chat-full-audit.md (2026-11-06 17:02:02 KST)
 
 ## 점검 결과 요약
 
@@ -93,5 +93,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 483
+- Git 커밋 수: 497
 - Git 상위 계정: skarndaudwls1(237), gosky(37), Jaehe-he(24)
