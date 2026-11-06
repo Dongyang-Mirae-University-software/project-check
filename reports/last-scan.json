@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-06T08:18:47.837Z",
-  "generatedAtKst": "2026-11-06 17:18:47 KST",
+  "generatedAt": "2026-11-06T08:48:53.646Z",
+  "generatedAtKst": "2026-11-06 17:48:53 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8600
+          "count": 8601
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 5
         }
       ],
-      "count": 8646
+      "count": 8647
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 1829
+          "count": 1830
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 1918
+      "count": 1919
     },
     {
       "name": "YUNA0222",
@@ -1617,22 +1617,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8463,
+        "commitCount": 8464,
         "authors": [
           {
-            "count": 8463,
+            "count": 8464,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "bd861a86e",
+          "hash": "3c54dc3c2",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-06T16:48:46+09:00",
+          "date": "2026-11-06T17:18:51+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8463개 커밋, 상위 계정: gosky(8463), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8464개 커밋, 상위 계정: gosky(8464), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1673,8 +1673,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8463",
-        "Git 상위 계정: gosky(8463)"
+        "Git 커밋 수: 8464",
+        "Git 상위 계정: gosky(8464)"
       ]
     },
     {
@@ -1997,7 +1997,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 11 minutes",
+            "status": "Up 24 minutes",
             "ports": ""
           }
         ],
@@ -2185,7 +2185,7 @@
         }
       ],
       "structure": {
-        "fileCount": 2668,
+        "fileCount": 2669,
         "dirCount": 101,
         "mainFolders": [
           "app",
@@ -2242,7 +2242,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 11 minutes",
+            "status": "Up 24 minutes",
             "ports": ""
           }
         ],
@@ -2315,8 +2315,7 @@
           18014,
           18260,
           31418,
-          33909,
-          43626
+          33909
         ],
         "summary": [
           "실행 중",
@@ -2328,10 +2327,10 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 497,
+        "commitCount": 499,
         "authors": [
           {
-            "count": 237,
+            "count": 238,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2357,25 +2356,33 @@
           }
         ],
         "latestCommit": {
-          "hash": "ae70dc5",
+          "hash": "181d308",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-05T22:09:14+09:00",
-          "subject": "Merge pull request #185 from Dongyang-Mirae-University-software/fix/chat-quality-v5"
+          "date": "2026-11-06T17:23:35+09:00",
+          "subject": "Merge pull request #186 from Dongyang-Mirae-University-software/fix/quality-v5-audit"
         },
-        "summary": "총 497개 커밋, 상위 계정: skarndaudwls1(237), gosky(37), Jaehe-he(24), 최근: Merge pull request #185 from Dongyang-Mirae-University-software/fix/chat-quality-v5"
+        "summary": "총 499개 커밋, 상위 계정: skarndaudwls1(238), gosky(37), Jaehe-he(24), 최근: Merge pull request #186 from Dongyang-Mirae-University-software/fix/quality-v5-audit"
       },
       "recentFiles": [
+        {
+          "path": "app/services/medical_llm_service.py",
+          "modifiedAt": "2026-11-06T08:24:05.975Z"
+        },
+        {
+          "path": "docs/eval-results/2026-11-06-quality-v5-audit.md",
+          "modifiedAt": "2026-11-06T08:24:05.975Z"
+        },
+        {
+          "path": "tests/test_chat_quality_holdout_v5.py",
+          "modifiedAt": "2026-11-06T08:24:05.975Z"
+        },
         {
           "path": "docs/tools/replay-offline.md",
           "modifiedAt": "2026-11-06T08:02:02.350Z"
         },
         {
           "path": "tests/eval/holdout_set_v5.json",
-          "modifiedAt": "2026-11-06T08:02:02.350Z"
-        },
-        {
-          "path": "tests/test_chat_quality_holdout_v5.py",
           "modifiedAt": "2026-11-06T08:02:02.350Z"
         },
         {
@@ -2389,14 +2396,6 @@
         {
           "path": "app/prompts/medical_chat_prompts.py",
           "modifiedAt": "2026-11-06T08:02:02.346Z"
-        },
-        {
-          "path": "app/services/medical_llm_service.py",
-          "modifiedAt": "2026-11-06T08:02:02.346Z"
-        },
-        {
-          "path": "docs/audits/2026-10-30-chat-full-audit.md",
-          "modifiedAt": "2026-11-06T08:02:02.346Z"
         }
       ],
       "summary": [
@@ -2404,8 +2403,8 @@
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI",
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 497",
-        "Git 상위 계정: skarndaudwls1(237), gosky(37), Jaehe-he(24)"
+        "Git 커밋 수: 499",
+        "Git 상위 계정: skarndaudwls1(238), gosky(37), Jaehe-he(24)"
       ]
     },
     {
