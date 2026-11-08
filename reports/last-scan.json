@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-08T09:35:44.419Z",
-  "generatedAtKst": "2026-11-08 18:35:44 KST",
+  "generatedAt": "2026-11-08T10:05:52.986Z",
+  "generatedAtKst": "2026-11-08 19:05:52 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8698
+          "count": 8699
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 8744
+      "count": 8745
     },
     {
       "name": "skarndaudwls1",
@@ -1617,22 +1617,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8561,
+        "commitCount": 8562,
         "authors": [
           {
-            "count": 8561,
+            "count": 8562,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "2e0c22aa0",
+          "hash": "304bc58ee",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-08T18:05:42+09:00",
+          "date": "2026-11-08T18:35:51+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8561개 커밋, 상위 계정: gosky(8561), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8562개 커밋, 상위 계정: gosky(8562), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1673,8 +1673,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8561",
-        "Git 상위 계정: gosky(8561)"
+        "Git 커밋 수: 8562",
+        "Git 상위 계정: gosky(8562)"
       ]
     },
     {
@@ -1997,7 +1997,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 31 minutes",
+            "status": "Up 14 minutes",
             "ports": ""
           }
         ],
@@ -2229,7 +2229,7 @@
         "evidence": [
           "docker-compose.yml 확인",
           "requirements.txt 확인",
-          ".env 키 207개 확인",
+          ".env 키 208개 확인",
           "추정 DB: PostgreSQL, SQLite"
         ],
         "summary": "PostgreSQL, SQLite 사용 추정"
@@ -2242,7 +2242,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 31 minutes",
+            "status": "Up 14 minutes",
             "ports": ""
           }
         ],
@@ -2367,11 +2367,11 @@
       "recentFiles": [
         {
           "path": "data/companion_review.db",
-          "modifiedAt": "2026-11-08T09:34:53.060Z"
+          "modifiedAt": "2026-11-08T10:05:50.229Z"
         },
         {
           "path": ".env",
-          "modifiedAt": "2026-11-08T08:55:52.334Z"
+          "modifiedAt": "2026-11-08T09:45:11.997Z"
         },
         {
           "path": "data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/85e18a7a1ca1a0eb/configuration_exaone.py",

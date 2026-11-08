@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-08 18:35:48 KST
+- 점검 시각: 2026-11-08 19:05:55 KST
 
 ## 추정 기술 스택
 
@@ -55,7 +55,7 @@
 
 - 사용 여부: 예
 - 연결 추정 DB: PostgreSQL, SQLite
-- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 207개 확인, 추정 DB: PostgreSQL, SQLite
+- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 208개 확인, 추정 DB: PostgreSQL, SQLite
 
 ## 실행 상태
 
@@ -78,8 +78,8 @@
 
 ## 최근 수정 파일
 
-- data/companion_review.db (2026-11-08 18:34:53 KST)
-- .env (2026-11-08 17:55:52 KST)
+- data/companion_review.db (2026-11-08 19:05:50 KST)
+- .env (2026-11-08 18:45:11 KST)
 - data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/85e18a7a1ca1a0eb/configuration_exaone.py (2026-11-08 17:37:43 KST)
 - data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/85e18a7a1ca1a0eb/__init__.py (2026-11-08 17:37:43 KST)
 - data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/85e18a7a1ca1a0eb/modeling_exaone.py (2026-11-08 17:37:43 KST)
