@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-08 19:36:00 KST
+- 점검 시각: 2026-11-08 20:06:06 KST
 
 ## 추정 기술 스택
 
@@ -78,7 +78,7 @@
 
 ## 최근 수정 파일
 
-- data/companion_review.db (2026-11-08 19:29:40 KST)
+- data/companion_review.db (2026-11-08 19:45:56 KST)
 - .env (2026-11-08 18:45:11 KST)
 - data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/85e18a7a1ca1a0eb/configuration_exaone.py (2026-11-08 17:37:43 KST)
 - data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/85e18a7a1ca1a0eb/__init__.py (2026-11-08 17:37:43 KST)
