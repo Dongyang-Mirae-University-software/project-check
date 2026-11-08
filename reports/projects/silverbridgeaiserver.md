@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-08 17:35:35 KST
+- 점검 시각: 2026-11-08 18:05:40 KST
 
 ## 추정 기술 스택
 
@@ -46,8 +46,8 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2671
-- 디렉토리 개수: 101
+- 파일 개수: 2675
+- 디렉토리 개수: 102
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
 - 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/utils, models, models/companion, models/companion/face-detect, models/companion/face-emotion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b, models/companion/llm/exaone-3.5-2.4b/assets, models/companion/stt-sensevoice
 
@@ -55,7 +55,7 @@
 
 - 사용 여부: 예
 - 연결 추정 DB: PostgreSQL, SQLite
-- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 206개 확인, 추정 DB: PostgreSQL, SQLite
+- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 207개 확인, 추정 DB: PostgreSQL, SQLite
 
 ## 실행 상태
 
@@ -78,14 +78,14 @@
 
 ## 최근 수정 파일
 
-- .env (2026-11-07 24:51:33 KST)
+- data/companion_review.db (2026-11-08 18:05:28 KST)
+- .env (2026-11-08 17:55:52 KST)
+- data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/85e18a7a1ca1a0eb/configuration_exaone.py (2026-11-08 17:37:43 KST)
+- data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/85e18a7a1ca1a0eb/__init__.py (2026-11-08 17:37:43 KST)
+- data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/85e18a7a1ca1a0eb/modeling_exaone.py (2026-11-08 17:37:43 KST)
+- models/companion/llm/exaone-3.5-2.4b/modeling_exaone.py (2026-11-08 17:36:54 KST)
+- models/companion/llm/exaone-3.5-2.4b/modeling_exaone.py.orig-5.13 (2026-11-08 17:36:54 KST)
 - app/services/chat_service.py (2026-11-06 18:13:16 KST)
-- docs/eval-results/2026-11-06-router-fallback-emergency-audit.md (2026-11-06 18:13:16 KST)
-- tests/test_router_fallback_emergency.py (2026-11-06 18:13:16 KST)
-- app/services/chat_keywords.py (2026-11-06 18:13:16 KST)
-- app/services/medical_llm_service.py (2026-11-06 17:24:05 KST)
-- docs/eval-results/2026-11-06-quality-v5-audit.md (2026-11-06 17:24:05 KST)
-- tests/test_chat_quality_holdout_v5.py (2026-11-06 17:24:05 KST)
 
 ## 점검 결과 요약
 

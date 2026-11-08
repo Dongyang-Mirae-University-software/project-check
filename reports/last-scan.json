@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-08T08:35:32.887Z",
-  "generatedAtKst": "2026-11-08 17:35:32 KST",
+  "generatedAt": "2026-11-08T09:05:38.567Z",
+  "generatedAtKst": "2026-11-08 18:05:38 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8696
+          "count": 8697
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 8742
+      "count": 8743
     },
     {
       "name": "skarndaudwls1",
@@ -1617,22 +1617,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8559,
+        "commitCount": 8560,
         "authors": [
           {
-            "count": 8559,
+            "count": 8560,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "64e4c19c3",
+          "hash": "548de9da5",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-08T17:05:31+09:00",
+          "date": "2026-11-08T17:35:36+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8559개 커밋, 상위 계정: gosky(8559), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8560개 커밋, 상위 계정: gosky(8560), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1673,8 +1673,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8559",
-        "Git 상위 계정: gosky(8559)"
+        "Git 커밋 수: 8560",
+        "Git 상위 계정: gosky(8560)"
       ]
     },
     {
@@ -1997,7 +1997,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 47 hours",
+            "status": "Up 55 seconds",
             "ports": ""
           }
         ],
@@ -2185,8 +2185,8 @@
         }
       ],
       "structure": {
-        "fileCount": 2671,
-        "dirCount": 101,
+        "fileCount": 2675,
+        "dirCount": 102,
         "mainFolders": [
           "app",
           "data",
@@ -2229,7 +2229,7 @@
         "evidence": [
           "docker-compose.yml 확인",
           "requirements.txt 확인",
-          ".env 키 206개 확인",
+          ".env 키 207개 확인",
           "추정 DB: PostgreSQL, SQLite"
         ],
         "summary": "PostgreSQL, SQLite 사용 추정"
@@ -2242,7 +2242,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 47 hours",
+            "status": "Up 55 seconds",
             "ports": ""
           }
         ],
@@ -2366,36 +2366,36 @@
       },
       "recentFiles": [
         {
+          "path": "data/companion_review.db",
+          "modifiedAt": "2026-11-08T09:05:28.007Z"
+        },
+        {
           "path": ".env",
-          "modifiedAt": "2026-11-06T15:51:33.358Z"
+          "modifiedAt": "2026-11-08T08:55:52.334Z"
+        },
+        {
+          "path": "data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/85e18a7a1ca1a0eb/configuration_exaone.py",
+          "modifiedAt": "2026-11-08T08:37:43.149Z"
+        },
+        {
+          "path": "data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/85e18a7a1ca1a0eb/__init__.py",
+          "modifiedAt": "2026-11-08T08:37:43.145Z"
+        },
+        {
+          "path": "data/huggingface/modules/transformers_modules/exaone_hyphen_3_dot_5_hyphen_2_dot_4b/85e18a7a1ca1a0eb/modeling_exaone.py",
+          "modifiedAt": "2026-11-08T08:37:43.145Z"
+        },
+        {
+          "path": "models/companion/llm/exaone-3.5-2.4b/modeling_exaone.py",
+          "modifiedAt": "2026-11-08T08:36:54.542Z"
+        },
+        {
+          "path": "models/companion/llm/exaone-3.5-2.4b/modeling_exaone.py.orig-5.13",
+          "modifiedAt": "2026-11-08T08:36:54.534Z"
         },
         {
           "path": "app/services/chat_service.py",
           "modifiedAt": "2026-11-06T09:13:16.959Z"
-        },
-        {
-          "path": "docs/eval-results/2026-11-06-router-fallback-emergency-audit.md",
-          "modifiedAt": "2026-11-06T09:13:16.959Z"
-        },
-        {
-          "path": "tests/test_router_fallback_emergency.py",
-          "modifiedAt": "2026-11-06T09:13:16.959Z"
-        },
-        {
-          "path": "app/services/chat_keywords.py",
-          "modifiedAt": "2026-11-06T09:13:16.955Z"
-        },
-        {
-          "path": "app/services/medical_llm_service.py",
-          "modifiedAt": "2026-11-06T08:24:05.975Z"
-        },
-        {
-          "path": "docs/eval-results/2026-11-06-quality-v5-audit.md",
-          "modifiedAt": "2026-11-06T08:24:05.975Z"
-        },
-        {
-          "path": "tests/test_chat_quality_holdout_v5.py",
-          "modifiedAt": "2026-11-06T08:24:05.975Z"
         }
       ],
       "summary": [
