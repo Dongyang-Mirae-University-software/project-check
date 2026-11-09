@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-09 21:10:52 KST
+- 점검 시각: 2026-11-09 21:40:58 KST
 
 ## 추정 기술 스택
 
@@ -61,7 +61,7 @@
 
 - 상태: 실행 중
 - 관련 포트: 1000, 2000, 2048, 3599, 3600, 4096, 5432, 6012, 6015, 6017, 6019, 6583, 6612, 6637, 6846, 6900, 6901, 7103, 7269, 7417, 7422, 7494, 7642, 7754, 7870, 7901, 7924, 7983, 7995, 8284, 8437, 9468, 10729, 11098, 11532, 11822, 11905, 13695, 14069, 15674, 15799, 31418
-- 관련 Docker 컨테이너: silverbridge-ai-server
+- 관련 Docker 컨테이너: exciting_elion, silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
@@ -69,7 +69,7 @@
 - 브랜치: main
 - 총 커밋 수: 531
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 249
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 250
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 30
   - gosky <gosky@gosky.kr>: 16
@@ -95,4 +95,4 @@
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
 - Git 커밋 수: 531
-- Git 상위 계정: skarndaudwls1(249), gosky(37), Jaehe-he(30)
+- Git 상위 계정: skarndaudwls1(250), gosky(37), Jaehe-he(30)
