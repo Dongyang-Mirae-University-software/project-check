@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-09T02:39:00.808Z",
-  "generatedAtKst": "2026-11-09 11:39:00 KST",
+  "generatedAt": "2026-11-09T03:09:06.457Z",
+  "generatedAtKst": "2026-11-09 12:09:06 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8732
+          "count": 8733
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 8778
+      "count": 8779
     },
     {
       "name": "skarndaudwls1",
@@ -65,10 +65,10 @@
       "emails": [
         {
           "email": "hywuljh1@naver.com",
-          "count": 739
+          "count": 740
         }
       ],
-      "count": 739
+      "count": 740
     },
     {
       "name": "yuna0222",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8595,
+        "commitCount": 8596,
         "authors": [
           {
-            "count": 8595,
+            "count": 8596,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "25e45a6b6",
+          "hash": "340c6431a",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-09T11:08:58+09:00",
+          "date": "2026-11-09T11:39:04+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8595개 커밋, 상위 계정: gosky(8595), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8596개 커밋, 상위 계정: gosky(8596), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8595",
-        "Git 상위 계정: gosky(8595)"
+        "Git 커밋 수: 8596",
+        "Git 상위 계정: gosky(8596)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 3 minutes",
+            "status": "Up 15 minutes",
             "ports": ""
           }
         ],
@@ -2252,7 +2252,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 3 minutes",
+            "status": "Up 15 minutes",
             "ports": ""
           }
         ],
@@ -2339,7 +2339,7 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 515,
+        "commitCount": 516,
         "authors": [
           {
             "count": 243,
@@ -2352,7 +2352,7 @@
             "email": "lovesky00317@gmail.com"
           },
           {
-            "count": 24,
+            "count": 25,
             "name": "Jaehe-he",
             "email": "hywuljh1@naver.com"
           },
@@ -2373,15 +2373,27 @@
           }
         ],
         "latestCommit": {
-          "hash": "4206027",
-          "author": "AI 말벗 담당",
-          "email": "ai-part@local",
-          "date": "2026-11-09T01:05:31+09:00",
-          "subject": "fix(companion): 백엔드 확인 답변 D·E·F 반영 (코드값, 응급 낱말 규칙, 한 턴 60초 상한)"
+          "hash": "f817207",
+          "author": "Jaehe-he",
+          "email": "hywuljh1@naver.com",
+          "date": "2026-11-09T11:53:25+09:00",
+          "subject": "fix(companion): 대화 만료 기준을 BE 자동 종료(10분)와 맞춘다"
         },
-        "summary": "총 515개 커밋, 상위 계정: skarndaudwls1(243), gosky(37), Jaehe-he(24), 최근: fix(companion): 백엔드 확인 답변 D·E·F 반영 (코드값, 응급 낱말 규칙, 한 턴 60초 상한)"
+        "summary": "총 516개 커밋, 상위 계정: skarndaudwls1(243), gosky(37), Jaehe-he(25), 최근: fix(companion): 대화 만료 기준을 BE 자동 종료(10분)와 맞춘다"
       },
       "recentFiles": [
+        {
+          "path": "app/services/companion/dialogue_store.py",
+          "modifiedAt": "2026-11-09T02:53:44.969Z"
+        },
+        {
+          "path": "docs/companion-contract.md",
+          "modifiedAt": "2026-11-09T02:53:44.969Z"
+        },
+        {
+          "path": "tests/test_dialogue_ttl.py",
+          "modifiedAt": "2026-11-09T02:53:44.969Z"
+        },
         {
           "path": "data/companion_review.db",
           "modifiedAt": "2026-11-09T02:35:59.598Z"
@@ -2399,19 +2411,7 @@
           "modifiedAt": "2026-11-09T02:33:00.262Z"
         },
         {
-          "path": "tests/test_dialogue_ttl.py",
-          "modifiedAt": "2026-11-09T02:33:00.262Z"
-        },
-        {
           "path": "tests/test_llm_load.py",
-          "modifiedAt": "2026-11-09T02:33:00.262Z"
-        },
-        {
-          "path": "tests/test_medgemma_switch.py",
-          "modifiedAt": "2026-11-09T02:33:00.262Z"
-        },
-        {
-          "path": "tests/test_mood_code.py",
           "modifiedAt": "2026-11-09T02:33:00.262Z"
         }
       ],
@@ -2420,8 +2420,8 @@
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI",
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 515",
-        "Git 상위 계정: skarndaudwls1(243), gosky(37), Jaehe-he(24)"
+        "Git 커밋 수: 516",
+        "Git 상위 계정: skarndaudwls1(243), gosky(37), Jaehe-he(25)"
       ]
     },
     {

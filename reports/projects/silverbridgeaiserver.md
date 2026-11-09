@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-09 11:39:03 KST
+- 점검 시각: 2026-11-09 12:09:08 KST
 
 ## 추정 기술 스택
 
@@ -67,26 +67,26 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 515
+- 총 커밋 수: 516
 - 계정별 커밋 수:
   - skarndaudwls1 <skarndaudwls@gmail.com>: 243
   - gosky <lovesky00317@gmail.com>: 37
-  - Jaehe-he <hywuljh1@naver.com>: 24
+  - Jaehe-he <hywuljh1@naver.com>: 25
   - gosky <gosky@gosky.kr>: 16
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: 4206027 / AI 말벗 담당 <ai-part@local> / fix(companion): 백엔드 확인 답변 D·E·F 반영 (코드값, 응급 낱말 규칙, 한 턴 60초 상한)
+- 최근 커밋: f817207 / Jaehe-he <hywuljh1@naver.com> / fix(companion): 대화 만료 기준을 BE 자동 종료(10분)와 맞춘다
 
 ## 최근 수정 파일
 
+- app/services/companion/dialogue_store.py (2026-11-09 11:53:44 KST)
+- docs/companion-contract.md (2026-11-09 11:53:44 KST)
+- tests/test_dialogue_ttl.py (2026-11-09 11:53:44 KST)
 - data/companion_review.db (2026-11-09 11:35:59 KST)
 - tests/test_companion_followup.py (2026-11-09 11:33:00 KST)
 - tests/test_dialogue_result.py (2026-11-09 11:33:00 KST)
 - tests/test_dialogue_summary.py (2026-11-09 11:33:00 KST)
-- tests/test_dialogue_ttl.py (2026-11-09 11:33:00 KST)
 - tests/test_llm_load.py (2026-11-09 11:33:00 KST)
-- tests/test_medgemma_switch.py (2026-11-09 11:33:00 KST)
-- tests/test_mood_code.py (2026-11-09 11:33:00 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 515
-- Git 상위 계정: skarndaudwls1(243), gosky(37), Jaehe-he(24)
+- Git 커밋 수: 516
+- Git 상위 계정: skarndaudwls1(243), gosky(37), Jaehe-he(25)
