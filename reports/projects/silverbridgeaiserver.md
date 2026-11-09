@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-09 14:09:31 KST
+- 점검 시각: 2026-11-09 14:39:36 KST
 
 ## 추정 기술 스택
 
@@ -71,7 +71,7 @@
 - 계정별 커밋 수:
   - skarndaudwls1 <skarndaudwls@gmail.com>: 245
   - gosky <lovesky00317@gmail.com>: 37
-  - Jaehe-he <hywuljh1@naver.com>: 26
+  - Jaehe-he <hywuljh1@naver.com>: 27
   - gosky <gosky@gosky.kr>: 16
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
@@ -79,6 +79,7 @@
 
 ## 최근 수정 파일
 
+- .env (2026-11-09 14:16:54 KST)
 - docs/audits/2026-11-09-router-failure-followups-audit.md (2026-11-09 13:57:36 KST)
 - docs/companion-contract.md (2026-11-09 13:57:36 KST)
 - docs/design/2026-11-08-claude-failure-fallbacks.md (2026-11-09 13:57:36 KST)
@@ -86,7 +87,6 @@
 - tests/conftest.py (2026-11-09 13:57:36 KST)
 - tests/test_claude_failure_fallbacks.py (2026-11-09 13:57:36 KST)
 - tests/test_reply_service.py (2026-11-09 13:57:36 KST)
-- tests/test_router_failure_audit_fixes.py (2026-11-09 13:57:36 KST)
 
 ## 점검 결과 요약
 
@@ -95,4 +95,4 @@
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
 - Git 커밋 수: 521
-- Git 상위 계정: skarndaudwls1(245), gosky(37), Jaehe-he(26)
+- Git 상위 계정: skarndaudwls1(245), gosky(37), Jaehe-he(27)

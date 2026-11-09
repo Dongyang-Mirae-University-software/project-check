@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-09T05:09:28.998Z",
-  "generatedAtKst": "2026-11-09 14:09:28 KST",
+  "generatedAt": "2026-11-09T05:39:34.546Z",
+  "generatedAtKst": "2026-11-09 14:39:34 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8737
+          "count": 8738
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 8783
+      "count": 8784
     },
     {
       "name": "skarndaudwls1",
@@ -65,10 +65,10 @@
       "emails": [
         {
           "email": "hywuljh1@naver.com",
-          "count": 741
+          "count": 742
         }
       ],
-      "count": 741
+      "count": 742
     },
     {
       "name": "yuna0222",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8600,
+        "commitCount": 8601,
         "authors": [
           {
-            "count": 8600,
+            "count": 8601,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "edbe9cbdc",
+          "hash": "62436c5cf",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-09T13:39:27+09:00",
+          "date": "2026-11-09T14:09:32+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8600개 커밋, 상위 계정: gosky(8600), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8601개 커밋, 상위 계정: gosky(8601), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8600",
-        "Git 상위 계정: gosky(8600)"
+        "Git 커밋 수: 8601",
+        "Git 상위 계정: gosky(8601)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 11 minutes",
+            "status": "Up 41 minutes",
             "ports": ""
           }
         ],
@@ -2252,7 +2252,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 11 minutes",
+            "status": "Up 41 minutes",
             "ports": ""
           }
         ],
@@ -2352,7 +2352,7 @@
             "email": "lovesky00317@gmail.com"
           },
           {
-            "count": 26,
+            "count": 27,
             "name": "Jaehe-he",
             "email": "hywuljh1@naver.com"
           },
@@ -2379,9 +2379,13 @@
           "date": "2026-11-09T13:57:20+09:00",
           "subject": "Merge pull request #192 from Dongyang-Mirae-University-software/fix/router-failure-followups-audit-fixes"
         },
-        "summary": "총 521개 커밋, 상위 계정: skarndaudwls1(245), gosky(37), Jaehe-he(26), 최근: Merge pull request #192 from Dongyang-Mirae-University-software/fix/router-failure-followups-audit-fixes"
+        "summary": "총 521개 커밋, 상위 계정: skarndaudwls1(245), gosky(37), Jaehe-he(27), 최근: Merge pull request #192 from Dongyang-Mirae-University-software/fix/router-failure-followups-audit-fixes"
       },
       "recentFiles": [
+        {
+          "path": ".env",
+          "modifiedAt": "2026-11-09T05:16:54.026Z"
+        },
         {
           "path": "docs/audits/2026-11-09-router-failure-followups-audit.md",
           "modifiedAt": "2026-11-09T04:57:36.628Z"
@@ -2409,10 +2413,6 @@
         {
           "path": "tests/test_reply_service.py",
           "modifiedAt": "2026-11-09T04:57:36.628Z"
-        },
-        {
-          "path": "tests/test_router_failure_audit_fixes.py",
-          "modifiedAt": "2026-11-09T04:57:36.628Z"
         }
       ],
       "summary": [
@@ -2421,7 +2421,7 @@
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
         "Git 커밋 수: 521",
-        "Git 상위 계정: skarndaudwls1(245), gosky(37), Jaehe-he(26)"
+        "Git 상위 계정: skarndaudwls1(245), gosky(37), Jaehe-he(27)"
       ]
     },
     {
