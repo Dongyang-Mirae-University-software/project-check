@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-09 11:08:56 KST
+- 점검 시각: 2026-11-09 11:39:03 KST
 
 ## 추정 기술 스택
 
@@ -46,7 +46,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2681
+- 파일 개수: 2702
 - 디렉토리 개수: 102
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
 - 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/utils, models, models/companion, models/companion/face-detect, models/companion/face-emotion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b, models/companion/llm/exaone-3.5-2.4b/assets, models/companion/stt-sensevoice
@@ -55,7 +55,7 @@
 
 - 사용 여부: 예
 - 연결 추정 DB: PostgreSQL, SQLite
-- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 208개 확인, 추정 DB: PostgreSQL, SQLite
+- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 210개 확인, 추정 DB: PostgreSQL, SQLite
 
 ## 실행 상태
 
@@ -67,25 +67,26 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 507
+- 총 커밋 수: 515
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 242
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 243
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 24
   - gosky <gosky@gosky.kr>: 16
   - namgung <skarndaudwls@gmail.com>: 11
-- 최근 커밋: eed8971 / namgung <skarndaudwls@gmail.com> / Merge pull request #189 from Dongyang-Mirae-University-software/fix/claude-failure-fallbacks
+  - AI 말벗 담당 <ai-part@local>: 5
+- 최근 커밋: 4206027 / AI 말벗 담당 <ai-part@local> / fix(companion): 백엔드 확인 답변 D·E·F 반영 (코드값, 응급 낱말 규칙, 한 턴 60초 상한)
 
 ## 최근 수정 파일
 
-- app/services/reservation_orchestrator.py (2026-11-09 24:00:17 KST)
-- docs/design/2026-11-08-claude-failure-fallbacks.md (2026-11-09 24:00:17 KST)
-- tests/test_claude_failure_fallbacks.py (2026-11-09 24:00:17 KST)
-- app/routers/medication_ocr_router.py (2026-11-09 24:00:17 KST)
-- app/services/claude_availability.py (2026-11-09 24:00:17 KST)
-- app/services/claude_structured_client.py (2026-11-09 24:00:17 KST)
-- app/services/follow_up_questions.py (2026-11-09 24:00:17 KST)
-- app/services/medication_ocr_service.py (2026-11-09 24:00:17 KST)
+- data/companion_review.db (2026-11-09 11:35:59 KST)
+- tests/test_companion_followup.py (2026-11-09 11:33:00 KST)
+- tests/test_dialogue_result.py (2026-11-09 11:33:00 KST)
+- tests/test_dialogue_summary.py (2026-11-09 11:33:00 KST)
+- tests/test_dialogue_ttl.py (2026-11-09 11:33:00 KST)
+- tests/test_llm_load.py (2026-11-09 11:33:00 KST)
+- tests/test_medgemma_switch.py (2026-11-09 11:33:00 KST)
+- tests/test_mood_code.py (2026-11-09 11:33:00 KST)
 
 ## 점검 결과 요약
 
@@ -93,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 507
-- Git 상위 계정: skarndaudwls1(242), gosky(37), Jaehe-he(24)
+- Git 커밋 수: 515
+- Git 상위 계정: skarndaudwls1(243), gosky(37), Jaehe-he(24)
