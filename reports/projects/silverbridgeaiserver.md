@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-09 19:40:33 KST
+- 점검 시각: 2026-11-09 20:10:39 KST
 
 ## 추정 기술 스택
 
@@ -67,26 +67,26 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 528
+- 총 커밋 수: 529
 - 계정별 커밋 수:
   - skarndaudwls1 <skarndaudwls@gmail.com>: 248
   - gosky <lovesky00317@gmail.com>: 37
-  - Jaehe-he <hywuljh1@naver.com>: 29
+  - Jaehe-he <hywuljh1@naver.com>: 30
   - gosky <gosky@gosky.kr>: 16
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: b3c48c5 / namgung <skarndaudwls@gmail.com> / Merge pull request #195 from Dongyang-Mirae-University-software/fix/companion-review-risk-toplevel
+- 최근 커밋: 99aea57 / Jaehe-he <hywuljh1@naver.com> / fix(companion): 받아쓰기 API 음성 상한을 10MB로, 말벗 대화 음성은 5MB 유지
 
 ## 최근 수정 파일
 
-- data/postgres/pg_wal/000000010000000000000009 (2026-11-09 19:37:43 KST)
-- data/postgres/global/pg_control (2026-11-09 19:37:31 KST)
-- data/postgres/base/16384/33564 (2026-11-09 19:37:31 KST)
-- data/postgres/base/16384/32948 (2026-11-09 19:37:31 KST)
-- data/postgres/base/16384/32947 (2026-11-09 19:37:31 KST)
-- data/postgres/base/16384/32946 (2026-11-09 19:37:31 KST)
-- data/postgres/base/16384/32945 (2026-11-09 19:37:31 KST)
-- data/postgres/base/16384/32939 (2026-11-09 19:37:31 KST)
+- data/postgres/pg_wal/000000010000000000000009 (2026-11-09 20:07:40 KST)
+- data/postgres/global/pg_control (2026-11-09 20:07:32 KST)
+- data/postgres/base/16384/33564 (2026-11-09 20:07:32 KST)
+- data/postgres/base/16384/32948 (2026-11-09 20:07:32 KST)
+- data/postgres/base/16384/32947 (2026-11-09 20:07:32 KST)
+- data/postgres/base/16384/32946 (2026-11-09 20:07:31 KST)
+- data/postgres/base/16384/32945 (2026-11-09 20:07:31 KST)
+- data/postgres/base/16384/32939 (2026-11-09 20:07:31 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 528
-- Git 상위 계정: skarndaudwls1(248), gosky(37), Jaehe-he(29)
+- Git 커밋 수: 529
+- Git 상위 계정: skarndaudwls1(248), gosky(37), Jaehe-he(30)

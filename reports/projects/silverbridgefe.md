@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-09 19:40:33 KST
+- 점검 시각: 2026-11-09 20:10:39 KST
 
 ## 추정 기술 스택
 
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1849
+- 총 커밋 수: 1852
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 613
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 229
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 231
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: ae01ff83 / namgung <skarndaudwls@gmail.com> / Merge pull request #224 from Dongyang-Mirae-University-software/fix/admin-ai-router-status-refresh
+- 최근 커밋: 0eff6b98 / namgung <skarndaudwls@gmail.com> / Merge pull request #225 from Dongyang-Mirae-University-software/fix/flaky-tests-and-lint
 
 ## 최근 수정 파일
 
+- src/app/(guardian)/guardian/medication/_components/MedicationAddModal.browser.test.tsx (2026-11-09 20:06:13 KST)
+- vitest.browser.config.ts (2026-11-09 20:06:13 KST)
+- eslint.config.mjs (2026-11-09 20:06:13 KST)
 - src/app/(admin)/admin/_components/AdminAiStatsContent.browser.test.tsx (2026-11-09 16:48:37 KST)
 - src/app/(admin)/admin/_components/AdminAiStatsContent.module.css (2026-11-09 16:48:37 KST)
 - src/app/(admin)/admin/_components/AdminAiStatsContent.tsx (2026-11-09 16:48:37 KST)
 - src/service/interface/admin/aiStats.ts (2026-11-09 14:41:50 KST)
 - src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx (2026-11-06 11:32:50 KST)
-- src/app/(ward)/ward/companion/_components/WardCompanionContent.module.css (2026-11-06 11:32:50 KST)
-- src/app/(ward)/ward/companion/_components/WardCompanionContent.tsx (2026-11-06 11:32:50 KST)
-- src/app/(ward)/ward/companion/page.tsx (2026-11-06 11:32:50 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1849
-- Git 상위 계정: YUNA0222(1400), yuna0222(613), skarndaudwls1(229)
+- Git 커밋 수: 1852
+- Git 상위 계정: YUNA0222(1400), yuna0222(613), skarndaudwls1(231)
