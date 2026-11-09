@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-09 13:39:25 KST
+- 점검 시각: 2026-11-09 14:09:31 KST
 
 ## 추정 기술 스택
 
@@ -46,7 +46,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2702
+- 파일 개수: 2703
 - 디렉토리 개수: 102
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
 - 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/utils, models, models/companion, models/companion/face-detect, models/companion/face-emotion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b, models/companion/llm/exaone-3.5-2.4b/assets, models/companion/stt-sensevoice
@@ -67,26 +67,26 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 516
+- 총 커밋 수: 521
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 243
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 245
   - gosky <lovesky00317@gmail.com>: 37
-  - Jaehe-he <hywuljh1@naver.com>: 25
+  - Jaehe-he <hywuljh1@naver.com>: 26
   - gosky <gosky@gosky.kr>: 16
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: f817207 / Jaehe-he <hywuljh1@naver.com> / fix(companion): 대화 만료 기준을 BE 자동 종료(10분)와 맞춘다
+- 최근 커밋: fd69b5b / namgung <skarndaudwls@gmail.com> / Merge pull request #192 from Dongyang-Mirae-University-software/fix/router-failure-followups-audit-fixes
 
 ## 최근 수정 파일
 
-- app/services/companion/dialogue_store.py (2026-11-09 11:53:44 KST)
-- docs/companion-contract.md (2026-11-09 11:53:44 KST)
-- tests/test_dialogue_ttl.py (2026-11-09 11:53:44 KST)
-- data/companion_review.db (2026-11-09 11:35:59 KST)
-- tests/test_companion_followup.py (2026-11-09 11:33:00 KST)
-- tests/test_dialogue_result.py (2026-11-09 11:33:00 KST)
-- tests/test_dialogue_summary.py (2026-11-09 11:33:00 KST)
-- tests/test_llm_load.py (2026-11-09 11:33:00 KST)
+- docs/audits/2026-11-09-router-failure-followups-audit.md (2026-11-09 13:57:36 KST)
+- docs/companion-contract.md (2026-11-09 13:57:36 KST)
+- docs/design/2026-11-08-claude-failure-fallbacks.md (2026-11-09 13:57:36 KST)
+- docs/eval-results/2026-11-08-router-failure-followups.md (2026-11-09 13:57:36 KST)
+- tests/conftest.py (2026-11-09 13:57:36 KST)
+- tests/test_claude_failure_fallbacks.py (2026-11-09 13:57:36 KST)
+- tests/test_reply_service.py (2026-11-09 13:57:36 KST)
+- tests/test_router_failure_audit_fixes.py (2026-11-09 13:57:36 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 516
-- Git 상위 계정: skarndaudwls1(243), gosky(37), Jaehe-he(25)
+- Git 커밋 수: 521
+- Git 상위 계정: skarndaudwls1(245), gosky(37), Jaehe-he(26)
