@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-09 22:11:03 KST
+- 점검 시각: 2026-11-09 22:41:09 KST
 
 ## 추정 기술 스택
 
@@ -67,24 +67,24 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 537
+- 총 커밋 수: 539
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 252
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 253
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 30
   - gosky <gosky@gosky.kr>: 16
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: 90240dd / namgung <skarndaudwls@gmail.com> / Merge pull request #199 from Dongyang-Mirae-University-software/fix/followup-steps-audit
+- 최근 커밋: 81c6bf2 / namgung <skarndaudwls@gmail.com> / Merge pull request #200 from Dongyang-Mirae-University-software/fix/crisis-followup-ui-layout
 
 ## 최근 수정 파일
 
-- app/services/chat_layout.py (2026-11-09 21:55:34 KST)
+- tests/test_chat_reply_layout.py (2026-11-09 22:20:34 KST)
+- app/services/chat_layout.py (2026-11-09 22:20:34 KST)
 - app/services/chat_service.py (2026-11-09 21:55:34 KST)
 - app/services/followup_steps.py (2026-11-09 21:55:34 KST)
 - app/services/medical_llm_service.py (2026-11-09 21:55:34 KST)
 - docs/audits/2026-11-09-followup-steps-audit.md (2026-11-09 21:55:34 KST)
-- tests/test_chat_reply_layout.py (2026-11-09 21:55:34 KST)
 - tests/test_followup_steps.py (2026-11-09 21:55:34 KST)
 - .env.example (2026-11-09 21:04:23 KST)
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 537
-- Git 상위 계정: skarndaudwls1(252), gosky(37), Jaehe-he(30)
+- Git 커밋 수: 539
+- Git 상위 계정: skarndaudwls1(253), gosky(37), Jaehe-he(30)

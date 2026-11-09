@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-11-09 22:11:03 KST
+- 점검 시각: 2026-11-09 22:41:09 KST
 
 ## 추정 기술 스택
 
@@ -57,19 +57,19 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1555
+- 총 커밋 수: 1559
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 1263
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 1266
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
   - gosky <gosky@gosky.kr>: 2
-- 최근 커밋: ca40f82a / namgung <skarndaudwls@gmail.com> / Merge pull request #457 from Dongyang-Mirae-University-software/test/anomaly-summary-d1
+- 최근 커밋: d88107f4 / namgung <skarndaudwls@gmail.com> / Merge pull request #458 from Dongyang-Mirae-University-software/fix/chatlog-layout-urgent
 
 ## 최근 수정 파일
 
+- docs/audit-index.md (2026-11-09 22:16:26 KST)
+- docs/progress.md (2026-11-09 22:16:26 KST)
 - docs/(2026-11-09) audit-impact-guardian-notice-d1.md (2026-11-09 21:09:38 KST)
-- docs/audit-index.md (2026-11-09 21:09:38 KST)
-- docs/progress.md (2026-11-09 21:09:38 KST)
 - docs/(2026-11-09) audit-companion-screens.md (2026-11-09 20:24:31 KST)
 - docs/(2026-11-04) feature-companion-screens.md (2026-11-09 17:55:43 KST)
 - docs/(2026-10-20) analysis-ai-chat-reservation.md (2026-11-09 17:09:46 KST)
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1555
-- Git 상위 계정: skarndaudwls1(1263), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1559
+- Git 상위 계정: skarndaudwls1(1266), skarndaudwls1(65), gosky(4)
