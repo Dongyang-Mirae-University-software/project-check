@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-11-09 17:40:10 KST
+- 점검 시각: 2026-11-09 18:10:16 KST
 
 ## 추정 기술 스택
 
@@ -57,24 +57,24 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1540
+- 총 커밋 수: 1547
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 1252
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 1257
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
   - gosky <gosky@gosky.kr>: 2
-- 최근 커밋: 7b2e3376 / namgung <skarndaudwls@gmail.com> / Merge pull request #454 from Dongyang-Mirae-University-software/fix/companion-confirm-turn-risk
+- 최근 커밋: 49c141c4 / namgung <skarndaudwls@gmail.com> / Merge pull request #455 from Dongyang-Mirae-University-software/test/companion-mood-days
 
 ## 최근 수정 파일
 
-- docs/progress.md (2026-11-09 17:09:46 KST)
+- docs/progress.md (2026-11-09 17:55:43 KST)
+- docs/(2026-11-04) feature-companion-screens.md (2026-11-09 17:55:43 KST)
+- docs/audit-index.md (2026-11-09 17:55:43 KST)
 - docs/(2026-10-20) analysis-ai-chat-reservation.md (2026-11-09 17:09:46 KST)
 - docs/(2026-11-09) feature-admin-ai-stats-router-status.md (2026-11-09 17:09:46 KST)
-- docs/audit-index.md (2026-11-09 17:09:46 KST)
 - docs/(2026-11-04) audit-chat-stt-relay.md (2026-11-09 24:37:49 KST)
 - src/main/resources/application.yaml (2026-11-04 22:31:10 KST)
 - docs/(2026-11-04) audit-chat-profile-context.md (2026-11-04 22:31:10 KST)
-- docs/(2026-11-04) audit-user-notification-inbox.md (2026-11-04 14:40:54 KST)
 
 ## 점검 결과 요약
 
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1540
-- Git 상위 계정: skarndaudwls1(1252), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1547
+- Git 상위 계정: skarndaudwls1(1257), skarndaudwls1(65), gosky(4)
