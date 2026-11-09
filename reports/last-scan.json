@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-09T10:10:25.959Z",
-  "generatedAtKst": "2026-11-09 19:10:25 KST",
+  "generatedAt": "2026-11-09T10:40:31.645Z",
+  "generatedAtKst": "2026-11-09 19:40:31 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8747
+          "count": 8748
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 8793
+      "count": 8794
     },
     {
       "name": "skarndaudwls1",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8610,
+        "commitCount": 8611,
         "authors": [
           {
-            "count": 8610,
+            "count": 8611,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "b7eef1df4",
+          "hash": "fe340ad7e",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-09T18:40:23+09:00",
+          "date": "2026-11-09T19:10:29+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8610개 커밋, 상위 계정: gosky(8610), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8611개 커밋, 상위 계정: gosky(8611), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8610",
-        "Git 상위 계정: gosky(8610)"
+        "Git 커밋 수: 8611",
+        "Git 상위 계정: gosky(8611)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up About an hour",
+            "status": "Up 2 hours",
             "ports": ""
           }
         ],
@@ -2252,7 +2252,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up About an hour",
+            "status": "Up 2 hours",
             "ports": ""
           }
         ],
@@ -2383,36 +2383,36 @@
       },
       "recentFiles": [
         {
-          "path": "app/routers/companion_router.py",
-          "modifiedAt": "2026-11-09T08:46:52.326Z"
+          "path": "data/postgres/pg_wal/000000010000000000000009",
+          "modifiedAt": "2026-11-09T10:37:43.903Z"
         },
         {
-          "path": "tests/test_review_store.py",
-          "modifiedAt": "2026-11-09T08:46:52.326Z"
+          "path": "data/postgres/global/pg_control",
+          "modifiedAt": "2026-11-09T10:37:31.687Z"
         },
         {
-          "path": "docs/eval-results/2026-11-09-router-failure-remaining-emergency.md",
-          "modifiedAt": "2026-11-09T08:05:22.171Z"
+          "path": "data/postgres/base/16384/33564",
+          "modifiedAt": "2026-11-09T10:37:31.583Z"
         },
         {
-          "path": "tests/test_router_fallback_self_harm.py",
-          "modifiedAt": "2026-11-09T08:05:22.171Z"
+          "path": "data/postgres/base/16384/32948",
+          "modifiedAt": "2026-11-09T10:37:31.483Z"
         },
         {
-          "path": "app/services/chat_keywords.py",
-          "modifiedAt": "2026-11-09T08:05:22.167Z"
+          "path": "data/postgres/base/16384/32947",
+          "modifiedAt": "2026-11-09T10:37:31.383Z"
         },
         {
-          "path": "data/companion_review.db",
-          "modifiedAt": "2026-11-09T07:09:15.550Z"
+          "path": "data/postgres/base/16384/32946",
+          "modifiedAt": "2026-11-09T10:37:31.283Z"
         },
         {
-          "path": "app/core/config.py",
-          "modifiedAt": "2026-11-09T07:07:47.415Z"
+          "path": "data/postgres/base/16384/32945",
+          "modifiedAt": "2026-11-09T10:37:31.183Z"
         },
         {
-          "path": "app/services/companion/pipeline.py",
-          "modifiedAt": "2026-11-09T07:07:47.415Z"
+          "path": "data/postgres/base/16384/32939",
+          "modifiedAt": "2026-11-09T10:37:31.083Z"
         }
       ],
       "summary": [
