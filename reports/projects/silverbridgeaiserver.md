@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-09 16:39:59 KST
+- 점검 시각: 2026-11-09 17:10:05 KST
 
 ## 추정 기술 스택
 
@@ -67,26 +67,26 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 524
+- 총 커밋 수: 526
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 246
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 247
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 29
   - gosky <gosky@gosky.kr>: 16
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: 9e45e8f / Jaehe-he <hywuljh1@naver.com> / feat(companion): 위험 판정 프롬프트 v4·기준 0.5, 위험 안내 응답, BE 기준 크기·길이 맞춤
+- 최근 커밋: 3b1ec10 / namgung <skarndaudwls@gmail.com> / Merge pull request #194 from Dongyang-Mirae-University-software/fix/router-fallback-self-harm-audit
 
 ## 최근 수정 파일
 
+- docs/eval-results/2026-11-09-router-failure-remaining-emergency.md (2026-11-09 17:05:22 KST)
+- tests/test_router_fallback_self_harm.py (2026-11-09 17:05:22 KST)
+- app/services/chat_keywords.py (2026-11-09 17:05:22 KST)
 - data/companion_review.db (2026-11-09 16:09:15 KST)
 - app/core/config.py (2026-11-09 16:07:47 KST)
 - app/routers/companion_router.py (2026-11-09 16:07:47 KST)
 - app/services/companion/pipeline.py (2026-11-09 16:07:47 KST)
 - app/services/companion/prompts/risk-v3.txt (2026-11-09 16:07:47 KST)
-- app/services/companion/prompts/risk-v4.txt (2026-11-09 16:07:47 KST)
-- app/services/companion/reply_service.py (2026-11-09 16:07:47 KST)
-- app/services/companion/risk.py (2026-11-09 16:07:47 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 524
-- Git 상위 계정: skarndaudwls1(246), gosky(37), Jaehe-he(29)
+- Git 커밋 수: 526
+- Git 상위 계정: skarndaudwls1(247), gosky(37), Jaehe-he(29)
