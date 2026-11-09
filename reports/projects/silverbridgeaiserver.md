@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-09 15:39:48 KST
+- 점검 시각: 2026-11-09 16:09:53 KST
 
 ## 추정 기술 스택
 
@@ -46,7 +46,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2703
+- 파일 개수: 2708
 - 디렉토리 개수: 102
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
 - 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/utils, models, models/companion, models/companion/face-detect, models/companion/face-emotion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b, models/companion/llm/exaone-3.5-2.4b/assets, models/companion/stt-sensevoice
@@ -67,26 +67,26 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 521
+- 총 커밋 수: 524
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 245
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 246
   - gosky <lovesky00317@gmail.com>: 37
-  - Jaehe-he <hywuljh1@naver.com>: 27
+  - Jaehe-he <hywuljh1@naver.com>: 29
   - gosky <gosky@gosky.kr>: 16
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: fd69b5b / namgung <skarndaudwls@gmail.com> / Merge pull request #192 from Dongyang-Mirae-University-software/fix/router-failure-followups-audit-fixes
+- 최근 커밋: 9e45e8f / Jaehe-he <hywuljh1@naver.com> / feat(companion): 위험 판정 프롬프트 v4·기준 0.5, 위험 안내 응답, BE 기준 크기·길이 맞춤
 
 ## 최근 수정 파일
 
-- .env (2026-11-09 14:16:54 KST)
-- docs/audits/2026-11-09-router-failure-followups-audit.md (2026-11-09 13:57:36 KST)
-- docs/companion-contract.md (2026-11-09 13:57:36 KST)
-- docs/design/2026-11-08-claude-failure-fallbacks.md (2026-11-09 13:57:36 KST)
-- docs/eval-results/2026-11-08-router-failure-followups.md (2026-11-09 13:57:36 KST)
-- tests/conftest.py (2026-11-09 13:57:36 KST)
-- tests/test_claude_failure_fallbacks.py (2026-11-09 13:57:36 KST)
-- tests/test_reply_service.py (2026-11-09 13:57:36 KST)
+- data/companion_review.db (2026-11-09 16:09:15 KST)
+- app/core/config.py (2026-11-09 16:07:47 KST)
+- app/routers/companion_router.py (2026-11-09 16:07:47 KST)
+- app/services/companion/pipeline.py (2026-11-09 16:07:47 KST)
+- app/services/companion/prompts/risk-v3.txt (2026-11-09 16:07:47 KST)
+- app/services/companion/prompts/risk-v4.txt (2026-11-09 16:07:47 KST)
+- app/services/companion/reply_service.py (2026-11-09 16:07:47 KST)
+- app/services/companion/risk.py (2026-11-09 16:07:47 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 521
-- Git 상위 계정: skarndaudwls1(245), gosky(37), Jaehe-he(27)
+- Git 커밋 수: 524
+- Git 상위 계정: skarndaudwls1(246), gosky(37), Jaehe-he(29)
