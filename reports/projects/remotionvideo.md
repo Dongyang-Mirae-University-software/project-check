@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/RemotionVideo`
 - 분류: 백엔드
-- 점검 시각: 2026-11-09 09:38:39 KST
+- 점검 시각: 2026-11-09 10:08:45 KST
 
 ## 추정 기술 스택
 
