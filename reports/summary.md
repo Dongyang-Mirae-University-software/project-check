@@ -8,13 +8,13 @@
 - Git 저장소 프로젝트 개수: 16
 - 실행 중인 서비스 개수: 16
 - 꺼져 있는 서비스 개수: 7
-- 마지막 스캔 시간: 2026-11-10 12:58:29 KST
+- 마지막 스캔 시간: 2026-11-10 13:28:35 KST
 
 ## 계정별 커밋 수
 
 | 계정 | 이메일별 커밋 수 | 합산 커밋 수 |
 | --- | --- | ---: |
-| gosky | lovesky00317@gmail.com (8782); gosky@gosky.kr (41); gosky.dev@gmail.com (5) | 8828 |
+| gosky | lovesky00317@gmail.com (8783); gosky@gosky.kr (41); gosky.dev@gmail.com (5) | 8829 |
 | skarndaudwls1 | skarndaudwls@gmail.com (1896); skarndaudwls1@gmail.com (89) | 1985 |
 | YUNA0222 | gold8077@gmail.com (1441); 89885846+yuna0222@users.noreply.github.com (18) | 1459 |
 | Jaehe-he | hywuljh1@naver.com (745) | 745 |
