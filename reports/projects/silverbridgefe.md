@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-10 17:29:26 KST
+- 점검 시각: 2026-11-10 17:59:31 KST
 
 ## 추정 기술 스택
 
@@ -37,7 +37,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 778
+- 파일 개수: 781
 - 디렉토리 개수: 155
 - 주요 폴더: docs, public, scripts, src
 - 주요 경로: public, public/icons, public/icons/push, public/images, src, src/app, src/app/(admin), src/app/(admin)/admin, src/app/(admin)/admin/_components, src/app/(admin)/admin/ai-stats, src/app/(admin)/admin/devices, src/app/(admin)/admin/hospitals, src/app/(admin)/admin/inquiries, src/app/(admin)/admin/members, src/app/(admin)/admin/notices, src/app/(admin)/admin/notifications, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/@modal, src/app/(auth)/@modal/(.)find-email
@@ -51,33 +51,33 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1200, 1900, 3000, 4000, 6000, 6010, 6015, 6510, 8000, 30000, 60836
+- 관련 포트: 1200, 1900, 3000, 4000, 6000, 6010, 6015, 6510, 8000, 30000, 31536, 60836
 - 관련 Docker 컨테이너: 확인 불가
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1858
+- 총 커밋 수: 1869
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 613
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 234
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 239
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: af7f3d3d / namgung <skarndaudwls@gmail.com> / Merge pull request #228 from Dongyang-Mirae-University-software/fix/chat-urgent-followup
+- 최근 커밋: 0b85fbfd / namgung <skarndaudwls@gmail.com> / Merge pull request #233 from Dongyang-Mirae-University-software/fix/audit-2026-11-refresh-cookie-kakao-state
 
 ## 최근 수정 파일
 
-- tsconfig.tsbuildinfo (2026-11-09 22:40:14 KST)
-- docs/(2026-11-09) audit-chat-answer-plain.md (2026-11-09 21:35:42 KST)
-- src/components/chatbot/ChatbotContent.browser.test.tsx (2026-11-09 21:35:42 KST)
-- src/components/chatbot/ChatbotContent.tsx (2026-11-09 21:35:42 KST)
-- src/components/chatbot/ChatBubble.browser.test.tsx (2026-11-09 21:35:42 KST)
-- src/components/chatbot/ChatBubble.tsx (2026-11-09 21:35:42 KST)
-- src/components/chatbot/stripLeadEmoji.test.ts (2026-11-09 21:35:42 KST)
-- src/components/chatbot/stripLeadEmoji.ts (2026-11-09 21:35:42 KST)
+- src/service/api/auth/auth.ts (2026-11-10 17:51:54 KST)
+- src/service/api/chatPolicy.test.ts (2026-11-10 17:51:54 KST)
+- src/service/api/chatPolicy.ts (2026-11-10 17:51:54 KST)
+- src/service/api/chatSttPolicy.ts (2026-11-10 17:51:54 KST)
+- src/service/interface/admin/aiStats.ts (2026-11-10 17:51:54 KST)
+- src/service/interface/auth/auth.ts (2026-11-10 17:51:54 KST)
+- src/service/interface/chat.ts (2026-11-10 17:51:54 KST)
+- src/components/chatbot/ChatbotContent.browser.test.tsx (2026-11-10 17:51:54 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1858
-- Git 상위 계정: YUNA0222(1400), yuna0222(613), skarndaudwls1(234)
+- Git 커밋 수: 1869
+- Git 상위 계정: YUNA0222(1400), yuna0222(613), skarndaudwls1(239)

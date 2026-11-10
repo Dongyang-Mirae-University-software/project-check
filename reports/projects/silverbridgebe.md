@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-11-10 17:29:25 KST
+- 점검 시각: 2026-11-10 17:59:31 KST
 
 ## 추정 기술 스택
 
@@ -57,13 +57,13 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1572
+- 총 커밋 수: 1574
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 1278
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 1279
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
   - gosky <gosky@gosky.kr>: 2
-- 최근 커밋: 999a08b3 / namgung <skarndaudwls@gmail.com> / Merge pull request #459 from Dongyang-Mirae-University-software/fix/audit-full-2026-11-findings
+- 최근 커밋: f46f8d73 / namgung <skarndaudwls@gmail.com> / Merge pull request #460 from Dongyang-Mirae-University-software/fix/external-url-private-host
 
 ## 최근 수정 파일
 
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1572
-- Git 상위 계정: skarndaudwls1(1278), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1574
+- Git 상위 계정: skarndaudwls1(1279), skarndaudwls1(65), gosky(4)
