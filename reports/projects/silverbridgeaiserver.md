@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-10 15:29:01 KST
+- 점검 시각: 2026-11-10 15:59:08 KST
 
 ## 추정 기술 스택
 
@@ -61,7 +61,7 @@
 
 - 상태: 실행 중
 - 관련 포트: 1000, 2000, 2048, 3599, 3600, 4096, 5432, 6012, 6015, 6017, 6019
-- 관련 Docker 컨테이너: 확인 불가
+- 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
@@ -79,6 +79,7 @@
 
 ## 최근 수정 파일
 
+- data/companion_review.db (2026-11-10 15:34:59 KST)
 - tests/conftest.py (2026-11-10 15:23:55 KST)
 - tests/test_companion_judgment_stage.py (2026-11-10 15:23:55 KST)
 - tests/test_companion_voice_stage_audit.py (2026-11-10 15:23:55 KST)
@@ -86,7 +87,6 @@
 - tests/test_fusion.py (2026-11-10 15:23:55 KST)
 - tests/test_risk_judgment.py (2026-11-10 15:23:55 KST)
 - tests/test_stt_api_engine_switch.py (2026-11-10 15:23:55 KST)
-- tools/eval/companion_judgment_dgx_measure.py (2026-11-10 15:23:55 KST)
 
 ## 점검 결과 요약
 
