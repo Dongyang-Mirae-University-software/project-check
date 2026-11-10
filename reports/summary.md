@@ -6,16 +6,16 @@
 - AI 서버 프로젝트 개수: 6
 - DB 사용 프로젝트 개수: 9
 - Git 저장소 프로젝트 개수: 16
-- 실행 중인 서비스 개수: 16
-- 꺼져 있는 서비스 개수: 7
-- 마지막 스캔 시간: 2026-11-10 14:58:52 KST
+- 실행 중인 서비스 개수: 15
+- 꺼져 있는 서비스 개수: 8
+- 마지막 스캔 시간: 2026-11-10 15:28:58 KST
 
 ## 계정별 커밋 수
 
 | 계정 | 이메일별 커밋 수 | 합산 커밋 수 |
 | --- | --- | ---: |
-| gosky | lovesky00317@gmail.com (8786); gosky@gosky.kr (41); gosky.dev@gmail.com (5) | 8832 |
-| skarndaudwls1 | skarndaudwls@gmail.com (1896); skarndaudwls1@gmail.com (89) | 1985 |
+| gosky | lovesky00317@gmail.com (8787); gosky@gosky.kr (41); gosky.dev@gmail.com (5) | 8833 |
+| skarndaudwls1 | skarndaudwls@gmail.com (1899); skarndaudwls1@gmail.com (89) | 1988 |
 | YUNA0222 | gold8077@gmail.com (1441); 89885846+yuna0222@users.noreply.github.com (18) | 1459 |
 | Jaehe-he | hywuljh1@naver.com (745) | 745 |
 | yuna0222 | gold8077@gmail.com (613) | 613 |
@@ -33,7 +33,7 @@
 - docs | 기타 | 확인 불가 | DB 미사용
 - project-check | 백엔드 | 실행 중 | DB 사용
 - RemotionVideo | 백엔드 | 정지 | DB 미사용
-- SilverBridgeAi | AI 서버 | 실행 중 | DB 미사용
+- SilverBridgeAi | AI 서버 | 정지 | DB 미사용
 - SilverBridgeAiServer | AI 서버 | 실행 중 | DB 사용
 - SilverBridgeBe | 백엔드 | 실행 중 | DB 사용
 - SilverBridgeFe | 프론트엔드 | 실행 중 | DB 미사용
