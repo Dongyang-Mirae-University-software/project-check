@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-10T16:31:09.293Z",
-  "generatedAtKst": "2026-11-11 01:31:09 KST",
+  "generatedAt": "2026-11-10T17:01:15.311Z",
+  "generatedAtKst": "2026-11-11 02:01:15 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8807
+          "count": 8808
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 8853
+      "count": 8854
     },
     {
       "name": "skarndaudwls1",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8670,
+        "commitCount": 8671,
         "authors": [
           {
-            "count": 8670,
+            "count": 8671,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "22c3d1f73",
+          "hash": "13de7bde0",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-11T01:01:05+09:00",
+          "date": "2026-11-11T01:31:13+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8670개 커밋, 상위 계정: gosky(8670), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8671개 커밋, 상위 계정: gosky(8671), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8670",
-        "Git 상위 계정: gosky(8670)"
+        "Git 커밋 수: 8671",
+        "Git 상위 계정: gosky(8671)"
       ]
     },
     {
@@ -2330,36 +2330,36 @@
       },
       "recentFiles": [
         {
-          "path": "data/companion_review.db",
-          "modifiedAt": "2026-11-10T14:41:48.865Z"
-        },
-        {
-          "path": "app/routers/companion_router.py",
-          "modifiedAt": "2026-11-10T14:34:42.903Z"
-        },
-        {
-          "path": "app/services/companion/pipeline.py",
-          "modifiedAt": "2026-11-10T14:34:42.903Z"
-        },
-        {
-          "path": "docs/audits/2026-11-10-full-2-interactions-anomaly-resilience-audit.md",
-          "modifiedAt": "2026-11-10T14:34:42.903Z"
-        },
-        {
-          "path": "docs/audits/2026-11-10-full-baseline-changes-security-audit.md",
-          "modifiedAt": "2026-11-10T14:34:42.903Z"
-        },
-        {
-          "path": "tests/test_companion_text_mood.py",
-          "modifiedAt": "2026-11-10T14:34:42.903Z"
-        },
-        {
           "path": "data/postgres/pg_wal/000000010000000000000009",
-          "modifiedAt": "2026-11-10T14:18:06.699Z"
+          "modifiedAt": "2026-11-10T16:48:10.903Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-11-10T14:18:05.699Z"
+          "modifiedAt": "2026-11-10T16:48:08.503Z"
+        },
+        {
+          "path": "data/postgres/base/16384/33564",
+          "modifiedAt": "2026-11-10T16:48:08.403Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32948",
+          "modifiedAt": "2026-11-10T16:48:08.303Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32947",
+          "modifiedAt": "2026-11-10T16:48:08.199Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32946",
+          "modifiedAt": "2026-11-10T16:48:08.099Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32945",
+          "modifiedAt": "2026-11-10T16:48:07.999Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32935_vm",
+          "modifiedAt": "2026-11-10T16:48:07.899Z"
         }
       ],
       "summary": [
