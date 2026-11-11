@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-11 09:32:51 KST
+- 점검 시각: 2026-11-11 10:02:56 KST
 
 ## 추정 기술 스택
 
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1876
+- 총 커밋 수: 1878
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 615
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 241
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 242
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: e90bc1d5 / namgung <skarndaudwls@gmail.com> / Merge pull request #235 from Dongyang-Mirae-University-software/feature/companion-face-frames-test-mode
+- 최근 커밋: 248305d1 / namgung <skarndaudwls@gmail.com> / Merge pull request #236 from Dongyang-Mirae-University-software/feature/companion-test-text-mood
 
 ## 최근 수정 파일
 
+- src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx (2026-11-11 09:40:45 KST)
+- src/service/interface/ward/companion.ts (2026-11-11 09:40:45 KST)
+- src/utils/companion/companionAnalysis.test.ts (2026-11-11 09:40:45 KST)
+- src/utils/companion/companionAnalysis.ts (2026-11-11 09:40:45 KST)
 - src/utils/admin/dashboard.ts (2026-11-10 18:20:05 KST)
-- src/utils/companion/companionAnalysis.test.ts (2026-11-10 18:20:05 KST)
-- src/utils/companion/companionAnalysis.ts (2026-11-10 18:20:05 KST)
 - src/utils/companion/companionError.test.ts (2026-11-10 18:20:05 KST)
 - src/utils/companion/companionError.ts (2026-11-10 18:20:05 KST)
 - docs/(2026-11-10) audit-full-2026-11-fe.md (2026-11-10 18:20:05 KST)
-- public/push-sw-logic.js (2026-11-10 18:20:05 KST)
-- src/app/(admin)/admin/_components/AdminDashboardContent.tsx (2026-11-10 18:20:05 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1876
-- Git 상위 계정: YUNA0222(1400), yuna0222(615), skarndaudwls1(241)
+- Git 커밋 수: 1878
+- Git 상위 계정: YUNA0222(1400), yuna0222(615), skarndaudwls1(242)
