@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-11T06:33:58.649Z",
-  "generatedAtKst": "2026-11-11 15:33:58 KST",
+  "generatedAt": "2026-11-11T07:04:04.572Z",
+  "generatedAtKst": "2026-11-11 16:04:04 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8835
+          "count": 8836
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 5
         }
       ],
-      "count": 8881
+      "count": 8882
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2015
+          "count": 2016
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2104
+      "count": 2105
     },
     {
       "name": "YUNA0222",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8698,
+        "commitCount": 8699,
         "authors": [
           {
-            "count": 8698,
+            "count": 8699,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "07b59d6f5",
+          "hash": "9bfa49e8d",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-11T15:03:56+09:00",
+          "date": "2026-11-11T15:34:02+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8698개 커밋, 상위 계정: gosky(8698), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8699개 커밋, 상위 계정: gosky(8699), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8698",
-        "Git 상위 계정: gosky(8698)"
+        "Git 커밋 수: 8699",
+        "Git 상위 계정: gosky(8699)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 55 minutes",
+            "status": "Up About an hour",
             "ports": ""
           }
         ],
@@ -2252,7 +2252,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 55 minutes",
+            "status": "Up About an hour",
             "ports": ""
           }
         ],
@@ -2730,7 +2730,7 @@
         }
       ],
       "structure": {
-        "fileCount": 787,
+        "fileCount": 791,
         "dirCount": 156,
         "mainFolders": [
           "docs",
@@ -2809,7 +2809,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 1900,
+        "commitCount": 1902,
         "authors": [
           {
             "count": 1400,
@@ -2822,7 +2822,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 253,
+            "count": 254,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2843,46 +2843,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "0795e26f",
+          "hash": "557f5743",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-11T14:37:05+09:00",
-          "subject": "Merge pull request #246 from Dongyang-Mirae-University-software/design/hospital-closed-day-label"
+          "date": "2026-11-11T15:33:53+09:00",
+          "subject": "Merge pull request #247 from Dongyang-Mirae-University-software/fix/ward-screen-cleanup"
         },
-        "summary": "총 1900개 커밋, 상위 계정: YUNA0222(1400), yuna0222(615), skarndaudwls1(253), 최근: Merge pull request #246 from Dongyang-Mirae-University-software/design/hospital-closed-day-label"
+        "summary": "총 1902개 커밋, 상위 계정: YUNA0222(1400), yuna0222(615), skarndaudwls1(254), 최근: Merge pull request #247 from Dongyang-Mirae-University-software/fix/ward-screen-cleanup"
       },
       "recentFiles": [
         {
-          "path": "src/components/connections/WardSelectorTabs.tsx",
-          "modifiedAt": "2026-11-11T05:37:10.278Z"
+          "path": "src/components/chatbot/ChatbotContent.module.css",
+          "modifiedAt": "2026-11-11T06:34:11.180Z"
         },
         {
-          "path": "src/utils/format/medication.test.ts",
-          "modifiedAt": "2026-11-11T05:37:10.278Z"
+          "path": "src/components/chatbot/ChatbotContent.tsx",
+          "modifiedAt": "2026-11-11T06:34:11.180Z"
         },
         {
-          "path": "src/utils/format/medication.ts",
-          "modifiedAt": "2026-11-11T05:37:10.278Z"
+          "path": "src/components/chatbot/chatUrgency.ts",
+          "modifiedAt": "2026-11-11T06:34:11.180Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.browser.test.tsx",
-          "modifiedAt": "2026-11-11T05:37:10.274Z"
+          "path": "src/constants/dashboard.test.ts",
+          "modifiedAt": "2026-11-11T06:34:11.180Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.module.css",
-          "modifiedAt": "2026-11-11T05:37:10.274Z"
+          "path": "src/constants/dashboard.ts",
+          "modifiedAt": "2026-11-11T06:34:11.180Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.tsx",
-          "modifiedAt": "2026-11-11T05:37:10.274Z"
+          "path": "src/utils/medication/displayName.test.ts",
+          "modifiedAt": "2026-11-11T06:34:11.180Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/hospital/_components/HospitalDateTimeStep.tsx",
-          "modifiedAt": "2026-11-11T05:37:10.274Z"
+          "path": "src/utils/medication/displayName.ts",
+          "modifiedAt": "2026-11-11T06:34:11.180Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/medication/_components/WardMedicationCard.module.css",
-          "modifiedAt": "2026-11-11T05:37:10.274Z"
+          "path": "src/app/(ward)/ward/_components/WardHomeContent.browser.test.tsx",
+          "modifiedAt": "2026-11-11T06:34:11.176Z"
         }
       ],
       "summary": [
@@ -2890,8 +2890,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1900",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(615), skarndaudwls1(253)"
+        "Git 커밋 수: 1902",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(615), skarndaudwls1(254)"
       ]
     },
     {
