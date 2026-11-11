@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-11 13:03:32 KST
+- 점검 시각: 2026-11-11 13:33:38 KST
 
 ## 추정 기술 스택
 
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1895
+- 총 커밋 수: 1897
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 615
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 250
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 251
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 818594c0 / namgung <skarndaudwls@gmail.com> / Merge pull request #244 from Dongyang-Mirae-University-software/design/ward-mic-listening-label
+- 최근 커밋: c5099a89 / namgung <skarndaudwls@gmail.com> / Merge pull request #245 from Dongyang-Mirae-University-software/fix/companion-risk-pattern-push
 
 ## 최근 수정 파일
 
+- public/push-sw-logic.js (2026-11-11 13:16:15 KST)
+- src/components/PushNotificationListener.kind.test.ts (2026-11-11 13:16:15 KST)
+- src/components/PushNotificationListener.kind.ts (2026-11-11 13:16:15 KST)
+- src/lib/push/pushSwLogic.test.ts (2026-11-11 13:16:15 KST)
 - src/components/chatbot/ChatbotVoiceInput.browser.test.tsx (2026-11-11 11:23:15 KST)
 - src/components/chatbot/VoiceInputButton.tsx (2026-11-11 11:23:15 KST)
 - src/app/(guardian)/guardian/hospital/_components/HospitalConfirmStep.tsx (2026-11-11 11:02:41 KST)
 - src/components/chatbot/breakSentences.test.ts (2026-11-11 11:02:41 KST)
-- src/components/chatbot/ChatbotContent.tsx (2026-11-11 11:02:41 KST)
-- src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.browser.test.tsx (2026-11-11 11:02:41 KST)
-- src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.module.css (2026-11-11 11:02:41 KST)
-- src/components/chatbot/ChatbotContent.browser.test.tsx (2026-11-11 10:57:45 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1895
-- Git 상위 계정: YUNA0222(1400), yuna0222(615), skarndaudwls1(250)
+- Git 커밋 수: 1897
+- Git 상위 계정: YUNA0222(1400), yuna0222(615), skarndaudwls1(251)
