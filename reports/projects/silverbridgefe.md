@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-11 14:03:43 KST
+- 점검 시각: 2026-11-11 14:33:49 KST
 
 ## 추정 기술 스택
 
@@ -70,6 +70,7 @@
 
 ## 최근 수정 파일
 
+- tsconfig.tsbuildinfo (2026-11-11 14:18:55 KST)
 - public/push-sw-logic.js (2026-11-11 13:16:15 KST)
 - src/components/PushNotificationListener.kind.test.ts (2026-11-11 13:16:15 KST)
 - src/components/PushNotificationListener.kind.ts (2026-11-11 13:16:15 KST)
@@ -77,7 +78,6 @@
 - src/components/chatbot/ChatbotVoiceInput.browser.test.tsx (2026-11-11 11:23:15 KST)
 - src/components/chatbot/VoiceInputButton.tsx (2026-11-11 11:23:15 KST)
 - src/app/(guardian)/guardian/hospital/_components/HospitalConfirmStep.tsx (2026-11-11 11:02:41 KST)
-- src/components/chatbot/breakSentences.test.ts (2026-11-11 11:02:41 KST)
 
 ## 점검 결과 요약
 
