@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-11T09:04:28.163Z",
-  "generatedAtKst": "2026-11-11 18:04:28 KST",
+  "generatedAt": "2026-11-11T09:34:34.101Z",
+  "generatedAtKst": "2026-11-11 18:34:34 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8840
+          "count": 8841
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 5
         }
       ],
-      "count": 8886
+      "count": 8887
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2030
+          "count": 2040
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2119
+      "count": 2129
     },
     {
       "name": "YUNA0222",
@@ -75,10 +75,10 @@
       "emails": [
         {
           "email": "gold8077@gmail.com",
-          "count": 616
+          "count": 617
         }
       ],
-      "count": 616
+      "count": 617
     },
     {
       "name": "namgung",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8703,
+        "commitCount": 8704,
         "authors": [
           {
-            "count": 8703,
+            "count": 8704,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "bd406edf7",
+          "hash": "6003e7b8f",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-11T17:34:26+09:00",
+          "date": "2026-11-11T18:04:32+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8703개 커밋, 상위 계정: gosky(8703), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8704개 커밋, 상위 계정: gosky(8704), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8703",
-        "Git 상위 계정: gosky(8703)"
+        "Git 커밋 수: 8704",
+        "Git 상위 계정: gosky(8704)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 18 minutes",
+            "status": "Up 16 minutes",
             "ports": ""
           }
         ],
@@ -2195,7 +2195,7 @@
         }
       ],
       "structure": {
-        "fileCount": 2568,
+        "fileCount": 2570,
         "dirCount": 95,
         "mainFolders": [
           "app",
@@ -2252,7 +2252,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 18 minutes",
+            "status": "Up 16 minutes",
             "ports": ""
           }
         ],
@@ -2287,10 +2287,10 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 671,
+        "commitCount": 675,
         "authors": [
           {
-            "count": 318,
+            "count": 320,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2321,46 +2321,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "4445c00",
+          "hash": "ba9b4eb",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-11T17:41:20+09:00",
-          "subject": "Merge pull request #256 from Dongyang-Mirae-University-software/fix/reservation-target-field-name"
+          "date": "2026-11-11T18:16:27+09:00",
+          "subject": "Merge pull request #259 from Dongyang-Mirae-University-software/fix/reservation-target-ask-purge"
         },
-        "summary": "총 671개 커밋, 상위 계정: skarndaudwls1(318), gosky(37), Jaehe-he(30), 최근: Merge pull request #256 from Dongyang-Mirae-University-software/fix/reservation-target-field-name"
+        "summary": "총 675개 커밋, 상위 계정: skarndaudwls1(320), gosky(37), Jaehe-he(30), 최근: Merge pull request #259 from Dongyang-Mirae-University-software/fix/reservation-target-ask-purge"
       },
       "recentFiles": [
         {
-          "path": "app/services/reservation_target.py",
-          "modifiedAt": "2026-11-11T08:45:09.577Z"
+          "path": "data/postgres/pg_wal/000000010000000000000009",
+          "modifiedAt": "2026-11-11T09:18:34.063Z"
         },
         {
-          "path": "docs/design/2026-11-11-guardian-reservation-target.md",
-          "modifiedAt": "2026-11-11T08:45:09.577Z"
+          "path": "data/postgres/global/pg_control",
+          "modifiedAt": "2026-11-11T09:18:27.260Z"
         },
         {
-          "path": "tests/test_guardian_reservation_target.py",
-          "modifiedAt": "2026-11-11T08:45:09.577Z"
+          "path": "data/postgres/base/16384/33564",
+          "modifiedAt": "2026-11-11T09:18:27.152Z"
         },
         {
-          "path": "app/schemas/chat_schema.py",
-          "modifiedAt": "2026-11-11T08:35:48.838Z"
+          "path": "data/postgres/base/16384/32948",
+          "modifiedAt": "2026-11-11T09:18:27.048Z"
         },
         {
-          "path": "app/services/chat_service.py",
-          "modifiedAt": "2026-11-11T08:35:48.838Z"
+          "path": "data/postgres/base/16384/32947",
+          "modifiedAt": "2026-11-11T09:18:26.948Z"
         },
         {
-          "path": "data/companion_review.db",
-          "modifiedAt": "2026-11-11T08:10:29.649Z"
+          "path": "data/postgres/base/16384/32946",
+          "modifiedAt": "2026-11-11T09:18:26.848Z"
         },
         {
-          "path": "app/services/medical_llm_service.py",
-          "modifiedAt": "2026-11-11T07:36:26.143Z"
+          "path": "data/postgres/base/16384/32945",
+          "modifiedAt": "2026-11-11T09:18:26.748Z"
         },
         {
-          "path": "docs/audits/2026-11-11-ward-care-dept-edit-audit.md",
-          "modifiedAt": "2026-11-11T07:36:26.143Z"
+          "path": "data/postgres/base/16384/32935_vm",
+          "modifiedAt": "2026-11-11T09:18:26.648Z"
         }
       ],
       "summary": [
@@ -2368,8 +2368,8 @@
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI",
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 671",
-        "Git 상위 계정: skarndaudwls1(318), gosky(37), Jaehe-he(30)"
+        "Git 커밋 수: 675",
+        "Git 상위 계정: skarndaudwls1(320), gosky(37), Jaehe-he(30)"
       ]
     },
     {
@@ -2465,7 +2465,7 @@
         }
       ],
       "structure": {
-        "fileCount": 329,
+        "fileCount": 331,
         "dirCount": 34,
         "mainFolders": [
           "db",
@@ -2561,10 +2561,10 @@
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 1632,
+        "commitCount": 1640,
         "authors": [
           {
-            "count": 1320,
+            "count": 1326,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2585,26 +2585,34 @@
           }
         ],
         "latestCommit": {
-          "hash": "69d86bcb",
+          "hash": "3d59f4f4",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-11T17:38:19+09:00",
-          "subject": "Merge pull request #473 from Dongyang-Mirae-University-software/feature/admin-ai-status-companion"
+          "date": "2026-11-11T18:06:48+09:00",
+          "subject": "Merge pull request #475 from Dongyang-Mirae-University-software/fix/admin-ai-status-audit-followup"
         },
-        "summary": "총 1632개 커밋, 상위 계정: skarndaudwls1(1320), skarndaudwls1(65), gosky(4), 최근: Merge pull request #473 from Dongyang-Mirae-University-software/feature/admin-ai-status-companion"
+        "summary": "총 1640개 커밋, 상위 계정: skarndaudwls1(1326), skarndaudwls1(65), gosky(4), 최근: Merge pull request #475 from Dongyang-Mirae-University-software/fix/admin-ai-status-audit-followup"
       },
       "recentFiles": [
         {
-          "path": "docs/audit-index.md",
-          "modifiedAt": "2026-11-11T08:38:47.735Z"
+          "path": "docs/(2026-11-11) audit-admin-ai-status-companion.md",
+          "modifiedAt": "2026-11-11T09:07:14.256Z"
+        },
+        {
+          "path": "docs/(2026-11-11) audit-impact-guardian-chat-patient-choice.md",
+          "modifiedAt": "2026-11-11T09:07:14.256Z"
         },
         {
           "path": "docs/(2026-11-11) feature-guardian-chat-patient-choice.md",
-          "modifiedAt": "2026-11-11T08:38:16.087Z"
+          "modifiedAt": "2026-11-11T09:07:14.256Z"
+        },
+        {
+          "path": "docs/audit-index.md",
+          "modifiedAt": "2026-11-11T09:07:14.256Z"
         },
         {
           "path": "docs/progress.md",
-          "modifiedAt": "2026-11-11T08:38:16.087Z"
+          "modifiedAt": "2026-11-11T09:07:14.256Z"
         },
         {
           "path": "docs/(2026-11-11) audit-impact-companion-risk-pattern.md",
@@ -2617,14 +2625,6 @@
         {
           "path": "src/main/resources/db/migration/V70__add_companion_risk_pattern.sql",
           "modifiedAt": "2026-11-11T02:06:31.032Z"
-        },
-        {
-          "path": "docs/(2026-11-11) feature-companion-risk-pattern.md",
-          "modifiedAt": "2026-11-11T02:06:31.028Z"
-        },
-        {
-          "path": "CLAUDE.md",
-          "modifiedAt": "2026-11-10T14:29:17.760Z"
         }
       ],
       "summary": [
@@ -2632,8 +2632,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1632",
-        "Git 상위 계정: skarndaudwls1(1320), skarndaudwls1(65), gosky(4)"
+        "Git 커밋 수: 1640",
+        "Git 상위 계정: skarndaudwls1(1326), skarndaudwls1(65), gosky(4)"
       ]
     },
     {
@@ -2809,7 +2809,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 1905,
+        "commitCount": 1910,
         "authors": [
           {
             "count": 1400,
@@ -2817,12 +2817,12 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 616,
+            "count": 617,
             "name": "yuna0222",
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 255,
+            "count": 257,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2843,46 +2843,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "427b77e3",
+          "hash": "d1b2d47d",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-11T16:03:08+09:00",
-          "subject": "Merge pull request #248 from Dongyang-Mirae-University-software/fix/companion-open-slot-only"
+          "date": "2026-11-11T18:26:57+09:00",
+          "subject": "Merge pull request #250 from Dongyang-Mirae-University-software/fix/guardian-chat-ward-carry-audit"
         },
-        "summary": "총 1905개 커밋, 상위 계정: YUNA0222(1400), yuna0222(616), skarndaudwls1(255), 최근: Merge pull request #248 from Dongyang-Mirae-University-software/fix/companion-open-slot-only"
+        "summary": "총 1910개 커밋, 상위 계정: YUNA0222(1400), yuna0222(617), skarndaudwls1(257), 최근: Merge pull request #250 from Dongyang-Mirae-University-software/fix/guardian-chat-ward-carry-audit"
       },
       "recentFiles": [
         {
-          "path": "src/app/(ward)/ward/_components/WardHomeContent.browser.test.tsx",
-          "modifiedAt": "2026-11-11T07:07:42.023Z"
+          "path": "src/components/chatbot/ChatbotContent.browser.test.tsx",
+          "modifiedAt": "2026-11-11T09:27:05.913Z"
         },
         {
-          "path": "src/app/(ward)/ward/_components/WardHomeContent.tsx",
-          "modifiedAt": "2026-11-11T07:07:42.023Z"
+          "path": "src/components/chatbot/ChatbotContent.tsx",
+          "modifiedAt": "2026-11-11T09:27:05.913Z"
         },
         {
-          "path": "src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx",
-          "modifiedAt": "2026-11-11T07:07:42.023Z"
+          "path": "src/components/chatbot/ChatbotReservation.browser.test.tsx",
+          "modifiedAt": "2026-11-11T09:27:05.913Z"
         },
         {
-          "path": "src/app/(ward)/ward/companion/_components/WardCompanionContent.tsx",
-          "modifiedAt": "2026-11-11T07:07:42.023Z"
+          "path": "src/components/chatbot/ChatHistoryDialog.tsx",
+          "modifiedAt": "2026-11-11T09:27:05.913Z"
         },
         {
-          "path": "src/constants/dashboard.test.ts",
-          "modifiedAt": "2026-11-11T07:07:42.023Z"
+          "path": "src/components/chatbot/chatHistorySessions.test.ts",
+          "modifiedAt": "2026-11-11T09:27:05.913Z"
         },
         {
-          "path": "src/constants/dashboard.ts",
-          "modifiedAt": "2026-11-11T07:07:42.023Z"
+          "path": "src/components/chatbot/chatHistorySessions.ts",
+          "modifiedAt": "2026-11-11T09:27:05.913Z"
         },
         {
-          "path": "src/utils/companion/companionOpen.test.ts",
-          "modifiedAt": "2026-11-11T07:07:42.023Z"
+          "path": "src/components/chatbot/reservationFlow.test.ts",
+          "modifiedAt": "2026-11-11T09:27:05.913Z"
         },
         {
-          "path": "src/utils/companion/companionOpen.ts",
-          "modifiedAt": "2026-11-11T07:07:42.023Z"
+          "path": "src/components/chatbot/reservationFlow.ts",
+          "modifiedAt": "2026-11-11T09:27:05.913Z"
         }
       ],
       "summary": [
@@ -2890,8 +2890,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1905",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(616), skarndaudwls1(255)"
+        "Git 커밋 수: 1910",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(617), skarndaudwls1(257)"
       ]
     },
     {

@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-11-11 18:04:30 KST
+- 점검 시각: 2026-11-11 18:34:36 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 329
+- 파일 개수: 331
 - 디렉토리 개수: 34
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/integrationTest, src/integrationTest/java, src/integrationTest/java/kr, src/integrationTest/java/kr/silverbridge, src/integrationTest/java/kr/silverbridge/main, src/integrationTest/java/kr/silverbridge/main/domain, src/integrationTest/java/kr/silverbridge/main/global, src/integrationTest/java/kr/silverbridge/main/migration, src/integrationTest/java/kr/silverbridge/main/support, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration
@@ -57,24 +57,24 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1632
+- 총 커밋 수: 1640
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 1320
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 1326
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
   - gosky <gosky@gosky.kr>: 2
-- 최근 커밋: 69d86bcb / namgung <skarndaudwls@gmail.com> / Merge pull request #473 from Dongyang-Mirae-University-software/feature/admin-ai-status-companion
+- 최근 커밋: 3d59f4f4 / namgung <skarndaudwls@gmail.com> / Merge pull request #475 from Dongyang-Mirae-University-software/fix/admin-ai-status-audit-followup
 
 ## 최근 수정 파일
 
-- docs/audit-index.md (2026-11-11 17:38:47 KST)
-- docs/(2026-11-11) feature-guardian-chat-patient-choice.md (2026-11-11 17:38:16 KST)
-- docs/progress.md (2026-11-11 17:38:16 KST)
+- docs/(2026-11-11) audit-admin-ai-status-companion.md (2026-11-11 18:07:14 KST)
+- docs/(2026-11-11) audit-impact-guardian-chat-patient-choice.md (2026-11-11 18:07:14 KST)
+- docs/(2026-11-11) feature-guardian-chat-patient-choice.md (2026-11-11 18:07:14 KST)
+- docs/audit-index.md (2026-11-11 18:07:14 KST)
+- docs/progress.md (2026-11-11 18:07:14 KST)
 - docs/(2026-11-11) audit-impact-companion-risk-pattern.md (2026-11-11 16:06:41 KST)
 - src/main/resources/application.yaml (2026-11-11 11:06:31 KST)
 - src/main/resources/db/migration/V70__add_companion_risk_pattern.sql (2026-11-11 11:06:31 KST)
-- docs/(2026-11-11) feature-companion-risk-pattern.md (2026-11-11 11:06:31 KST)
-- CLAUDE.md (2026-11-10 23:29:17 KST)
 
 ## 점검 결과 요약
 
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1632
-- Git 상위 계정: skarndaudwls1(1320), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1640
+- Git 상위 계정: skarndaudwls1(1326), skarndaudwls1(65), gosky(4)
