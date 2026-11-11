@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-11 17:34:24 KST
+- 점검 시각: 2026-11-11 18:04:30 KST
 
 ## 추정 기술 스택
 
@@ -46,7 +46,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2565
+- 파일 개수: 2568
 - 디렉토리 개수: 95
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
 - 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/utils, models, models/companion, models/companion/face-detect, models/companion/face-emotion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b, models/companion/llm/exaone-3.5-2.4b/assets, models/companion/llm/lora-mood-e900
@@ -67,26 +67,26 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 667
+- 총 커밋 수: 671
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 316
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 318
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 30
   - gosky <gosky@gosky.kr>: 16
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: 4167025 / namgung <skarndaudwls@gmail.com> / Merge pull request #254 from Dongyang-Mirae-University-software/fix/care-question-skip-step-and-crisis-fallback
+- 최근 커밋: 4445c00 / namgung <skarndaudwls@gmail.com> / Merge pull request #256 from Dongyang-Mirae-University-software/fix/reservation-target-field-name
 
 ## 최근 수정 파일
 
+- app/services/reservation_target.py (2026-11-11 17:45:09 KST)
+- docs/design/2026-11-11-guardian-reservation-target.md (2026-11-11 17:45:09 KST)
+- tests/test_guardian_reservation_target.py (2026-11-11 17:45:09 KST)
+- app/schemas/chat_schema.py (2026-11-11 17:35:48 KST)
+- app/services/chat_service.py (2026-11-11 17:35:48 KST)
 - data/companion_review.db (2026-11-11 17:10:29 KST)
 - app/services/medical_llm_service.py (2026-11-11 16:36:26 KST)
 - docs/audits/2026-11-11-ward-care-dept-edit-audit.md (2026-11-11 16:36:26 KST)
-- tests/test_chat_ward_care_dept_edit_followup.py (2026-11-11 16:36:26 KST)
-- app/services/chat_keywords.py (2026-11-11 16:36:26 KST)
-- app/services/chat_service.py (2026-11-11 16:36:26 KST)
-- app/services/reservation_confirm_flow.py (2026-11-11 16:14:38 KST)
-- app/services/reservation_orchestrator.py (2026-11-11 16:14:38 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 667
-- Git 상위 계정: skarndaudwls1(316), gosky(37), Jaehe-he(30)
+- Git 커밋 수: 671
+- Git 상위 계정: skarndaudwls1(318), gosky(37), Jaehe-he(30)
