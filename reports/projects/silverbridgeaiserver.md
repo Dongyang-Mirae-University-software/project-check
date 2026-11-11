@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-11 17:04:18 KST
+- 점검 시각: 2026-11-11 17:34:24 KST
 
 ## 추정 기술 스택
 
@@ -79,7 +79,7 @@
 
 ## 최근 수정 파일
 
-- data/companion_review.db (2026-11-11 17:04:13 KST)
+- data/companion_review.db (2026-11-11 17:10:29 KST)
 - app/services/medical_llm_service.py (2026-11-11 16:36:26 KST)
 - docs/audits/2026-11-11-ward-care-dept-edit-audit.md (2026-11-11 16:36:26 KST)
 - tests/test_chat_ward_care_dept_edit_followup.py (2026-11-11 16:36:26 KST)

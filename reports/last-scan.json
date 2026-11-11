@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-11T08:04:16.043Z",
-  "generatedAtKst": "2026-11-11 17:04:16 KST",
+  "generatedAt": "2026-11-11T08:34:22.041Z",
+  "generatedAtKst": "2026-11-11 17:34:22 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8838
+          "count": 8839
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 8884
+      "count": 8885
     },
     {
       "name": "skarndaudwls1",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8701,
+        "commitCount": 8702,
         "authors": [
           {
-            "count": 8701,
+            "count": 8702,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "951112700",
+          "hash": "db2dff599",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-11T16:34:14+09:00",
+          "date": "2026-11-11T17:04:20+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8701개 커밋, 상위 계정: gosky(8701), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8702개 커밋, 상위 계정: gosky(8702), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8701",
-        "Git 상위 계정: gosky(8701)"
+        "Git 커밋 수: 8702",
+        "Git 상위 계정: gosky(8702)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 27 minutes",
+            "status": "Up 57 minutes",
             "ports": ""
           }
         ],
@@ -2252,7 +2252,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 27 minutes",
+            "status": "Up 57 minutes",
             "ports": ""
           }
         ],
@@ -2332,7 +2332,7 @@
       "recentFiles": [
         {
           "path": "data/companion_review.db",
-          "modifiedAt": "2026-11-11T08:04:13.257Z"
+          "modifiedAt": "2026-11-11T08:10:29.649Z"
         },
         {
           "path": "app/services/medical_llm_service.py",
