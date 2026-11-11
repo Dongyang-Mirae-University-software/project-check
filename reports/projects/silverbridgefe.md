@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-11 16:04:06 KST
+- 점검 시각: 2026-11-11 16:34:12 KST
 
 ## 추정 기술 스택
 
@@ -37,7 +37,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 791
+- 파일 개수: 793
 - 디렉토리 개수: 156
 - 주요 폴더: docs, public, scripts, src
 - 주요 경로: public, public/icons, public/icons/push, public/images, src, src/app, src/app/(admin), src/app/(admin)/admin, src/app/(admin)/admin/_components, src/app/(admin)/admin/ai-stats, src/app/(admin)/admin/devices, src/app/(admin)/admin/hospitals, src/app/(admin)/admin/inquiries, src/app/(admin)/admin/members, src/app/(admin)/admin/notices, src/app/(admin)/admin/notifications, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/@modal, src/app/(auth)/@modal/(.)find-email
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1902
+- 총 커밋 수: 1905
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
-  - yuna0222 <gold8077@gmail.com>: 615
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 254
+  - yuna0222 <gold8077@gmail.com>: 616
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 255
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 557f5743 / namgung <skarndaudwls@gmail.com> / Merge pull request #247 from Dongyang-Mirae-University-software/fix/ward-screen-cleanup
+- 최근 커밋: 427b77e3 / namgung <skarndaudwls@gmail.com> / Merge pull request #248 from Dongyang-Mirae-University-software/fix/companion-open-slot-only
 
 ## 최근 수정 파일
 
-- src/components/chatbot/ChatbotContent.module.css (2026-11-11 15:34:11 KST)
-- src/components/chatbot/ChatbotContent.tsx (2026-11-11 15:34:11 KST)
-- src/components/chatbot/chatUrgency.ts (2026-11-11 15:34:11 KST)
-- src/constants/dashboard.test.ts (2026-11-11 15:34:11 KST)
-- src/constants/dashboard.ts (2026-11-11 15:34:11 KST)
-- src/utils/medication/displayName.test.ts (2026-11-11 15:34:11 KST)
-- src/utils/medication/displayName.ts (2026-11-11 15:34:11 KST)
-- src/app/(ward)/ward/_components/WardHomeContent.browser.test.tsx (2026-11-11 15:34:11 KST)
+- src/app/(ward)/ward/_components/WardHomeContent.browser.test.tsx (2026-11-11 16:07:42 KST)
+- src/app/(ward)/ward/_components/WardHomeContent.tsx (2026-11-11 16:07:42 KST)
+- src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx (2026-11-11 16:07:42 KST)
+- src/app/(ward)/ward/companion/_components/WardCompanionContent.tsx (2026-11-11 16:07:42 KST)
+- src/constants/dashboard.test.ts (2026-11-11 16:07:42 KST)
+- src/constants/dashboard.ts (2026-11-11 16:07:42 KST)
+- src/utils/companion/companionOpen.test.ts (2026-11-11 16:07:42 KST)
+- src/utils/companion/companionOpen.ts (2026-11-11 16:07:42 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1902
-- Git 상위 계정: YUNA0222(1400), yuna0222(615), skarndaudwls1(254)
+- Git 커밋 수: 1905
+- Git 상위 계정: YUNA0222(1400), yuna0222(616), skarndaudwls1(255)
