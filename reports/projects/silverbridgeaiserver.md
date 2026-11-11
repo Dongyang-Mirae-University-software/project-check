@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-11 14:33:49 KST
+- 점검 시각: 2026-11-11 15:03:55 KST
 
 ## 추정 기술 스택
 
@@ -61,32 +61,32 @@
 
 - 상태: 실행 중
 - 관련 포트: 1000, 1800, 2000, 2048, 3599, 3600, 4096, 5432, 6012, 6015, 6017, 6019
-- 관련 Docker 컨테이너: mystifying_keldysh, silverbridge-ai-server
+- 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 657
+- 총 커밋 수: 659
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 311
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 312
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 30
   - gosky <gosky@gosky.kr>: 16
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: 10326ba / namgung <skarndaudwls@gmail.com> / Merge pull request #249 from Dongyang-Mirae-University-software/fix/chat-stt-turbo
+- 최근 커밋: a7641f7 / namgung <skarndaudwls@gmail.com> / Merge pull request #250 from Dongyang-Mirae-University-software/fix/stt-warmup-after-llm
 
 ## 최근 수정 파일
 
-- data/postgres/pg_wal/000000010000000000000009 (2026-11-11 14:33:28 KST)
-- data/postgres/global/pg_control (2026-11-11 14:33:23 KST)
-- data/postgres/base/16384/33564 (2026-11-11 14:33:23 KST)
-- data/postgres/base/16384/32948 (2026-11-11 14:33:23 KST)
-- data/postgres/base/16384/32947 (2026-11-11 14:33:22 KST)
-- data/postgres/base/16384/32946 (2026-11-11 14:33:22 KST)
-- data/postgres/base/16384/32945 (2026-11-11 14:33:22 KST)
-- data/postgres/base/16384/32935 (2026-11-11 14:33:22 KST)
+- data/postgres/pg_wal/000000010000000000000009 (2026-11-11 14:48:26 KST)
+- data/postgres/global/pg_control (2026-11-11 14:48:25 KST)
+- data/postgres/base/16384/33564 (2026-11-11 14:48:25 KST)
+- data/postgres/base/16384/33193 (2026-11-11 14:48:25 KST)
+- data/postgres/base/16384/33191 (2026-11-11 14:48:24 KST)
+- data/postgres/base/16384/33188 (2026-11-11 14:48:24 KST)
+- data/postgres/base/16384/32948 (2026-11-11 14:48:24 KST)
+- data/postgres/base/16384/32947 (2026-11-11 14:48:24 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 657
-- Git 상위 계정: skarndaudwls1(311), gosky(37), Jaehe-he(30)
+- Git 커밋 수: 659
+- Git 상위 계정: skarndaudwls1(312), gosky(37), Jaehe-he(30)
