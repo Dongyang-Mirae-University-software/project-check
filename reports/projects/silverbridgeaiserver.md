@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-11 10:02:56 KST
+- 점검 시각: 2026-11-11 10:33:02 KST
 
 ## 추정 기술 스택
 
@@ -46,7 +46,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2556
+- 파일 개수: 2560
 - 디렉토리 개수: 95
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
 - 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/utils, models, models/companion, models/companion/face-detect, models/companion/face-emotion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b, models/companion/llm/exaone-3.5-2.4b/assets, models/companion/llm/lora-mood-e900
@@ -67,26 +67,26 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 616
+- 총 커밋 수: 628
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 292
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 298
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 30
   - gosky <gosky@gosky.kr>: 16
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: a0d8f30 / namgung <skarndaudwls@gmail.com> / Merge pull request #231 from Dongyang-Mirae-University-software/fix/audit2-chat-flows
+- 최근 커밋: 99f9fba / namgung <skarndaudwls@gmail.com> / Merge pull request #236 from Dongyang-Mirae-University-software/feature/chat-log-ward-id
 
 ## 최근 수정 파일
 
-- .env (2026-11-11 09:55:10 KST)
-- data/postgres/pg_wal/000000010000000000000009 (2026-11-11 09:38:26 KST)
-- data/postgres/global/pg_control (2026-11-11 09:38:17 KST)
-- data/postgres/base/16384/33564 (2026-11-11 09:38:17 KST)
-- data/postgres/base/16384/32948 (2026-11-11 09:38:17 KST)
-- data/postgres/base/16384/32947 (2026-11-11 09:38:17 KST)
-- data/postgres/base/16384/32946 (2026-11-11 09:38:17 KST)
-- data/postgres/base/16384/32945 (2026-11-11 09:38:17 KST)
+- app/services/chat_service.py (2026-11-11 10:30:26 KST)
+- requirements.txt (2026-11-11 10:30:26 KST)
+- tests/test_chat_log_ward_id.py (2026-11-11 10:30:26 KST)
+- Dockerfile (2026-11-11 10:30:26 KST)
+- docs/audits/2026-11-10-full-2-interactions-anomaly-resilience-audit.md (2026-11-11 10:18:23 KST)
+- docs/companion-contract.md (2026-11-11 10:18:23 KST)
+- docs/design/2026-11-11-chat-carer-legacy-dept-info.md (2026-11-11 10:18:23 KST)
+- tests/test_audit2_chat_flows.py (2026-11-11 10:18:23 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 616
-- Git 상위 계정: skarndaudwls1(292), gosky(37), Jaehe-he(30)
+- Git 커밋 수: 628
+- Git 상위 계정: skarndaudwls1(298), gosky(37), Jaehe-he(30)

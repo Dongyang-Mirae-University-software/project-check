@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-11-11 10:02:56 KST
+- 점검 시각: 2026-11-11 10:33:02 KST
 
 ## 추정 기술 스택
 
@@ -57,23 +57,23 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1608
+- 총 커밋 수: 1615
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 1304
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 1309
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
   - gosky <gosky@gosky.kr>: 2
-- 최근 커밋: 287dc9e0 / namgung <skarndaudwls@gmail.com> / Merge pull request #466 from Dongyang-Mirae-University-software/fix/audit-full-2026-11-low-items
+- 최근 커밋: 73c9be06 / namgung <skarndaudwls@gmail.com> / Merge pull request #468 from Dongyang-Mirae-University-software/feature/chat-log-ward-id
 
 ## 최근 수정 파일
 
+- docs/progress.md (2026-11-11 10:22:40 KST)
+- docs/audit-index.md (2026-11-11 10:22:40 KST)
 - src/main/resources/application.yaml (2026-11-10 23:29:17 KST)
 - CLAUDE.md (2026-11-10 23:29:17 KST)
 - docker-compose.dev.yml (2026-11-10 23:29:17 KST)
 - docker-compose.prod.yml (2026-11-10 23:29:17 KST)
 - docs/(2026-11-10) audit-full-2026-11-be-2.md (2026-11-10 23:29:17 KST)
-- docs/audit-index.md (2026-11-10 23:29:17 KST)
-- docs/progress.md (2026-11-10 23:29:17 KST)
 - src/main/resources/db/migration/V69__add_companion_test_open_unique.sql (2026-11-10 23:00:53 KST)
 
 ## 점검 결과 요약
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1608
-- Git 상위 계정: skarndaudwls1(1304), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1615
+- Git 상위 계정: skarndaudwls1(1309), skarndaudwls1(65), gosky(4)
