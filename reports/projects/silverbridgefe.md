@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-11 10:33:02 KST
+- 점검 시각: 2026-11-11 11:03:08 KST
 
 ## 추정 기술 스택
 
@@ -51,33 +51,33 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1200, 1900, 3000, 4000, 6000, 6010, 6015, 6510, 8000, 30000, 31536, 60836
+- 관련 포트: 1200, 1900, 2000, 3000, 4000, 6000, 6010, 6015, 6510, 8000, 30000, 31536, 60836
 - 관련 Docker 컨테이너: 확인 불가
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1884
+- 총 커밋 수: 1893
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 615
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 245
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 249
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 6be2cefa / namgung <skarndaudwls@gmail.com> / Merge pull request #239 from Dongyang-Mirae-University-software/design/hospital-chatbot-mobile-polish
+- 최근 커밋: 5e559226 / namgung <skarndaudwls@gmail.com> / Merge pull request #243 from Dongyang-Mirae-University-software/fix/chatbot-voice-chip-lock
 
 ## 최근 수정 파일
 
-- src/components/chatbot/ChatbotContent.browser.test.tsx (2026-11-11 10:32:57 KST)
-- src/components/chatbot/ChatbotContent.tsx (2026-11-11 10:32:57 KST)
-- src/components/chatbot/ChatbotReservation.browser.test.tsx (2026-11-11 10:32:57 KST)
-- src/components/chatbot/ChatbotVoiceInput.browser.test.tsx (2026-11-11 10:32:57 KST)
-- src/components/chatbot/ChatBubble.browser.test.tsx (2026-11-11 10:32:57 KST)
-- src/components/chatbot/ChatBubble.module.css (2026-11-11 10:32:57 KST)
-- src/components/chatbot/ChatBubble.tsx (2026-11-11 10:32:57 KST)
-- src/components/chatbot/useVoiceInput.ts (2026-11-11 10:32:57 KST)
+- src/app/(guardian)/guardian/hospital/_components/HospitalConfirmStep.tsx (2026-11-11 11:02:41 KST)
+- src/components/chatbot/breakSentences.test.ts (2026-11-11 11:02:41 KST)
+- src/components/chatbot/ChatbotContent.tsx (2026-11-11 11:02:41 KST)
+- src/components/chatbot/ChatbotVoiceInput.browser.test.tsx (2026-11-11 11:02:41 KST)
+- src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.browser.test.tsx (2026-11-11 11:02:41 KST)
+- src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.module.css (2026-11-11 11:02:41 KST)
+- src/components/chatbot/ChatbotContent.browser.test.tsx (2026-11-11 10:57:45 KST)
+- src/components/chatbot/ChatbotContent.module.css (2026-11-11 10:57:45 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1884
-- Git 상위 계정: YUNA0222(1400), yuna0222(615), skarndaudwls1(245)
+- Git 커밋 수: 1893
+- Git 상위 계정: YUNA0222(1400), yuna0222(615), skarndaudwls1(249)
