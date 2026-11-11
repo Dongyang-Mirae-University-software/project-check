@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-12 24:05:41 KST
+- 점검 시각: 2026-11-12 24:35:47 KST
 
 ## 추정 기술 스택
 
@@ -61,32 +61,32 @@
 
 - 상태: 실행 중
 - 관련 포트: 1000, 1800, 2000, 2048, 3599, 3600, 4096, 5432, 6012, 6015, 6017, 6019
-- 관련 Docker 컨테이너: kind_pare, silverbridge-ai-server
+- 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 684
+- 총 커밋 수: 686
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 325
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 326
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 30
   - gosky <gosky@gosky.kr>: 16
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: 370ed0c / namgung <skarndaudwls@gmail.com> / Merge pull request #262 from Dongyang-Mirae-University-software/docs/companion-fallback-empathy-audit
+- 최근 커밋: 44d9485 / namgung <skarndaudwls@gmail.com> / Merge pull request #263 from Dongyang-Mirae-University-software/fix/companion-no-response-fallback
 
 ## 최근 수정 파일
 
+- app/routers/companion_router.py (2026-11-12 24:08:55 KST)
+- app/services/companion/pipeline.py (2026-11-12 24:08:55 KST)
+- app/services/companion/reply_service.py (2026-11-12 24:08:55 KST)
+- docs/audits/2026-11-12-companion-fallback-empathy-audit.md (2026-11-12 24:08:55 KST)
+- tests/test_companion_fallback_empathy.py (2026-11-12 24:08:55 KST)
+- tests/test_review_store.py (2026-11-12 24:08:55 KST)
 - app/services/followup_steps.py (2026-11-12 24:03:53 KST)
-- docs/audits/2026-11-12-companion-fallback-empathy-audit.md (2026-11-12 24:03:53 KST)
 - tests/test_followup_new_symptom.py (2026-11-12 24:03:53 KST)
-- app/services/chat_service.py (2026-11-12 24:03:53 KST)
-- tests/test_chat_router_failure_followups.py (2026-11-11 23:36:06 KST)
-- tests/test_chip_set_v1.py (2026-11-11 23:36:06 KST)
-- tests/test_companion_fallback_empathy.py (2026-11-11 23:36:06 KST)
-- app/routers/companion_router.py (2026-11-11 23:36:06 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 684
-- Git 상위 계정: skarndaudwls1(325), gosky(37), Jaehe-he(30)
+- Git 커밋 수: 686
+- Git 상위 계정: skarndaudwls1(326), gosky(37), Jaehe-he(30)
