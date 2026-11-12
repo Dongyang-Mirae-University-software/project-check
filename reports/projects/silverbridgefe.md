@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-12 15:38:46 KST
+- 점검 시각: 2026-11-12 16:08:51 KST
 
 ## 추정 기술 스택
 
@@ -37,7 +37,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 811
+- 파일 개수: 812
 - 디렉토리 개수: 158
 - 주요 폴더: docs, public, scripts, src
 - 주요 경로: public, public/icons, public/icons/push, public/images, src, src/app, src/app/(admin), src/app/(admin)/admin, src/app/(admin)/admin/_components, src/app/(admin)/admin/ai-stats, src/app/(admin)/admin/devices, src/app/(admin)/admin/hospitals, src/app/(admin)/admin/inquiries, src/app/(admin)/admin/members, src/app/(admin)/admin/notices, src/app/(admin)/admin/notifications, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/@modal, src/app/(auth)/@modal/(.)find-email
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1929
+- 총 커밋 수: 1933
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 617
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 267
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 269
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 0b33513e / namgung <skarndaudwls@gmail.com> / Merge pull request #259 from Dongyang-Mirae-University-software/fix/game-played-at-utc
+- 최근 커밋: 2619571a / namgung <skarndaudwls@gmail.com> / Merge pull request #261 from Dongyang-Mirae-University-software/fix/companion-phone-answer-layout
 
 ## 최근 수정 파일
 
-- src/app/(guardian)/guardian/game/_components/GuardianGameContent.tsx (2026-11-12 15:05:11 KST)
-- src/components/chatbot/chatHistorySessions.ts (2026-11-12 15:05:11 KST)
-- src/utils/format/serverTime.test.ts (2026-11-12 15:05:11 KST)
-- src/utils/format/serverTime.ts (2026-11-12 15:05:11 KST)
-- src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx (2026-11-12 14:50:41 KST)
-- src/app/(ward)/ward/companion/_components/WardCompanionContent.module.css (2026-11-12 14:50:41 KST)
-- src/app/(ward)/ward/companion/_components/WardCompanionContent.tsx (2026-11-12 14:50:41 KST)
-- src/service/interface/ward/companion.ts (2026-11-12 14:50:41 KST)
+- docs/(2026-11-12) audit-companion-proto-align.md (2026-11-12 15:56:45 KST)
+- src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx (2026-11-12 15:56:45 KST)
+- src/app/(ward)/ward/companion/_components/WardCompanionContent.module.css (2026-11-12 15:56:45 KST)
+- src/app/(ward)/ward/companion/_components/WardCompanionContent.tsx (2026-11-12 15:41:49 KST)
+- src/utils/companion/companionAnalysis.test.ts (2026-11-12 15:41:49 KST)
+- src/utils/companion/companionAnalysis.ts (2026-11-12 15:41:49 KST)
+- src/app/(guardian)/guardian/emotion/_components/GuardianCompanionSessionContent.browser.test.tsx (2026-11-12 15:41:49 KST)
+- src/app/(guardian)/guardian/emotion/_components/GuardianCompanionSessionContent.module.css (2026-11-12 15:41:49 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1929
-- Git 상위 계정: YUNA0222(1400), yuna0222(617), skarndaudwls1(267)
+- Git 커밋 수: 1933
+- Git 상위 계정: YUNA0222(1400), yuna0222(617), skarndaudwls1(269)
