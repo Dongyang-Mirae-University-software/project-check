@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-12T00:37:33.888Z",
-  "generatedAtKst": "2026-11-12 09:37:33 KST",
+  "generatedAt": "2026-11-12T01:07:39.488Z",
+  "generatedAtKst": "2026-11-12 10:07:39 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8871
+          "count": 8872
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 5
         }
       ],
-      "count": 8917
+      "count": 8918
     },
     {
       "name": "skarndaudwls1",
@@ -791,13 +791,13 @@
           {
             "name": "chatsilverbridge-api-1",
             "image": "chatsilverbridge-api:latest",
-            "status": "Up 2 weeks",
+            "status": "Up 3 weeks",
             "ports": "127.0.0.1:6012->6012/tcp"
           },
           {
             "name": "chatsilverbridge-mysql-1",
             "image": "mysql:8.0",
-            "status": "Up 2 weeks (healthy)",
+            "status": "Up 3 weeks (healthy)",
             "ports": "33060/tcp, 127.0.0.1:3307->3306/tcp"
           },
           {
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8734,
+        "commitCount": 8735,
         "authors": [
           {
-            "count": 8734,
+            "count": 8735,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "331d90976",
+          "hash": "000deab27",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-12T09:07:32+09:00",
+          "date": "2026-11-12T09:37:37+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8734개 커밋, 상위 계정: gosky(8734), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8735개 커밋, 상위 계정: gosky(8735), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8734",
-        "Git 상위 계정: gosky(8734)"
+        "Git 커밋 수: 8735",
+        "Git 상위 계정: gosky(8735)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 9 hours",
+            "status": "Up 10 hours",
             "ports": ""
           }
         ],
@@ -2252,7 +2252,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 9 hours",
+            "status": "Up 10 hours",
             "ports": ""
           }
         ],
