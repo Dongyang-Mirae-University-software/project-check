@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-12 13:08:16 KST
+- 점검 시각: 2026-11-12 13:38:22 KST
 
 ## 추정 기술 스택
 
@@ -46,8 +46,8 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2575
-- 디렉토리 개수: 95
+- 파일 개수: 2579
+- 디렉토리 개수: 96
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
 - 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/utils, models, models/companion, models/companion/face-detect, models/companion/face-emotion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b, models/companion/llm/exaone-3.5-2.4b/assets, models/companion/llm/lora-mood-e900
 
@@ -67,26 +67,26 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 686
+- 총 커밋 수: 688
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 326
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 327
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 30
   - gosky <gosky@gosky.kr>: 16
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: 44d9485 / namgung <skarndaudwls@gmail.com> / Merge pull request #263 from Dongyang-Mirae-University-software/fix/companion-no-response-fallback
+- 최근 커밋: 4b24819 / namgung <skarndaudwls@gmail.com> / Merge pull request #264 from Dongyang-Mirae-University-software/fix/chip-answer-quality
 
 ## 최근 수정 파일
 
+- tests/eval/chip_set_v1.json (2026-11-12 13:26:39 KST)
+- tests/test_chip_answer_rules.py (2026-11-12 13:26:39 KST)
+- app/services/chat_keywords.py (2026-11-12 13:26:39 KST)
+- app/services/medical_llm_service.py (2026-11-12 13:26:39 KST)
+- models/companion/llm/lora-reply-cc7/adapter_config.json (2026-11-12 01:26:08 KST)
+- models/companion/llm/lora-reply-cc7/adapter_model.safetensors (2026-11-12 01:26:08 KST)
+- models/companion/llm/lora-reply-cc7/README.md (2026-11-12 01:26:07 KST)
 - app/routers/companion_router.py (2026-11-12 24:08:55 KST)
-- app/services/companion/pipeline.py (2026-11-12 24:08:55 KST)
-- app/services/companion/reply_service.py (2026-11-12 24:08:55 KST)
-- docs/audits/2026-11-12-companion-fallback-empathy-audit.md (2026-11-12 24:08:55 KST)
-- tests/test_companion_fallback_empathy.py (2026-11-12 24:08:55 KST)
-- tests/test_review_store.py (2026-11-12 24:08:55 KST)
-- app/services/followup_steps.py (2026-11-12 24:03:53 KST)
-- tests/test_followup_new_symptom.py (2026-11-12 24:03:53 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 686
-- Git 상위 계정: skarndaudwls1(326), gosky(37), Jaehe-he(30)
+- Git 커밋 수: 688
+- Git 상위 계정: skarndaudwls1(327), gosky(37), Jaehe-he(30)
