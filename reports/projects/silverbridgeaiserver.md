@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-12 14:08:28 KST
+- 점검 시각: 2026-11-12 14:38:34 KST
 
 ## 추정 기술 스택
 
@@ -67,26 +67,26 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 690
+- 총 커밋 수: 692
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 328
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 329
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 30
   - gosky <gosky@gosky.kr>: 16
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: b417fb8 / namgung <skarndaudwls@gmail.com> / Merge pull request #265 from Dongyang-Mirae-University-software/fix/followup-leftover-three
+- 최근 커밋: fb7942f / namgung <skarndaudwls@gmail.com> / Merge pull request #266 from Dongyang-Mirae-University-software/fix/audit-264-265
 
 ## 최근 수정 파일
 
-- app/services/chat_service.py (2026-11-12 13:59:42 KST)
-- app/services/followup_steps.py (2026-11-12 13:59:42 KST)
-- tests/test_followup_new_symptom.py (2026-11-12 13:59:42 KST)
-- tests/test_followup_steps.py (2026-11-12 13:59:42 KST)
-- data/companion_review.db (2026-11-12 13:51:37 KST)
-- .env (2026-11-12 13:43:37 KST)
-- tests/eval/chip_set_v1.json (2026-11-12 13:26:39 KST)
-- tests/test_chip_answer_rules.py (2026-11-12 13:26:39 KST)
+- app/services/followup_answer_chips.py (2026-11-12 14:29:07 KST)
+- app/services/followup_steps.py (2026-11-12 14:29:07 KST)
+- app/services/medical_llm_service.py (2026-11-12 14:29:07 KST)
+- tests/test_chip_answer_rules.py (2026-11-12 14:29:07 KST)
+- tests/test_followup_new_symptom.py (2026-11-12 14:29:07 KST)
+- data/postgres/pg_wal/000000010000000000000009 (2026-11-12 14:24:10 KST)
+- data/postgres/global/pg_control (2026-11-12 14:23:51 KST)
+- data/postgres/base/16384/33564 (2026-11-12 14:23:51 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 690
-- Git 상위 계정: skarndaudwls1(328), gosky(37), Jaehe-he(30)
+- Git 커밋 수: 692
+- Git 상위 계정: skarndaudwls1(329), gosky(37), Jaehe-he(30)
