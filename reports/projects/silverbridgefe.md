@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-12 20:09:39 KST
+- 점검 시각: 2026-11-12 20:39:45 KST
 
 ## 추정 기술 스택
 
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1933
+- 총 커밋 수: 1940
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
-  - yuna0222 <gold8077@gmail.com>: 617
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 269
+  - yuna0222 <gold8077@gmail.com>: 622
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 270
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 2619571a / namgung <skarndaudwls@gmail.com> / Merge pull request #261 from Dongyang-Mirae-University-software/fix/companion-phone-answer-layout
+- 최근 커밋: a8666240 / yuna0222 <gold8077@gmail.com> / Fix: 보호자 복약 알림 설명에 다른 보호자가 켜 두면 피보호자 알림은 계속 나간다는 안내를 더한다
 
 ## 최근 수정 파일
 
-- docs/(2026-11-12) audit-companion-proto-align.md (2026-11-12 15:56:45 KST)
-- src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx (2026-11-12 15:56:45 KST)
-- src/app/(ward)/ward/companion/_components/WardCompanionContent.module.css (2026-11-12 15:56:45 KST)
-- src/app/(ward)/ward/companion/_components/WardCompanionContent.tsx (2026-11-12 15:41:49 KST)
-- src/utils/companion/companionAnalysis.test.ts (2026-11-12 15:41:49 KST)
-- src/utils/companion/companionAnalysis.ts (2026-11-12 15:41:49 KST)
-- src/app/(guardian)/guardian/emotion/_components/GuardianCompanionSessionContent.browser.test.tsx (2026-11-12 15:41:49 KST)
-- src/app/(guardian)/guardian/emotion/_components/GuardianCompanionSessionContent.module.css (2026-11-12 15:41:49 KST)
+- src/app/(admin)/admin/_components/AdminDashboardContent.tsx (2026-11-12 20:17:22 KST)
+- src/app/(admin)/admin/_components/AdminDevicesContent.module.css (2026-11-12 20:17:22 KST)
+- src/app/(admin)/admin/_components/AdminNotificationHistoryContent.module.css (2026-11-12 20:17:22 KST)
+- src/app/(admin)/admin/_components/AdminNotificationHistoryContent.tsx (2026-11-12 20:17:22 KST)
+- src/components/settings/AlertTypeSettingsSection.tsx (2026-11-12 20:17:22 KST)
+- src/service/interface/admin/dashboard.ts (2026-11-12 20:17:22 KST)
+- src/service/interface/ward/companion.ts (2026-11-12 20:17:22 KST)
+- src/utils/admin/dashboard.test.ts (2026-11-12 20:17:22 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1933
-- Git 상위 계정: YUNA0222(1400), yuna0222(617), skarndaudwls1(269)
+- Git 커밋 수: 1940
+- Git 상위 계정: YUNA0222(1400), yuna0222(622), skarndaudwls1(270)
