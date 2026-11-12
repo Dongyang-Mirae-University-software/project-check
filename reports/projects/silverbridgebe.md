@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-11-12 14:38:34 KST
+- 점검 시각: 2026-11-12 15:08:39 KST
 
 ## 추정 기술 스택
 
@@ -57,18 +57,18 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1672
+- 총 커밋 수: 1677
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 1352
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 1355
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
   - gosky <gosky@gosky.kr>: 2
-- 최근 커밋: 210d8080 / skarndaudwls1 <skarndaudwls@gmail.com> / docs: AI #266 gosky 배포 기록
+- 최근 커밋: c236c819 / skarndaudwls1 <skarndaudwls@gmail.com> / docs: AI 되묻기·칩 답 변경 실화면·실서버 확인 기록
 
 ## 최근 수정 파일
 
-- docs/audit-index.md (2026-11-12 14:33:36 KST)
-- docs/progress.md (2026-11-12 14:33:36 KST)
+- docs/progress.md (2026-11-12 14:44:03 KST)
+- docs/audit-index.md (2026-11-12 14:44:03 KST)
 - tools/demo-seed/demo-cleanup.sql (2026-11-12 14:33:36 KST)
 - tools/demo-seed/demo-seed.sql (2026-11-12 14:33:36 KST)
 - tools/demo-seed/run.sh (2026-11-12 14:33:36 KST)
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1672
-- Git 상위 계정: skarndaudwls1(1352), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1677
+- Git 상위 계정: skarndaudwls1(1355), skarndaudwls1(65), gosky(4)
