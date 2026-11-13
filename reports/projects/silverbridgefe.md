@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-13 10:42:32 KST
+- 점검 시각: 2026-11-13 11:12:38 KST
 
 ## 추정 기술 스택
 
@@ -58,23 +58,23 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1946
+- 총 커밋 수: 1948
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 622
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 273
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 274
   - gosky <gosky@gosky.kr>: 20
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: d42a7d22 / namgung <skarndaudwls@gmail.com> / Merge pull request #265 from Dongyang-Mirae-University-software/fix/companion-test-table-overflow
+- 최근 커밋: cc8dc443 / namgung <skarndaudwls@gmail.com> / Merge pull request #266 from Dongyang-Mirae-University-software/fix/companion-test-table-height
 
 ## 최근 수정 파일
 
-- src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx (2026-11-13 10:40:13 KST)
-- src/app/(ward)/ward/companion/_components/WardCompanionContent.module.css (2026-11-13 10:40:13 KST)
+- src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx (2026-11-13 10:56:42 KST)
+- src/app/(ward)/ward/companion/_components/WardCompanionContent.module.css (2026-11-13 10:56:42 KST)
+- src/utils/companion/companionAnalysis.test.ts (2026-11-13 10:56:42 KST)
+- src/utils/companion/companionAnalysis.ts (2026-11-13 10:56:42 KST)
 - src/app/(ward)/ward/companion/_components/WardCompanionContent.tsx (2026-11-13 10:40:13 KST)
-- src/utils/companion/companionAnalysis.test.ts (2026-11-13 10:40:13 KST)
-- src/utils/companion/companionAnalysis.ts (2026-11-13 10:40:13 KST)
 - docs/(2026-11-13) audit-companion-end-card.md (2026-11-13 10:40:13 KST)
 - src/service/interface/ward/companion.ts (2026-11-13 10:14:10 KST)
 - src/app/(admin)/admin/_components/AdminDashboardContent.tsx (2026-11-12 20:17:22 KST)
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1946
-- Git 상위 계정: YUNA0222(1400), yuna0222(622), skarndaudwls1(273)
+- Git 커밋 수: 1948
+- Git 상위 계정: YUNA0222(1400), yuna0222(622), skarndaudwls1(274)

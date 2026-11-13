@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-11-13 10:42:32 KST
+- 점검 시각: 2026-11-13 11:12:38 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 340
+- 파일 개수: 341
 - 디렉토리 개수: 35
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/integrationTest, src/integrationTest/java, src/integrationTest/java/kr, src/integrationTest/java/kr/silverbridge, src/integrationTest/java/kr/silverbridge/main, src/integrationTest/java/kr/silverbridge/main/domain, src/integrationTest/java/kr/silverbridge/main/global, src/integrationTest/java/kr/silverbridge/main/migration, src/integrationTest/java/kr/silverbridge/main/support, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration
@@ -57,24 +57,24 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1689
+- 총 커밋 수: 1701
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 1366
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 1377
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
   - gosky <gosky@gosky.kr>: 2
-- 최근 커밋: c068d75f / namgung <skarndaudwls@gmail.com> / Merge pull request #482 from Dongyang-Mirae-University-software/feature/companion-end-reason-avoided
+- 최근 커밋: 62fefeda / skarndaudwls1 <skarndaudwls@gmail.com> / docs: 프로젝트 설명 5장에 안부 말벗 테이블·V64~V72 현황 추가
 
 ## 최근 수정 파일
 
-- src/main/resources/db/migration/V72__add_companion_end_reason_avoided.sql (2026-11-12 16:43:01 KST)
-- docs/(2026-11-12) audit-chatbot-redesign-and-log-format.md (2026-11-12 16:43:01 KST)
-- docs/audit-index.md (2026-11-12 16:43:01 KST)
-- docs/progress.md (2026-11-12 16:43:01 KST)
-- tools/demo-seed/demo-cleanup.sql (2026-11-12 14:33:36 KST)
-- tools/demo-seed/demo-seed.sql (2026-11-12 14:33:36 KST)
-- tools/demo-seed/run.sh (2026-11-12 14:33:36 KST)
-- docs/(2026-11-11) audit-admin-ai-status-companion.md (2026-11-12 24:16:22 KST)
+- announcements.csv (2026-11-13 11:02:47 KST)
+- connections.csv (2026-11-13 11:02:47 KST)
+- core_data.sql (2026-11-13 11:02:47 KST)
+- down-dev.sh (2026-11-13 11:02:47 KST)
+- export.sql (2026-11-13 11:02:47 KST)
+- fcm_tokens.csv (2026-11-13 11:02:47 KST)
+- import.sql (2026-11-13 11:02:47 KST)
+- Untitled (2026-11-13 11:02:47 KST)
 
 ## 점검 결과 요약
 
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1689
-- Git 상위 계정: skarndaudwls1(1366), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1701
+- Git 상위 계정: skarndaudwls1(1377), skarndaudwls1(65), gosky(4)

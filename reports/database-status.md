@@ -1,6 +1,6 @@
 # 데이터베이스 상태
 
-- 스캔 시각: 2026-11-13 10:42:34 KST
+- 스캔 시각: 2026-11-13 11:12:39 KST
 
 | 프로젝트 | DB 사용 여부 | 추정 DB | 실행 상태 | 관련 포트 | 관련 컨테이너 |
 | --- | --- | --- | --- | --- | --- |
@@ -24,9 +24,9 @@
 | SilverBridgeStreamTestFe | 아니오 | 확인 불가 | 실행 중 | 1012, 6018 | 확인 불가 |
 | TestSilverBridge | 아니오 | 확인 불가 | 확인 불가 | 확인 불가 | 확인 불가 |
 | WhitehouseBE | 예 | PostgreSQL | 실행 중 | 5432, 6701, 7084 | whitehousebe-api-1, whitehousebe-db-1 |
-| WhiteHouseBELJH | 예 | PostgreSQL | 실행 중 | 3000, 3001, 5432, 5433, 6700, 6701, 6705, 9090, 10000, 18000 | 확인 불가 |
+| WhiteHouseBELJH | 예 | PostgreSQL | 실행 중 | 5432, 6700, 6706, 9090, 10000, 18000 | 확인 불가 |
 | WhitehouseFE | 아니오 | 확인 불가 | 실행 중 | 1024, 1280, 2026, 3000 | whitehousefe-web |
-| xai-credit-scoring_sky | 아니오 | 확인 불가 | 확인 불가 | 확인 불가 | 확인 불가 |
+| xai-credit-scoring_sky | 예 | PostgreSQL, SQLite | 실행 중 | 1000, 2000, 5000, 5432, 8000, 8501, 10150, 15000 | 확인 불가 |
 
 ## 점검 메모
 
@@ -70,4 +70,5 @@
   - 근거: docker-compose.yml 확인, application.yml 확인, .env 키 3개 확인, 추정 DB: PostgreSQL
 - WhitehouseFE: DB 사용 흔적 없음
   - 근거: docker-compose.yml 확인, package.json 확인
-- xai-credit-scoring_sky: DB 사용 흔적 없음
+- xai-credit-scoring_sky: PostgreSQL, SQLite 사용 추정
+  - 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 24개 확인, 추정 DB: PostgreSQL, SQLite

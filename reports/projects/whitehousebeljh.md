@@ -2,13 +2,12 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhiteHouseBELJH`
 - 분류: 백엔드
-- 점검 시각: 2026-11-13 10:42:34 KST
+- 점검 시각: 2026-11-13 11:12:39 KST
 
 ## 추정 기술 스택
 
 - Java
 - Spring
-- Frontend
 - Backend
 
 ## 주요 파일
@@ -37,7 +36,7 @@
 ## 주요 폴더 구조
 
 - 파일 개수: 1310
-- 디렉토리 개수: 46
+- 디렉토리 개수: 32
 - 주요 폴더: data, src
 - 주요 경로: src, src/main, src/main/java, src/main/java/com, src/main/java/com/whitehouse, src/main/java/com/whitehouse/api, src/main/java/com/whitehouse/api/controller, src/main/java/com/whitehouse/api/dto, src/main/java/com/whitehouse/domain, src/main/java/com/whitehouse/domain/news, src/main/java/com/whitehouse/domain/statement, src/main/java/com/whitehouse/global, src/main/java/com/whitehouse/global/config, src/main/java/com/whitehouse/global/util, src/main/resources, src/main/resources/db, src/main/resources/db/migration
 
@@ -50,34 +49,34 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 3000, 3001, 5432, 5433, 6700, 6701, 6705, 9090, 10000, 18000
+- 관련 포트: 5432, 6700, 6706, 9090, 10000, 18000
 - 관련 Docker 컨테이너: 확인 불가
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 11
+- 총 커밋 수: 15
 - 계정별 커밋 수:
   - Jaehe-he <hywuljh1@naver.com>: 15
-- 최근 커밋: 26f4968 / Jaehe-he <hywuljh1@naver.com> / docs: README.md 포트 및 API 프리픽스 정보 업데이트
+- 최근 커밋: b61b04a / Jaehe-he <hywuljh1@naver.com> / fix: WhitehouseBE docker-compose.yml DB 포트 수정
 
 ## 최근 수정 파일
 
-- data/postgres/base/16384/pg_internal.init (2026-10-15 03:05:35 KST)
-- data/postgres/global/pg_internal.init (2026-10-15 03:05:35 KST)
-- data/postgres/pg_wal/000000010000000000000038 (2026-10-15 03:05:22 KST)
-- data/postgres/postmaster.pid (2026-10-15 03:05:13 KST)
-- data/postgres/global/pg_control (2026-10-15 03:05:10 KST)
-- data/postgres/pg_multixact/offsets/0000 (2026-10-15 03:05:09 KST)
-- data/postgres/pg_subtrans/0001 (2026-10-15 03:05:09 KST)
-- data/postgres/pg_xact/0000 (2026-10-15 03:05:09 KST)
+- data/postgres/pg_xact/0000 (2026-11-13 11:02:49 KST)
+- data/postgres/postgresql.auto.conf (2026-11-13 11:02:49 KST)
+- data/postgres/postgresql.conf (2026-11-13 11:02:49 KST)
+- data/postgres/postmaster.opts (2026-11-13 11:02:49 KST)
+- data/postgres/postmaster.pid (2026-11-13 11:02:49 KST)
+- init.sql (2026-11-13 11:02:49 KST)
+- data/postgres/pg_wal/000000010000000000000039 (2026-11-13 11:02:49 KST)
+- data/postgres/pg_wal/000000010000000000000038 (2026-11-13 11:02:49 KST)
 
 ## 점검 결과 요약
 
 - 분류: 백엔드
-- 기술 추정: Java, Spring, Frontend, Backend
+- 기술 추정: Java, Spring, Backend
 - DB 사용 추정: PostgreSQL
 - 실행 상태: 실행 중
-- Git 커밋 수: 11
+- Git 커밋 수: 15
 - Git 상위 계정: Jaehe-he(15)

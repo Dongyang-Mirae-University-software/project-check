@@ -4,18 +4,18 @@
 - 프론트엔드 프로젝트 개수: 4
 - 백엔드 프로젝트 개수: 9
 - AI 서버 프로젝트 개수: 6
-- DB 사용 프로젝트 개수: 9
+- DB 사용 프로젝트 개수: 10
 - Git 저장소 프로젝트 개수: 16
-- 실행 중인 서비스 개수: 16
-- 꺼져 있는 서비스 개수: 7
-- 마지막 스캔 시간: 2026-11-13 10:42:30 KST
+- 실행 중인 서비스 개수: 17
+- 꺼져 있는 서비스 개수: 6
+- 마지막 스캔 시간: 2026-11-13 11:12:35 KST
 
 ## 계정별 커밋 수
 
 | 계정 | 이메일별 커밋 수 | 합산 커밋 수 |
 | --- | --- | ---: |
-| gosky | lovesky00317@gmail.com (8921); gosky@gosky.kr (41); gosky.dev@gmail.com (5) | 8967 |
-| skarndaudwls1 | skarndaudwls@gmail.com (2118); skarndaudwls1@gmail.com (89) | 2207 |
+| gosky | lovesky00317@gmail.com (8922); gosky@gosky.kr (42); gosky.dev@gmail.com (17) | 8981 |
+| skarndaudwls1 | skarndaudwls@gmail.com (2130); skarndaudwls1@gmail.com (89) | 2219 |
 | YUNA0222 | gold8077@gmail.com (1441); 89885846+yuna0222@users.noreply.github.com (18) | 1459 |
 | Jaehe-he | hywuljh1@naver.com (745) | 745 |
 | yuna0222 | gold8077@gmail.com (622) | 622 |
@@ -46,4 +46,4 @@
 - WhitehouseBE | 백엔드 | 실행 중 | DB 사용
 - WhiteHouseBELJH | 백엔드 | 실행 중 | DB 사용
 - WhitehouseFE | 프론트엔드 | 실행 중 | DB 미사용
-- xai-credit-scoring_sky | AI 서버 | 확인 불가 | DB 미사용
+- xai-credit-scoring_sky | AI 서버 | 실행 중 | DB 사용
