@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-13 15:15:13 KST
+- 점검 시각: 2026-11-13 15:45:19 KST
 
 ## 추정 기술 스택
 
@@ -46,7 +46,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2675
+- 파일 개수: 2676
 - 디렉토리 개수: 103
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
 - 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/static, app/static/game, app/utils, models, models/companion, models/companion/face-detect, models/companion/face-emotion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b
@@ -60,33 +60,33 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1000, 1024, 1253, 1800, 2000, 2048, 3599, 3600, 4096, 5432, 6012, 6015, 6017, 6019, 10000, 44100
+- 관련 포트: 1000, 1800, 2000, 2048, 3599, 3600, 4096, 5432, 6012, 6015, 6017, 6019
 - 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 732
+- 총 커밋 수: 734
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 348
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 349
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 30
   - gosky <gosky@gosky.kr>: 20
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: c7721e3 / namgung <skarndaudwls@gmail.com> / Merge pull request #285 from Dongyang-Mirae-University-software/fix/companion-tts-ward-check
+- 최근 커밋: b62b304 / namgung <skarndaudwls@gmail.com> / Merge pull request #286 from Dongyang-Mirae-University-software/fix/ward-care-and-period
 
 ## 최근 수정 파일
 
-- data/companion_review.db (2026-11-13 15:05:49 KST)
-- app/services/companion/tts_service.py (2026-11-13 14:53:05 KST)
-- tests/test_companion_tts.py (2026-11-13 14:53:05 KST)
-- app/routers/companion_router.py (2026-11-13 14:53:05 KST)
-- requirements.txt (2026-11-13 14:41:06 KST)
-- tests/test_companion_judgment_stage.py (2026-11-13 14:41:06 KST)
-- app/core/config.py (2026-11-13 14:41:06 KST)
-- app/services/companion/llm_client.py (2026-11-13 14:41:06 KST)
+- data/postgres/pg_wal/000000010000000000000009 (2026-11-13 15:39:41 KST)
+- data/postgres/global/pg_control (2026-11-13 15:39:22 KST)
+- data/postgres/base/16384/33564 (2026-11-13 15:39:22 KST)
+- data/postgres/base/16384/32958 (2026-11-13 15:39:22 KST)
+- data/postgres/base/16384/32957 (2026-11-13 15:39:21 KST)
+- data/postgres/base/16384/32956 (2026-11-13 15:39:21 KST)
+- data/postgres/base/16384/32955 (2026-11-13 15:39:21 KST)
+- data/postgres/base/16384/32950 (2026-11-13 15:39:21 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 732
-- Git 상위 계정: skarndaudwls1(348), gosky(37), Jaehe-he(30)
+- Git 커밋 수: 734
+- Git 상위 계정: skarndaudwls1(349), gosky(37), Jaehe-he(30)
