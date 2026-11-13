@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-14 05:29:17 KST
+- 점검 시각: 2026-11-14 05:59:22 KST
 
 ## 추정 기술 스택
 
@@ -79,14 +79,14 @@
 
 ## 최근 수정 파일
 
-- data/companion_review.db (2026-11-14 05:14:47 KST)
-- .env (2026-11-14 03:50:52 KST)
-- app/services/companion/google_tts.py (2026-11-14 03:38:14 KST)
-- app/services/companion/tts_service.py (2026-11-14 03:38:14 KST)
-- docs/eval-results/2026-11-14-companion-google-tts.md (2026-11-14 03:38:14 KST)
-- tests/test_companion_google_tts.py (2026-11-14 03:38:14 KST)
-- .env.example (2026-11-14 03:38:14 KST)
-- app/core/config.py (2026-11-14 03:38:14 KST)
+- data/postgres/pg_wal/000000010000000000000009 (2026-11-14 05:44:55 KST)
+- data/postgres/global/pg_control (2026-11-14 05:44:37 KST)
+- data/postgres/base/16384/33564 (2026-11-14 05:44:36 KST)
+- data/postgres/base/16384/32948 (2026-11-14 05:44:36 KST)
+- data/postgres/base/16384/32947 (2026-11-14 05:44:36 KST)
+- data/postgres/base/16384/32946 (2026-11-14 05:44:36 KST)
+- data/postgres/base/16384/32945 (2026-11-14 05:44:36 KST)
+- data/postgres/base/16384/32935_vm (2026-11-14 05:44:36 KST)
 
 ## 점검 결과 요약
 
