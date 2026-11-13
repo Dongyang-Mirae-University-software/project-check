@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-13 22:58:00 KST
+- 점검 시각: 2026-11-13 23:28:06 KST
 
 ## 추정 기술 스택
 
@@ -60,7 +60,7 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1000, 1800, 2000, 2048, 3599, 3600, 4096, 5432, 6012, 6015, 6017, 6019
+- 관련 포트: 1000, 1800, 2000, 2048, 3599, 3600, 4096, 5432, 6012, 6017, 6019
 - 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
@@ -79,14 +79,14 @@
 
 ## 최근 수정 파일
 
-- app/routers/companion_router.py (2026-11-13 22:41:29 KST)
-- app/services/companion/pipeline.py (2026-11-13 22:41:29 KST)
-- app/services/companion/reply_service.py (2026-11-13 22:41:29 KST)
-- tests/test_companion_reply_relax_calm.py (2026-11-13 22:41:29 KST)
-- tests/test_companion_text_reply_and_check.py (2026-11-13 22:41:29 KST)
-- tests/test_companion_voice_stage.py (2026-11-13 22:41:29 KST)
-- data/postgres/pg_wal/000000010000000000000009 (2026-11-13 22:09:27 KST)
-- data/postgres/global/pg_control (2026-11-13 22:09:27 KST)
+- data/postgres/pg_wal/000000010000000000000009 (2026-11-13 23:24:29 KST)
+- data/postgres/global/pg_control (2026-11-13 23:24:27 KST)
+- data/postgres/base/16384/33564 (2026-11-13 23:24:27 KST)
+- data/postgres/base/16384/16502 (2026-11-13 23:24:27 KST)
+- data/postgres/base/16384/16501 (2026-11-13 23:24:27 KST)
+- data/postgres/base/16384/16500 (2026-11-13 23:24:27 KST)
+- data/postgres/base/16384/16498 (2026-11-13 23:24:26 KST)
+- data/postgres/base/16384/16496 (2026-11-13 23:24:26 KST)
 
 ## 점검 결과 요약
 
