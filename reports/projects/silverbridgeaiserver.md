@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-13 14:45:07 KST
+- 점검 시각: 2026-11-13 15:15:13 KST
 
 ## 추정 기술 스택
 
@@ -67,26 +67,26 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 730
+- 총 커밋 수: 732
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 347
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 348
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 30
   - gosky <gosky@gosky.kr>: 20
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: a1dc2bd / namgung <skarndaudwls@gmail.com> / Merge pull request #284 from Dongyang-Mirae-University-software/chore/companion-reply-lora-cc7
+- 최근 커밋: c7721e3 / namgung <skarndaudwls@gmail.com> / Merge pull request #285 from Dongyang-Mirae-University-software/fix/companion-tts-ward-check
 
 ## 최근 수정 파일
 
+- data/companion_review.db (2026-11-13 15:05:49 KST)
+- app/services/companion/tts_service.py (2026-11-13 14:53:05 KST)
+- tests/test_companion_tts.py (2026-11-13 14:53:05 KST)
+- app/routers/companion_router.py (2026-11-13 14:53:05 KST)
 - requirements.txt (2026-11-13 14:41:06 KST)
 - tests/test_companion_judgment_stage.py (2026-11-13 14:41:06 KST)
 - app/core/config.py (2026-11-13 14:41:06 KST)
 - app/services/companion/llm_client.py (2026-11-13 14:41:06 KST)
-- app/services/companion/reply_service.py (2026-11-13 14:41:06 KST)
-- docs/companion-team-status.md (2026-11-13 14:41:06 KST)
-- data/postgres/pg_wal/000000010000000000000009 (2026-11-13 14:39:26 KST)
-- data/postgres/global/pg_control (2026-11-13 14:39:19 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 730
-- Git 상위 계정: skarndaudwls1(347), gosky(37), Jaehe-he(30)
+- Git 커밋 수: 732
+- Git 상위 계정: skarndaudwls1(348), gosky(37), Jaehe-he(30)
