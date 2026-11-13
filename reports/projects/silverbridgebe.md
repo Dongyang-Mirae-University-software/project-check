@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-11-13 14:15:01 KST
+- 점검 시각: 2026-11-13 14:45:07 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 341
+- 파일 개수: 343
 - 디렉토리 개수: 35
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/integrationTest, src/integrationTest/java, src/integrationTest/java/kr, src/integrationTest/java/kr/silverbridge, src/integrationTest/java/kr/silverbridge/main, src/integrationTest/java/kr/silverbridge/main/domain, src/integrationTest/java/kr/silverbridge/main/global, src/integrationTest/java/kr/silverbridge/main/migration, src/integrationTest/java/kr/silverbridge/main/support, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration
@@ -57,24 +57,24 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1701
+- 총 커밋 수: 1710
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 1377
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 1384
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
   - gosky <gosky@gosky.kr>: 2
-- 최근 커밋: 62fefeda / skarndaudwls1 <skarndaudwls@gmail.com> / docs: 프로젝트 설명 5장에 안부 말벗 테이블·V64~V72 현황 추가
+- 최근 커밋: dfe536b4 / namgung <skarndaudwls@gmail.com> / Merge pull request #485 from Dongyang-Mirae-University-software/fix/companion-tts-audit
 
 ## 최근 수정 파일
 
+- docs/audit-index.md (2026-11-13 14:42:52 KST)
+- docs/progress.md (2026-11-13 14:42:52 KST)
+- src/main/resources/application.yaml (2026-11-13 14:42:52 KST)
+- docs/(2026-11-13) audit-companion-tts-relay.md (2026-11-13 14:42:52 KST)
+- docs/(2026-11-13) feature-companion-tts-relay.md (2026-11-13 14:17:20 KST)
 - announcements.csv (2026-11-13 11:02:47 KST)
 - connections.csv (2026-11-13 11:02:47 KST)
 - core_data.sql (2026-11-13 11:02:47 KST)
-- down-dev.sh (2026-11-13 11:02:47 KST)
-- export.sql (2026-11-13 11:02:47 KST)
-- fcm_tokens.csv (2026-11-13 11:02:47 KST)
-- import.sql (2026-11-13 11:02:47 KST)
-- Untitled (2026-11-13 11:02:47 KST)
 
 ## 점검 결과 요약
 
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1701
-- Git 상위 계정: skarndaudwls1(1377), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1710
+- Git 상위 계정: skarndaudwls1(1384), skarndaudwls1(65), gosky(4)
