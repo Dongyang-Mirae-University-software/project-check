@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-13T17:28:39.630Z",
-  "generatedAtKst": "2026-11-14 02:28:39 KST",
+  "generatedAt": "2026-11-13T17:58:45.405Z",
+  "generatedAtKst": "2026-11-14 02:58:45 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8952
+          "count": 8953
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 17
         }
       ],
-      "count": 9016
+      "count": 9017
     },
     {
       "name": "skarndaudwls1",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8815,
+        "commitCount": 8816,
         "authors": [
           {
-            "count": 8815,
+            "count": 8816,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "d79a69ec9",
+          "hash": "67a026bc3",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-14T01:58:37+09:00",
+          "date": "2026-11-14T02:28:43+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8815개 커밋, 상위 계정: gosky(8815), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8816개 커밋, 상위 계정: gosky(8816), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8815",
-        "Git 상위 계정: gosky(8815)"
+        "Git 커밋 수: 8816",
+        "Git 상위 계정: gosky(8816)"
       ]
     },
     {
@@ -2239,7 +2239,7 @@
         "evidence": [
           "docker-compose.yml 확인",
           "requirements.txt 확인",
-          ".env 키 232개 확인",
+          ".env 키 240개 확인",
           "추정 DB: PostgreSQL, SQLite"
         ],
         "summary": "PostgreSQL, SQLite 사용 추정"
@@ -2259,6 +2259,7 @@
         "ports": [
           5432,
           6012,
+          6015,
           6017,
           6019
         ],
@@ -2272,14 +2273,16 @@
           4096,
           5432,
           6012,
+          6015,
           6017,
-          6019
+          6019,
+          50000
         ],
         "summary": [
           "실행 중",
           "PM2 없음",
           "Docker 1개",
-          "포트 5432, 6012, 6017, 6019"
+          "포트 5432, 6012, 6015, 6017, 6019"
         ]
       },
       "git": {
@@ -2329,36 +2332,36 @@
       },
       "recentFiles": [
         {
-          "path": "data/companion_review.db",
-          "modifiedAt": "2026-11-13T14:52:23.758Z"
+          "path": ".env",
+          "modifiedAt": "2026-11-13T17:58:39.269Z"
         },
         {
-          "path": "app/services/companion/dialogue_store.py",
-          "modifiedAt": "2026-11-13T14:49:46.145Z"
+          "path": "data/postgres/pg_wal/000000010000000000000009",
+          "modifiedAt": "2026-11-13T17:54:36.612Z"
         },
         {
-          "path": "app/services/companion/reply_service.py",
-          "modifiedAt": "2026-11-13T14:49:46.145Z"
+          "path": "data/postgres/global/pg_control",
+          "modifiedAt": "2026-11-13T17:54:31.404Z"
         },
         {
-          "path": "docs/companion-team-status.md",
-          "modifiedAt": "2026-11-13T14:49:46.145Z"
+          "path": "data/postgres/base/16384/33564",
+          "modifiedAt": "2026-11-13T17:54:31.305Z"
         },
         {
-          "path": "tests/test_companion_fallback_empathy.py",
-          "modifiedAt": "2026-11-13T14:49:46.145Z"
+          "path": "data/postgres/base/16384/32950",
+          "modifiedAt": "2026-11-13T17:54:31.205Z"
         },
         {
-          "path": "tests/test_companion_flat_topic_switch.py",
-          "modifiedAt": "2026-11-13T14:49:46.145Z"
+          "path": "data/postgres/base/16384/32948",
+          "modifiedAt": "2026-11-13T17:54:31.105Z"
         },
         {
-          "path": "tests/test_companion_prev_question.py",
-          "modifiedAt": "2026-11-13T14:49:46.145Z"
+          "path": "data/postgres/base/16384/32947",
+          "modifiedAt": "2026-11-13T17:54:31.005Z"
         },
         {
-          "path": "tests/test_review_store.py",
-          "modifiedAt": "2026-11-13T14:49:46.145Z"
+          "path": "data/postgres/base/16384/32946",
+          "modifiedAt": "2026-11-13T17:54:30.601Z"
         }
       ],
       "summary": [

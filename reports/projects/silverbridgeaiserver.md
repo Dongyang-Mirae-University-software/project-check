@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-14 02:28:41 KST
+- 점검 시각: 2026-11-14 02:58:47 KST
 
 ## 추정 기술 스택
 
@@ -55,12 +55,12 @@
 
 - 사용 여부: 예
 - 연결 추정 DB: PostgreSQL, SQLite
-- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 232개 확인, 추정 DB: PostgreSQL, SQLite
+- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 240개 확인, 추정 DB: PostgreSQL, SQLite
 
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1000, 1800, 2000, 2048, 3599, 3600, 4096, 5432, 6012, 6017, 6019
+- 관련 포트: 1000, 1800, 2000, 2048, 3599, 3600, 4096, 5432, 6012, 6015, 6017, 6019, 50000
 - 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
@@ -79,14 +79,14 @@
 
 ## 최근 수정 파일
 
-- data/companion_review.db (2026-11-13 23:52:23 KST)
-- app/services/companion/dialogue_store.py (2026-11-13 23:49:46 KST)
-- app/services/companion/reply_service.py (2026-11-13 23:49:46 KST)
-- docs/companion-team-status.md (2026-11-13 23:49:46 KST)
-- tests/test_companion_fallback_empathy.py (2026-11-13 23:49:46 KST)
-- tests/test_companion_flat_topic_switch.py (2026-11-13 23:49:46 KST)
-- tests/test_companion_prev_question.py (2026-11-13 23:49:46 KST)
-- tests/test_review_store.py (2026-11-13 23:49:46 KST)
+- .env (2026-11-14 02:58:39 KST)
+- data/postgres/pg_wal/000000010000000000000009 (2026-11-14 02:54:36 KST)
+- data/postgres/global/pg_control (2026-11-14 02:54:31 KST)
+- data/postgres/base/16384/33564 (2026-11-14 02:54:31 KST)
+- data/postgres/base/16384/32950 (2026-11-14 02:54:31 KST)
+- data/postgres/base/16384/32948 (2026-11-14 02:54:31 KST)
+- data/postgres/base/16384/32947 (2026-11-14 02:54:31 KST)
+- data/postgres/base/16384/32946 (2026-11-14 02:54:30 KST)
 
 ## 점검 결과 요약
 
