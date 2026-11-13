@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-13T04:44:53.316Z",
-  "generatedAtKst": "2026-11-13 13:44:53 KST",
+  "generatedAt": "2026-11-13T05:14:58.970Z",
+  "generatedAtKst": "2026-11-13 14:14:58 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8927
+          "count": 8928
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 17
         }
       ],
-      "count": 8990
+      "count": 8991
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2132
+          "count": 2133
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2221
+      "count": 2222
     },
     {
       "name": "YUNA0222",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8790,
+        "commitCount": 8791,
         "authors": [
           {
-            "count": 8790,
+            "count": 8791,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "5561f2c65",
+          "hash": "3e6f446a8",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-13T13:14:51+09:00",
+          "date": "2026-11-13T13:44:57+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8790개 커밋, 상위 계정: gosky(8790), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8791개 커밋, 상위 계정: gosky(8791), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8790",
-        "Git 상위 계정: gosky(8790)"
+        "Git 커밋 수: 8791",
+        "Git 상위 계정: gosky(8791)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 3 hours",
+            "status": "Up 11 minutes",
             "ports": ""
           }
         ],
@@ -2195,7 +2195,7 @@
         }
       ],
       "structure": {
-        "fileCount": 2673,
+        "fileCount": 2617,
         "dirCount": 103,
         "mainFolders": [
           "app",
@@ -2239,7 +2239,7 @@
         "evidence": [
           "docker-compose.yml 확인",
           "requirements.txt 확인",
-          ".env 키 226개 확인",
+          ".env 키 232개 확인",
           "추정 DB: PostgreSQL, SQLite"
         ],
         "summary": "PostgreSQL, SQLite 사용 추정"
@@ -2252,13 +2252,14 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 3 hours",
+            "status": "Up 11 minutes",
             "ports": ""
           }
         ],
         "ports": [
           5432,
           6012,
+          6015,
           6017,
           6019
         ],
@@ -2274,6 +2275,7 @@
           4096,
           5432,
           6012,
+          6015,
           6017,
           6019,
           10000,
@@ -2283,16 +2285,16 @@
           "실행 중",
           "PM2 없음",
           "Docker 1개",
-          "포트 5432, 6012, 6017, 6019"
+          "포트 5432, 6012, 6015, 6017, 6019"
         ]
       },
       "git": {
         "isRepo": true,
-        "branch": "feature/game-art-images",
+        "branch": "main",
         "commitCount": 723,
         "authors": [
           {
-            "count": 344,
+            "count": 345,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2323,46 +2325,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "da1212b",
-          "author": "gosky",
-          "email": "gosky@gosky.kr",
-          "date": "2026-11-13T13:39:58+09:00",
-          "subject": "chore: 게임 그림 58장 추가"
+          "hash": "0346020",
+          "author": "namgung",
+          "email": "skarndaudwls@gmail.com",
+          "date": "2026-11-13T13:58:12+09:00",
+          "subject": "Merge pull request #281 from Dongyang-Mirae-University-software/feature/companion-tts-supertonic"
         },
-        "summary": "총 723개 커밋, 상위 계정: skarndaudwls1(344), gosky(37), Jaehe-he(30), 최근: chore: 게임 그림 58장 추가"
+        "summary": "총 723개 커밋, 상위 계정: skarndaudwls1(345), gosky(37), Jaehe-he(30), 최근: Merge pull request #281 from Dongyang-Mirae-University-software/feature/companion-tts-supertonic"
       },
       "recentFiles": [
         {
-          "path": "models/companion/tts-supertonic3/onnx/vector_estimator.onnx",
-          "modifiedAt": "2026-11-13T04:39:37.773Z"
+          "path": "data/companion_review.db",
+          "modifiedAt": "2026-11-13T05:04:26.106Z"
         },
         {
-          "path": "models/companion/tts-supertonic3/onnx/vocoder.onnx",
-          "modifiedAt": "2026-11-13T04:39:36.945Z"
+          "path": "app/services/companion/tts_service.py",
+          "modifiedAt": "2026-11-13T05:00:40.717Z"
         },
         {
-          "path": "models/companion/tts-supertonic3/onnx/text_encoder.onnx",
-          "modifiedAt": "2026-11-13T04:39:24.534Z"
+          "path": "requirements.txt",
+          "modifiedAt": "2026-11-13T05:00:40.717Z"
         },
         {
-          "path": "models/companion/tts-supertonic3/voice_styles/M5.json",
-          "modifiedAt": "2026-11-13T04:39:24.434Z"
+          "path": "tests/test_companion_tts.py",
+          "modifiedAt": "2026-11-13T05:00:40.717Z"
         },
         {
-          "path": "models/companion/tts-supertonic3/voice_styles/M4.json",
-          "modifiedAt": "2026-11-13T04:39:24.422Z"
+          "path": ".env.example",
+          "modifiedAt": "2026-11-13T05:00:40.713Z"
         },
         {
-          "path": "models/companion/tts-supertonic3/voice_styles/M3.json",
-          "modifiedAt": "2026-11-13T04:39:24.362Z"
+          "path": "app/core/config.py",
+          "modifiedAt": "2026-11-13T05:00:40.713Z"
         },
         {
-          "path": "models/companion/tts-supertonic3/voice_styles/M2.json",
-          "modifiedAt": "2026-11-13T04:39:24.342Z"
+          "path": "app/main.py",
+          "modifiedAt": "2026-11-13T05:00:40.713Z"
         },
         {
-          "path": "models/companion/tts-supertonic3/voice_styles/M1.json",
-          "modifiedAt": "2026-11-13T04:39:24.234Z"
+          "path": "app/routers/companion_router.py",
+          "modifiedAt": "2026-11-13T05:00:40.713Z"
         }
       ],
       "summary": [
@@ -2371,7 +2373,7 @@
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
         "Git 커밋 수: 723",
-        "Git 상위 계정: skarndaudwls1(344), gosky(37), Jaehe-he(30)"
+        "Git 상위 계정: skarndaudwls1(345), gosky(37), Jaehe-he(30)"
       ]
     },
     {

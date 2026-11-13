@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-13 13:44:55 KST
+- 점검 시각: 2026-11-13 14:15:01 KST
 
 ## 추정 기술 스택
 
@@ -46,7 +46,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2673
+- 파일 개수: 2617
 - 디렉토리 개수: 103
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
 - 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/static, app/static/game, app/utils, models, models/companion, models/companion/face-detect, models/companion/face-emotion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b
@@ -55,38 +55,38 @@
 
 - 사용 여부: 예
 - 연결 추정 DB: PostgreSQL, SQLite
-- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 226개 확인, 추정 DB: PostgreSQL, SQLite
+- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 232개 확인, 추정 DB: PostgreSQL, SQLite
 
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1000, 1024, 1253, 1800, 2000, 2048, 3599, 3600, 4096, 5432, 6012, 6017, 6019, 10000, 44100
+- 관련 포트: 1000, 1024, 1253, 1800, 2000, 2048, 3599, 3600, 4096, 5432, 6012, 6015, 6017, 6019, 10000, 44100
 - 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
 
-- 브랜치: feature/game-art-images
+- 브랜치: main
 - 총 커밋 수: 723
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 344
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 345
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 30
   - gosky <gosky@gosky.kr>: 20
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: da1212b / gosky <gosky@gosky.kr> / chore: 게임 그림 58장 추가
+- 최근 커밋: 0346020 / namgung <skarndaudwls@gmail.com> / Merge pull request #281 from Dongyang-Mirae-University-software/feature/companion-tts-supertonic
 
 ## 최근 수정 파일
 
-- models/companion/tts-supertonic3/onnx/vector_estimator.onnx (2026-11-13 13:39:37 KST)
-- models/companion/tts-supertonic3/onnx/vocoder.onnx (2026-11-13 13:39:36 KST)
-- models/companion/tts-supertonic3/onnx/text_encoder.onnx (2026-11-13 13:39:24 KST)
-- models/companion/tts-supertonic3/voice_styles/M5.json (2026-11-13 13:39:24 KST)
-- models/companion/tts-supertonic3/voice_styles/M4.json (2026-11-13 13:39:24 KST)
-- models/companion/tts-supertonic3/voice_styles/M3.json (2026-11-13 13:39:24 KST)
-- models/companion/tts-supertonic3/voice_styles/M2.json (2026-11-13 13:39:24 KST)
-- models/companion/tts-supertonic3/voice_styles/M1.json (2026-11-13 13:39:24 KST)
+- data/companion_review.db (2026-11-13 14:04:26 KST)
+- app/services/companion/tts_service.py (2026-11-13 14:00:40 KST)
+- requirements.txt (2026-11-13 14:00:40 KST)
+- tests/test_companion_tts.py (2026-11-13 14:00:40 KST)
+- .env.example (2026-11-13 14:00:40 KST)
+- app/core/config.py (2026-11-13 14:00:40 KST)
+- app/main.py (2026-11-13 14:00:40 KST)
+- app/routers/companion_router.py (2026-11-13 14:00:40 KST)
 
 ## 점검 결과 요약
 
@@ -95,4 +95,4 @@
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
 - Git 커밋 수: 723
-- Git 상위 계정: skarndaudwls1(344), gosky(37), Jaehe-he(30)
+- Git 상위 계정: skarndaudwls1(345), gosky(37), Jaehe-he(30)
