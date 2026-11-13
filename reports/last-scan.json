@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-13T00:42:18.753Z",
-  "generatedAtKst": "2026-11-13 09:42:18 KST",
+  "generatedAt": "2026-11-13T01:12:24.682Z",
+  "generatedAtKst": "2026-11-13 10:12:24 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8919
+          "count": 8920
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 5
         }
       ],
-      "count": 8965
+      "count": 8966
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2112
+          "count": 2114
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2201
+      "count": 2203
     },
     {
       "name": "YUNA0222",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8782,
+        "commitCount": 8783,
         "authors": [
           {
-            "count": 8782,
+            "count": 8783,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "406f411a4",
+          "hash": "2322421e9",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-13T09:12:16+09:00",
+          "date": "2026-11-13T09:42:22+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8782개 커밋, 상위 계정: gosky(8782), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8783개 커밋, 상위 계정: gosky(8783), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8782",
-        "Git 상위 계정: gosky(8782)"
+        "Git 커밋 수: 8783",
+        "Git 상위 계정: gosky(8783)"
       ]
     },
     {
@@ -2005,9 +2005,15 @@
         "pm2": [],
         "docker": [
           {
+            "name": "peaceful_bhaskara",
+            "image": "silverbridgeaiserver-ai-server",
+            "status": "Up About a minute",
+            "ports": "6017/tcp"
+          },
+          {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 10 hours",
+            "status": "Up 16 minutes",
             "ports": ""
           }
         ],
@@ -2025,7 +2031,7 @@
         "summary": [
           "실행 중",
           "PM2 없음",
-          "Docker 1개",
+          "Docker 2개",
           "포트 확인 불가"
         ]
       },
@@ -2195,7 +2201,7 @@
         }
       ],
       "structure": {
-        "fileCount": 2588,
+        "fileCount": 2589,
         "dirCount": 96,
         "mainFolders": [
           "app",
@@ -2250,9 +2256,15 @@
         "pm2": [],
         "docker": [
           {
+            "name": "peaceful_bhaskara",
+            "image": "silverbridgeaiserver-ai-server",
+            "status": "Up About a minute",
+            "ports": "6017/tcp"
+          },
+          {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 10 hours",
+            "status": "Up 16 minutes",
             "ports": ""
           }
         ],
@@ -2280,17 +2292,17 @@
         "summary": [
           "실행 중",
           "PM2 없음",
-          "Docker 1개",
+          "Docker 2개",
           "포트 5432, 6012, 6015, 6017, 6019"
         ]
       },
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 712,
+        "commitCount": 716,
         "authors": [
           {
-            "count": 339,
+            "count": 341,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2321,15 +2333,31 @@
           }
         ],
         "latestCommit": {
-          "hash": "168f07a",
+          "hash": "9cf51d6",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-12T23:27:34+09:00",
-          "subject": "Merge pull request #276 from Dongyang-Mirae-University-software/fix/companion-body-safety-reply"
+          "date": "2026-11-13T09:52:56+09:00",
+          "subject": "Merge pull request #278 from Dongyang-Mirae-University-software/fix/care-line-action-period"
         },
-        "summary": "총 712개 커밋, 상위 계정: skarndaudwls1(339), gosky(37), Jaehe-he(30), 최근: Merge pull request #276 from Dongyang-Mirae-University-software/fix/companion-body-safety-reply"
+        "summary": "총 716개 커밋, 상위 계정: skarndaudwls1(341), gosky(37), Jaehe-he(30), 최근: Merge pull request #278 from Dongyang-Mirae-University-software/fix/care-line-action-period"
       },
       "recentFiles": [
+        {
+          "path": "tests/test_chat_ward_care_dept_edit_followup.py",
+          "modifiedAt": "2026-11-13T00:55:40.804Z"
+        },
+        {
+          "path": "app/prompts/medical_chat_prompts.py",
+          "modifiedAt": "2026-11-13T00:55:40.800Z"
+        },
+        {
+          "path": "docs/eval-results/2026-11-12-care-line-audit.md",
+          "modifiedAt": "2026-11-13T00:55:40.800Z"
+        },
+        {
+          "path": "data/companion_review.db",
+          "modifiedAt": "2026-11-13T00:51:03.420Z"
+        },
         {
           "path": "data/postgres/pg_wal/000000010000000000000009",
           "modifiedAt": "2026-11-12T14:54:09.091Z"
@@ -2345,22 +2373,6 @@
         {
           "path": "data/postgres/pg_logical/replorigin_checkpoint",
           "modifiedAt": "2026-11-12T14:54:00.779Z"
-        },
-        {
-          "path": "data/companion_review.db",
-          "modifiedAt": "2026-11-12T14:51:30.658Z"
-        },
-        {
-          "path": "docs/companion-team-status.md",
-          "modifiedAt": "2026-11-12T14:50:02.432Z"
-        },
-        {
-          "path": "tests/test_companion_body_safety_reply.py",
-          "modifiedAt": "2026-11-12T14:50:02.432Z"
-        },
-        {
-          "path": "tests/test_companion_safety_and_limits.py",
-          "modifiedAt": "2026-11-12T14:50:02.432Z"
         }
       ],
       "summary": [
@@ -2368,8 +2380,8 @@
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI",
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 712",
-        "Git 상위 계정: skarndaudwls1(339), gosky(37), Jaehe-he(30)"
+        "Git 커밋 수: 716",
+        "Git 상위 계정: skarndaudwls1(341), gosky(37), Jaehe-he(30)"
       ]
     },
     {
