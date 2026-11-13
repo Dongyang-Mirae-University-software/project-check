@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-13T02:12:35.909Z",
-  "generatedAtKst": "2026-11-13 11:12:35 KST",
+  "generatedAt": "2026-11-13T02:42:41.766Z",
+  "generatedAtKst": "2026-11-13 11:42:41 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,32 +19,32 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8922
+          "count": 8923
         },
         {
           "email": "gosky@gosky.kr",
-          "count": 42
+          "count": 44
         },
         {
           "email": "gosky.dev@gmail.com",
           "count": 17
         }
       ],
-      "count": 8981
+      "count": 8984
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2130
+          "count": 2132
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2219
+      "count": 2221
     },
     {
       "name": "YUNA0222",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8785,
+        "commitCount": 8786,
         "authors": [
           {
-            "count": 8785,
+            "count": 8786,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "16dfae708",
+          "hash": "7498bae1c",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-13T10:42:34+09:00",
+          "date": "2026-11-13T11:12:39+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8785개 커밋, 상위 계정: gosky(8785), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8786개 커밋, 상위 계정: gosky(8786), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8785",
-        "Git 상위 계정: gosky(8785)"
+        "Git 커밋 수: 8786",
+        "Git 상위 계정: gosky(8786)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 35 minutes",
+            "status": "Up About an hour",
             "ports": ""
           }
         ],
@@ -2196,7 +2196,7 @@
       ],
       "structure": {
         "fileCount": 2591,
-        "dirCount": 96,
+        "dirCount": 98,
         "mainFolders": [
           "app",
           "data",
@@ -2218,15 +2218,15 @@
           "app/services",
           "app/services/companion",
           "app/services/companion/prompts",
+          "app/static",
+          "app/static/game",
           "app/utils",
           "models",
           "models/companion",
           "models/companion/face-detect",
           "models/companion/face-emotion",
           "models/companion/llm",
-          "models/companion/llm/exaone-3.5-2.4b",
-          "models/companion/llm/exaone-3.5-2.4b/assets",
-          "models/companion/llm/lora-mood-e900"
+          "models/companion/llm/exaone-3.5-2.4b"
         ]
       },
       "database": {
@@ -2252,7 +2252,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 35 minutes",
+            "status": "Up About an hour",
             "ports": ""
           }
         ],
@@ -2286,11 +2286,11 @@
       },
       "git": {
         "isRepo": true,
-        "branch": "feat/ward-game-remake",
-        "commitCount": 719,
+        "branch": "main",
+        "commitCount": 721,
         "authors": [
           {
-            "count": 342,
+            "count": 344,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2305,7 +2305,7 @@
             "email": "hywuljh1@naver.com"
           },
           {
-            "count": 17,
+            "count": 18,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           },
@@ -2321,18 +2321,30 @@
           }
         ],
         "latestCommit": {
-          "hash": "6817d41",
+          "hash": "f83bfe9",
           "author": "gosky",
-          "email": "gosky@gosky.kr",
-          "date": "2026-11-13T11:05:50+09:00",
-          "subject": "feat: 피보호자 게임 화면을 어르신용으로 다시 만듦"
+          "email": "65769312+gosky2@users.noreply.github.com",
+          "date": "2026-11-13T11:32:04+09:00",
+          "subject": "Merge pull request #280 from Dongyang-Mirae-University-software/feature/ward-game-remake"
         },
-        "summary": "총 719개 커밋, 상위 계정: skarndaudwls1(342), gosky(37), Jaehe-he(30), 최근: feat: 피보호자 게임 화면을 어르신용으로 다시 만듦"
+        "summary": "총 721개 커밋, 상위 계정: skarndaudwls1(344), gosky(37), Jaehe-he(30), 최근: Merge pull request #280 from Dongyang-Mirae-University-software/feature/ward-game-remake"
       },
       "recentFiles": [
         {
+          "path": "data/postgres/pg_wal/000000010000000000000009",
+          "modifiedAt": "2026-11-13T02:42:43.292Z"
+        },
+        {
+          "path": "app/main.py",
+          "modifiedAt": "2026-11-13T02:32:23.709Z"
+        },
+        {
+          "path": "app/routers/game_router.py",
+          "modifiedAt": "2026-11-13T02:32:23.709Z"
+        },
+        {
           "path": "app/services/game_service.py",
-          "modifiedAt": "2026-11-13T02:04:03.395Z"
+          "modifiedAt": "2026-11-13T02:32:23.709Z"
         },
         {
           "path": "data/companion_review.db",
@@ -2347,20 +2359,8 @@
           "modifiedAt": "2026-11-13T01:54:40.382Z"
         },
         {
-          "path": "data/postgres/pg_wal/000000010000000000000009",
-          "modifiedAt": "2026-11-13T01:49:21.382Z"
-        },
-        {
           "path": "data/postgres/global/pg_control",
           "modifiedAt": "2026-11-13T01:49:15.178Z"
-        },
-        {
-          "path": "data/postgres/base/16384/33564",
-          "modifiedAt": "2026-11-13T01:49:15.070Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32948",
-          "modifiedAt": "2026-11-13T01:49:14.970Z"
         }
       ],
       "summary": [
@@ -2368,8 +2368,8 @@
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI",
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 719",
-        "Git 상위 계정: skarndaudwls1(342), gosky(37), Jaehe-he(30)"
+        "Git 커밋 수: 721",
+        "Git 상위 계정: skarndaudwls1(344), gosky(37), Jaehe-he(30)"
       ]
     },
     {
@@ -2826,7 +2826,7 @@
             "email": "skarndaudwls@gmail.com"
           },
           {
-            "count": 20,
+            "count": 21,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           },
@@ -2852,6 +2852,14 @@
       },
       "recentFiles": [
         {
+          "path": "src/app/(ward)/ward/_components/WardHomeContent.tsx",
+          "modifiedAt": "2026-11-13T02:23:37.528Z"
+        },
+        {
+          "path": "src/constants/dashboard.ts",
+          "modifiedAt": "2026-11-13T02:23:37.528Z"
+        },
+        {
           "path": "src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx",
           "modifiedAt": "2026-11-13T01:56:42.897Z"
         },
@@ -2874,14 +2882,6 @@
         {
           "path": "docs/(2026-11-13) audit-companion-end-card.md",
           "modifiedAt": "2026-11-13T01:40:13.155Z"
-        },
-        {
-          "path": "src/service/interface/ward/companion.ts",
-          "modifiedAt": "2026-11-13T01:14:10.149Z"
-        },
-        {
-          "path": "src/app/(admin)/admin/_components/AdminDashboardContent.tsx",
-          "modifiedAt": "2026-11-12T11:17:22.255Z"
         }
       ],
       "summary": [

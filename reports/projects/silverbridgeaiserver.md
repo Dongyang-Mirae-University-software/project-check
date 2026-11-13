@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-13 11:12:38 KST
+- 점검 시각: 2026-11-13 11:42:44 KST
 
 ## 추정 기술 스택
 
@@ -47,9 +47,9 @@
 ## 주요 폴더 구조
 
 - 파일 개수: 2591
-- 디렉토리 개수: 96
+- 디렉토리 개수: 98
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
-- 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/utils, models, models/companion, models/companion/face-detect, models/companion/face-emotion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b, models/companion/llm/exaone-3.5-2.4b/assets, models/companion/llm/lora-mood-e900
+- 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/static, app/static/game, app/utils, models, models/companion, models/companion/face-detect, models/companion/face-emotion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b
 
 ## DB 사용 여부
 
@@ -66,27 +66,27 @@
 
 ## Git 커밋 현황
 
-- 브랜치: feat/ward-game-remake
-- 총 커밋 수: 719
+- 브랜치: main
+- 총 커밋 수: 721
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 342
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 344
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 30
-  - gosky <gosky@gosky.kr>: 17
+  - gosky <gosky@gosky.kr>: 18
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: 6817d41 / gosky <gosky@gosky.kr> / feat: 피보호자 게임 화면을 어르신용으로 다시 만듦
+- 최근 커밋: f83bfe9 / gosky <65769312+gosky2@users.noreply.github.com> / Merge pull request #280 from Dongyang-Mirae-University-software/feature/ward-game-remake
 
 ## 최근 수정 파일
 
-- app/services/game_service.py (2026-11-13 11:04:03 KST)
+- data/postgres/pg_wal/000000010000000000000009 (2026-11-13 11:42:43 KST)
+- app/main.py (2026-11-13 11:32:23 KST)
+- app/routers/game_router.py (2026-11-13 11:32:23 KST)
+- app/services/game_service.py (2026-11-13 11:32:23 KST)
 - data/companion_review.db (2026-11-13 10:57:25 KST)
 - data/postgres/base/5/pg_internal.init (2026-11-13 10:54:40 KST)
 - data/postgres/global/pg_internal.init (2026-11-13 10:54:40 KST)
-- data/postgres/pg_wal/000000010000000000000009 (2026-11-13 10:49:21 KST)
 - data/postgres/global/pg_control (2026-11-13 10:49:15 KST)
-- data/postgres/base/16384/33564 (2026-11-13 10:49:15 KST)
-- data/postgres/base/16384/32948 (2026-11-13 10:49:14 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 719
-- Git 상위 계정: skarndaudwls1(342), gosky(37), Jaehe-he(30)
+- Git 커밋 수: 721
+- Git 상위 계정: skarndaudwls1(344), gosky(37), Jaehe-he(30)
