@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/docs`
 - 분류: 기타
-- 점검 시각: 2026-11-13 13:14:47 KST
+- 점검 시각: 2026-11-13 13:44:53 KST
 
 ## 추정 기술 스택
 
@@ -33,7 +33,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 18
+- 파일 개수: 21
 - 디렉토리 개수: 3
 - 주요 폴더: contest, dev-server
 - 주요 경로: 확인 불가
@@ -56,14 +56,14 @@
 
 ## 최근 수정 파일
 
+- [컴퓨터소프트웨어공학과]구독형 소프트웨어 활용 결과보고서_양식_남궁명진.hwpx (2026-11-13 13:17:35 KST)
+- [컴퓨터소프트웨어공학과]구독형 소프트웨어 활용 결과보고서_양식 살버브릿지.docx (2026-11-13 13:17:35 KST)
+- [컴퓨터소프트웨어공학과]구독형 소프트웨어 활용 결과보고서_양식_실버브릿지_이재희.hwpx (2026-11-13 13:17:35 KST)
 - dev-server/nginx/testai.gosky.kr (2026-10-20 13:52:51 KST)
 - dev-server/nginx/api.devdmu.gosky.kr (2026-10-20 13:52:51 KST)
 - dev-server/nginx/api.dmu.gosky.kr (2026-10-20 13:52:51 KST)
 - dev-server/nginx/conf.d-dmu-upstreams.conf (2026-10-20 13:52:51 KST)
 - dev-server/env-vars.md (2026-10-15 18:02:53 KST)
-- dev-server/README.md (2026-10-15 18:02:53 KST)
-- dev-server/nginx/ai.dmu.gosky.kr (2026-10-15 18:01:10 KST)
-- dev-server/nginx/reservation.dmu.gosky.kr (2026-10-15 18:01:10 KST)
 
 ## 점검 결과 요약
 

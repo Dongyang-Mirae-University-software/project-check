@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-13T04:14:45.847Z",
-  "generatedAtKst": "2026-11-13 13:14:45 KST",
+  "generatedAt": "2026-11-13T04:44:53.316Z",
+  "generatedAtKst": "2026-11-13 13:44:53 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,18 +19,18 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8926
+          "count": 8927
         },
         {
           "email": "gosky@gosky.kr",
-          "count": 44
+          "count": 46
         },
         {
           "email": "gosky.dev@gmail.com",
           "count": 17
         }
       ],
-      "count": 8987
+      "count": 8990
     },
     {
       "name": "skarndaudwls1",
@@ -1357,7 +1357,7 @@
         }
       ],
       "structure": {
-        "fileCount": 18,
+        "fileCount": 21,
         "dirCount": 3,
         "mainFolders": [
           "contest",
@@ -1393,6 +1393,18 @@
       },
       "recentFiles": [
         {
+          "path": "[컴퓨터소프트웨어공학과]구독형 소프트웨어 활용 결과보고서_양식_남궁명진.hwpx",
+          "modifiedAt": "2026-11-13T04:17:35.853Z"
+        },
+        {
+          "path": "[컴퓨터소프트웨어공학과]구독형 소프트웨어 활용 결과보고서_양식 살버브릿지.docx",
+          "modifiedAt": "2026-11-13T04:17:35.749Z"
+        },
+        {
+          "path": "[컴퓨터소프트웨어공학과]구독형 소프트웨어 활용 결과보고서_양식_실버브릿지_이재희.hwpx",
+          "modifiedAt": "2026-11-13T04:17:35.477Z"
+        },
+        {
           "path": "dev-server/nginx/testai.gosky.kr",
           "modifiedAt": "2026-10-20T04:52:51.568Z"
         },
@@ -1411,18 +1423,6 @@
         {
           "path": "dev-server/env-vars.md",
           "modifiedAt": "2026-10-15T09:02:53.900Z"
-        },
-        {
-          "path": "dev-server/README.md",
-          "modifiedAt": "2026-10-15T09:02:53.900Z"
-        },
-        {
-          "path": "dev-server/nginx/ai.dmu.gosky.kr",
-          "modifiedAt": "2026-10-15T09:01:10.257Z"
-        },
-        {
-          "path": "dev-server/nginx/reservation.dmu.gosky.kr",
-          "modifiedAt": "2026-10-15T09:01:10.257Z"
         }
       ],
       "summary": [
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8789,
+        "commitCount": 8790,
         "authors": [
           {
-            "count": 8789,
+            "count": 8790,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "626815705",
+          "hash": "5561f2c65",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-13T12:42:58+09:00",
+          "date": "2026-11-13T13:14:51+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8789개 커밋, 상위 계정: gosky(8789), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8790개 커밋, 상위 계정: gosky(8790), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8789",
-        "Git 상위 계정: gosky(8789)"
+        "Git 커밋 수: 8790",
+        "Git 상위 계정: gosky(8790)"
       ]
     },
     {
@@ -2195,8 +2195,8 @@
         }
       ],
       "structure": {
-        "fileCount": 2591,
-        "dirCount": 98,
+        "fileCount": 2673,
+        "dirCount": 103,
         "mainFolders": [
           "app",
           "data",
@@ -2259,12 +2259,13 @@
         "ports": [
           5432,
           6012,
-          6015,
           6017,
           6019
         ],
         "allCandidatePorts": [
           1000,
+          1024,
+          1253,
           1800,
           2000,
           2048,
@@ -2273,21 +2274,22 @@
           4096,
           5432,
           6012,
-          6015,
           6017,
-          6019
+          6019,
+          10000,
+          44100
         ],
         "summary": [
           "실행 중",
           "PM2 없음",
           "Docker 1개",
-          "포트 5432, 6012, 6015, 6017, 6019"
+          "포트 5432, 6012, 6017, 6019"
         ]
       },
       "git": {
         "isRepo": true,
-        "branch": "main",
-        "commitCount": 721,
+        "branch": "feature/game-art-images",
+        "commitCount": 723,
         "authors": [
           {
             "count": 344,
@@ -2305,7 +2307,7 @@
             "email": "hywuljh1@naver.com"
           },
           {
-            "count": 18,
+            "count": 20,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           },
@@ -2321,46 +2323,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "f83bfe9",
+          "hash": "da1212b",
           "author": "gosky",
-          "email": "65769312+gosky2@users.noreply.github.com",
-          "date": "2026-11-13T11:32:04+09:00",
-          "subject": "Merge pull request #280 from Dongyang-Mirae-University-software/feature/ward-game-remake"
+          "email": "gosky@gosky.kr",
+          "date": "2026-11-13T13:39:58+09:00",
+          "subject": "chore: 게임 그림 58장 추가"
         },
-        "summary": "총 721개 커밋, 상위 계정: skarndaudwls1(344), gosky(37), Jaehe-he(30), 최근: Merge pull request #280 from Dongyang-Mirae-University-software/feature/ward-game-remake"
+        "summary": "총 723개 커밋, 상위 계정: skarndaudwls1(344), gosky(37), Jaehe-he(30), 최근: chore: 게임 그림 58장 추가"
       },
       "recentFiles": [
         {
-          "path": "data/postgres/pg_wal/000000010000000000000009",
-          "modifiedAt": "2026-11-13T03:04:18.009Z"
+          "path": "models/companion/tts-supertonic3/onnx/vector_estimator.onnx",
+          "modifiedAt": "2026-11-13T04:39:37.773Z"
         },
         {
-          "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-11-13T03:04:16.409Z"
+          "path": "models/companion/tts-supertonic3/onnx/vocoder.onnx",
+          "modifiedAt": "2026-11-13T04:39:36.945Z"
         },
         {
-          "path": "data/postgres/base/16384/16502",
-          "modifiedAt": "2026-11-13T03:04:16.309Z"
+          "path": "models/companion/tts-supertonic3/onnx/text_encoder.onnx",
+          "modifiedAt": "2026-11-13T04:39:24.534Z"
         },
         {
-          "path": "data/postgres/base/16384/16501",
-          "modifiedAt": "2026-11-13T03:04:16.209Z"
+          "path": "models/companion/tts-supertonic3/voice_styles/M5.json",
+          "modifiedAt": "2026-11-13T04:39:24.434Z"
         },
         {
-          "path": "data/postgres/base/16384/16500",
-          "modifiedAt": "2026-11-13T03:04:16.109Z"
+          "path": "models/companion/tts-supertonic3/voice_styles/M4.json",
+          "modifiedAt": "2026-11-13T04:39:24.422Z"
         },
         {
-          "path": "data/postgres/base/16384/16498",
-          "modifiedAt": "2026-11-13T03:04:16.009Z"
+          "path": "models/companion/tts-supertonic3/voice_styles/M3.json",
+          "modifiedAt": "2026-11-13T04:39:24.362Z"
         },
         {
-          "path": "data/postgres/base/16384/16496",
-          "modifiedAt": "2026-11-13T03:04:15.909Z"
+          "path": "models/companion/tts-supertonic3/voice_styles/M2.json",
+          "modifiedAt": "2026-11-13T04:39:24.342Z"
         },
         {
-          "path": "data/postgres/base/16384/16490",
-          "modifiedAt": "2026-11-13T03:04:15.809Z"
+          "path": "models/companion/tts-supertonic3/voice_styles/M1.json",
+          "modifiedAt": "2026-11-13T04:39:24.234Z"
         }
       ],
       "summary": [
@@ -2368,7 +2370,7 @@
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI",
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 721",
+        "Git 커밋 수: 723",
         "Git 상위 계정: skarndaudwls1(344), gosky(37), Jaehe-he(30)"
       ]
     },
