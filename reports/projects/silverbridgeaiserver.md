@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-14 21:32:22 KST
+- 점검 시각: 2026-11-14 22:02:27 KST
 
 ## 추정 기술 스택
 
@@ -67,26 +67,26 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 753
+- 총 커밋 수: 755
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 361
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 362
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 30
   - gosky <gosky@gosky.kr>: 20
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: 8757181 / namgung <skarndaudwls@gmail.com> / Merge pull request #294 from Dongyang-Mirae-University-software/feature/companion-google-tts
+- 최근 커밋: 4126cdf / namgung <skarndaudwls@gmail.com> / Merge pull request #295 from Dongyang-Mirae-University-software/fix/guardian-care-no-example1
 
 ## 최근 수정 파일
 
-- data/companion_review.db (2026-11-14 06:10:37 KST)
-- data/postgres/pg_wal/000000010000000000000009 (2026-11-14 06:09:55 KST)
-- data/postgres/global/pg_control (2026-11-14 06:09:35 KST)
-- data/postgres/base/16384/33564 (2026-11-14 06:09:35 KST)
-- data/postgres/base/16384/32948 (2026-11-14 06:09:35 KST)
-- data/postgres/base/16384/32947 (2026-11-14 06:09:35 KST)
-- data/postgres/base/16384/32946 (2026-11-14 06:09:34 KST)
-- data/postgres/base/16384/32945 (2026-11-14 06:09:34 KST)
+- data/postgres/pg_wal/000000010000000000000009 (2026-11-14 21:39:54 KST)
+- data/postgres/global/pg_control (2026-11-14 21:39:52 KST)
+- data/postgres/base/16384/2840 (2026-11-14 21:39:52 KST)
+- data/postgres/pg_logical/replorigin_checkpoint (2026-11-14 21:39:52 KST)
+- app/prompts/medical_chat_prompts.py (2026-11-14 21:34:54 KST)
+- app/services/medical_llm_service.py (2026-11-14 21:34:54 KST)
+- docs/eval-results/2026-11-14-care-action-recount.md (2026-11-14 21:34:54 KST)
+- tests/test_chat_ward_care_dept_edit_followup.py (2026-11-14 21:34:54 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 753
-- Git 상위 계정: skarndaudwls1(361), gosky(37), Jaehe-he(30)
+- Git 커밋 수: 755
+- Git 상위 계정: skarndaudwls1(362), gosky(37), Jaehe-he(30)
