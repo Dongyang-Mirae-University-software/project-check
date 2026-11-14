@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-15 24:02:50 KST
+- 점검 시각: 2026-11-15 24:32:55 KST
 
 ## 추정 기술 스택
 
@@ -46,8 +46,8 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2685
-- 디렉토리 개수: 103
+- 파일 개수: 2687
+- 디렉토리 개수: 104
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
 - 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/static, app/static/game, app/utils, models, models/companion, models/companion/face-detect, models/companion/face-emotion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b
 
@@ -79,14 +79,14 @@
 
 ## 최근 수정 파일
 
+- models/companion/llm/lora-risk-r1/adapter_model.safetensors (2026-11-15 24:30:25 KST)
+- models/companion/llm/lora-risk-r1/adapter_config.json (2026-11-15 24:30:18 KST)
 - .env (2026-11-14 23:07:23 KST)
 - data/postgres/pg_wal/000000010000000000000009 (2026-11-14 21:39:54 KST)
 - data/postgres/global/pg_control (2026-11-14 21:39:52 KST)
 - data/postgres/base/16384/2840 (2026-11-14 21:39:52 KST)
 - data/postgres/pg_logical/replorigin_checkpoint (2026-11-14 21:39:52 KST)
 - app/prompts/medical_chat_prompts.py (2026-11-14 21:34:54 KST)
-- app/services/medical_llm_service.py (2026-11-14 21:34:54 KST)
-- docs/eval-results/2026-11-14-care-action-recount.md (2026-11-14 21:34:54 KST)
 
 ## 점검 결과 요약
 

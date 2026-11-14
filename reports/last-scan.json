@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-14T15:02:48.023Z",
-  "generatedAtKst": "2026-11-15 24:02:48 KST",
+  "generatedAt": "2026-11-14T15:32:53.740Z",
+  "generatedAtKst": "2026-11-15 24:32:53 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 8995
+          "count": 8996
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 17
         }
       ],
-      "count": 9059
+      "count": 9060
     },
     {
       "name": "skarndaudwls1",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8858,
+        "commitCount": 8859,
         "authors": [
           {
-            "count": 8858,
+            "count": 8859,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "2fc786357",
+          "hash": "421f349c4",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-14T23:32:46+09:00",
+          "date": "2026-11-15T00:02:52+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8858개 커밋, 상위 계정: gosky(8858), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8859개 커밋, 상위 계정: gosky(8859), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8858",
-        "Git 상위 계정: gosky(8858)"
+        "Git 커밋 수: 8859",
+        "Git 상위 계정: gosky(8859)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 54 minutes",
+            "status": "Up About an hour",
             "ports": ""
           }
         ],
@@ -2195,8 +2195,8 @@
         }
       ],
       "structure": {
-        "fileCount": 2685,
-        "dirCount": 103,
+        "fileCount": 2687,
+        "dirCount": 104,
         "mainFolders": [
           "app",
           "data",
@@ -2252,7 +2252,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 54 minutes",
+            "status": "Up About an hour",
             "ports": ""
           }
         ],
@@ -2332,6 +2332,14 @@
       },
       "recentFiles": [
         {
+          "path": "models/companion/llm/lora-risk-r1/adapter_model.safetensors",
+          "modifiedAt": "2026-11-14T15:30:25.770Z"
+        },
+        {
+          "path": "models/companion/llm/lora-risk-r1/adapter_config.json",
+          "modifiedAt": "2026-11-14T15:30:18.226Z"
+        },
+        {
           "path": ".env",
           "modifiedAt": "2026-11-14T14:07:23.608Z"
         },
@@ -2353,14 +2361,6 @@
         },
         {
           "path": "app/prompts/medical_chat_prompts.py",
-          "modifiedAt": "2026-11-14T12:34:54.529Z"
-        },
-        {
-          "path": "app/services/medical_llm_service.py",
-          "modifiedAt": "2026-11-14T12:34:54.529Z"
-        },
-        {
-          "path": "docs/eval-results/2026-11-14-care-action-recount.md",
           "modifiedAt": "2026-11-14T12:34:54.529Z"
         }
       ],
