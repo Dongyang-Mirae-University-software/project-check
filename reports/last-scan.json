@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-15T09:06:13.234Z",
-  "generatedAtKst": "2026-11-15 18:06:13 KST",
+  "generatedAt": "2026-11-15T09:36:18.522Z",
+  "generatedAtKst": "2026-11-15 18:36:18 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -10,8 +10,8 @@
     "ai": 6,
     "db": 10,
     "gitRepos": 16,
-    "running": 16,
-    "stopped": 7
+    "running": 17,
+    "stopped": 6
   },
   "gitAuthors": [
     {
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9031
+          "count": 9032
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 17
         }
       ],
-      "count": 9095
+      "count": 9096
     },
     {
       "name": "skarndaudwls1",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8894,
+        "commitCount": 8895,
         "authors": [
           {
-            "count": 8894,
+            "count": 8895,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "6a6be2a95",
+          "hash": "aa77239a8",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-15T17:36:11+09:00",
+          "date": "2026-11-15T18:06:16+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8894개 커밋, 상위 계정: gosky(8894), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8895개 커밋, 상위 계정: gosky(8895), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8894",
-        "Git 상위 계정: gosky(8894)"
+        "Git 커밋 수: 8895",
+        "Git 상위 계정: gosky(8895)"
       ]
     },
     {
@@ -2000,10 +2000,17 @@
         "summary": "DB 사용 흔적 없음"
       },
       "runtime": {
-        "status": "정지",
-        "running": false,
+        "status": "실행 중",
+        "running": true,
         "pm2": [],
-        "docker": [],
+        "docker": [
+          {
+            "name": "silverbridge-ai-server",
+            "image": "silverbridgeaiserver-ai-server",
+            "status": "Up 29 minutes",
+            "ports": ""
+          }
+        ],
         "ports": [],
         "allCandidatePorts": [
           1000,
@@ -2016,7 +2023,10 @@
           8456
         ],
         "summary": [
-          "정지 또는 확인 불가"
+          "실행 중",
+          "PM2 없음",
+          "Docker 1개",
+          "포트 확인 불가"
         ]
       },
       "git": {
@@ -2077,7 +2087,7 @@
         "분류: AI 서버",
         "기술 추정: Python, fastapi, Backend, AI",
         "DB 사용 흔적 없음",
-        "실행 상태: 정지",
+        "실행 상태: 실행 중",
         "Git 커밋 수: 686",
         "Git 상위 계정: Jaehe-he(700)"
       ]
@@ -2238,7 +2248,14 @@
         "status": "실행 중",
         "running": true,
         "pm2": [],
-        "docker": [],
+        "docker": [
+          {
+            "name": "silverbridge-ai-server",
+            "image": "silverbridgeaiserver-ai-server",
+            "status": "Up 29 minutes",
+            "ports": ""
+          }
+        ],
         "ports": [
           5432,
           6012,
@@ -2264,7 +2281,7 @@
         "summary": [
           "실행 중",
           "PM2 없음",
-          "Docker 없음",
+          "Docker 1개",
           "포트 5432, 6012, 6015, 6017, 6019"
         ]
       },
@@ -2315,36 +2332,36 @@
       },
       "recentFiles": [
         {
-          "path": "docs/companion-contract.md",
-          "modifiedAt": "2026-11-15T09:06:06.116Z"
+          "path": "data/companion_review.db",
+          "modifiedAt": "2026-11-15T09:22:01.679Z"
         },
         {
-          "path": "docs/companion-team-status.md",
-          "modifiedAt": "2026-11-15T09:06:06.116Z"
+          "path": "data/postgres/pg_wal/000000010000000000000009",
+          "modifiedAt": "2026-11-15T09:15:17.962Z"
         },
         {
-          "path": "tests/test_companion_risk_lora.py",
-          "modifiedAt": "2026-11-15T09:06:06.116Z"
+          "path": "data/postgres/global/pg_control",
+          "modifiedAt": "2026-11-15T09:15:17.562Z"
         },
         {
-          "path": "app/core/config.py",
-          "modifiedAt": "2026-11-15T09:06:06.112Z"
+          "path": "data/postgres/base/16384/33564",
+          "modifiedAt": "2026-11-15T09:15:17.462Z"
         },
         {
-          "path": "app/routers/companion_router.py",
-          "modifiedAt": "2026-11-15T09:06:06.112Z"
+          "path": "data/postgres/base/16384/16502",
+          "modifiedAt": "2026-11-15T09:15:17.362Z"
         },
         {
-          "path": "app/services/companion/pipeline.py",
-          "modifiedAt": "2026-11-15T09:06:06.112Z"
+          "path": "data/postgres/base/16384/16501",
+          "modifiedAt": "2026-11-15T09:15:17.262Z"
         },
         {
-          "path": ".env.example",
-          "modifiedAt": "2026-11-15T09:06:00.452Z"
+          "path": "data/postgres/base/16384/16500",
+          "modifiedAt": "2026-11-15T09:15:17.162Z"
         },
         {
-          "path": "app/services/companion/reply_service.py",
-          "modifiedAt": "2026-11-15T09:06:00.452Z"
+          "path": "data/postgres/base/16384/16498",
+          "modifiedAt": "2026-11-15T09:15:17.062Z"
         }
       ],
       "summary": [
