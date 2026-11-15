@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/ChatSilverBridge-deploy`
 - 분류: DB
-- 점검 시각: 2026-11-16 04:38:12 KST
+- 점검 시각: 2026-11-16 05:08:17 KST
 
 ## 추정 기술 스택
 
