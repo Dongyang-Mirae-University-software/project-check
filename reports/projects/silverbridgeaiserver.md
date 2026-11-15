@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-15 17:36:09 KST
+- 점검 시각: 2026-11-15 18:06:15 KST
 
 ## 추정 기술 스택
 
@@ -46,8 +46,8 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2692
-- 디렉토리 개수: 104
+- 파일 개수: 2695
+- 디렉토리 개수: 106
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
 - 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/static, app/static/game, app/utils, models, models/companion, models/companion/face-detect, models/companion/face-emotion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b
 
@@ -55,38 +55,38 @@
 
 - 사용 여부: 예
 - 연결 추정 DB: PostgreSQL, SQLite
-- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 250개 확인, 추정 DB: PostgreSQL, SQLite
+- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 248개 확인, 추정 DB: PostgreSQL, SQLite
 
 ## 실행 상태
 
 - 상태: 실행 중
 - 관련 포트: 1000, 1800, 2000, 2048, 3599, 3600, 4096, 5432, 6012, 6015, 6017, 6019, 50000
-- 관련 Docker 컨테이너: r2-pytest, silverbridge-ai-server
+- 관련 Docker 컨테이너: 확인 불가
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
 
-- 브랜치: feat/companion-reply-history
-- 총 커밋 수: 760
+- 브랜치: main
+- 총 커밋 수: 761
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 364
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 365
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 31
   - gosky <gosky@gosky.kr>: 20
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: 24a90c5 / Jaehe-he <hywuljh1@naver.com> / feat: 말벗 대답에 대화 흐름(말벗 문장 + 어르신 말 한 줄 요약) 추가 - A안
+- 최근 커밋: 1a62553 / namgung <skarndaudwls@gmail.com> / Merge pull request #298 from Dongyang-Mirae-University-software/feature/companion-risk-r2-mood-e1300
 
 ## 최근 수정 파일
 
-- data/companion_review.db (2026-11-15 17:20:42 KST)
-- .env.example (2026-11-15 15:53:16 KST)
-- app/core/config.py (2026-11-15 15:53:16 KST)
-- app/routers/companion_router.py (2026-11-15 15:53:16 KST)
-- app/services/companion/pipeline.py (2026-11-15 15:53:16 KST)
-- app/services/companion/prompts/reply-v2-last.txt (2026-11-15 15:53:16 KST)
-- app/services/companion/prompts/reply-v3-followup.txt (2026-11-15 15:53:16 KST)
-- app/services/companion/reply_service.py (2026-11-15 15:53:16 KST)
+- docs/companion-contract.md (2026-11-15 18:06:06 KST)
+- docs/companion-team-status.md (2026-11-15 18:06:06 KST)
+- tests/test_companion_risk_lora.py (2026-11-15 18:06:06 KST)
+- app/core/config.py (2026-11-15 18:06:06 KST)
+- app/routers/companion_router.py (2026-11-15 18:06:06 KST)
+- app/services/companion/pipeline.py (2026-11-15 18:06:06 KST)
+- .env.example (2026-11-15 18:06:00 KST)
+- app/services/companion/reply_service.py (2026-11-15 18:06:00 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 760
-- Git 상위 계정: skarndaudwls1(364), gosky(37), Jaehe-he(31)
+- Git 커밋 수: 761
+- Git 상위 계정: skarndaudwls1(365), gosky(37), Jaehe-he(31)
