@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-15T08:06:01.938Z",
-  "generatedAtKst": "2026-11-15 17:06:01 KST",
+  "generatedAt": "2026-11-15T08:36:07.514Z",
+  "generatedAtKst": "2026-11-15 17:36:07 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9029
+          "count": 9030
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 17
         }
       ],
-      "count": 9093
+      "count": 9094
     },
     {
       "name": "skarndaudwls1",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8892,
+        "commitCount": 8893,
         "authors": [
           {
-            "count": 8892,
+            "count": 8893,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "8604183fd",
+          "hash": "211e9efc0",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-15T16:36:00+09:00",
+          "date": "2026-11-15T17:06:05+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8892개 커밋, 상위 계정: gosky(8892), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8893개 커밋, 상위 계정: gosky(8893), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8892",
-        "Git 상위 계정: gosky(8892)"
+        "Git 커밋 수: 8893",
+        "Git 상위 계정: gosky(8893)"
       ]
     },
     {
@@ -2005,9 +2005,15 @@
         "pm2": [],
         "docker": [
           {
+            "name": "r2-pytest",
+            "image": "silverbridgeaiserver-ai-server",
+            "status": "Up About a minute",
+            "ports": "6017/tcp"
+          },
+          {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up About an hour",
+            "status": "Up 2 hours",
             "ports": ""
           }
         ],
@@ -2025,7 +2031,7 @@
         "summary": [
           "실행 중",
           "PM2 없음",
-          "Docker 1개",
+          "Docker 2개",
           "포트 확인 불가"
         ]
       },
@@ -2250,9 +2256,15 @@
         "pm2": [],
         "docker": [
           {
+            "name": "r2-pytest",
+            "image": "silverbridgeaiserver-ai-server",
+            "status": "Up About a minute",
+            "ports": "6017/tcp"
+          },
+          {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up About an hour",
+            "status": "Up 2 hours",
             "ports": ""
           }
         ],
@@ -2281,7 +2293,7 @@
         "summary": [
           "실행 중",
           "PM2 없음",
-          "Docker 1개",
+          "Docker 2개",
           "포트 5432, 6012, 6015, 6017, 6019"
         ]
       },
@@ -2333,7 +2345,7 @@
       "recentFiles": [
         {
           "path": "data/companion_review.db",
-          "modifiedAt": "2026-11-15T07:01:29.224Z"
+          "modifiedAt": "2026-11-15T08:20:42.025Z"
         },
         {
           "path": ".env.example",
