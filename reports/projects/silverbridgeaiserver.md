@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-15 12:35:13 KST
+- 점검 시각: 2026-11-15 13:05:18 KST
 
 ## 추정 기술 스택
 
@@ -79,6 +79,7 @@
 
 ## 최근 수정 파일
 
+- data/companion_review.db (2026-11-15 12:52:31 KST)
 - tests/eval/chip_set_v1.json (2026-11-15 01:17:24 KST)
 - tests/test_companion_risk_lora.py (2026-11-15 01:17:24 KST)
 - app/core/config.py (2026-11-15 01:17:24 KST)
@@ -86,7 +87,6 @@
 - app/services/companion/llm_client.py (2026-11-15 01:17:24 KST)
 - app/services/companion/pipeline.py (2026-11-15 01:17:24 KST)
 - app/services/companion/risk.py (2026-11-15 01:17:24 KST)
-- docs/companion-contract.md (2026-11-15 01:17:24 KST)
 
 ## 점검 결과 요약
 
