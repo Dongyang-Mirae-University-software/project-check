@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-16 09:39:10 KST
+- 점검 시각: 2026-11-16 10:09:16 KST
 
 ## 추정 기술 스택
 
@@ -46,7 +46,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2695
+- 파일 개수: 2697
 - 디렉토리 개수: 106
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
 - 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/static, app/static/game, app/utils, models, models/companion, models/companion/face-detect, models/companion/face-emotion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b
@@ -67,26 +67,26 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 761
+- 총 커밋 수: 765
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 365
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 367
   - gosky <lovesky00317@gmail.com>: 37
-  - Jaehe-he <hywuljh1@naver.com>: 31
+  - Jaehe-he <hywuljh1@naver.com>: 33
   - gosky <gosky@gosky.kr>: 20
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: 1a62553 / namgung <skarndaudwls@gmail.com> / Merge pull request #298 from Dongyang-Mirae-University-software/feature/companion-risk-r2-mood-e1300
+- 최근 커밋: 781ea20 / namgung <skarndaudwls@gmail.com> / Merge pull request #300 from Dongyang-Mirae-University-software/fix/cam-n59-frame-openapi-responses
 
 ## 최근 수정 파일
 
+- app/routers/live_stream_router.py (2026-11-16 09:49:29 KST)
+- docs/eval-results/2026-11-15-chip-knee-history.md (2026-11-16 09:49:29 KST)
+- tests/test_frame_openapi_responses.py (2026-11-16 09:49:29 KST)
 - data/companion_review.db (2026-11-15 18:22:01 KST)
 - data/postgres/pg_wal/000000010000000000000009 (2026-11-15 18:15:17 KST)
 - data/postgres/global/pg_control (2026-11-15 18:15:17 KST)
 - data/postgres/base/16384/33564 (2026-11-15 18:15:17 KST)
 - data/postgres/base/16384/16502 (2026-11-15 18:15:17 KST)
-- data/postgres/base/16384/16501 (2026-11-15 18:15:17 KST)
-- data/postgres/base/16384/16500 (2026-11-15 18:15:17 KST)
-- data/postgres/base/16384/16498 (2026-11-15 18:15:17 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 761
-- Git 상위 계정: skarndaudwls1(365), gosky(37), Jaehe-he(31)
+- Git 커밋 수: 765
+- Git 상위 계정: skarndaudwls1(367), gosky(37), Jaehe-he(33)
