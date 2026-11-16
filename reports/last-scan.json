@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-16T05:43:13.549Z",
-  "generatedAtKst": "2026-11-16 14:43:13 KST",
+  "generatedAt": "2026-11-16T06:13:19.102Z",
+  "generatedAtKst": "2026-11-16 15:13:19 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9072
+          "count": 9073
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 17
         }
       ],
-      "count": 9138
+      "count": 9139
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2205
+          "count": 2209
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2294
+      "count": 2298
     },
     {
       "name": "YUNA0222",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8935,
+        "commitCount": 8936,
         "authors": [
           {
-            "count": 8935,
+            "count": 8936,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "549e6c242",
+          "hash": "a8e8f825f",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-16T14:13:11+09:00",
+          "date": "2026-11-16T14:43:17+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8935개 커밋, 상위 계정: gosky(8935), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8936개 커밋, 상위 계정: gosky(8936), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8935",
-        "Git 상위 계정: gosky(8935)"
+        "Git 커밋 수: 8936",
+        "Git 상위 계정: gosky(8936)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 57 minutes",
+            "status": "Up About an hour",
             "ports": ""
           }
         ],
@@ -2252,7 +2252,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 57 minutes",
+            "status": "Up About an hour",
             "ports": ""
           }
         ],
@@ -2466,7 +2466,7 @@
         }
       ],
       "structure": {
-        "fileCount": 352,
+        "fileCount": 354,
         "dirCount": 35,
         "mainFolders": [
           "db",
@@ -2562,10 +2562,10 @@
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 1758,
+        "commitCount": 1765,
         "authors": [
           {
-            "count": 1423,
+            "count": 1427,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2586,22 +2586,34 @@
           }
         ],
         "latestCommit": {
-          "hash": "d8fc29fa",
+          "hash": "af1c56af",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-16T13:29:30+09:00",
-          "subject": "Merge pull request #493 from Dongyang-Mirae-University-software/fix/final-qa-remaining"
+          "date": "2026-11-16T14:41:09+09:00",
+          "subject": "Merge pull request #495 from Dongyang-Mirae-University-software/feature/profile-image-owner-check"
         },
-        "summary": "총 1758개 커밋, 상위 계정: skarndaudwls1(1423), skarndaudwls1(65), gosky(4), 최근: Merge pull request #493 from Dongyang-Mirae-University-software/fix/final-qa-remaining"
+        "summary": "총 1765개 커밋, 상위 계정: skarndaudwls1(1427), skarndaudwls1(65), gosky(4), 최근: Merge pull request #495 from Dongyang-Mirae-University-software/feature/profile-image-owner-check"
       },
       "recentFiles": [
         {
           "path": "프로젝트_설명.txt",
-          "modifiedAt": "2026-11-16T04:33:21.712Z"
+          "modifiedAt": "2026-11-16T05:45:01.274Z"
+        },
+        {
+          "path": "docs/(2026-11-16) audit-final-qa-remaining.md",
+          "modifiedAt": "2026-11-16T05:45:01.270Z"
+        },
+        {
+          "path": "docs/(2026-11-16) feature-profile-image-owner-check.md",
+          "modifiedAt": "2026-11-16T05:45:01.270Z"
+        },
+        {
+          "path": "docs/audit-index.md",
+          "modifiedAt": "2026-11-16T05:45:01.270Z"
         },
         {
           "path": "docs/progress.md",
-          "modifiedAt": "2026-11-16T04:33:21.712Z"
+          "modifiedAt": "2026-11-16T05:45:01.270Z"
         },
         {
           "path": "src/main/resources/application.yaml",
@@ -2614,18 +2626,6 @@
         {
           "path": "docs/(2026-11-16) fix-final-qa-remaining.md",
           "modifiedAt": "2026-11-16T04:33:21.708Z"
-        },
-        {
-          "path": "docs/audit-index.md",
-          "modifiedAt": "2026-11-16T04:33:21.708Z"
-        },
-        {
-          "path": "docs/(2026-11-16) audit-impact-enum-number-reject.md",
-          "modifiedAt": "2026-11-16T00:58:39.621Z"
-        },
-        {
-          "path": "docs/(2026-11-16) audit-impact-final-qa-be-defects.md",
-          "modifiedAt": "2026-11-16T00:58:39.621Z"
         }
       ],
       "summary": [
@@ -2633,8 +2633,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1758",
-        "Git 상위 계정: skarndaudwls1(1423), skarndaudwls1(65), gosky(4)"
+        "Git 커밋 수: 1765",
+        "Git 상위 계정: skarndaudwls1(1427), skarndaudwls1(65), gosky(4)"
       ]
     },
     {

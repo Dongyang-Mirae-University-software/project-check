@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-11-16 14:43:15 KST
+- 점검 시각: 2026-11-16 15:13:21 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 352
+- 파일 개수: 354
 - 디렉토리 개수: 35
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/integrationTest, src/integrationTest/java, src/integrationTest/java/kr, src/integrationTest/java/kr/silverbridge, src/integrationTest/java/kr/silverbridge/main, src/integrationTest/java/kr/silverbridge/main/domain, src/integrationTest/java/kr/silverbridge/main/global, src/integrationTest/java/kr/silverbridge/main/migration, src/integrationTest/java/kr/silverbridge/main/support, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration
@@ -57,24 +57,24 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1758
+- 총 커밋 수: 1765
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 1423
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 1427
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
   - gosky <gosky@gosky.kr>: 2
-- 최근 커밋: d8fc29fa / namgung <skarndaudwls@gmail.com> / Merge pull request #493 from Dongyang-Mirae-University-software/fix/final-qa-remaining
+- 최근 커밋: af1c56af / namgung <skarndaudwls@gmail.com> / Merge pull request #495 from Dongyang-Mirae-University-software/feature/profile-image-owner-check
 
 ## 최근 수정 파일
 
-- 프로젝트_설명.txt (2026-11-16 13:33:21 KST)
-- docs/progress.md (2026-11-16 13:33:21 KST)
+- 프로젝트_설명.txt (2026-11-16 14:45:01 KST)
+- docs/(2026-11-16) audit-final-qa-remaining.md (2026-11-16 14:45:01 KST)
+- docs/(2026-11-16) feature-profile-image-owner-check.md (2026-11-16 14:45:01 KST)
+- docs/audit-index.md (2026-11-16 14:45:01 KST)
+- docs/progress.md (2026-11-16 14:45:01 KST)
 - src/main/resources/application.yaml (2026-11-16 13:33:21 KST)
 - docs/(2026-11-16) audit-fe-ward-screens-1111.md (2026-11-16 13:33:21 KST)
 - docs/(2026-11-16) fix-final-qa-remaining.md (2026-11-16 13:33:21 KST)
-- docs/audit-index.md (2026-11-16 13:33:21 KST)
-- docs/(2026-11-16) audit-impact-enum-number-reject.md (2026-11-16 09:58:39 KST)
-- docs/(2026-11-16) audit-impact-final-qa-be-defects.md (2026-11-16 09:58:39 KST)
 
 ## 점검 결과 요약
 
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1758
-- Git 상위 계정: skarndaudwls1(1423), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1765
+- Git 상위 계정: skarndaudwls1(1427), skarndaudwls1(65), gosky(4)
