@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-16T04:09:48.717Z",
-  "generatedAtKst": "2026-11-16 13:09:48 KST",
+  "generatedAt": "2026-11-16T04:40:38.358Z",
+  "generatedAtKst": "2026-11-16 13:40:38 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,32 +19,32 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9069
+          "count": 9070
         },
         {
           "email": "gosky@gosky.kr",
-          "count": 47
+          "count": 48
         },
         {
           "email": "gosky.dev@gmail.com",
           "count": 17
         }
       ],
-      "count": 9133
+      "count": 9135
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2203
+          "count": 2205
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2292
+      "count": 2294
     },
     {
       "name": "YUNA0222",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8932,
+        "commitCount": 8933,
         "authors": [
           {
-            "count": 8932,
+            "count": 8933,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "9766d25cc",
+          "hash": "5b1e42568",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-16T12:39:46+09:00",
+          "date": "2026-11-16T13:09:52+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8932개 커밋, 상위 계정: gosky(8932), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8933개 커밋, 상위 계정: gosky(8933), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8932",
-        "Git 상위 계정: gosky(8932)"
+        "Git 커밋 수: 8933",
+        "Git 상위 계정: gosky(8933)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 3 hours",
+            "status": "Up 4 hours",
             "ports": ""
           }
         ],
@@ -2195,7 +2195,7 @@
         }
       ],
       "structure": {
-        "fileCount": 2697,
+        "fileCount": 2714,
         "dirCount": 106,
         "mainFolders": [
           "app",
@@ -2252,7 +2252,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 3 hours",
+            "status": "Up 4 hours",
             "ports": ""
           }
         ],
@@ -2287,8 +2287,8 @@
       },
       "git": {
         "isRepo": true,
-        "branch": "main",
-        "commitCount": 765,
+        "branch": "chore/game-art-bunny-pick",
+        "commitCount": 766,
         "authors": [
           {
             "count": 367,
@@ -2306,7 +2306,7 @@
             "email": "hywuljh1@naver.com"
           },
           {
-            "count": 20,
+            "count": 21,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           },
@@ -2322,46 +2322,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "781ea20",
-          "author": "namgung",
-          "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-16T09:49:09+09:00",
-          "subject": "Merge pull request #300 from Dongyang-Mirae-University-software/fix/cam-n59-frame-openapi-responses"
+          "hash": "3b86566",
+          "author": "gosky",
+          "email": "gosky@gosky.kr",
+          "date": "2026-11-16T13:35:42+09:00",
+          "subject": "chore: 게임 그림 17장 추가(마스코트 토끼·게임 고르기 카드·젓가락·이불)"
         },
-        "summary": "총 765개 커밋, 상위 계정: skarndaudwls1(367), gosky(37), Jaehe-he(33), 최근: Merge pull request #300 from Dongyang-Mirae-University-software/fix/cam-n59-frame-openapi-responses"
+        "summary": "총 766개 커밋, 상위 계정: skarndaudwls1(367), gosky(37), Jaehe-he(33), 최근: chore: 게임 그림 17장 추가(마스코트 토끼·게임 고르기 카드·젓가락·이불)"
       },
       "recentFiles": [
         {
-          "path": "app/routers/live_stream_router.py",
-          "modifiedAt": "2026-11-16T00:49:29.571Z"
-        },
-        {
-          "path": "docs/eval-results/2026-11-15-chip-knee-history.md",
-          "modifiedAt": "2026-11-16T00:49:29.571Z"
-        },
-        {
-          "path": "tests/test_frame_openapi_responses.py",
-          "modifiedAt": "2026-11-16T00:49:29.571Z"
-        },
-        {
-          "path": "data/companion_review.db",
-          "modifiedAt": "2026-11-15T09:22:01.679Z"
-        },
-        {
           "path": "data/postgres/pg_wal/000000010000000000000009",
-          "modifiedAt": "2026-11-15T09:15:17.962Z"
+          "modifiedAt": "2026-11-16T04:35:49.481Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-11-15T09:15:17.562Z"
-        },
-        {
-          "path": "data/postgres/base/16384/33564",
-          "modifiedAt": "2026-11-15T09:15:17.462Z"
+          "modifiedAt": "2026-11-16T04:35:40.474Z"
         },
         {
           "path": "data/postgres/base/16384/16502",
-          "modifiedAt": "2026-11-15T09:15:17.362Z"
+          "modifiedAt": "2026-11-16T04:35:40.374Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16501",
+          "modifiedAt": "2026-11-16T04:35:40.274Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16500",
+          "modifiedAt": "2026-11-16T04:35:40.174Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16498",
+          "modifiedAt": "2026-11-16T04:35:40.074Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16496",
+          "modifiedAt": "2026-11-16T04:35:39.974Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16490",
+          "modifiedAt": "2026-11-16T04:35:39.874Z"
         }
       ],
       "summary": [
@@ -2369,7 +2369,7 @@
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI",
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 765",
+        "Git 커밋 수: 766",
         "Git 상위 계정: skarndaudwls1(367), gosky(37), Jaehe-he(33)"
       ]
     },
@@ -2466,7 +2466,7 @@
         }
       ],
       "structure": {
-        "fileCount": 351,
+        "fileCount": 352,
         "dirCount": 35,
         "mainFolders": [
           "db",
@@ -2524,7 +2524,6 @@
           6014,
           6015,
           6379,
-          6510,
           6511,
           6513,
           6514
@@ -2556,16 +2555,16 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 5432, 6011, 6013, 6014, 6015, 6379, 6510, 6511, 6513, 6514"
+          "포트 5432, 6011, 6013, 6014, 6015, 6379, 6511, 6513, 6514"
         ]
       },
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 1755,
+        "commitCount": 1758,
         "authors": [
           {
-            "count": 1421,
+            "count": 1423,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2586,18 +2585,38 @@
           }
         ],
         "latestCommit": {
-          "hash": "bd6c2fce",
+          "hash": "d8fc29fa",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-16T09:54:40+09:00",
-          "subject": "Merge pull request #492 from Dongyang-Mirae-University-software/fix/audit-490-lows"
+          "date": "2026-11-16T13:29:30+09:00",
+          "subject": "Merge pull request #493 from Dongyang-Mirae-University-software/fix/final-qa-remaining"
         },
-        "summary": "총 1755개 커밋, 상위 계정: skarndaudwls1(1421), skarndaudwls1(65), gosky(4), 최근: Merge pull request #492 from Dongyang-Mirae-University-software/fix/audit-490-lows"
+        "summary": "총 1758개 커밋, 상위 계정: skarndaudwls1(1423), skarndaudwls1(65), gosky(4), 최근: Merge pull request #493 from Dongyang-Mirae-University-software/fix/final-qa-remaining"
       },
       "recentFiles": [
         {
+          "path": "프로젝트_설명.txt",
+          "modifiedAt": "2026-11-16T04:33:21.712Z"
+        },
+        {
+          "path": "docs/progress.md",
+          "modifiedAt": "2026-11-16T04:33:21.712Z"
+        },
+        {
+          "path": "src/main/resources/application.yaml",
+          "modifiedAt": "2026-11-16T04:33:21.712Z"
+        },
+        {
           "path": "docs/(2026-11-16) audit-fe-ward-screens-1111.md",
-          "modifiedAt": "2026-11-16T00:58:39.621Z"
+          "modifiedAt": "2026-11-16T04:33:21.708Z"
+        },
+        {
+          "path": "docs/(2026-11-16) fix-final-qa-remaining.md",
+          "modifiedAt": "2026-11-16T04:33:21.708Z"
+        },
+        {
+          "path": "docs/audit-index.md",
+          "modifiedAt": "2026-11-16T04:33:21.708Z"
         },
         {
           "path": "docs/(2026-11-16) audit-impact-enum-number-reject.md",
@@ -2606,26 +2625,6 @@
         {
           "path": "docs/(2026-11-16) audit-impact-final-qa-be-defects.md",
           "modifiedAt": "2026-11-16T00:58:39.621Z"
-        },
-        {
-          "path": "docs/audit-index.md",
-          "modifiedAt": "2026-11-16T00:58:39.621Z"
-        },
-        {
-          "path": "docs/progress.md",
-          "modifiedAt": "2026-11-16T00:58:39.621Z"
-        },
-        {
-          "path": "src/main/resources/application.yaml",
-          "modifiedAt": "2026-11-15T09:56:22.712Z"
-        },
-        {
-          "path": "docs/(2026-11-15) fix-final-qa-be-defects.md",
-          "modifiedAt": "2026-11-15T09:56:22.708Z"
-        },
-        {
-          "path": "docs/(2026-11-15) audit-companion-risk-lora.md",
-          "modifiedAt": "2026-11-15T09:52:09.125Z"
         }
       ],
       "summary": [
@@ -2633,8 +2632,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1755",
-        "Git 상위 계정: skarndaudwls1(1421), skarndaudwls1(65), gosky(4)"
+        "Git 커밋 수: 1758",
+        "Git 상위 계정: skarndaudwls1(1423), skarndaudwls1(65), gosky(4)"
       ]
     },
     {
@@ -2782,7 +2781,6 @@
           6000,
           6010,
           6015,
-          6510,
           8000
         ],
         "allCandidatePorts": [
@@ -2803,12 +2801,12 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 6000, 6010, 6015, 6510, 8000"
+          "포트 6000, 6010, 6015, 8000"
         ]
       },
       "git": {
         "isRepo": true,
-        "branch": "develop",
+        "branch": "design/game-pick-art",
         "commitCount": 1959,
         "authors": [
           {
@@ -2853,6 +2851,22 @@
       },
       "recentFiles": [
         {
+          "path": "next-env.d.ts",
+          "modifiedAt": "2026-11-16T04:36:23.529Z"
+        },
+        {
+          "path": "tsconfig.tsbuildinfo",
+          "modifiedAt": "2026-11-16T04:36:05.697Z"
+        },
+        {
+          "path": "src/app/(ward)/ward/game/_components/WardGameContent.module.css",
+          "modifiedAt": "2026-11-16T04:35:53.953Z"
+        },
+        {
+          "path": "src/app/(ward)/ward/game/_components/WardGameContent.tsx",
+          "modifiedAt": "2026-11-16T04:35:53.953Z"
+        },
+        {
           "path": "src/app/(auth)/login/LoginPage.browser.test.tsx",
           "modifiedAt": "2026-11-16T00:59:21.268Z"
         },
@@ -2866,22 +2880,6 @@
         },
         {
           "path": "src/lib/auth/logoutNavigation.test.ts",
-          "modifiedAt": "2026-11-16T00:59:21.268Z"
-        },
-        {
-          "path": "src/lib/auth/logoutNavigation.ts",
-          "modifiedAt": "2026-11-16T00:59:21.268Z"
-        },
-        {
-          "path": "src/service/query/auth/mutations.ts",
-          "modifiedAt": "2026-11-16T00:59:21.268Z"
-        },
-        {
-          "path": "src/utils/medication/displayName.test.ts",
-          "modifiedAt": "2026-11-16T00:59:21.268Z"
-        },
-        {
-          "path": "src/utils/medication/displayName.ts",
           "modifiedAt": "2026-11-16T00:59:21.268Z"
         }
       ],

@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-16 13:09:51 KST
+- 점검 시각: 2026-11-16 13:43:04 KST
 
 ## 추정 기술 스택
 
@@ -57,7 +57,7 @@
 
 ## Git 커밋 현황
 
-- 브랜치: develop
+- 브랜치: design/game-pick-art
 - 총 커밋 수: 1959
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
@@ -70,14 +70,14 @@
 
 ## 최근 수정 파일
 
+- next-env.d.ts (2026-11-16 13:36:23 KST)
+- tsconfig.tsbuildinfo (2026-11-16 13:36:05 KST)
+- src/app/(ward)/ward/game/_components/WardGameContent.module.css (2026-11-16 13:35:53 KST)
+- src/app/(ward)/ward/game/_components/WardGameContent.tsx (2026-11-16 13:35:53 KST)
 - src/app/(auth)/login/LoginPage.browser.test.tsx (2026-11-16 09:59:21 KST)
 - src/app/(ward)/ward/medication/_components/WardMedicationContent.tsx (2026-11-16 09:59:21 KST)
 - src/components/chatbot/useVoiceInput.ts (2026-11-16 09:59:21 KST)
 - src/lib/auth/logoutNavigation.test.ts (2026-11-16 09:59:21 KST)
-- src/lib/auth/logoutNavigation.ts (2026-11-16 09:59:21 KST)
-- src/service/query/auth/mutations.ts (2026-11-16 09:59:21 KST)
-- src/utils/medication/displayName.test.ts (2026-11-16 09:59:21 KST)
-- src/utils/medication/displayName.ts (2026-11-16 09:59:21 KST)
 
 ## 점검 결과 요약
 
