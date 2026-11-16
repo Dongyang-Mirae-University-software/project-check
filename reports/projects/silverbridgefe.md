@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-16 13:43:04 KST
+- 점검 시각: 2026-11-16 14:13:10 KST
 
 ## 추정 기술 스택
 
@@ -37,8 +37,8 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 817
-- 디렉토리 개수: 158
+- 파일 개수: 837
+- 디렉토리 개수: 159
 - 주요 폴더: docs, public, scripts, src
 - 주요 경로: public, public/icons, public/icons/push, public/images, src, src/app, src/app/(admin), src/app/(admin)/admin, src/app/(admin)/admin/_components, src/app/(admin)/admin/ai-stats, src/app/(admin)/admin/devices, src/app/(admin)/admin/hospitals, src/app/(admin)/admin/inquiries, src/app/(admin)/admin/members, src/app/(admin)/admin/notices, src/app/(admin)/admin/notifications, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/@modal, src/app/(auth)/@modal/(.)find-email
 
@@ -57,27 +57,27 @@
 
 ## Git 커밋 현황
 
-- 브랜치: design/game-pick-art
-- 총 커밋 수: 1959
+- 브랜치: develop
+- 총 커밋 수: 1994
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
-  - yuna0222 <gold8077@gmail.com>: 623
+  - yuna0222 <gold8077@gmail.com>: 656
   - skarndaudwls1 <skarndaudwls@gmail.com>: 278
-  - gosky <gosky@gosky.kr>: 22
+  - gosky <gosky@gosky.kr>: 23
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 603de3d0 / namgung <skarndaudwls@gmail.com> / Merge pull request #272 from Dongyang-Mirae-University-software/fix/ward-med-name-mic-cleanup
+- 최근 커밋: 67ca98f5 / gosky <65769312+gosky2@users.noreply.github.com> / Merge pull request #273 from Dongyang-Mirae-University-software/design/game-pick-art
 
 ## 최근 수정 파일
 
-- next-env.d.ts (2026-11-16 13:36:23 KST)
-- tsconfig.tsbuildinfo (2026-11-16 13:36:05 KST)
-- src/app/(ward)/ward/game/_components/WardGameContent.module.css (2026-11-16 13:35:53 KST)
-- src/app/(ward)/ward/game/_components/WardGameContent.tsx (2026-11-16 13:35:53 KST)
-- src/app/(auth)/login/LoginPage.browser.test.tsx (2026-11-16 09:59:21 KST)
-- src/app/(ward)/ward/medication/_components/WardMedicationContent.tsx (2026-11-16 09:59:21 KST)
-- src/components/chatbot/useVoiceInput.ts (2026-11-16 09:59:21 KST)
-- src/lib/auth/logoutNavigation.test.ts (2026-11-16 09:59:21 KST)
+- next-env.d.ts (2026-11-16 13:46:01 KST)
+- src/service/api/streamSession.ts (2026-11-16 13:45:57 KST)
+- src/service/api/user/notification.ts (2026-11-16 13:45:57 KST)
+- src/service/api/user/user.test.ts (2026-11-16 13:45:57 KST)
+- src/service/api/user/user.ts (2026-11-16 13:45:57 KST)
+- src/service/interface/admin/anomaly.ts (2026-11-16 13:45:57 KST)
+- src/service/interface/auth/auth.ts (2026-11-16 13:45:57 KST)
+- src/service/query/guardian/medication.test.ts (2026-11-16 13:45:57 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1959
-- Git 상위 계정: YUNA0222(1400), yuna0222(623), skarndaudwls1(278)
+- Git 커밋 수: 1994
+- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(278)

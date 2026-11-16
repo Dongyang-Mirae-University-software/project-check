@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-16T04:40:38.358Z",
-  "generatedAtKst": "2026-11-16 13:40:38 KST",
+  "generatedAt": "2026-11-16T05:13:07.812Z",
+  "generatedAtKst": "2026-11-16 14:13:07 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,18 +19,18 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9070
+          "count": 9071
         },
         {
           "email": "gosky@gosky.kr",
-          "count": 48
+          "count": 49
         },
         {
           "email": "gosky.dev@gmail.com",
           "count": 17
         }
       ],
-      "count": 9135
+      "count": 9137
     },
     {
       "name": "skarndaudwls1",
@@ -75,10 +75,10 @@
       "emails": [
         {
           "email": "gold8077@gmail.com",
-          "count": 623
+          "count": 656
         }
       ],
-      "count": 623
+      "count": 656
     },
     {
       "name": "namgung",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8933,
+        "commitCount": 8934,
         "authors": [
           {
-            "count": 8933,
+            "count": 8934,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "5b1e42568",
+          "hash": "af9daaffd",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-16T13:09:52+09:00",
+          "date": "2026-11-16T13:43:06+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8933개 커밋, 상위 계정: gosky(8933), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8934개 커밋, 상위 계정: gosky(8934), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8933",
-        "Git 상위 계정: gosky(8933)"
+        "Git 커밋 수: 8934",
+        "Git 상위 계정: gosky(8934)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 4 hours",
+            "status": "Up 27 minutes",
             "ports": ""
           }
         ],
@@ -2252,7 +2252,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 4 hours",
+            "status": "Up 27 minutes",
             "ports": ""
           }
         ],
@@ -2287,8 +2287,8 @@
       },
       "git": {
         "isRepo": true,
-        "branch": "chore/game-art-bunny-pick",
-        "commitCount": 766,
+        "branch": "main",
+        "commitCount": 767,
         "authors": [
           {
             "count": 367,
@@ -2322,46 +2322,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "3b86566",
+          "hash": "e826783",
           "author": "gosky",
-          "email": "gosky@gosky.kr",
-          "date": "2026-11-16T13:35:42+09:00",
-          "subject": "chore: 게임 그림 17장 추가(마스코트 토끼·게임 고르기 카드·젓가락·이불)"
+          "email": "65769312+gosky2@users.noreply.github.com",
+          "date": "2026-11-16T13:44:22+09:00",
+          "subject": "Merge pull request #301 from Dongyang-Mirae-University-software/chore/game-art-bunny-pick"
         },
-        "summary": "총 766개 커밋, 상위 계정: skarndaudwls1(367), gosky(37), Jaehe-he(33), 최근: chore: 게임 그림 17장 추가(마스코트 토끼·게임 고르기 카드·젓가락·이불)"
+        "summary": "총 767개 커밋, 상위 계정: skarndaudwls1(367), gosky(37), Jaehe-he(33), 최근: Merge pull request #301 from Dongyang-Mirae-University-software/chore/game-art-bunny-pick"
       },
       "recentFiles": [
         {
-          "path": "data/postgres/pg_wal/000000010000000000000009",
-          "modifiedAt": "2026-11-16T04:35:49.481Z"
+          "path": "app/static/game/bunny-down-1.png",
+          "modifiedAt": "2026-11-16T04:44:29.136Z"
         },
         {
-          "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-11-16T04:35:40.474Z"
+          "path": "app/static/game/bunny-down-2.png",
+          "modifiedAt": "2026-11-16T04:44:29.136Z"
         },
         {
-          "path": "data/postgres/base/16384/16502",
-          "modifiedAt": "2026-11-16T04:35:40.374Z"
+          "path": "app/static/game/bunny-left-1.png",
+          "modifiedAt": "2026-11-16T04:44:29.136Z"
         },
         {
-          "path": "data/postgres/base/16384/16501",
-          "modifiedAt": "2026-11-16T04:35:40.274Z"
+          "path": "app/static/game/bunny-left-2.png",
+          "modifiedAt": "2026-11-16T04:44:29.136Z"
         },
         {
-          "path": "data/postgres/base/16384/16500",
-          "modifiedAt": "2026-11-16T04:35:40.174Z"
+          "path": "app/static/game/bunny-right-1.png",
+          "modifiedAt": "2026-11-16T04:44:29.136Z"
         },
         {
-          "path": "data/postgres/base/16384/16498",
-          "modifiedAt": "2026-11-16T04:35:40.074Z"
+          "path": "app/static/game/bunny-right-2.png",
+          "modifiedAt": "2026-11-16T04:44:29.136Z"
         },
         {
-          "path": "data/postgres/base/16384/16496",
-          "modifiedAt": "2026-11-16T04:35:39.974Z"
+          "path": "app/static/game/bunny-up-1.png",
+          "modifiedAt": "2026-11-16T04:44:29.136Z"
         },
         {
-          "path": "data/postgres/base/16384/16490",
-          "modifiedAt": "2026-11-16T04:35:39.874Z"
+          "path": "app/static/game/bunny-up-2.png",
+          "modifiedAt": "2026-11-16T04:44:29.136Z"
         }
       ],
       "summary": [
@@ -2369,7 +2369,7 @@
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI",
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 766",
+        "Git 커밋 수: 767",
         "Git 상위 계정: skarndaudwls1(367), gosky(37), Jaehe-he(33)"
       ]
     },
@@ -2524,6 +2524,7 @@
           6014,
           6015,
           6379,
+          6510,
           6511,
           6513,
           6514
@@ -2555,7 +2556,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 5432, 6011, 6013, 6014, 6015, 6379, 6511, 6513, 6514"
+          "포트 5432, 6011, 6013, 6014, 6015, 6379, 6510, 6511, 6513, 6514"
         ]
       },
       "git": {
@@ -2730,8 +2731,8 @@
         }
       ],
       "structure": {
-        "fileCount": 817,
-        "dirCount": 158,
+        "fileCount": 837,
+        "dirCount": 159,
         "mainFolders": [
           "docs",
           "public",
@@ -2781,6 +2782,7 @@
           6000,
           6010,
           6015,
+          6510,
           8000
         ],
         "allCandidatePorts": [
@@ -2801,13 +2803,13 @@
           "실행 중",
           "PM2 없음",
           "Docker 없음",
-          "포트 6000, 6010, 6015, 8000"
+          "포트 6000, 6010, 6015, 6510, 8000"
         ]
       },
       "git": {
         "isRepo": true,
-        "branch": "design/game-pick-art",
-        "commitCount": 1959,
+        "branch": "develop",
+        "commitCount": 1994,
         "authors": [
           {
             "count": 1400,
@@ -2815,7 +2817,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 623,
+            "count": 656,
             "name": "yuna0222",
             "email": "gold8077@gmail.com"
           },
@@ -2825,7 +2827,7 @@
             "email": "skarndaudwls@gmail.com"
           },
           {
-            "count": 22,
+            "count": 23,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           },
@@ -2841,46 +2843,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "603de3d0",
-          "author": "namgung",
-          "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-16T09:58:22+09:00",
-          "subject": "Merge pull request #272 from Dongyang-Mirae-University-software/fix/ward-med-name-mic-cleanup"
+          "hash": "67ca98f5",
+          "author": "gosky",
+          "email": "65769312+gosky2@users.noreply.github.com",
+          "date": "2026-11-16T13:45:54+09:00",
+          "subject": "Merge pull request #273 from Dongyang-Mirae-University-software/design/game-pick-art"
         },
-        "summary": "총 1959개 커밋, 상위 계정: YUNA0222(1400), yuna0222(623), skarndaudwls1(278), 최근: Merge pull request #272 from Dongyang-Mirae-University-software/fix/ward-med-name-mic-cleanup"
+        "summary": "총 1994개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(278), 최근: Merge pull request #273 from Dongyang-Mirae-University-software/design/game-pick-art"
       },
       "recentFiles": [
         {
           "path": "next-env.d.ts",
-          "modifiedAt": "2026-11-16T04:36:23.529Z"
+          "modifiedAt": "2026-11-16T04:46:01.946Z"
         },
         {
-          "path": "tsconfig.tsbuildinfo",
-          "modifiedAt": "2026-11-16T04:36:05.697Z"
+          "path": "src/service/api/streamSession.ts",
+          "modifiedAt": "2026-11-16T04:45:57.674Z"
         },
         {
-          "path": "src/app/(ward)/ward/game/_components/WardGameContent.module.css",
-          "modifiedAt": "2026-11-16T04:35:53.953Z"
+          "path": "src/service/api/user/notification.ts",
+          "modifiedAt": "2026-11-16T04:45:57.674Z"
         },
         {
-          "path": "src/app/(ward)/ward/game/_components/WardGameContent.tsx",
-          "modifiedAt": "2026-11-16T04:35:53.953Z"
+          "path": "src/service/api/user/user.test.ts",
+          "modifiedAt": "2026-11-16T04:45:57.674Z"
         },
         {
-          "path": "src/app/(auth)/login/LoginPage.browser.test.tsx",
-          "modifiedAt": "2026-11-16T00:59:21.268Z"
+          "path": "src/service/api/user/user.ts",
+          "modifiedAt": "2026-11-16T04:45:57.674Z"
         },
         {
-          "path": "src/app/(ward)/ward/medication/_components/WardMedicationContent.tsx",
-          "modifiedAt": "2026-11-16T00:59:21.268Z"
+          "path": "src/service/interface/admin/anomaly.ts",
+          "modifiedAt": "2026-11-16T04:45:57.674Z"
         },
         {
-          "path": "src/components/chatbot/useVoiceInput.ts",
-          "modifiedAt": "2026-11-16T00:59:21.268Z"
+          "path": "src/service/interface/auth/auth.ts",
+          "modifiedAt": "2026-11-16T04:45:57.674Z"
         },
         {
-          "path": "src/lib/auth/logoutNavigation.test.ts",
-          "modifiedAt": "2026-11-16T00:59:21.268Z"
+          "path": "src/service/query/guardian/medication.test.ts",
+          "modifiedAt": "2026-11-16T04:45:57.674Z"
         }
       ],
       "summary": [
@@ -2888,8 +2890,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1959",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(623), skarndaudwls1(278)"
+        "Git 커밋 수: 1994",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(278)"
       ]
     },
     {

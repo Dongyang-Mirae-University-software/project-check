@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-16 13:43:04 KST
+- 점검 시각: 2026-11-16 14:13:10 KST
 
 ## 추정 기술 스택
 
@@ -66,8 +66,8 @@
 
 ## Git 커밋 현황
 
-- 브랜치: chore/game-art-bunny-pick
-- 총 커밋 수: 766
+- 브랜치: main
+- 총 커밋 수: 767
 - 계정별 커밋 수:
   - skarndaudwls1 <skarndaudwls@gmail.com>: 367
   - gosky <lovesky00317@gmail.com>: 37
@@ -75,18 +75,18 @@
   - gosky <gosky@gosky.kr>: 21
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: 3b86566 / gosky <gosky@gosky.kr> / chore: 게임 그림 17장 추가(마스코트 토끼·게임 고르기 카드·젓가락·이불)
+- 최근 커밋: e826783 / gosky <65769312+gosky2@users.noreply.github.com> / Merge pull request #301 from Dongyang-Mirae-University-software/chore/game-art-bunny-pick
 
 ## 최근 수정 파일
 
-- data/postgres/pg_wal/000000010000000000000009 (2026-11-16 13:35:49 KST)
-- data/postgres/global/pg_control (2026-11-16 13:35:40 KST)
-- data/postgres/base/16384/16502 (2026-11-16 13:35:40 KST)
-- data/postgres/base/16384/16501 (2026-11-16 13:35:40 KST)
-- data/postgres/base/16384/16500 (2026-11-16 13:35:40 KST)
-- data/postgres/base/16384/16498 (2026-11-16 13:35:40 KST)
-- data/postgres/base/16384/16496 (2026-11-16 13:35:39 KST)
-- data/postgres/base/16384/16490 (2026-11-16 13:35:39 KST)
+- app/static/game/bunny-down-1.png (2026-11-16 13:44:29 KST)
+- app/static/game/bunny-down-2.png (2026-11-16 13:44:29 KST)
+- app/static/game/bunny-left-1.png (2026-11-16 13:44:29 KST)
+- app/static/game/bunny-left-2.png (2026-11-16 13:44:29 KST)
+- app/static/game/bunny-right-1.png (2026-11-16 13:44:29 KST)
+- app/static/game/bunny-right-2.png (2026-11-16 13:44:29 KST)
+- app/static/game/bunny-up-1.png (2026-11-16 13:44:29 KST)
+- app/static/game/bunny-up-2.png (2026-11-16 13:44:29 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 766
+- Git 커밋 수: 767
 - Git 상위 계정: skarndaudwls1(367), gosky(37), Jaehe-he(33)
