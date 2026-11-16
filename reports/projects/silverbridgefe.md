@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-16 15:43:26 KST
+- 점검 시각: 2026-11-16 16:13:32 KST
 
 ## 추정 기술 스택
 
@@ -57,25 +57,25 @@
 
 ## Git 커밋 현황
 
-- 브랜치: design/ward-game-fixed-screen
-- 총 커밋 수: 1994
+- 브랜치: develop
+- 총 커밋 수: 1996
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 656
   - skarndaudwls1 <skarndaudwls@gmail.com>: 278
-  - gosky <gosky@gosky.kr>: 23
+  - gosky <gosky@gosky.kr>: 24
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 67ca98f5 / gosky <65769312+gosky2@users.noreply.github.com> / Merge pull request #273 from Dongyang-Mirae-University-software/design/game-pick-art
+- 최근 커밋: 6c3f1a77 / gosky <65769312+gosky2@users.noreply.github.com> / Merge pull request #274 from Dongyang-Mirae-University-software/design/ward-game-fixed-screen
 
 ## 최근 수정 파일
 
-- src/app/(ward)/ward/game/_components/WardGameContent.module.css (2026-11-16 15:43:21 KST)
-- src/app/(ward)/ward/game/_components/WardGameContent.tsx (2026-11-16 15:43:21 KST)
-- tsconfig.tsbuildinfo (2026-11-16 15:33:14 KST)
-- src/app/(ward)/ward/game/_components/WardGameContent.browser.test.tsx (2026-11-16 15:32:45 KST)
-- src/app/(ward)/ward/_components/WardLayout.module.css (2026-11-16 15:31:54 KST)
-- src/app/(ward)/ward/_components/WardLayout.tsx (2026-11-16 15:31:54 KST)
+- src/app/(ward)/ward/_components/WardLayout.module.css (2026-11-16 15:55:16 KST)
+- src/app/(ward)/ward/_components/WardLayout.tsx (2026-11-16 15:55:16 KST)
+- src/app/(ward)/ward/game/_components/WardGameContent.browser.test.tsx (2026-11-16 15:55:16 KST)
+- src/app/(ward)/ward/game/_components/WardGameContent.module.css (2026-11-16 15:55:16 KST)
+- src/app/(ward)/ward/game/_components/WardGameContent.tsx (2026-11-16 15:55:16 KST)
+- tsconfig.tsbuildinfo (2026-11-16 15:43:37 KST)
 - next-env.d.ts (2026-11-16 13:46:01 KST)
 - src/service/api/streamSession.ts (2026-11-16 13:45:57 KST)
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1994
+- Git 커밋 수: 1996
 - Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(278)

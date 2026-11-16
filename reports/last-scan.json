@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-16T06:43:24.617Z",
-  "generatedAtKst": "2026-11-16 15:43:24 KST",
+  "generatedAt": "2026-11-16T07:13:30.084Z",
+  "generatedAtKst": "2026-11-16 16:13:30 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,18 +19,18 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9074
+          "count": 9075
         },
         {
           "email": "gosky@gosky.kr",
-          "count": 49
+          "count": 50
         },
         {
           "email": "gosky.dev@gmail.com",
           "count": 17
         }
       ],
-      "count": 9140
+      "count": 9142
     },
     {
       "name": "skarndaudwls1",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8937,
+        "commitCount": 8938,
         "authors": [
           {
-            "count": 8937,
+            "count": 8938,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "3b80f23a4",
+          "hash": "588dbd47f",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-16T15:13:22+09:00",
+          "date": "2026-11-16T15:43:28+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8937개 커밋, 상위 계정: gosky(8937), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8938개 커밋, 상위 계정: gosky(8938), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8937",
-        "Git 상위 계정: gosky(8937)"
+        "Git 커밋 수: 8938",
+        "Git 상위 계정: gosky(8938)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 16 minutes",
+            "status": "Up 46 minutes",
             "ports": ""
           }
         ],
@@ -2252,7 +2252,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 16 minutes",
+            "status": "Up 46 minutes",
             "ports": ""
           }
         ],
@@ -2333,35 +2333,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000009",
-          "modifiedAt": "2026-11-16T06:43:06.891Z"
+          "modifiedAt": "2026-11-16T06:45:50.340Z"
         },
         {
-          "path": "data/companion_review.db",
-          "modifiedAt": "2026-11-16T06:29:19.696Z"
+          "path": "data/postgres/global/pg_control",
+          "modifiedAt": "2026-11-16T06:45:42.932Z"
         },
         {
-          "path": "app/core/config.py",
-          "modifiedAt": "2026-11-16T06:26:49.879Z"
+          "path": "data/postgres/base/16384/16515",
+          "modifiedAt": "2026-11-16T06:45:42.832Z"
         },
         {
-          "path": "docs/companion-team-status.md",
-          "modifiedAt": "2026-11-16T06:26:49.879Z"
+          "path": "data/postgres/base/16384/16514",
+          "modifiedAt": "2026-11-16T06:45:42.732Z"
         },
         {
-          "path": "tests/test_companion_risk_lora.py",
-          "modifiedAt": "2026-11-16T06:26:49.879Z"
+          "path": "data/postgres/base/16384/16513",
+          "modifiedAt": "2026-11-16T06:45:42.632Z"
         },
         {
-          "path": "models/companion/llm/lora-mood-e1500/README.md",
-          "modifiedAt": "2026-11-16T06:21:57.871Z"
+          "path": "data/postgres/base/16384/16512",
+          "modifiedAt": "2026-11-16T06:45:42.532Z"
         },
         {
-          "path": "models/companion/llm/lora-mood-e1500/adapter_config.json",
-          "modifiedAt": "2026-11-16T06:21:57.119Z"
+          "path": "data/postgres/base/16384/16510",
+          "modifiedAt": "2026-11-16T06:45:42.432Z"
         },
         {
-          "path": "models/companion/llm/lora-mood-e1500/adapter_model.safetensors",
-          "modifiedAt": "2026-11-16T06:21:55.959Z"
+          "path": "data/postgres/base/16384/16504",
+          "modifiedAt": "2026-11-16T06:45:42.328Z"
         }
       ],
       "summary": [
@@ -2808,8 +2808,8 @@
       },
       "git": {
         "isRepo": true,
-        "branch": "design/ward-game-fixed-screen",
-        "commitCount": 1994,
+        "branch": "develop",
+        "commitCount": 1996,
         "authors": [
           {
             "count": 1400,
@@ -2827,7 +2827,7 @@
             "email": "skarndaudwls@gmail.com"
           },
           {
-            "count": 23,
+            "count": 24,
             "name": "gosky",
             "email": "gosky@gosky.kr"
           },
@@ -2843,38 +2843,38 @@
           }
         ],
         "latestCommit": {
-          "hash": "67ca98f5",
+          "hash": "6c3f1a77",
           "author": "gosky",
           "email": "65769312+gosky2@users.noreply.github.com",
-          "date": "2026-11-16T13:45:54+09:00",
-          "subject": "Merge pull request #273 from Dongyang-Mirae-University-software/design/game-pick-art"
+          "date": "2026-11-16T15:47:05+09:00",
+          "subject": "Merge pull request #274 from Dongyang-Mirae-University-software/design/ward-game-fixed-screen"
         },
-        "summary": "총 1994개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(278), 최근: Merge pull request #273 from Dongyang-Mirae-University-software/design/game-pick-art"
+        "summary": "총 1996개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(278), 최근: Merge pull request #274 from Dongyang-Mirae-University-software/design/ward-game-fixed-screen"
       },
       "recentFiles": [
         {
-          "path": "src/app/(ward)/ward/game/_components/WardGameContent.module.css",
-          "modifiedAt": "2026-11-16T06:43:21.091Z"
-        },
-        {
-          "path": "src/app/(ward)/ward/game/_components/WardGameContent.tsx",
-          "modifiedAt": "2026-11-16T06:43:21.091Z"
-        },
-        {
-          "path": "tsconfig.tsbuildinfo",
-          "modifiedAt": "2026-11-16T06:33:14.541Z"
-        },
-        {
-          "path": "src/app/(ward)/ward/game/_components/WardGameContent.browser.test.tsx",
-          "modifiedAt": "2026-11-16T06:32:45.185Z"
-        },
-        {
           "path": "src/app/(ward)/ward/_components/WardLayout.module.css",
-          "modifiedAt": "2026-11-16T06:31:54.098Z"
+          "modifiedAt": "2026-11-16T06:55:16.504Z"
         },
         {
           "path": "src/app/(ward)/ward/_components/WardLayout.tsx",
-          "modifiedAt": "2026-11-16T06:31:54.098Z"
+          "modifiedAt": "2026-11-16T06:55:16.504Z"
+        },
+        {
+          "path": "src/app/(ward)/ward/game/_components/WardGameContent.browser.test.tsx",
+          "modifiedAt": "2026-11-16T06:55:16.504Z"
+        },
+        {
+          "path": "src/app/(ward)/ward/game/_components/WardGameContent.module.css",
+          "modifiedAt": "2026-11-16T06:55:16.504Z"
+        },
+        {
+          "path": "src/app/(ward)/ward/game/_components/WardGameContent.tsx",
+          "modifiedAt": "2026-11-16T06:55:16.504Z"
+        },
+        {
+          "path": "tsconfig.tsbuildinfo",
+          "modifiedAt": "2026-11-16T06:43:37.826Z"
         },
         {
           "path": "next-env.d.ts",
@@ -2890,7 +2890,7 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1994",
+        "Git 커밋 수: 1996",
         "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(278)"
       ]
     },
