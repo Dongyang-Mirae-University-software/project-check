@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-16 15:13:21 KST
+- 점검 시각: 2026-11-16 15:43:26 KST
 
 ## 추정 기술 스택
 
@@ -57,7 +57,7 @@
 
 ## Git 커밋 현황
 
-- 브랜치: develop
+- 브랜치: design/ward-game-fixed-screen
 - 총 커밋 수: 1994
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
@@ -70,14 +70,14 @@
 
 ## 최근 수정 파일
 
+- src/app/(ward)/ward/game/_components/WardGameContent.module.css (2026-11-16 15:43:21 KST)
+- src/app/(ward)/ward/game/_components/WardGameContent.tsx (2026-11-16 15:43:21 KST)
+- tsconfig.tsbuildinfo (2026-11-16 15:33:14 KST)
+- src/app/(ward)/ward/game/_components/WardGameContent.browser.test.tsx (2026-11-16 15:32:45 KST)
+- src/app/(ward)/ward/_components/WardLayout.module.css (2026-11-16 15:31:54 KST)
+- src/app/(ward)/ward/_components/WardLayout.tsx (2026-11-16 15:31:54 KST)
 - next-env.d.ts (2026-11-16 13:46:01 KST)
 - src/service/api/streamSession.ts (2026-11-16 13:45:57 KST)
-- src/service/api/user/notification.ts (2026-11-16 13:45:57 KST)
-- src/service/api/user/user.test.ts (2026-11-16 13:45:57 KST)
-- src/service/api/user/user.ts (2026-11-16 13:45:57 KST)
-- src/service/interface/admin/anomaly.ts (2026-11-16 13:45:57 KST)
-- src/service/interface/auth/auth.ts (2026-11-16 13:45:57 KST)
-- src/service/query/guardian/medication.test.ts (2026-11-16 13:45:57 KST)
 
 ## 점검 결과 요약
 

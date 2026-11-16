@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-16 15:13:21 KST
+- 점검 시각: 2026-11-16 15:43:26 KST
 
 ## 추정 기술 스택
 
@@ -46,8 +46,8 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2714
-- 디렉토리 개수: 106
+- 파일 개수: 2717
+- 디렉토리 개수: 107
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
 - 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/static, app/static/game, app/utils, models, models/companion, models/companion/face-detect, models/companion/face-emotion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b
 
@@ -67,26 +67,26 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 767
+- 총 커밋 수: 769
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 367
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 368
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 33
   - gosky <gosky@gosky.kr>: 21
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: e826783 / gosky <65769312+gosky2@users.noreply.github.com> / Merge pull request #301 from Dongyang-Mirae-University-software/chore/game-art-bunny-pick
+- 최근 커밋: 7bda0f2 / namgung <skarndaudwls@gmail.com> / Merge pull request #302 from Dongyang-Mirae-University-software/feature/companion-mood-e1500
 
 ## 최근 수정 파일
 
-- app/static/game/bunny-down-1.png (2026-11-16 13:44:29 KST)
-- app/static/game/bunny-down-2.png (2026-11-16 13:44:29 KST)
-- app/static/game/bunny-left-1.png (2026-11-16 13:44:29 KST)
-- app/static/game/bunny-left-2.png (2026-11-16 13:44:29 KST)
-- app/static/game/bunny-right-1.png (2026-11-16 13:44:29 KST)
-- app/static/game/bunny-right-2.png (2026-11-16 13:44:29 KST)
-- app/static/game/bunny-up-1.png (2026-11-16 13:44:29 KST)
-- app/static/game/bunny-up-2.png (2026-11-16 13:44:29 KST)
+- data/postgres/pg_wal/000000010000000000000009 (2026-11-16 15:43:06 KST)
+- data/companion_review.db (2026-11-16 15:29:19 KST)
+- app/core/config.py (2026-11-16 15:26:49 KST)
+- docs/companion-team-status.md (2026-11-16 15:26:49 KST)
+- tests/test_companion_risk_lora.py (2026-11-16 15:26:49 KST)
+- models/companion/llm/lora-mood-e1500/README.md (2026-11-16 15:21:57 KST)
+- models/companion/llm/lora-mood-e1500/adapter_config.json (2026-11-16 15:21:57 KST)
+- models/companion/llm/lora-mood-e1500/adapter_model.safetensors (2026-11-16 15:21:55 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 767
-- Git 상위 계정: skarndaudwls1(367), gosky(37), Jaehe-he(33)
+- Git 커밋 수: 769
+- Git 상위 계정: skarndaudwls1(368), gosky(37), Jaehe-he(33)
