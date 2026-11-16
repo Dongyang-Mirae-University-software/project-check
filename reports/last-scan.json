@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-16T10:44:11.547Z",
-  "generatedAtKst": "2026-11-16 19:44:11 KST",
+  "generatedAt": "2026-11-16T11:14:17.727Z",
+  "generatedAtKst": "2026-11-16 20:14:17 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9082
+          "count": 9083
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 17
         }
       ],
-      "count": 9150
+      "count": 9151
     },
     {
       "name": "skarndaudwls1",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8945,
+        "commitCount": 8946,
         "authors": [
           {
-            "count": 8945,
+            "count": 8946,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "d979070ff",
+          "hash": "37af8c1dd",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-16T19:14:09+09:00",
+          "date": "2026-11-16T19:44:15+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8945개 커밋, 상위 계정: gosky(8945), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8946개 커밋, 상위 계정: gosky(8946), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8945",
-        "Git 상위 계정: gosky(8945)"
+        "Git 커밋 수: 8946",
+        "Git 상위 계정: gosky(8946)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 4 hours",
+            "status": "Up 5 hours",
             "ports": ""
           }
         ],
@@ -2252,7 +2252,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 4 hours",
+            "status": "Up 5 hours",
             "ports": ""
           }
         ],
@@ -2332,36 +2332,36 @@
       },
       "recentFiles": [
         {
-          "path": "app/services/game_service.py",
-          "modifiedAt": "2026-11-16T07:19:56.324Z"
-        },
-        {
           "path": "data/postgres/pg_wal/000000010000000000000009",
-          "modifiedAt": "2026-11-16T06:45:50.340Z"
+          "modifiedAt": "2026-11-16T11:10:55.108Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-11-16T06:45:42.932Z"
+          "modifiedAt": "2026-11-16T11:10:49.100Z"
         },
         {
           "path": "data/postgres/base/16384/16515",
-          "modifiedAt": "2026-11-16T06:45:42.832Z"
+          "modifiedAt": "2026-11-16T11:10:49.000Z"
         },
         {
           "path": "data/postgres/base/16384/16514",
-          "modifiedAt": "2026-11-16T06:45:42.732Z"
+          "modifiedAt": "2026-11-16T11:10:48.900Z"
         },
         {
           "path": "data/postgres/base/16384/16513",
-          "modifiedAt": "2026-11-16T06:45:42.632Z"
+          "modifiedAt": "2026-11-16T11:10:48.800Z"
         },
         {
           "path": "data/postgres/base/16384/16512",
-          "modifiedAt": "2026-11-16T06:45:42.532Z"
+          "modifiedAt": "2026-11-16T11:10:48.700Z"
         },
         {
           "path": "data/postgres/base/16384/16510",
-          "modifiedAt": "2026-11-16T06:45:42.432Z"
+          "modifiedAt": "2026-11-16T11:10:48.600Z"
+        },
+        {
+          "path": "data/postgres/base/16384/16504",
+          "modifiedAt": "2026-11-16T11:10:48.500Z"
         }
       ],
       "summary": [
