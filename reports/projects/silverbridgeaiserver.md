@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-16 16:13:32 KST
+- 점검 시각: 2026-11-16 16:43:37 KST
 
 ## 추정 기술 스택
 
@@ -72,13 +72,14 @@
   - skarndaudwls1 <skarndaudwls@gmail.com>: 368
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 33
-  - gosky <gosky@gosky.kr>: 21
+  - gosky <gosky@gosky.kr>: 22
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
 - 최근 커밋: 7bda0f2 / namgung <skarndaudwls@gmail.com> / Merge pull request #302 from Dongyang-Mirae-University-software/feature/companion-mood-e1500
 
 ## 최근 수정 파일
 
+- app/services/game_service.py (2026-11-16 16:19:56 KST)
 - data/postgres/pg_wal/000000010000000000000009 (2026-11-16 15:45:50 KST)
 - data/postgres/global/pg_control (2026-11-16 15:45:42 KST)
 - data/postgres/base/16384/16515 (2026-11-16 15:45:42 KST)
@@ -86,7 +87,6 @@
 - data/postgres/base/16384/16513 (2026-11-16 15:45:42 KST)
 - data/postgres/base/16384/16512 (2026-11-16 15:45:42 KST)
 - data/postgres/base/16384/16510 (2026-11-16 15:45:42 KST)
-- data/postgres/base/16384/16504 (2026-11-16 15:45:42 KST)
 
 ## 점검 결과 요약
 
