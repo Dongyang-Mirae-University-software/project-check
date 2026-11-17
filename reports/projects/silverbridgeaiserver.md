@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-17 19:21:13 KST
+- 점검 시각: 2026-11-17 19:51:19 KST
 
 ## 추정 기술 스택
 
@@ -79,14 +79,14 @@
 
 ## 최근 수정 파일
 
-- app/services/chat_layout.py (2026-11-17 17:56:56 KST)
-- app/services/chat_log_retention.py (2026-11-17 17:56:56 KST)
-- docs/audits/2026-11-17-chatlog-usercontext-pii-audit.md (2026-11-17 17:56:56 KST)
-- tests/test_chat_log_retention.py (2026-11-17 17:56:56 KST)
-- tests/test_chat_reply_layout.py (2026-11-17 17:56:56 KST)
-- app/core/config.py (2026-11-17 17:56:56 KST)
-- app/main.py (2026-11-17 17:56:56 KST)
-- app/services/chat_service.py (2026-11-17 17:54:02 KST)
+- data/postgres/pg_wal/000000010000000000000009 (2026-11-17 19:31:18 KST)
+- data/postgres/global/pg_control (2026-11-17 19:31:17 KST)
+- data/postgres/base/16384/33564 (2026-11-17 19:31:17 KST)
+- data/postgres/base/16384/32948 (2026-11-17 19:31:16 KST)
+- data/postgres/base/16384/32947 (2026-11-17 19:31:16 KST)
+- data/postgres/base/16384/32946 (2026-11-17 19:31:16 KST)
+- data/postgres/base/16384/32945 (2026-11-17 19:31:16 KST)
+- data/postgres/base/16384/32935_vm (2026-11-17 19:31:16 KST)
 
 ## 점검 결과 요약
 

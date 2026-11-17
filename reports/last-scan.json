@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-17T10:21:11.142Z",
-  "generatedAtKst": "2026-11-17 19:21:11 KST",
+  "generatedAt": "2026-11-17T10:51:16.715Z",
+  "generatedAtKst": "2026-11-17 19:51:16 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9129
+          "count": 9130
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 17
         }
       ],
-      "count": 9197
+      "count": 9198
     },
     {
       "name": "skarndaudwls1",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 8992,
+        "commitCount": 8993,
         "authors": [
           {
-            "count": 8992,
+            "count": 8993,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "c1e7a60b8",
+          "hash": "cc5cffc3b",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-17T18:51:08+09:00",
+          "date": "2026-11-17T19:21:15+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 8992개 커밋, 상위 계정: gosky(8992), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 8993개 커밋, 상위 계정: gosky(8993), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 8992",
-        "Git 상위 계정: gosky(8992)"
+        "Git 커밋 수: 8993",
+        "Git 상위 계정: gosky(8993)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up About an hour",
+            "status": "Up 2 hours",
             "ports": ""
           }
         ],
@@ -2252,7 +2252,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up About an hour",
+            "status": "Up 2 hours",
             "ports": ""
           }
         ],
@@ -2329,36 +2329,36 @@
       },
       "recentFiles": [
         {
-          "path": "app/services/chat_layout.py",
-          "modifiedAt": "2026-11-17T08:56:56.641Z"
+          "path": "data/postgres/pg_wal/000000010000000000000009",
+          "modifiedAt": "2026-11-17T10:31:18.142Z"
         },
         {
-          "path": "app/services/chat_log_retention.py",
-          "modifiedAt": "2026-11-17T08:56:56.641Z"
+          "path": "data/postgres/global/pg_control",
+          "modifiedAt": "2026-11-17T10:31:17.142Z"
         },
         {
-          "path": "docs/audits/2026-11-17-chatlog-usercontext-pii-audit.md",
-          "modifiedAt": "2026-11-17T08:56:56.641Z"
+          "path": "data/postgres/base/16384/33564",
+          "modifiedAt": "2026-11-17T10:31:17.038Z"
         },
         {
-          "path": "tests/test_chat_log_retention.py",
-          "modifiedAt": "2026-11-17T08:56:56.641Z"
+          "path": "data/postgres/base/16384/32948",
+          "modifiedAt": "2026-11-17T10:31:16.938Z"
         },
         {
-          "path": "tests/test_chat_reply_layout.py",
-          "modifiedAt": "2026-11-17T08:56:56.641Z"
+          "path": "data/postgres/base/16384/32947",
+          "modifiedAt": "2026-11-17T10:31:16.838Z"
         },
         {
-          "path": "app/core/config.py",
-          "modifiedAt": "2026-11-17T08:56:56.637Z"
+          "path": "data/postgres/base/16384/32946",
+          "modifiedAt": "2026-11-17T10:31:16.738Z"
         },
         {
-          "path": "app/main.py",
-          "modifiedAt": "2026-11-17T08:56:56.637Z"
+          "path": "data/postgres/base/16384/32945",
+          "modifiedAt": "2026-11-17T10:31:16.638Z"
         },
         {
-          "path": "app/services/chat_service.py",
-          "modifiedAt": "2026-11-17T08:54:02.344Z"
+          "path": "data/postgres/base/16384/32935_vm",
+          "modifiedAt": "2026-11-17T10:31:16.534Z"
         }
       ],
       "summary": [
