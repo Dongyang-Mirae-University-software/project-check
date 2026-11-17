@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-17 16:50:44 KST
+- 점검 시각: 2026-11-17 17:20:50 KST
 
 ## 추정 기술 스택
 
@@ -37,8 +37,8 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 838
-- 디렉토리 개수: 159
+- 파일 개수: 840
+- 디렉토리 개수: 160
 - 주요 폴더: docs, public, scripts, src
 - 주요 경로: public, public/icons, public/icons/push, public/images, src, src/app, src/app/(admin), src/app/(admin)/admin, src/app/(admin)/admin/_components, src/app/(admin)/admin/ai-stats, src/app/(admin)/admin/devices, src/app/(admin)/admin/hospitals, src/app/(admin)/admin/inquiries, src/app/(admin)/admin/members, src/app/(admin)/admin/notices, src/app/(admin)/admin/notifications, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/@modal, src/app/(auth)/@modal/(.)find-email
 
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 2000
+- 총 커밋 수: 2004
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 656
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 280
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 282
   - gosky <gosky@gosky.kr>: 24
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: b4f2aa62 / namgung <skarndaudwls@gmail.com> / Merge pull request #276 from Dongyang-Mirae-University-software/fix/ward-chat-history-date-column
+- 최근 커밋: 470f6e45 / namgung <skarndaudwls@gmail.com> / Merge pull request #278 from Dongyang-Mirae-University-software/fix/sos-history-unknown-trigger
 
 ## 최근 수정 파일
 
-- src/components/chatbot/ChatHistoryDialog.browser.test.tsx (2026-11-17 16:49:59 KST)
-- src/components/chatbot/ChatHistoryDialog.module.css (2026-11-17 16:49:59 KST)
-- src/components/chatbot/chatHistorySessions.test.ts (2026-11-17 16:35:01 KST)
-- src/app/(ward)/ward/_components/WardLayout.module.css (2026-11-16 15:55:16 KST)
-- src/app/(ward)/ward/_components/WardLayout.tsx (2026-11-16 15:55:16 KST)
-- src/app/(ward)/ward/game/_components/WardGameContent.browser.test.tsx (2026-11-16 15:55:16 KST)
-- src/app/(ward)/ward/game/_components/WardGameContent.module.css (2026-11-16 15:55:16 KST)
-- src/app/(ward)/ward/game/_components/WardGameContent.tsx (2026-11-16 15:55:16 KST)
+- src/app/(guardian)/guardian/sos/_components/GuardianSosHistoryContent.browser.test.tsx (2026-11-17 16:57:36 KST)
+- src/app/(guardian)/guardian/sos/_components/GuardianSosHistoryContent.tsx (2026-11-17 16:57:36 KST)
+- src/components/chatbot/chatUrgency.ts (2026-11-17 16:54:46 KST)
+- src/components/emergency/Emergency119Dialpad.browser.test.tsx (2026-11-17 16:54:46 KST)
+- src/components/emergency/Emergency119Dialpad.guard.test.ts (2026-11-17 16:54:46 KST)
+- src/components/emergency/Emergency119Dialpad.module.css (2026-11-17 16:54:46 KST)
+- src/components/emergency/Emergency119Dialpad.tsx (2026-11-17 16:54:46 KST)
+- src/service/api/ward/sos.ts (2026-11-17 16:54:46 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 2000
-- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(280)
+- Git 커밋 수: 2004
+- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(282)

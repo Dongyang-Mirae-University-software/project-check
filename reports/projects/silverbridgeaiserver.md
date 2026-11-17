@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-17 16:50:43 KST
+- 점검 시각: 2026-11-17 17:20:50 KST
 
 ## 추정 기술 스택
 
@@ -60,33 +60,33 @@
 ## 실행 상태
 
 - 상태: 실행 중
-- 관련 포트: 1000, 1800, 2000, 2048, 3599, 3600, 4096, 5432, 6012, 6015, 6017, 6019, 50000
+- 관련 포트: 1000, 1800, 2000, 2048, 3599, 3600, 4096, 5432, 6012, 6017, 6019
 - 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 786
+- 총 커밋 수: 792
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 377
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 380
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 33
   - gosky <gosky@gosky.kr>: 22
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: 1d0da47 / namgung <skarndaudwls@gmail.com> / Merge pull request #312 from Dongyang-Mirae-University-software/fix/reservation-confirm-inferred
+- 최근 커밋: 0c0710c / namgung <skarndaudwls@gmail.com> / Merge pull request #315 from Dongyang-Mirae-University-software/fix/reservation-confirm-audit
 
 ## 최근 수정 파일
 
-- docs/audits/2026-11-17-chatlog-usercontext-pii-audit.md (2026-11-17 16:45:22 KST)
-- tests/test_reservation_confirm_inferred.py (2026-11-17 16:45:22 KST)
-- app/services/reservation_confirm_flow.py (2026-11-17 16:45:22 KST)
-- app/services/reservation_intake.py (2026-11-17 16:45:22 KST)
-- app/services/reservation_orchestrator.py (2026-11-17 16:45:22 KST)
-- data/postgres/pg_wal/000000010000000000000009 (2026-11-17 16:16:33 KST)
-- data/postgres/global/pg_control (2026-11-17 16:16:14 KST)
-- data/postgres/base/16384/33564 (2026-11-17 16:16:14 KST)
+- data/postgres/pg_wal/000000010000000000000009 (2026-11-17 17:16:22 KST)
+- data/postgres/global/pg_control (2026-11-17 17:16:14 KST)
+- data/postgres/base/16384/32948 (2026-11-17 17:16:14 KST)
+- data/postgres/base/16384/32935_vm (2026-11-17 17:16:14 KST)
+- data/postgres/base/16384/32935 (2026-11-17 17:16:14 KST)
+- data/postgres/base/16384/2619 (2026-11-17 17:16:13 KST)
+- data/postgres/pg_xact/0000 (2026-11-17 17:16:13 KST)
+- data/postgres/pg_logical/replorigin_checkpoint (2026-11-17 17:16:13 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 786
-- Git 상위 계정: skarndaudwls1(377), gosky(37), Jaehe-he(33)
+- Git 커밋 수: 792
+- Git 상위 계정: skarndaudwls1(380), gosky(37), Jaehe-he(33)
