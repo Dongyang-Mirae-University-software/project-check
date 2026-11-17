@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-17 16:20:38 KST
+- 점검 시각: 2026-11-17 16:50:44 KST
 
 ## 추정 기술 스택
 
@@ -37,7 +37,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 837
+- 파일 개수: 838
 - 디렉토리 개수: 159
 - 주요 폴더: docs, public, scripts, src
 - 주요 경로: public, public/icons, public/icons/push, public/images, src, src/app, src/app/(admin), src/app/(admin)/admin, src/app/(admin)/admin/_components, src/app/(admin)/admin/ai-stats, src/app/(admin)/admin/devices, src/app/(admin)/admin/hospitals, src/app/(admin)/admin/inquiries, src/app/(admin)/admin/members, src/app/(admin)/admin/notices, src/app/(admin)/admin/notifications, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/@modal, src/app/(auth)/@modal/(.)find-email
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 1996
+- 총 커밋 수: 2000
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 656
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 278
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 280
   - gosky <gosky@gosky.kr>: 24
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 6c3f1a77 / gosky <65769312+gosky2@users.noreply.github.com> / Merge pull request #274 from Dongyang-Mirae-University-software/design/ward-game-fixed-screen
+- 최근 커밋: b4f2aa62 / namgung <skarndaudwls@gmail.com> / Merge pull request #276 from Dongyang-Mirae-University-software/fix/ward-chat-history-date-column
 
 ## 최근 수정 파일
 
+- src/components/chatbot/ChatHistoryDialog.browser.test.tsx (2026-11-17 16:49:59 KST)
+- src/components/chatbot/ChatHistoryDialog.module.css (2026-11-17 16:49:59 KST)
+- src/components/chatbot/chatHistorySessions.test.ts (2026-11-17 16:35:01 KST)
 - src/app/(ward)/ward/_components/WardLayout.module.css (2026-11-16 15:55:16 KST)
 - src/app/(ward)/ward/_components/WardLayout.tsx (2026-11-16 15:55:16 KST)
 - src/app/(ward)/ward/game/_components/WardGameContent.browser.test.tsx (2026-11-16 15:55:16 KST)
 - src/app/(ward)/ward/game/_components/WardGameContent.module.css (2026-11-16 15:55:16 KST)
 - src/app/(ward)/ward/game/_components/WardGameContent.tsx (2026-11-16 15:55:16 KST)
-- tsconfig.tsbuildinfo (2026-11-16 15:43:37 KST)
-- next-env.d.ts (2026-11-16 13:46:01 KST)
-- src/service/api/streamSession.ts (2026-11-16 13:45:57 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 1996
-- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(278)
+- Git 커밋 수: 2000
+- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(280)
