@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-17 17:50:55 KST
+- 점검 시각: 2026-11-17 18:21:01 KST
 
 ## 추정 기술 스택
 
@@ -46,7 +46,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2721
+- 파일 개수: 2723
 - 디렉토리 개수: 108
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
 - 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/static, app/static/game, app/utils, models, models/companion, models/companion/face-detect, models/companion/face-emotion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b
@@ -67,26 +67,26 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 792
+- 총 커밋 수: 798
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 380
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 383
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 33
   - gosky <gosky@gosky.kr>: 22
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: 0c0710c / namgung <skarndaudwls@gmail.com> / Merge pull request #315 from Dongyang-Mirae-University-software/fix/reservation-confirm-audit
+- 최근 커밋: b9cb172 / namgung <skarndaudwls@gmail.com> / Merge pull request #318 from Dongyang-Mirae-University-software/feature/chat-log-retention
 
 ## 최근 수정 파일
 
-- data/postgres/pg_wal/000000010000000000000009 (2026-11-17 17:16:22 KST)
-- data/postgres/global/pg_control (2026-11-17 17:16:14 KST)
-- data/postgres/base/16384/32948 (2026-11-17 17:16:14 KST)
-- data/postgres/base/16384/32935_vm (2026-11-17 17:16:14 KST)
-- data/postgres/base/16384/32935 (2026-11-17 17:16:14 KST)
-- data/postgres/base/16384/2619 (2026-11-17 17:16:13 KST)
-- data/postgres/pg_xact/0000 (2026-11-17 17:16:13 KST)
-- data/postgres/pg_logical/replorigin_checkpoint (2026-11-17 17:16:13 KST)
+- app/services/chat_layout.py (2026-11-17 17:56:56 KST)
+- app/services/chat_log_retention.py (2026-11-17 17:56:56 KST)
+- docs/audits/2026-11-17-chatlog-usercontext-pii-audit.md (2026-11-17 17:56:56 KST)
+- tests/test_chat_log_retention.py (2026-11-17 17:56:56 KST)
+- tests/test_chat_reply_layout.py (2026-11-17 17:56:56 KST)
+- app/core/config.py (2026-11-17 17:56:56 KST)
+- app/main.py (2026-11-17 17:56:56 KST)
+- app/services/chat_service.py (2026-11-17 17:54:02 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 792
-- Git 상위 계정: skarndaudwls1(380), gosky(37), Jaehe-he(33)
+- Git 커밋 수: 798
+- Git 상위 계정: skarndaudwls1(383), gosky(37), Jaehe-he(33)

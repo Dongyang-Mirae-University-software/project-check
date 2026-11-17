@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-17 17:50:56 KST
+- 점검 시각: 2026-11-17 18:21:01 KST
 
 ## 추정 기술 스택
 
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 2004
+- 총 커밋 수: 2006
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 656
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 282
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 283
   - gosky <gosky@gosky.kr>: 24
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 470f6e45 / namgung <skarndaudwls@gmail.com> / Merge pull request #278 from Dongyang-Mirae-University-software/fix/sos-history-unknown-trigger
+- 최근 커밋: 050d6829 / namgung <skarndaudwls@gmail.com> / Merge pull request #279 from Dongyang-Mirae-University-software/fix/chatbot-119-audit
 
 ## 최근 수정 파일
 
-- src/app/(guardian)/guardian/sos/_components/GuardianSosHistoryContent.browser.test.tsx (2026-11-17 16:57:36 KST)
-- src/app/(guardian)/guardian/sos/_components/GuardianSosHistoryContent.tsx (2026-11-17 16:57:36 KST)
-- src/components/chatbot/chatUrgency.ts (2026-11-17 16:54:46 KST)
-- src/components/emergency/Emergency119Dialpad.browser.test.tsx (2026-11-17 16:54:46 KST)
-- src/components/emergency/Emergency119Dialpad.guard.test.ts (2026-11-17 16:54:46 KST)
-- src/components/emergency/Emergency119Dialpad.module.css (2026-11-17 16:54:46 KST)
-- src/components/emergency/Emergency119Dialpad.tsx (2026-11-17 16:54:46 KST)
-- src/service/api/ward/sos.ts (2026-11-17 16:54:46 KST)
+- src/components/chatbot/ChatbotContent.tsx (2026-11-17 18:11:45 KST)
+- src/components/chatbot/ChatbotReservation.browser.test.tsx (2026-11-17 18:11:45 KST)
+- src/components/chatbot/ChatbotVoiceInput.browser.test.tsx (2026-11-17 18:11:45 KST)
+- src/components/chatbot/chatUrgency.test.ts (2026-11-17 18:11:45 KST)
+- src/components/chatbot/chatUrgency.ts (2026-11-17 18:11:45 KST)
+- src/components/emergency/Emergency119Dialpad.tsx (2026-11-17 18:11:45 KST)
+- src/hooks/useActiveConnections.ts (2026-11-17 18:11:45 KST)
+- src/service/interface/chat.ts (2026-11-17 18:11:45 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 2004
-- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(282)
+- Git 커밋 수: 2006
+- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(283)
