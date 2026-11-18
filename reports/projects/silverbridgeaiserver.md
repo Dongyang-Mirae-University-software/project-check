@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-18 10:24:09 KST
+- 점검 시각: 2026-11-18 10:54:14 KST
 
 ## 추정 기술 스택
 
@@ -46,7 +46,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2726
+- 파일 개수: 2728
 - 디렉토리 개수: 109
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
 - 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/static, app/static/game, app/utils, models, models/companion, models/companion/face-detect, models/companion/face-emotion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b
@@ -67,26 +67,26 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 798
+- 총 커밋 수: 804
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 383
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 386
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 33
   - gosky <gosky@gosky.kr>: 22
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: b9cb172 / namgung <skarndaudwls@gmail.com> / Merge pull request #318 from Dongyang-Mirae-University-software/feature/chat-log-retention
+- 최근 커밋: 59ba97d / namgung <skarndaudwls@gmail.com> / Merge pull request #321 from Dongyang-Mirae-University-software/feature/mood-e1600soup
 
 ## 최근 수정 파일
 
-- data/companion_review.db (2026-11-18 10:23:10 KST)
-- models/companion/llm/lora-mood-e1600soup/README.md (2026-11-18 10:20:35 KST)
-- models/companion/llm/lora-mood-e1600soup/adapter_model.safetensors (2026-11-18 10:20:21 KST)
-- models/companion/llm/lora-mood-e1600soup/adapter_config.json (2026-11-18 10:19:58 KST)
-- data/postgres/pg_wal/000000010000000000000009 (2026-11-17 19:31:18 KST)
-- data/postgres/global/pg_control (2026-11-17 19:31:17 KST)
-- data/postgres/base/16384/33564 (2026-11-17 19:31:17 KST)
-- data/postgres/base/16384/32948 (2026-11-17 19:31:16 KST)
+- data/companion_review.db (2026-11-18 10:27:45 KST)
+- app/core/config.py (2026-11-18 10:24:43 KST)
+- app/prompts/medical_chat_prompts.py (2026-11-18 10:24:43 KST)
+- app/services/medical_llm_service.py (2026-11-18 10:24:43 KST)
+- docs/companion-team-status.md (2026-11-18 10:24:43 KST)
+- docs/eval-results/2026-11-15-chip-knee-history.md (2026-11-18 10:24:43 KST)
+- docs/eval-results/2026-11-18-instruction-leak.md (2026-11-18 10:24:43 KST)
+- tests/test_companion_risk_lora.py (2026-11-18 10:24:43 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 798
-- Git 상위 계정: skarndaudwls1(383), gosky(37), Jaehe-he(33)
+- Git 커밋 수: 804
+- Git 상위 계정: skarndaudwls1(386), gosky(37), Jaehe-he(33)
