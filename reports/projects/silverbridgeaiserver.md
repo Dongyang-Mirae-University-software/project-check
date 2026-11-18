@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-18 09:54:03 KST
+- 점검 시각: 2026-11-18 10:24:09 KST
 
 ## 추정 기술 스택
 
@@ -46,8 +46,8 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2723
-- 디렉토리 개수: 108
+- 파일 개수: 2726
+- 디렉토리 개수: 109
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
 - 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/static, app/static/game, app/utils, models, models/companion, models/companion/face-detect, models/companion/face-emotion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b
 
@@ -79,14 +79,14 @@
 
 ## 최근 수정 파일
 
+- data/companion_review.db (2026-11-18 10:23:10 KST)
+- models/companion/llm/lora-mood-e1600soup/README.md (2026-11-18 10:20:35 KST)
+- models/companion/llm/lora-mood-e1600soup/adapter_model.safetensors (2026-11-18 10:20:21 KST)
+- models/companion/llm/lora-mood-e1600soup/adapter_config.json (2026-11-18 10:19:58 KST)
 - data/postgres/pg_wal/000000010000000000000009 (2026-11-17 19:31:18 KST)
 - data/postgres/global/pg_control (2026-11-17 19:31:17 KST)
 - data/postgres/base/16384/33564 (2026-11-17 19:31:17 KST)
 - data/postgres/base/16384/32948 (2026-11-17 19:31:16 KST)
-- data/postgres/base/16384/32947 (2026-11-17 19:31:16 KST)
-- data/postgres/base/16384/32946 (2026-11-17 19:31:16 KST)
-- data/postgres/base/16384/32945 (2026-11-17 19:31:16 KST)
-- data/postgres/base/16384/32935_vm (2026-11-17 19:31:16 KST)
 
 ## 점검 결과 요약
 

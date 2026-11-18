@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-18T00:54:01.141Z",
-  "generatedAtKst": "2026-11-18 09:54:01 KST",
+  "generatedAt": "2026-11-18T01:24:06.999Z",
+  "generatedAtKst": "2026-11-18 10:24:06 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9158
+          "count": 9159
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 17
         }
       ],
-      "count": 9226
+      "count": 9227
     },
     {
       "name": "skarndaudwls1",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9021,
+        "commitCount": 9022,
         "authors": [
           {
-            "count": 9021,
+            "count": 9022,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "7e8ac1f40",
+          "hash": "021a4ff93",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-18T09:23:59+09:00",
+          "date": "2026-11-18T09:54:05+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9021개 커밋, 상위 계정: gosky(9021), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9022개 커밋, 상위 계정: gosky(9022), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9021",
-        "Git 상위 계정: gosky(9021)"
+        "Git 커밋 수: 9022",
+        "Git 상위 계정: gosky(9022)"
       ]
     },
     {
@@ -2195,8 +2195,8 @@
         }
       ],
       "structure": {
-        "fileCount": 2723,
-        "dirCount": 108,
+        "fileCount": 2726,
+        "dirCount": 109,
         "mainFolders": [
           "app",
           "data",
@@ -2329,6 +2329,22 @@
       },
       "recentFiles": [
         {
+          "path": "data/companion_review.db",
+          "modifiedAt": "2026-11-18T01:23:10.045Z"
+        },
+        {
+          "path": "models/companion/llm/lora-mood-e1600soup/README.md",
+          "modifiedAt": "2026-11-18T01:20:35.823Z"
+        },
+        {
+          "path": "models/companion/llm/lora-mood-e1600soup/adapter_model.safetensors",
+          "modifiedAt": "2026-11-18T01:20:21.775Z"
+        },
+        {
+          "path": "models/companion/llm/lora-mood-e1600soup/adapter_config.json",
+          "modifiedAt": "2026-11-18T01:19:58.547Z"
+        },
+        {
           "path": "data/postgres/pg_wal/000000010000000000000009",
           "modifiedAt": "2026-11-17T10:31:18.142Z"
         },
@@ -2343,22 +2359,6 @@
         {
           "path": "data/postgres/base/16384/32948",
           "modifiedAt": "2026-11-17T10:31:16.938Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32947",
-          "modifiedAt": "2026-11-17T10:31:16.838Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32946",
-          "modifiedAt": "2026-11-17T10:31:16.738Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32945",
-          "modifiedAt": "2026-11-17T10:31:16.638Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32935_vm",
-          "modifiedAt": "2026-11-17T10:31:16.534Z"
         }
       ],
       "summary": [
