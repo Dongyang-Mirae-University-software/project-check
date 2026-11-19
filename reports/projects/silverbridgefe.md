@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-19 09:58:42 KST
+- 점검 시각: 2026-11-19 10:28:48 KST
 
 ## 추정 기술 스택
 
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 2020
+- 총 커밋 수: 2022
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 656
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 292
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 293
   - gosky <gosky@gosky.kr>: 24
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: c0d562ba / namgung <skarndaudwls@gmail.com> / Merge pull request #284 from Dongyang-Mirae-University-software/fix/admin-ui-followup
+- 최근 커밋: 6824769b / namgung <skarndaudwls@gmail.com> / Merge pull request #285 from Dongyang-Mirae-University-software/fix/guardian-camera-hospital-spacing
 
 ## 최근 수정 파일
 
+- src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.module.css (2026-11-19 10:23:49 KST)
+- src/app/(guardian)/guardian/detection/_components/LiveCameraModal.module.css (2026-11-19 10:23:49 KST)
 - src/components/settings/PasswordChangeSection.module.css (2026-11-19 09:53:42 KST)
 - src/components/settings/PasswordChangeSection.tsx (2026-11-19 09:53:42 KST)
 - src/utils/admin/hospitalRegion.test.ts (2026-11-19 09:53:42 KST)
 - src/utils/admin/hospitalRegion.ts (2026-11-19 09:53:42 KST)
 - src/app/(admin)/admin/_components/AdminAnnouncementContent.tsx (2026-11-19 09:53:42 KST)
 - src/app/(admin)/admin/_components/AdminDevicesContent.tsx (2026-11-19 09:53:42 KST)
-- src/app/(admin)/admin/_components/AdminHospitalsContent.module.css (2026-11-19 09:53:42 KST)
-- src/app/(admin)/admin/_components/AdminHospitalsContent.tsx (2026-11-19 09:53:42 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 2020
-- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(292)
+- Git 커밋 수: 2022
+- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(293)

@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-19T00:58:39.681Z",
-  "generatedAtKst": "2026-11-19 09:58:39 KST",
+  "generatedAt": "2026-11-19T01:28:45.539Z",
+  "generatedAtKst": "2026-11-19 10:28:45 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9206
+          "count": 9207
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 17
         }
       ],
-      "count": 9274
+      "count": 9275
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2265
+          "count": 2266
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2354
+      "count": 2355
     },
     {
       "name": "YUNA0222",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9069,
+        "commitCount": 9070,
         "authors": [
           {
-            "count": 9069,
+            "count": 9070,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "764629378",
+          "hash": "c0048c0b4",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-19T09:28:37+09:00",
+          "date": "2026-11-19T09:58:43+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9069개 커밋, 상위 계정: gosky(9069), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9070개 커밋, 상위 계정: gosky(9070), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9069",
-        "Git 상위 계정: gosky(9069)"
+        "Git 커밋 수: 9070",
+        "Git 상위 계정: gosky(9070)"
       ]
     },
     {
@@ -2329,6 +2329,10 @@
       },
       "recentFiles": [
         {
+          "path": "data/postgres/pg_wal/000000010000000000000009",
+          "modifiedAt": "2026-11-19T01:28:00.646Z"
+        },
+        {
           "path": "data/companion_review.db",
           "modifiedAt": "2026-11-18T14:32:33.583Z"
         },
@@ -2354,10 +2358,6 @@
         },
         {
           "path": "docs/eval-results/2026-11-18-instruction-leak.md",
-          "modifiedAt": "2026-11-18T01:24:43.407Z"
-        },
-        {
-          "path": "tests/test_companion_risk_lora.py",
           "modifiedAt": "2026-11-18T01:24:43.407Z"
         }
       ],
@@ -2806,7 +2806,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 2020,
+        "commitCount": 2022,
         "authors": [
           {
             "count": 1400,
@@ -2819,7 +2819,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 292,
+            "count": 293,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2840,15 +2840,23 @@
           }
         ],
         "latestCommit": {
-          "hash": "c0d562ba",
+          "hash": "6824769b",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-19T09:53:34+09:00",
-          "subject": "Merge pull request #284 from Dongyang-Mirae-University-software/fix/admin-ui-followup"
+          "date": "2026-11-19T10:23:31+09:00",
+          "subject": "Merge pull request #285 from Dongyang-Mirae-University-software/fix/guardian-camera-hospital-spacing"
         },
-        "summary": "총 2020개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(292), 최근: Merge pull request #284 from Dongyang-Mirae-University-software/fix/admin-ui-followup"
+        "summary": "총 2022개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(293), 최근: Merge pull request #285 from Dongyang-Mirae-University-software/fix/guardian-camera-hospital-spacing"
       },
       "recentFiles": [
+        {
+          "path": "src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.module.css",
+          "modifiedAt": "2026-11-19T01:23:49.246Z"
+        },
+        {
+          "path": "src/app/(guardian)/guardian/detection/_components/LiveCameraModal.module.css",
+          "modifiedAt": "2026-11-19T01:23:49.242Z"
+        },
         {
           "path": "src/components/settings/PasswordChangeSection.module.css",
           "modifiedAt": "2026-11-19T00:53:42.876Z"
@@ -2872,14 +2880,6 @@
         {
           "path": "src/app/(admin)/admin/_components/AdminDevicesContent.tsx",
           "modifiedAt": "2026-11-19T00:53:42.872Z"
-        },
-        {
-          "path": "src/app/(admin)/admin/_components/AdminHospitalsContent.module.css",
-          "modifiedAt": "2026-11-19T00:53:42.872Z"
-        },
-        {
-          "path": "src/app/(admin)/admin/_components/AdminHospitalsContent.tsx",
-          "modifiedAt": "2026-11-19T00:53:42.872Z"
         }
       ],
       "summary": [
@@ -2887,8 +2887,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 2020",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(292)"
+        "Git 커밋 수: 2022",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(293)"
       ]
     },
     {
