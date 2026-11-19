@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-19T08:30:06.524Z",
-  "generatedAtKst": "2026-11-19 17:30:06 KST",
+  "generatedAt": "2026-11-19T09:00:12.269Z",
+  "generatedAtKst": "2026-11-19 18:00:12 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9221
+          "count": 9222
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 17
         }
       ],
-      "count": 9289
+      "count": 9290
     },
     {
       "name": "skarndaudwls1",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9084,
+        "commitCount": 9085,
         "authors": [
           {
-            "count": 9084,
+            "count": 9085,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "5d554714f",
+          "hash": "72f713a5e",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-19T17:00:04+09:00",
+          "date": "2026-11-19T17:30:10+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9084개 커밋, 상위 계정: gosky(9084), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9085개 커밋, 상위 계정: gosky(9085), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9084",
-        "Git 상위 계정: gosky(9084)"
+        "Git 커밋 수: 9085",
+        "Git 상위 계정: gosky(9085)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 31 hours",
+            "status": "Up 32 hours",
             "ports": ""
           }
         ],
@@ -2252,7 +2252,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 31 hours",
+            "status": "Up 32 hours",
             "ports": ""
           }
         ],
@@ -2330,35 +2330,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000009",
-          "modifiedAt": "2026-11-19T08:28:05.217Z"
+          "modifiedAt": "2026-11-19T08:42:12.518Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-11-19T08:27:10.802Z"
+          "modifiedAt": "2026-11-19T08:42:11.718Z"
         },
         {
           "path": "data/postgres/base/16384/33564",
-          "modifiedAt": "2026-11-19T08:27:10.702Z"
+          "modifiedAt": "2026-11-19T08:42:11.618Z"
+        },
+        {
+          "path": "data/postgres/base/16384/33193",
+          "modifiedAt": "2026-11-19T08:42:11.518Z"
+        },
+        {
+          "path": "data/postgres/base/16384/33191",
+          "modifiedAt": "2026-11-19T08:42:11.418Z"
+        },
+        {
+          "path": "data/postgres/base/16384/33188",
+          "modifiedAt": "2026-11-19T08:42:11.318Z"
         },
         {
           "path": "data/postgres/base/16384/32948",
-          "modifiedAt": "2026-11-19T08:27:10.602Z"
+          "modifiedAt": "2026-11-19T08:42:11.218Z"
         },
         {
           "path": "data/postgres/base/16384/32947",
-          "modifiedAt": "2026-11-19T08:27:10.502Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32946",
-          "modifiedAt": "2026-11-19T08:27:10.198Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32945",
-          "modifiedAt": "2026-11-19T08:27:10.098Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32935_vm",
-          "modifiedAt": "2026-11-19T08:27:09.998Z"
+          "modifiedAt": "2026-11-19T08:42:11.118Z"
         }
       ],
       "summary": [
