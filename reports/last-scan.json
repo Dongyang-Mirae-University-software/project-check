@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-19T00:28:33.935Z",
-  "generatedAtKst": "2026-11-19 09:28:33 KST",
+  "generatedAt": "2026-11-19T00:58:39.681Z",
+  "generatedAtKst": "2026-11-19 09:58:39 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9205
+          "count": 9206
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 17
         }
       ],
-      "count": 9273
+      "count": 9274
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2258
+          "count": 2265
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2347
+      "count": 2354
     },
     {
       "name": "YUNA0222",
@@ -791,13 +791,13 @@
           {
             "name": "chatsilverbridge-api-1",
             "image": "chatsilverbridge-api:latest",
-            "status": "Up 3 weeks",
+            "status": "Up 4 weeks",
             "ports": "127.0.0.1:6012->6012/tcp"
           },
           {
             "name": "chatsilverbridge-mysql-1",
             "image": "mysql:8.0",
-            "status": "Up 3 weeks (healthy)",
+            "status": "Up 4 weeks (healthy)",
             "ports": "33060/tcp, 127.0.0.1:3307->3306/tcp"
           },
           {
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9068,
+        "commitCount": 9069,
         "authors": [
           {
-            "count": 9068,
+            "count": 9069,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "23c1fd574",
+          "hash": "764629378",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-19T08:58:32+09:00",
+          "date": "2026-11-19T09:28:37+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9068개 커밋, 상위 계정: gosky(9068), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9069개 커밋, 상위 계정: gosky(9069), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9068",
-        "Git 상위 계정: gosky(9068)"
+        "Git 커밋 수: 9069",
+        "Git 상위 계정: gosky(9069)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 23 hours",
+            "status": "Up 24 hours",
             "ports": ""
           }
         ],
@@ -2252,7 +2252,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 23 hours",
+            "status": "Up 24 hours",
             "ports": ""
           }
         ],
@@ -2728,7 +2728,7 @@
         }
       ],
       "structure": {
-        "fileCount": 840,
+        "fileCount": 845,
         "dirCount": 160,
         "mainFolders": [
           "docs",
@@ -2806,7 +2806,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 2010,
+        "commitCount": 2020,
         "authors": [
           {
             "count": 1400,
@@ -2819,7 +2819,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 285,
+            "count": 292,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2840,46 +2840,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "0661a74d",
+          "hash": "c0d562ba",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-18T10:27:11+09:00",
-          "subject": "Merge pull request #281 from Dongyang-Mirae-University-software/chore/next-16.4.6-security"
+          "date": "2026-11-19T09:53:34+09:00",
+          "subject": "Merge pull request #284 from Dongyang-Mirae-University-software/fix/admin-ui-followup"
         },
-        "summary": "총 2010개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(285), 최근: Merge pull request #281 from Dongyang-Mirae-University-software/chore/next-16.4.6-security"
+        "summary": "총 2020개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(292), 최근: Merge pull request #284 from Dongyang-Mirae-University-software/fix/admin-ui-followup"
       },
       "recentFiles": [
         {
-          "path": "package-lock.json",
-          "modifiedAt": "2026-11-18T01:27:36.397Z"
+          "path": "src/components/settings/PasswordChangeSection.module.css",
+          "modifiedAt": "2026-11-19T00:53:42.876Z"
         },
         {
-          "path": "package.json",
-          "modifiedAt": "2026-11-18T01:27:36.397Z"
+          "path": "src/components/settings/PasswordChangeSection.tsx",
+          "modifiedAt": "2026-11-19T00:53:42.876Z"
         },
         {
-          "path": "src/components/chatbot/ChatHistoryDialog.browser.test.tsx",
-          "modifiedAt": "2026-11-18T00:10:35.731Z"
+          "path": "src/utils/admin/hospitalRegion.test.ts",
+          "modifiedAt": "2026-11-19T00:53:42.876Z"
         },
         {
-          "path": "src/components/chatbot/ChatHistoryDialog.tsx",
-          "modifiedAt": "2026-11-18T00:10:35.731Z"
+          "path": "src/utils/admin/hospitalRegion.ts",
+          "modifiedAt": "2026-11-19T00:53:42.876Z"
         },
         {
-          "path": "src/components/chatbot/ChatbotContent.tsx",
-          "modifiedAt": "2026-11-17T09:11:45.391Z"
+          "path": "src/app/(admin)/admin/_components/AdminAnnouncementContent.tsx",
+          "modifiedAt": "2026-11-19T00:53:42.872Z"
         },
         {
-          "path": "src/components/chatbot/ChatbotReservation.browser.test.tsx",
-          "modifiedAt": "2026-11-17T09:11:45.391Z"
+          "path": "src/app/(admin)/admin/_components/AdminDevicesContent.tsx",
+          "modifiedAt": "2026-11-19T00:53:42.872Z"
         },
         {
-          "path": "src/components/chatbot/ChatbotVoiceInput.browser.test.tsx",
-          "modifiedAt": "2026-11-17T09:11:45.391Z"
+          "path": "src/app/(admin)/admin/_components/AdminHospitalsContent.module.css",
+          "modifiedAt": "2026-11-19T00:53:42.872Z"
         },
         {
-          "path": "src/components/chatbot/chatUrgency.test.ts",
-          "modifiedAt": "2026-11-17T09:11:45.391Z"
+          "path": "src/app/(admin)/admin/_components/AdminHospitalsContent.tsx",
+          "modifiedAt": "2026-11-19T00:53:42.872Z"
         }
       ],
       "summary": [
@@ -2887,8 +2887,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 2010",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(285)"
+        "Git 커밋 수: 2020",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(292)"
       ]
     },
     {
