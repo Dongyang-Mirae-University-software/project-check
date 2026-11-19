@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-19T01:28:45.539Z",
-  "generatedAtKst": "2026-11-19 10:28:45 KST",
+  "generatedAt": "2026-11-19T01:58:51.634Z",
+  "generatedAtKst": "2026-11-19 10:58:51 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9207
+          "count": 9208
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 17
         }
       ],
-      "count": 9275
+      "count": 9276
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2266
+          "count": 2269
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2355
+      "count": 2358
     },
     {
       "name": "YUNA0222",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9070,
+        "commitCount": 9071,
         "authors": [
           {
-            "count": 9070,
+            "count": 9071,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "c0048c0b4",
+          "hash": "c72314fdd",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-19T09:58:43+09:00",
+          "date": "2026-11-19T10:28:49+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9070개 커밋, 상위 계정: gosky(9070), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9071개 커밋, 상위 계정: gosky(9071), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9070",
-        "Git 상위 계정: gosky(9070)"
+        "Git 커밋 수: 9071",
+        "Git 상위 계정: gosky(9071)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 24 hours",
+            "status": "Up 25 hours",
             "ports": ""
           }
         ],
@@ -2252,7 +2252,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 24 hours",
+            "status": "Up 25 hours",
             "ports": ""
           }
         ],
@@ -2330,35 +2330,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000009",
-          "modifiedAt": "2026-11-19T01:28:00.646Z"
+          "modifiedAt": "2026-11-19T01:32:05.823Z"
         },
         {
-          "path": "data/companion_review.db",
-          "modifiedAt": "2026-11-18T14:32:33.583Z"
+          "path": "data/postgres/global/pg_control",
+          "modifiedAt": "2026-11-19T01:32:03.823Z"
         },
         {
-          "path": "app/core/config.py",
-          "modifiedAt": "2026-11-18T01:24:43.407Z"
+          "path": "data/postgres/base/16384/33564",
+          "modifiedAt": "2026-11-19T01:32:03.719Z"
         },
         {
-          "path": "app/prompts/medical_chat_prompts.py",
-          "modifiedAt": "2026-11-18T01:24:43.407Z"
+          "path": "data/postgres/base/16384/32948",
+          "modifiedAt": "2026-11-19T01:32:03.619Z"
         },
         {
-          "path": "app/services/medical_llm_service.py",
-          "modifiedAt": "2026-11-18T01:24:43.407Z"
+          "path": "data/postgres/base/16384/32947",
+          "modifiedAt": "2026-11-19T01:32:03.519Z"
         },
         {
-          "path": "docs/companion-team-status.md",
-          "modifiedAt": "2026-11-18T01:24:43.407Z"
+          "path": "data/postgres/base/16384/32946",
+          "modifiedAt": "2026-11-19T01:32:03.419Z"
         },
         {
-          "path": "docs/eval-results/2026-11-15-chip-knee-history.md",
-          "modifiedAt": "2026-11-18T01:24:43.407Z"
+          "path": "data/postgres/base/16384/32945",
+          "modifiedAt": "2026-11-19T01:32:03.319Z"
         },
         {
-          "path": "docs/eval-results/2026-11-18-instruction-leak.md",
-          "modifiedAt": "2026-11-18T01:24:43.407Z"
+          "path": "data/postgres/base/16384/32939",
+          "modifiedAt": "2026-11-19T01:32:03.119Z"
         }
       ],
       "summary": [
@@ -2806,7 +2806,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 2022,
+        "commitCount": 2027,
         "authors": [
           {
             "count": 1400,
@@ -2819,7 +2819,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 293,
+            "count": 296,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2840,46 +2840,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "6824769b",
+          "hash": "0fc08630",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-19T10:23:31+09:00",
-          "subject": "Merge pull request #285 from Dongyang-Mirae-University-software/fix/guardian-camera-hospital-spacing"
+          "date": "2026-11-19T10:44:52+09:00",
+          "subject": "Merge pull request #287 from Dongyang-Mirae-University-software/feature/sos-no-confirm-iphone-dialpad"
         },
-        "summary": "총 2022개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(293), 최근: Merge pull request #285 from Dongyang-Mirae-University-software/fix/guardian-camera-hospital-spacing"
+        "summary": "총 2027개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(296), 최근: Merge pull request #287 from Dongyang-Mirae-University-software/feature/sos-no-confirm-iphone-dialpad"
       },
       "recentFiles": [
+        {
+          "path": "src/app/(ward)/ward/sos/_components/WardSosContent.browser.test.tsx",
+          "modifiedAt": "2026-11-19T01:45:09.170Z"
+        },
+        {
+          "path": "src/app/(ward)/ward/sos/_components/WardSosContent.tsx",
+          "modifiedAt": "2026-11-19T01:45:09.170Z"
+        },
+        {
+          "path": "src/components/emergency/Emergency119Dialpad.browser.test.tsx",
+          "modifiedAt": "2026-11-19T01:45:09.170Z"
+        },
+        {
+          "path": "src/components/emergency/Emergency119Dialpad.module.css",
+          "modifiedAt": "2026-11-19T01:45:09.170Z"
+        },
+        {
+          "path": "src/components/emergency/Emergency119Dialpad.tsx",
+          "modifiedAt": "2026-11-19T01:45:09.170Z"
+        },
+        {
+          "path": "src/app/(guardian)/guardian/detection/_components/LiveCameraModal.module.css",
+          "modifiedAt": "2026-11-19T01:37:24.210Z"
+        },
         {
           "path": "src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.module.css",
           "modifiedAt": "2026-11-19T01:23:49.246Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/detection/_components/LiveCameraModal.module.css",
-          "modifiedAt": "2026-11-19T01:23:49.242Z"
-        },
-        {
           "path": "src/components/settings/PasswordChangeSection.module.css",
           "modifiedAt": "2026-11-19T00:53:42.876Z"
-        },
-        {
-          "path": "src/components/settings/PasswordChangeSection.tsx",
-          "modifiedAt": "2026-11-19T00:53:42.876Z"
-        },
-        {
-          "path": "src/utils/admin/hospitalRegion.test.ts",
-          "modifiedAt": "2026-11-19T00:53:42.876Z"
-        },
-        {
-          "path": "src/utils/admin/hospitalRegion.ts",
-          "modifiedAt": "2026-11-19T00:53:42.876Z"
-        },
-        {
-          "path": "src/app/(admin)/admin/_components/AdminAnnouncementContent.tsx",
-          "modifiedAt": "2026-11-19T00:53:42.872Z"
-        },
-        {
-          "path": "src/app/(admin)/admin/_components/AdminDevicesContent.tsx",
-          "modifiedAt": "2026-11-19T00:53:42.872Z"
         }
       ],
       "summary": [
@@ -2887,8 +2887,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 2022",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(293)"
+        "Git 커밋 수: 2027",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(296)"
       ]
     },
     {
