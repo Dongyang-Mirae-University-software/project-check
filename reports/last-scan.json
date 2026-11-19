@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-19T02:28:57.438Z",
-  "generatedAtKst": "2026-11-19 11:28:57 KST",
+  "generatedAt": "2026-11-19T02:59:03.236Z",
+  "generatedAtKst": "2026-11-19 11:59:03 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9209
+          "count": 9210
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 17
         }
       ],
-      "count": 9277
+      "count": 9278
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2272
+          "count": 2275
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2361
+      "count": 2364
     },
     {
       "name": "YUNA0222",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9072,
+        "commitCount": 9073,
         "authors": [
           {
-            "count": 9072,
+            "count": 9073,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "1a7fb5f29",
+          "hash": "2f931c2c2",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-19T10:58:55+09:00",
+          "date": "2026-11-19T11:29:01+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9072개 커밋, 상위 계정: gosky(9072), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9073개 커밋, 상위 계정: gosky(9073), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9072",
-        "Git 상위 계정: gosky(9072)"
+        "Git 커밋 수: 9073",
+        "Git 상위 계정: gosky(9073)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 25 hours",
+            "status": "Up 26 hours",
             "ports": ""
           }
         ],
@@ -2252,7 +2252,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 25 hours",
+            "status": "Up 26 hours",
             "ports": ""
           }
         ],
@@ -2728,7 +2728,7 @@
         }
       ],
       "structure": {
-        "fileCount": 847,
+        "fileCount": 848,
         "dirCount": 160,
         "mainFolders": [
           "docs",
@@ -2806,7 +2806,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 2031,
+        "commitCount": 2035,
         "authors": [
           {
             "count": 1400,
@@ -2819,7 +2819,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 299,
+            "count": 302,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2840,46 +2840,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "4a8c6616",
-          "author": "namgung",
+          "hash": "932fc9c1",
+          "author": "skarndaudwls1",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-19T11:26:05+09:00",
-          "subject": "Merge pull request #288 from Dongyang-Mirae-University-software/fix/sos-guardian-error-ward-modal-text"
+          "date": "2026-11-19T11:34:48+09:00",
+          "subject": "docs: SOS·119 키패드 점검 조치 결과 기록 - H-1·M-1·L-1(#288), lint 0(#289), Next 업그레이드 대상 없음"
         },
-        "summary": "총 2031개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(299), 최근: Merge pull request #288 from Dongyang-Mirae-University-software/fix/sos-guardian-error-ward-modal-text"
+        "summary": "총 2035개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(302), 최근: docs: SOS·119 키패드 점검 조치 결과 기록 - H-1·M-1·L-1(#288), lint 0(#289), Next 업그레이드 대상 없음"
       },
       "recentFiles": [
         {
-          "path": "src/app/(ward)/ward/sos/_components/WardSosContent.browser.test.tsx",
-          "modifiedAt": "2026-11-19T02:26:15.576Z"
-        },
-        {
-          "path": "src/app/(ward)/ward/sos/_components/WardSosContent.tsx",
-          "modifiedAt": "2026-11-19T02:26:15.576Z"
-        },
-        {
           "path": "docs/(2026-11-19) audit-sos-119-dialpad-iphone.md",
-          "modifiedAt": "2026-11-19T02:26:15.572Z"
+          "modifiedAt": "2026-11-19T02:34:53.040Z"
         },
         {
-          "path": "src/app/(ward)/ward/_components/WardLayout.rootText.browser.test.tsx",
-          "modifiedAt": "2026-11-19T02:26:15.572Z"
+          "path": "src/app/(guardian)/guardian/detection/_components/AnomalyClipModal.tsx",
+          "modifiedAt": "2026-11-19T02:33:44.717Z"
         },
         {
-          "path": "src/app/(ward)/ward/_components/WardLayout.tsx",
-          "modifiedAt": "2026-11-19T02:26:15.572Z"
+          "path": "src/app/(ward)/ward/camera/_components/CameraRegisterModal.tsx",
+          "modifiedAt": "2026-11-19T02:33:44.717Z"
         },
         {
-          "path": "src/components/emergency/Emergency119Dialpad.browser.test.tsx",
-          "modifiedAt": "2026-11-19T01:45:09.170Z"
+          "path": "src/app/(ward)/ward/camera/_components/useAwaitingRunning.browser.test.tsx",
+          "modifiedAt": "2026-11-19T02:33:44.717Z"
         },
         {
-          "path": "src/components/emergency/Emergency119Dialpad.module.css",
-          "modifiedAt": "2026-11-19T01:45:09.170Z"
+          "path": "src/app/(ward)/ward/camera/_components/WardCameraStreamProvider.tsx",
+          "modifiedAt": "2026-11-19T02:33:44.717Z"
         },
         {
-          "path": "src/components/emergency/Emergency119Dialpad.tsx",
-          "modifiedAt": "2026-11-19T01:45:09.170Z"
+          "path": "src/components/PushNotificationListener.tsx",
+          "modifiedAt": "2026-11-19T02:33:44.717Z"
+        },
+        {
+          "path": "src/hooks/useSignupForm.tsx",
+          "modifiedAt": "2026-11-19T02:33:44.717Z"
+        },
+        {
+          "path": "src/service/api/auth/auth.ts",
+          "modifiedAt": "2026-11-19T02:33:44.717Z"
         }
       ],
       "summary": [
@@ -2887,8 +2887,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 2031",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(299)"
+        "Git 커밋 수: 2035",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(302)"
       ]
     },
     {
