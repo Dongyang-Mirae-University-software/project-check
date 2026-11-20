@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-20T06:34:24.774Z",
-  "generatedAtKst": "2026-11-20 15:34:24 KST",
+  "generatedAt": "2026-11-20T07:04:30.520Z",
+  "generatedAtKst": "2026-11-20 16:04:30 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9265
+          "count": 9266
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 17
         }
       ],
-      "count": 9333
+      "count": 9334
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2314
+          "count": 2319
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2403
+      "count": 2408
     },
     {
       "name": "YUNA0222",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9128,
+        "commitCount": 9129,
         "authors": [
           {
-            "count": 9128,
+            "count": 9129,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "3c54fbd2b",
+          "hash": "31ae49526",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-20T15:04:22+09:00",
+          "date": "2026-11-20T15:34:28+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9128개 커밋, 상위 계정: gosky(9128), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9129개 커밋, 상위 계정: gosky(9129), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9128",
-        "Git 상위 계정: gosky(9128)"
+        "Git 커밋 수: 9129",
+        "Git 상위 계정: gosky(9129)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 6 hours",
+            "status": "Up 7 hours",
             "ports": ""
           }
         ],
@@ -2195,8 +2195,8 @@
         }
       ],
       "structure": {
-        "fileCount": 2305,
-        "dirCount": 103,
+        "fileCount": 2324,
+        "dirCount": 104,
         "mainFolders": [
           "app",
           "data",
@@ -2239,7 +2239,7 @@
         "evidence": [
           "docker-compose.yml 확인",
           "requirements.txt 확인",
-          ".env 키 248개 확인",
+          ".env 키 251개 확인",
           "추정 DB: PostgreSQL, SQLite"
         ],
         "summary": "PostgreSQL, SQLite 사용 추정"
@@ -2252,7 +2252,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 6 hours",
+            "status": "Up 7 hours",
             "ports": ""
           }
         ],
@@ -2287,10 +2287,10 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 812,
+        "commitCount": 822,
         "authors": [
           {
-            "count": 390,
+            "count": 393,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2321,46 +2321,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "c7ed921",
+          "hash": "eda3052",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-20T15:13:28+09:00",
-          "subject": "Merge pull request #325 from Dongyang-Mirae-University-software/feature/eval-v8-seed-score"
+          "date": "2026-11-20T15:43:01+09:00",
+          "subject": "Merge pull request #326 from Dongyang-Mirae-University-software/feat/companion-quality-merge"
         },
-        "summary": "총 812개 커밋, 상위 계정: skarndaudwls1(390), gosky(37), Jaehe-he(34), 최근: Merge pull request #325 from Dongyang-Mirae-University-software/feature/eval-v8-seed-score"
+        "summary": "총 822개 커밋, 상위 계정: skarndaudwls1(393), gosky(37), Jaehe-he(34), 최근: Merge pull request #326 from Dongyang-Mirae-University-software/feat/companion-quality-merge"
       },
       "recentFiles": [
         {
-          "path": "docs/eval/2026-11-20-eval-set-v8-basis.md",
-          "modifiedAt": "2026-11-20T06:13:35.063Z"
-        },
-        {
-          "path": "tests/test_eval_v8_tools.py",
-          "modifiedAt": "2026-11-20T06:13:35.063Z"
-        },
-        {
-          "path": "tools/eval/v8/report.py",
-          "modifiedAt": "2026-11-20T06:13:35.063Z"
-        },
-        {
-          "path": "tools/eval/v8/rule_grader.py",
-          "modifiedAt": "2026-11-20T06:13:35.063Z"
-        },
-        {
           "path": "data/postgres/pg_wal/000000010000000000000009",
-          "modifiedAt": "2026-11-20T06:02:44.662Z"
+          "modifiedAt": "2026-11-20T06:52:45.876Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-11-20T06:02:37.258Z"
+          "modifiedAt": "2026-11-20T06:52:39.068Z"
         },
         {
           "path": "data/postgres/base/16384/33564",
-          "modifiedAt": "2026-11-20T06:02:37.154Z"
+          "modifiedAt": "2026-11-20T06:52:38.968Z"
         },
         {
           "path": "data/postgres/base/16384/32948",
-          "modifiedAt": "2026-11-20T06:02:37.054Z"
+          "modifiedAt": "2026-11-20T06:52:38.868Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32947",
+          "modifiedAt": "2026-11-20T06:52:38.768Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32946",
+          "modifiedAt": "2026-11-20T06:52:38.364Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32945",
+          "modifiedAt": "2026-11-20T06:52:38.264Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32935_vm",
+          "modifiedAt": "2026-11-20T06:52:38.164Z"
         }
       ],
       "summary": [
@@ -2368,8 +2368,8 @@
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI",
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 812",
-        "Git 상위 계정: skarndaudwls1(390), gosky(37), Jaehe-he(34)"
+        "Git 커밋 수: 822",
+        "Git 상위 계정: skarndaudwls1(393), gosky(37), Jaehe-he(34)"
       ]
     },
     {
@@ -2808,7 +2808,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 2065,
+        "commitCount": 2069,
         "authors": [
           {
             "count": 1400,
@@ -2821,7 +2821,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 317,
+            "count": 319,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2842,30 +2842,34 @@
           }
         ],
         "latestCommit": {
-          "hash": "1b9ebe44",
+          "hash": "68c3d2b3",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-20T15:08:54+09:00",
-          "subject": "Merge pull request #304 from Dongyang-Mirae-University-software/fix/visit-day-card-line-break"
+          "date": "2026-11-20T15:59:42+09:00",
+          "subject": "Merge pull request #306 from Dongyang-Mirae-University-software/fix/hospital-cancel-focus-success-only"
         },
-        "summary": "총 2065개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(317), 최근: Merge pull request #304 from Dongyang-Mirae-University-software/fix/visit-day-card-line-break"
+        "summary": "총 2069개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(319), 최근: Merge pull request #306 from Dongyang-Mirae-University-software/fix/hospital-cancel-focus-success-only"
       },
       "recentFiles": [
         {
-          "path": "src/utils/reservation/reservationView.ts",
-          "modifiedAt": "2026-11-20T06:09:05.041Z"
-        },
-        {
           "path": "src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.browser.test.tsx",
-          "modifiedAt": "2026-11-20T06:09:05.037Z"
+          "modifiedAt": "2026-11-20T06:59:50.082Z"
         },
         {
           "path": "src/app/(guardian)/guardian/hospital/_components/HospitalListStep.tsx",
-          "modifiedAt": "2026-11-20T06:09:05.037Z"
+          "modifiedAt": "2026-11-20T06:59:50.082Z"
+        },
+        {
+          "path": "src/app/(admin)/admin/_components/AdminAiStatsContent.browser.test.tsx",
+          "modifiedAt": "2026-11-20T06:44:12.806Z"
         },
         {
           "path": "src/app/(ward)/ward/hospital/_components/WardHospitalContent.browser.test.tsx",
-          "modifiedAt": "2026-11-20T06:09:05.037Z"
+          "modifiedAt": "2026-11-20T06:44:12.806Z"
+        },
+        {
+          "path": "src/utils/reservation/reservationView.ts",
+          "modifiedAt": "2026-11-20T06:09:05.041Z"
         },
         {
           "path": "src/app/(ward)/ward/hospital/_components/WardHospitalContent.tsx",
@@ -2878,10 +2882,6 @@
         {
           "path": "src/components/reservation/VisitDayCard.tsx",
           "modifiedAt": "2026-11-20T06:09:05.037Z"
-        },
-        {
-          "path": "src/utils/reservation/reservationView.test.ts",
-          "modifiedAt": "2026-11-20T06:09:05.037Z"
         }
       ],
       "summary": [
@@ -2889,8 +2889,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 2065",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(317)"
+        "Git 커밋 수: 2069",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(319)"
       ]
     },
     {
