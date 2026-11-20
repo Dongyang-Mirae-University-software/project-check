@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-20T01:33:27.280Z",
-  "generatedAtKst": "2026-11-20 10:33:27 KST",
+  "generatedAt": "2026-11-20T02:03:32.855Z",
+  "generatedAtKst": "2026-11-20 11:03:32 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9255
+          "count": 9256
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 17
         }
       ],
-      "count": 9323
+      "count": 9324
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2296
+          "count": 2302
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2385
+      "count": 2391
     },
     {
       "name": "YUNA0222",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9118,
+        "commitCount": 9119,
         "authors": [
           {
-            "count": 9118,
+            "count": 9119,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "d2fc89e21",
+          "hash": "5377e043d",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-20T10:03:24+09:00",
+          "date": "2026-11-20T10:33:31+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9118개 커밋, 상위 계정: gosky(9118), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9119개 커밋, 상위 계정: gosky(9119), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9118",
-        "Git 상위 계정: gosky(9118)"
+        "Git 커밋 수: 9119",
+        "Git 상위 계정: gosky(9119)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 59 minutes",
+            "status": "Up About an hour",
             "ports": ""
           }
         ],
@@ -2252,7 +2252,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 59 minutes",
+            "status": "Up About an hour",
             "ports": ""
           }
         ],
@@ -2463,7 +2463,7 @@
         }
       ],
       "structure": {
-        "fileCount": 368,
+        "fileCount": 370,
         "dirCount": 35,
         "mainFolders": [
           "db",
@@ -2559,10 +2559,10 @@
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 1810,
+        "commitCount": 1817,
         "authors": [
           {
-            "count": 1461,
+            "count": 1467,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2583,46 +2583,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "0761cb37",
+          "hash": "298141bc",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-20T09:44:31+09:00",
-          "subject": "Merge pull request #504 from Dongyang-Mirae-University-software/fix/medication-display-name-audit"
+          "date": "2026-11-20T10:33:59+09:00",
+          "subject": "Merge pull request #505 from Dongyang-Mirae-University-software/feature/medication-display-dose-collision"
         },
-        "summary": "총 1810개 커밋, 상위 계정: skarndaudwls1(1461), skarndaudwls1(65), gosky(4), 최근: Merge pull request #504 from Dongyang-Mirae-University-software/fix/medication-display-name-audit"
+        "summary": "총 1817개 커밋, 상위 계정: skarndaudwls1(1467), skarndaudwls1(65), gosky(4), 최근: Merge pull request #505 from Dongyang-Mirae-University-software/feature/medication-display-dose-collision"
       },
       "recentFiles": [
         {
-          "path": "docs/audit-index.md",
-          "modifiedAt": "2026-11-20T00:48:44.126Z"
+          "path": "docs/progress.md",
+          "modifiedAt": "2026-11-20T01:38:15.433Z"
         },
         {
-          "path": "docs/progress.md",
-          "modifiedAt": "2026-11-20T00:48:44.126Z"
+          "path": "docs/(2026-11-16) audit-fe-ward-screens-1111.md",
+          "modifiedAt": "2026-11-20T01:38:15.429Z"
+        },
+        {
+          "path": "docs/(2026-11-19) audit-guardian-game-relay.md",
+          "modifiedAt": "2026-11-20T01:38:15.429Z"
+        },
+        {
+          "path": "docs/(2026-11-19) feature-medication-display-name.md",
+          "modifiedAt": "2026-11-20T01:38:15.429Z"
         },
         {
           "path": "docs/(2026-11-20) audit-fe-293-guardian-game-relay.md",
-          "modifiedAt": "2026-11-20T00:48:44.122Z"
+          "modifiedAt": "2026-11-20T01:38:15.429Z"
         },
         {
-          "path": "docs/(2026-11-20) audit-medication-display-name.md",
-          "modifiedAt": "2026-11-20T00:48:44.122Z"
+          "path": "docs/(2026-11-20) audit-fe-294-medication-display-name.md",
+          "modifiedAt": "2026-11-20T01:38:15.429Z"
         },
         {
-          "path": "src/main/resources/application.yaml",
-          "modifiedAt": "2026-11-20T00:25:15.174Z"
+          "path": "docs/(2026-11-20) feature-medication-display-name-dose-collision.md",
+          "modifiedAt": "2026-11-20T01:38:15.429Z"
         },
         {
-          "path": "CLAUDE.md",
-          "modifiedAt": "2026-11-20T00:25:15.170Z"
-        },
-        {
-          "path": "docs/(2026-11-17) audit-fe-277-chatbot-119-keypad.md",
-          "modifiedAt": "2026-11-20T00:25:15.170Z"
-        },
-        {
-          "path": "docs/(2026-11-17) feature-chatbot-119-sos.md",
-          "modifiedAt": "2026-11-20T00:25:15.170Z"
+          "path": "docs/audit-index.md",
+          "modifiedAt": "2026-11-20T01:38:15.429Z"
         }
       ],
       "summary": [
@@ -2630,8 +2630,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1810",
-        "Git 상위 계정: skarndaudwls1(1461), skarndaudwls1(65), gosky(4)"
+        "Git 커밋 수: 1817",
+        "Git 상위 계정: skarndaudwls1(1467), skarndaudwls1(65), gosky(4)"
       ]
     },
     {
