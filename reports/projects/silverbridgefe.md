@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-20 17:04:45 KST
+- 점검 시각: 2026-11-20 17:34:50 KST
 
 ## 추정 기술 스택
 
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 2071
+- 총 커밋 수: 2074
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 656
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 320
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 322
   - gosky <gosky@gosky.kr>: 24
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 55e5701a / namgung <skarndaudwls@gmail.com> / Merge pull request #307 from Dongyang-Mirae-University-software/fix/ward-companion-banner-overflow
+- 최근 커밋: 5c2c1ea2 / namgung <skarndaudwls@gmail.com> / Merge pull request #308 from Dongyang-Mirae-University-software/design/anomaly-scene-cards-camera-stop-card
 
 ## 최근 수정 파일
 
-- src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx (2026-11-20 16:16:14 KST)
-- src/app/(ward)/ward/companion/_components/WardCompanionContent.module.css (2026-11-20 16:16:14 KST)
-- src/app/(ward)/ward/companion/_components/WardCompanionContent.tsx (2026-11-20 16:16:14 KST)
-- src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.browser.test.tsx (2026-11-20 15:59:50 KST)
-- src/app/(guardian)/guardian/hospital/_components/HospitalListStep.tsx (2026-11-20 15:59:50 KST)
-- src/app/(admin)/admin/_components/AdminAiStatsContent.browser.test.tsx (2026-11-20 15:44:12 KST)
-- src/app/(ward)/ward/hospital/_components/WardHospitalContent.browser.test.tsx (2026-11-20 15:44:12 KST)
-- src/utils/reservation/reservationView.ts (2026-11-20 15:09:05 KST)
+- src/app/(ward)/ward/camera/_components/CameraRegisterModal.tsx (2026-11-20 17:33:31 KST)
+- src/components/PushNotificationListener.browser.test.tsx (2026-11-20 17:33:31 KST)
+- src/components/PushNotificationListener.kind.test.ts (2026-11-20 17:33:31 KST)
+- src/components/PushNotificationListener.kind.ts (2026-11-20 17:33:31 KST)
+- public/push-sw-logic.js (2026-11-20 17:33:31 KST)
+- src/app/(guardian)/guardian/detection/_components/AnomalyClipModal.tsx (2026-11-20 17:33:31 KST)
+- src/app/(guardian)/guardian/detection/_components/AnomalyHistoryContent.browser.test.tsx (2026-11-20 17:33:31 KST)
+- src/app/(guardian)/guardian/detection/_components/AnomalyIncidentCard.tsx (2026-11-20 17:33:31 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 2071
-- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(320)
+- Git 커밋 수: 2074
+- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(322)

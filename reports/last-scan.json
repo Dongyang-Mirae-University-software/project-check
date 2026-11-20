@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-20T08:04:42.484Z",
-  "generatedAtKst": "2026-11-20 17:04:42 KST",
+  "generatedAt": "2026-11-20T08:34:48.585Z",
+  "generatedAtKst": "2026-11-20 17:34:48 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9268
+          "count": 9269
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 17
         }
       ],
-      "count": 9336
+      "count": 9337
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2321
+          "count": 2323
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2410
+      "count": 2412
     },
     {
       "name": "YUNA0222",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9131,
+        "commitCount": 9132,
         "authors": [
           {
-            "count": 9131,
+            "count": 9132,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "132114902",
+          "hash": "7b44eef34",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-20T16:34:40+09:00",
+          "date": "2026-11-20T17:04:46+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9131개 커밋, 상위 계정: gosky(9131), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9132개 커밋, 상위 계정: gosky(9132), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9131",
-        "Git 상위 계정: gosky(9131)"
+        "Git 커밋 수: 9132",
+        "Git 상위 계정: gosky(9132)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 13 minutes",
+            "status": "Up 43 minutes",
             "ports": ""
           }
         ],
@@ -2252,7 +2252,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 13 minutes",
+            "status": "Up 43 minutes",
             "ports": ""
           }
         ],
@@ -2808,7 +2808,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 2071,
+        "commitCount": 2074,
         "authors": [
           {
             "count": 1400,
@@ -2821,7 +2821,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 320,
+            "count": 322,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2842,46 +2842,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "55e5701a",
+          "hash": "5c2c1ea2",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-20T16:15:59+09:00",
-          "subject": "Merge pull request #307 from Dongyang-Mirae-University-software/fix/ward-companion-banner-overflow"
+          "date": "2026-11-20T17:33:00+09:00",
+          "subject": "Merge pull request #308 from Dongyang-Mirae-University-software/design/anomaly-scene-cards-camera-stop-card"
         },
-        "summary": "총 2071개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(320), 최근: Merge pull request #307 from Dongyang-Mirae-University-software/fix/ward-companion-banner-overflow"
+        "summary": "총 2074개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(322), 최근: Merge pull request #308 from Dongyang-Mirae-University-software/design/anomaly-scene-cards-camera-stop-card"
       },
       "recentFiles": [
         {
-          "path": "src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx",
-          "modifiedAt": "2026-11-20T07:16:14.276Z"
+          "path": "src/app/(ward)/ward/camera/_components/CameraRegisterModal.tsx",
+          "modifiedAt": "2026-11-20T08:33:31.150Z"
         },
         {
-          "path": "src/app/(ward)/ward/companion/_components/WardCompanionContent.module.css",
-          "modifiedAt": "2026-11-20T07:16:14.276Z"
+          "path": "src/components/PushNotificationListener.browser.test.tsx",
+          "modifiedAt": "2026-11-20T08:33:31.150Z"
         },
         {
-          "path": "src/app/(ward)/ward/companion/_components/WardCompanionContent.tsx",
-          "modifiedAt": "2026-11-20T07:16:14.276Z"
+          "path": "src/components/PushNotificationListener.kind.test.ts",
+          "modifiedAt": "2026-11-20T08:33:31.150Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.browser.test.tsx",
-          "modifiedAt": "2026-11-20T06:59:50.082Z"
+          "path": "src/components/PushNotificationListener.kind.ts",
+          "modifiedAt": "2026-11-20T08:33:31.150Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/hospital/_components/HospitalListStep.tsx",
-          "modifiedAt": "2026-11-20T06:59:50.082Z"
+          "path": "public/push-sw-logic.js",
+          "modifiedAt": "2026-11-20T08:33:31.146Z"
         },
         {
-          "path": "src/app/(admin)/admin/_components/AdminAiStatsContent.browser.test.tsx",
-          "modifiedAt": "2026-11-20T06:44:12.806Z"
+          "path": "src/app/(guardian)/guardian/detection/_components/AnomalyClipModal.tsx",
+          "modifiedAt": "2026-11-20T08:33:31.146Z"
         },
         {
-          "path": "src/app/(ward)/ward/hospital/_components/WardHospitalContent.browser.test.tsx",
-          "modifiedAt": "2026-11-20T06:44:12.806Z"
+          "path": "src/app/(guardian)/guardian/detection/_components/AnomalyHistoryContent.browser.test.tsx",
+          "modifiedAt": "2026-11-20T08:33:31.146Z"
         },
         {
-          "path": "src/utils/reservation/reservationView.ts",
-          "modifiedAt": "2026-11-20T06:09:05.041Z"
+          "path": "src/app/(guardian)/guardian/detection/_components/AnomalyIncidentCard.tsx",
+          "modifiedAt": "2026-11-20T08:33:31.146Z"
         }
       ],
       "summary": [
@@ -2889,8 +2889,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 2071",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(320)"
+        "Git 커밋 수: 2074",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(322)"
       ]
     },
     {
