@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-20 11:03:35 KST
+- 점검 시각: 2026-11-20 11:33:40 KST
 
 ## 추정 기술 스택
 
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 2051
+- 총 커밋 수: 2053
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 656
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 310
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 311
   - gosky <gosky@gosky.kr>: 24
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 9fd6f7a7 / namgung <skarndaudwls@gmail.com> / Merge pull request #297 from Dongyang-Mirae-University-software/test/medication-card-audit-followup
+- 최근 커밋: 3b12bd15 / namgung <skarndaudwls@gmail.com> / Merge pull request #298 from Dongyang-Mirae-University-software/fix/guardian-medication-miss-badge-dedup
 
 ## 최근 수정 파일
 
-- src/app/(guardian)/guardian/medication/_components/WardMedicationCard.browser.test.tsx (2026-11-20 10:09:03 KST)
+- src/app/(guardian)/guardian/medication/_components/WardMedicationCard.browser.test.tsx (2026-11-20 11:15:14 KST)
+- src/app/(guardian)/guardian/medication/_components/WardMedicationCard.tsx (2026-11-20 11:15:14 KST)
 - src/app/(guardian)/guardian/game/_components/ActivityHeatmap.browser.test.tsx (2026-11-20 09:56:11 KST)
 - src/app/(guardian)/guardian/game/_components/ActivityHeatmap.module.css (2026-11-20 09:56:11 KST)
 - src/app/(guardian)/guardian/game/_components/ActivityHeatmap.tsx (2026-11-20 09:56:11 KST)
 - src/app/(guardian)/guardian/game/_components/GuardianGameContent.browser.test.tsx (2026-11-20 09:52:35 KST)
 - src/app/(guardian)/guardian/game/_components/GuardianGameContent.tsx (2026-11-20 09:52:35 KST)
 - src/service/interface/game.ts (2026-11-20 09:52:35 KST)
-- vitest.browser.config.ts (2026-11-20 09:52:35 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 2051
-- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(310)
+- Git 커밋 수: 2053
+- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(311)
