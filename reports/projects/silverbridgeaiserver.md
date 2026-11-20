@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-20 10:03:23 KST
+- 점검 시각: 2026-11-20 10:33:29 KST
 
 ## 추정 기술 스택
 
@@ -79,14 +79,14 @@
 
 ## 최근 수정 파일
 
-- docs/eval-results/2026-11-15-chip-knee-history.md (2026-11-20 09:33:07 KST)
-- tests/test_game_records_purge.py (2026-11-20 09:33:07 KST)
-- app/routers/game_router.py (2026-11-20 09:33:07 KST)
-- app/services/game_service.py (2026-11-20 09:33:07 KST)
-- data/companion_review.db (2026-11-19 22:57:00 KST)
-- data/postgres/pg_wal/000000010000000000000009 (2026-11-19 17:42:12 KST)
-- data/postgres/global/pg_control (2026-11-19 17:42:11 KST)
-- data/postgres/base/16384/33564 (2026-11-19 17:42:11 KST)
+- data/postgres/pg_wal/000000010000000000000009 (2026-11-20 10:17:35 KST)
+- data/postgres/global/pg_control (2026-11-20 10:17:32 KST)
+- data/postgres/base/16384/33188 (2026-11-20 10:17:31 KST)
+- data/postgres/base/16384/16515 (2026-11-20 10:17:31 KST)
+- data/postgres/base/16384/16514 (2026-11-20 10:17:31 KST)
+- data/postgres/base/16384/16513 (2026-11-20 10:17:31 KST)
+- data/postgres/base/16384/16512 (2026-11-20 10:17:31 KST)
+- data/postgres/base/16384/16510 (2026-11-20 10:17:31 KST)
 
 ## 점검 결과 요약
 
