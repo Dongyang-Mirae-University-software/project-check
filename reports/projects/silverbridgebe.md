@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-11-20 21:35:37 KST
+- 점검 시각: 2026-11-20 22:05:43 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 376
+- 파일 개수: 378
 - 디렉토리 개수: 35
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/integrationTest, src/integrationTest/java, src/integrationTest/java/kr, src/integrationTest/java/kr/silverbridge, src/integrationTest/java/kr/silverbridge/main, src/integrationTest/java/kr/silverbridge/main/domain, src/integrationTest/java/kr/silverbridge/main/global, src/integrationTest/java/kr/silverbridge/main/migration, src/integrationTest/java/kr/silverbridge/main/support, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration
@@ -57,24 +57,24 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1833
+- 총 커밋 수: 1838
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 1481
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 1485
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
   - gosky <gosky@gosky.kr>: 2
-- 최근 커밋: 3423880a / namgung <skarndaudwls@gmail.com> / Merge pull request #507 from Dongyang-Mirae-University-software/feature/sos-chatbot-109
+- 최근 커밋: 129fb25d / namgung <skarndaudwls@gmail.com> / Merge pull request #508 from Dongyang-Mirae-University-software/feature/sos-chatbot-109-message
 
 ## 최근 수정 파일
 
-- docs/progress.md (2026-11-20 18:33:54 KST)
+- docs/(2026-11-20) audit-fe-307-ward-companion-banner-overflow.md (2026-11-20 21:46:23 KST)
+- docs/(2026-11-20) audit-impact-chatbot-109.md (2026-11-20 21:46:23 KST)
+- docs/audit-index.md (2026-11-20 21:46:23 KST)
+- docs/progress.md (2026-11-20 21:46:23 KST)
+- docs/(2026-11-20) audit-companion-risk-carry-mood-adjust.md (2026-11-20 21:46:23 KST)
 - docs/(2026-11-20) audit-fe-299-chatbot-scroll-question-top.md (2026-11-20 18:33:54 KST)
 - docs/(2026-11-20) audit-fe-301-guardian-visit-day-card.md (2026-11-20 18:33:54 KST)
 - docs/(2026-11-20) audit-fe-304-visit-day-card-line-break.md (2026-11-20 18:33:54 KST)
-- docs/(2026-11-20) audit-fe-307-ward-companion-banner-overflow.md (2026-11-20 18:33:54 KST)
-- docs/(2026-11-20) feature-chatbot-109-sos.md (2026-11-20 18:33:54 KST)
-- docs/audit-index.md (2026-11-20 18:33:54 KST)
-- docs/(2026-11-20) audit-medication-display-name-dose-collision.md (2026-11-20 11:23:29 KST)
 
 ## 점검 결과 요약
 
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1833
-- Git 상위 계정: skarndaudwls1(1481), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1838
+- Git 상위 계정: skarndaudwls1(1485), skarndaudwls1(65), gosky(4)
