@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-20T07:34:36.447Z",
-  "generatedAtKst": "2026-11-20 16:34:36 KST",
+  "generatedAt": "2026-11-20T08:04:42.484Z",
+  "generatedAtKst": "2026-11-20 17:04:42 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9267
+          "count": 9268
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 17
         }
       ],
-      "count": 9335
+      "count": 9336
     },
     {
       "name": "skarndaudwls1",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9130,
+        "commitCount": 9131,
         "authors": [
           {
-            "count": 9130,
+            "count": 9131,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "9e98e22bb",
+          "hash": "132114902",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-20T16:04:34+09:00",
+          "date": "2026-11-20T16:34:40+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9130개 커밋, 상위 계정: gosky(9130), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9131개 커밋, 상위 계정: gosky(9131), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9130",
-        "Git 상위 계정: gosky(9130)"
+        "Git 커밋 수: 9131",
+        "Git 상위 계정: gosky(9131)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 7 hours",
+            "status": "Up 13 minutes",
             "ports": ""
           }
         ],
@@ -2252,7 +2252,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 7 hours",
+            "status": "Up 13 minutes",
             "ports": ""
           }
         ],
@@ -2331,36 +2331,36 @@
       },
       "recentFiles": [
         {
-          "path": "data/companion_review.db",
-          "modifiedAt": "2026-11-20T07:28:20.038Z"
-        },
-        {
           "path": "data/postgres/pg_wal/000000010000000000000009",
-          "modifiedAt": "2026-11-20T07:27:58.986Z"
+          "modifiedAt": "2026-11-20T08:02:43.412Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-11-20T07:27:39.378Z"
+          "modifiedAt": "2026-11-20T08:02:39.608Z"
         },
         {
           "path": "data/postgres/base/16384/33564",
-          "modifiedAt": "2026-11-20T07:27:39.278Z"
+          "modifiedAt": "2026-11-20T08:02:39.508Z"
         },
         {
           "path": "data/postgres/base/16384/33193",
-          "modifiedAt": "2026-11-20T07:27:39.178Z"
+          "modifiedAt": "2026-11-20T08:02:39.408Z"
         },
         {
           "path": "data/postgres/base/16384/33191",
-          "modifiedAt": "2026-11-20T07:27:39.078Z"
+          "modifiedAt": "2026-11-20T08:02:39.308Z"
         },
         {
           "path": "data/postgres/base/16384/33188",
-          "modifiedAt": "2026-11-20T07:27:38.978Z"
+          "modifiedAt": "2026-11-20T08:02:39.208Z"
         },
         {
           "path": "data/postgres/base/16384/32948",
-          "modifiedAt": "2026-11-20T07:27:38.878Z"
+          "modifiedAt": "2026-11-20T08:02:39.108Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32947",
+          "modifiedAt": "2026-11-20T08:02:39.008Z"
         }
       ],
       "summary": [
