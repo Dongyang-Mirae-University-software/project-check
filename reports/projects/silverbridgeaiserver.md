@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-20 20:35:25 KST
+- 점검 시각: 2026-11-20 21:05:32 KST
 
 ## 추정 기술 스택
 
@@ -67,26 +67,26 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 824
+- 총 커밋 수: 826
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 394
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 395
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 34
   - gosky <gosky@gosky.kr>: 22
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: cdc5ece / namgung <skarndaudwls@gmail.com> / Merge pull request #327 from Dongyang-Mirae-University-software/fix/chat-fixed-sentences-109
+- 최근 커밋: ee55dd2 / namgung <skarndaudwls@gmail.com> / Merge pull request #328 from Dongyang-Mirae-University-software/fix/eval-v8-targets
 
 ## 최근 수정 파일
 
+- docs/eval/2026-11-20-eval-set-v8-basis.md (2026-11-20 20:52:34 KST)
+- tests/test_eval_v8_tools.py (2026-11-20 20:52:34 KST)
+- tools/eval/v8/report.py (2026-11-20 20:52:34 KST)
 - data/postgres/pg_wal/000000010000000000000009 (2026-11-20 17:02:43 KST)
 - data/postgres/global/pg_control (2026-11-20 17:02:39 KST)
 - data/postgres/base/16384/33564 (2026-11-20 17:02:39 KST)
 - data/postgres/base/16384/33193 (2026-11-20 17:02:39 KST)
 - data/postgres/base/16384/33191 (2026-11-20 17:02:39 KST)
-- data/postgres/base/16384/33188 (2026-11-20 17:02:39 KST)
-- data/postgres/base/16384/32948 (2026-11-20 17:02:39 KST)
-- data/postgres/base/16384/32947 (2026-11-20 17:02:39 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 824
-- Git 상위 계정: skarndaudwls1(394), gosky(37), Jaehe-he(34)
+- Git 커밋 수: 826
+- Git 상위 계정: skarndaudwls1(395), gosky(37), Jaehe-he(34)
