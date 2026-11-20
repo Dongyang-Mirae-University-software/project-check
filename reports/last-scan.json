@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-20T17:36:34.539Z",
-  "generatedAtKst": "2026-11-21 02:36:34 KST",
+  "generatedAt": "2026-11-20T18:06:40.321Z",
+  "generatedAtKst": "2026-11-21 03:06:40 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9287
+          "count": 9288
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 17
         }
       ],
-      "count": 9355
+      "count": 9356
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2354
+          "count": 2355
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2443
+      "count": 2444
     },
     {
       "name": "YUNA0222",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9150,
+        "commitCount": 9151,
         "authors": [
           {
-            "count": 9150,
+            "count": 9151,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "edd492405",
+          "hash": "318616a1e",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-21T02:06:32+09:00",
+          "date": "2026-11-21T02:36:38+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9150개 커밋, 상위 계정: gosky(9150), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9151개 커밋, 상위 계정: gosky(9151), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9150",
-        "Git 상위 계정: gosky(9150)"
+        "Git 커밋 수: 9151",
+        "Git 상위 계정: gosky(9151)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 4 hours",
+            "status": "Up 5 hours",
             "ports": ""
           }
         ],
@@ -2252,7 +2252,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 4 hours",
+            "status": "Up 5 hours",
             "ports": ""
           }
         ],
@@ -2808,7 +2808,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 2090,
+        "commitCount": 2092,
         "authors": [
           {
             "count": 1400,
@@ -2821,7 +2821,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 330,
+            "count": 331,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2842,15 +2842,23 @@
           }
         ],
         "latestCommit": {
-          "hash": "3eb8c071",
+          "hash": "cb3ecc96",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-20T22:31:31+09:00",
-          "subject": "Merge pull request #316 from Dongyang-Mirae-University-software/design/ward-emergency-hint-lines"
+          "date": "2026-11-21T02:47:38+09:00",
+          "subject": "Merge pull request #317 from Dongyang-Mirae-University-software/fix/guardian-sos-history-mobile-overflow"
         },
-        "summary": "총 2090개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(330), 최근: Merge pull request #316 from Dongyang-Mirae-University-software/design/ward-emergency-hint-lines"
+        "summary": "총 2092개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(331), 최근: Merge pull request #317 from Dongyang-Mirae-University-software/fix/guardian-sos-history-mobile-overflow"
       },
       "recentFiles": [
+        {
+          "path": "src/app/(guardian)/guardian/sos/_components/GuardianSosHistoryContent.browser.test.tsx",
+          "modifiedAt": "2026-11-20T17:48:15.006Z"
+        },
+        {
+          "path": "src/app/(guardian)/guardian/sos/_components/GuardianSosHistoryContent.module.css",
+          "modifiedAt": "2026-11-20T17:48:15.006Z"
+        },
         {
           "path": "src/components/chatbot/ChatbotContent.browser.test.tsx",
           "modifiedAt": "2026-11-20T13:31:35.458Z"
@@ -2874,14 +2882,6 @@
         {
           "path": "src/app/(ward)/ward/companion/_components/WardCompanionContent.tsx",
           "modifiedAt": "2026-11-20T12:58:47.431Z"
-        },
-        {
-          "path": "src/app/(guardian)/guardian/sos/_components/GuardianSosHistoryContent.browser.test.tsx",
-          "modifiedAt": "2026-11-20T12:56:25.765Z"
-        },
-        {
-          "path": "src/app/(guardian)/guardian/sos/_components/GuardianSosHistoryContent.tsx",
-          "modifiedAt": "2026-11-20T12:56:25.765Z"
         }
       ],
       "summary": [
@@ -2889,8 +2889,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 2090",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(330)"
+        "Git 커밋 수: 2092",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(331)"
       ]
     },
     {
