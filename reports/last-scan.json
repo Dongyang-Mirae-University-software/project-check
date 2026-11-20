@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-20T08:34:48.585Z",
-  "generatedAtKst": "2026-11-20 17:34:48 KST",
+  "generatedAt": "2026-11-20T09:04:54.120Z",
+  "generatedAtKst": "2026-11-20 18:04:54 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9269
+          "count": 9270
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 17
         }
       ],
-      "count": 9337
+      "count": 9338
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2323
+          "count": 2324
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2412
+      "count": 2413
     },
     {
       "name": "YUNA0222",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9132,
+        "commitCount": 9133,
         "authors": [
           {
-            "count": 9132,
+            "count": 9133,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "7b44eef34",
+          "hash": "a562622ba",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-20T17:04:46+09:00",
+          "date": "2026-11-20T17:34:52+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9132개 커밋, 상위 계정: gosky(9132), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9133개 커밋, 상위 계정: gosky(9133), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9132",
-        "Git 상위 계정: gosky(9132)"
+        "Git 커밋 수: 9133",
+        "Git 상위 계정: gosky(9133)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 43 minutes",
+            "status": "Up About an hour",
             "ports": ""
           }
         ],
@@ -2252,7 +2252,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 43 minutes",
+            "status": "Up About an hour",
             "ports": ""
           }
         ],
@@ -2808,7 +2808,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 2074,
+        "commitCount": 2076,
         "authors": [
           {
             "count": 1400,
@@ -2821,7 +2821,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 322,
+            "count": 323,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2842,15 +2842,27 @@
           }
         ],
         "latestCommit": {
-          "hash": "5c2c1ea2",
+          "hash": "be06d0a6",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-20T17:33:00+09:00",
-          "subject": "Merge pull request #308 from Dongyang-Mirae-University-software/design/anomaly-scene-cards-camera-stop-card"
+          "date": "2026-11-20T17:53:24+09:00",
+          "subject": "Merge pull request #309 from Dongyang-Mirae-University-software/fix/refresh-400-to-login"
         },
-        "summary": "총 2074개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(322), 최근: Merge pull request #308 from Dongyang-Mirae-University-software/design/anomaly-scene-cards-camera-stop-card"
+        "summary": "총 2076개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(323), 최근: Merge pull request #309 from Dongyang-Mirae-University-software/fix/refresh-400-to-login"
       },
       "recentFiles": [
+        {
+          "path": "src/lib/api/apiClient.refresh.test.ts",
+          "modifiedAt": "2026-11-20T08:53:29.668Z"
+        },
+        {
+          "path": "src/lib/api/apiClient.ts",
+          "modifiedAt": "2026-11-20T08:53:29.668Z"
+        },
+        {
+          "path": "src/lib/auth/sessionRestore.test.ts",
+          "modifiedAt": "2026-11-20T08:53:29.668Z"
+        },
         {
           "path": "src/app/(ward)/ward/camera/_components/CameraRegisterModal.tsx",
           "modifiedAt": "2026-11-20T08:33:31.150Z"
@@ -2870,18 +2882,6 @@
         {
           "path": "public/push-sw-logic.js",
           "modifiedAt": "2026-11-20T08:33:31.146Z"
-        },
-        {
-          "path": "src/app/(guardian)/guardian/detection/_components/AnomalyClipModal.tsx",
-          "modifiedAt": "2026-11-20T08:33:31.146Z"
-        },
-        {
-          "path": "src/app/(guardian)/guardian/detection/_components/AnomalyHistoryContent.browser.test.tsx",
-          "modifiedAt": "2026-11-20T08:33:31.146Z"
-        },
-        {
-          "path": "src/app/(guardian)/guardian/detection/_components/AnomalyIncidentCard.tsx",
-          "modifiedAt": "2026-11-20T08:33:31.146Z"
         }
       ],
       "summary": [
@@ -2889,8 +2889,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 2074",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(322)"
+        "Git 커밋 수: 2076",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(323)"
       ]
     },
     {
