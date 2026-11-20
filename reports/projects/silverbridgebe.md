@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-11-20 09:33:17 KST
+- 점검 시각: 2026-11-20 10:03:23 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 366
+- 파일 개수: 368
 - 디렉토리 개수: 35
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/integrationTest, src/integrationTest/java, src/integrationTest/java/kr, src/integrationTest/java/kr/silverbridge, src/integrationTest/java/kr/silverbridge/main, src/integrationTest/java/kr/silverbridge/main/domain, src/integrationTest/java/kr/silverbridge/main/global, src/integrationTest/java/kr/silverbridge/main/migration, src/integrationTest/java/kr/silverbridge/main/support, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration
@@ -57,24 +57,24 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1805
+- 총 커밋 수: 1810
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 1457
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 1461
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
   - gosky <gosky@gosky.kr>: 2
-- 최근 커밋: 09fb5fee / namgung <skarndaudwls@gmail.com> / Merge pull request #503 from Dongyang-Mirae-University-software/feature/medication-display-name
+- 최근 커밋: 0761cb37 / namgung <skarndaudwls@gmail.com> / Merge pull request #504 from Dongyang-Mirae-University-software/fix/medication-display-name-audit
 
 ## 최근 수정 파일
 
-- docs/progress.md (2026-11-20 09:25:15 KST)
+- docs/audit-index.md (2026-11-20 09:48:44 KST)
+- docs/progress.md (2026-11-20 09:48:44 KST)
+- docs/(2026-11-20) audit-fe-293-guardian-game-relay.md (2026-11-20 09:48:44 KST)
+- docs/(2026-11-20) audit-medication-display-name.md (2026-11-20 09:48:44 KST)
 - src/main/resources/application.yaml (2026-11-20 09:25:15 KST)
 - CLAUDE.md (2026-11-20 09:25:15 KST)
 - docs/(2026-11-17) audit-fe-277-chatbot-119-keypad.md (2026-11-20 09:25:15 KST)
 - docs/(2026-11-17) feature-chatbot-119-sos.md (2026-11-20 09:25:15 KST)
-- docs/(2026-11-19) audit-fe-291-anomaly-filter-tabs.md (2026-11-20 09:25:15 KST)
-- docs/(2026-11-19) audit-guardian-game-relay.md (2026-11-20 09:25:15 KST)
-- docs/(2026-11-19) feature-guardian-game-relay.md (2026-11-20 09:25:15 KST)
 
 ## 점검 결과 요약
 
@@ -82,5 +82,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1805
-- Git 상위 계정: skarndaudwls1(1457), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1810
+- Git 상위 계정: skarndaudwls1(1461), skarndaudwls1(65), gosky(4)

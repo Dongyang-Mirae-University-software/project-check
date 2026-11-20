@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-20 09:33:17 KST
+- 점검 시각: 2026-11-20 10:03:23 KST
 
 ## 추정 기술 스택
 
@@ -37,7 +37,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 853
+- 파일 개수: 854
 - 디렉토리 개수: 160
 - 주요 폴더: docs, public, scripts, src
 - 주요 경로: public, public/icons, public/icons/push, public/images, src, src/app, src/app/(admin), src/app/(admin)/admin, src/app/(admin)/admin/_components, src/app/(admin)/admin/ai-stats, src/app/(admin)/admin/devices, src/app/(admin)/admin/hospitals, src/app/(admin)/admin/inquiries, src/app/(admin)/admin/members, src/app/(admin)/admin/notices, src/app/(admin)/admin/notifications, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/@modal, src/app/(auth)/@modal/(.)find-email
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 2043
+- 총 커밋 수: 2049
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 656
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 306
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 309
   - gosky <gosky@gosky.kr>: 24
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 7c47b84d / namgung <skarndaudwls@gmail.com> / Merge pull request #293 from Dongyang-Mirae-University-software/fix/guardian-game-be-relay
+- 최근 커밋: e4835463 / namgung <skarndaudwls@gmail.com> / Merge pull request #296 from Dongyang-Mirae-University-software/fix/game-heatmap-sticky-weekdays
 
 ## 최근 수정 파일
 
-- src/app/(guardian)/guardian/game/_components/gameErrorMessage.test.ts (2026-11-20 09:28:33 KST)
-- src/app/(guardian)/guardian/game/_components/gameErrorMessage.ts (2026-11-20 09:28:33 KST)
-- src/app/(guardian)/guardian/game/_components/GuardianGameContent.browser.test.tsx (2026-11-20 09:28:33 KST)
-- src/app/(guardian)/guardian/game/_components/GuardianGameContent.tsx (2026-11-20 09:28:33 KST)
-- src/service/api/guardian/game.ts (2026-11-20 09:28:33 KST)
-- src/service/interface/game.ts (2026-11-20 09:28:33 KST)
-- src/service/query/guardian/game.test.ts (2026-11-20 09:28:33 KST)
-- src/service/query/guardian/game.ts (2026-11-20 09:28:33 KST)
+- src/app/(guardian)/guardian/game/_components/ActivityHeatmap.browser.test.tsx (2026-11-20 09:56:11 KST)
+- src/app/(guardian)/guardian/game/_components/ActivityHeatmap.module.css (2026-11-20 09:56:11 KST)
+- src/app/(guardian)/guardian/game/_components/ActivityHeatmap.tsx (2026-11-20 09:56:11 KST)
+- src/app/(guardian)/guardian/game/_components/GuardianGameContent.browser.test.tsx (2026-11-20 09:52:35 KST)
+- src/app/(guardian)/guardian/game/_components/GuardianGameContent.tsx (2026-11-20 09:52:35 KST)
+- src/service/interface/game.ts (2026-11-20 09:52:35 KST)
+- vitest.browser.config.ts (2026-11-20 09:52:35 KST)
+- src/service/interface/guardian/dashboard.ts (2026-11-20 09:43:46 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 2043
-- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(306)
+- Git 커밋 수: 2049
+- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(309)
