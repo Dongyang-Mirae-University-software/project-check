@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-20 14:04:09 KST
+- 점검 시각: 2026-11-20 14:34:15 KST
 
 ## 추정 기술 스택
 
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 2053
+- 총 커밋 수: 2059
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 656
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 311
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 314
   - gosky <gosky@gosky.kr>: 24
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 3b12bd15 / namgung <skarndaudwls@gmail.com> / Merge pull request #298 from Dongyang-Mirae-University-software/fix/guardian-medication-miss-badge-dedup
+- 최근 커밋: d572698c / namgung <skarndaudwls@gmail.com> / Merge pull request #300 from Dongyang-Mirae-University-software/design/ward-companion-tablet-fill
 
 ## 최근 수정 파일
 
-- src/app/(guardian)/guardian/medication/_components/WardMedicationCard.browser.test.tsx (2026-11-20 11:15:14 KST)
-- src/app/(guardian)/guardian/medication/_components/WardMedicationCard.tsx (2026-11-20 11:15:14 KST)
-- src/app/(guardian)/guardian/game/_components/ActivityHeatmap.browser.test.tsx (2026-11-20 09:56:11 KST)
-- src/app/(guardian)/guardian/game/_components/ActivityHeatmap.module.css (2026-11-20 09:56:11 KST)
-- src/app/(guardian)/guardian/game/_components/ActivityHeatmap.tsx (2026-11-20 09:56:11 KST)
-- src/app/(guardian)/guardian/game/_components/GuardianGameContent.browser.test.tsx (2026-11-20 09:52:35 KST)
-- src/app/(guardian)/guardian/game/_components/GuardianGameContent.tsx (2026-11-20 09:52:35 KST)
-- src/service/interface/game.ts (2026-11-20 09:52:35 KST)
+- src/app/(ward)/ward/companion/_components/WardCompanionContent.module.css (2026-11-20 14:27:28 KST)
+- src/app/(ward)/ward/companion/_components/WardCompanionContent.tsx (2026-11-20 14:27:28 KST)
+- src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.browser.test.tsx (2026-11-20 14:26:59 KST)
+- src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.module.css (2026-11-20 14:26:59 KST)
+- src/app/(guardian)/guardian/hospital/_components/hospitalBooking.ts (2026-11-20 14:26:59 KST)
+- src/app/(guardian)/guardian/hospital/_components/HospitalListStep.tsx (2026-11-20 14:26:59 KST)
+- src/components/reservation/VisitDayCard.module.css (2026-11-20 14:26:59 KST)
+- src/components/reservation/VisitDayCard.tsx (2026-11-20 14:26:59 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 2053
-- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(311)
+- Git 커밋 수: 2059
+- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(314)
