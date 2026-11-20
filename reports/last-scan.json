@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-20T05:34:13.189Z",
-  "generatedAtKst": "2026-11-20 14:34:13 KST",
+  "generatedAt": "2026-11-20T06:04:18.898Z",
+  "generatedAtKst": "2026-11-20 15:04:18 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9263
+          "count": 9264
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 17
         }
       ],
-      "count": 9331
+      "count": 9332
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2310
+          "count": 2312
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2399
+      "count": 2401
     },
     {
       "name": "YUNA0222",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9126,
+        "commitCount": 9127,
         "authors": [
           {
-            "count": 9126,
+            "count": 9127,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "b0efc5cf4",
+          "hash": "35724ec02",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-20T14:04:11+09:00",
+          "date": "2026-11-20T14:34:17+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9126개 커밋, 상위 계정: gosky(9126), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9127개 커밋, 상위 계정: gosky(9127), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9126",
-        "Git 상위 계정: gosky(9126)"
+        "Git 커밋 수: 9127",
+        "Git 상위 계정: gosky(9127)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 5 hours",
+            "status": "Up 6 hours",
             "ports": ""
           }
         ],
@@ -2252,7 +2252,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 5 hours",
+            "status": "Up 6 hours",
             "ports": ""
           }
         ],
@@ -2331,36 +2331,36 @@
       },
       "recentFiles": [
         {
-          "path": "docs/eval/2026-11-20-eval-set-v8-basis.md",
-          "modifiedAt": "2026-11-20T04:58:34.493Z"
+          "path": "data/postgres/pg_wal/000000010000000000000009",
+          "modifiedAt": "2026-11-20T06:02:44.662Z"
         },
         {
-          "path": "docs/tools/replay-offline.md",
-          "modifiedAt": "2026-11-20T04:58:34.493Z"
+          "path": "data/postgres/global/pg_control",
+          "modifiedAt": "2026-11-20T06:02:37.258Z"
         },
         {
-          "path": "tests/eval/v8/dev_manifest.json",
-          "modifiedAt": "2026-11-20T04:58:34.493Z"
+          "path": "data/postgres/base/16384/33564",
+          "modifiedAt": "2026-11-20T06:02:37.154Z"
         },
         {
-          "path": "tests/eval/v8/holdout_a_v8.json",
-          "modifiedAt": "2026-11-20T04:58:34.493Z"
+          "path": "data/postgres/base/16384/32948",
+          "modifiedAt": "2026-11-20T06:02:37.054Z"
         },
         {
-          "path": "tests/eval/v8/locked_manifest.json",
-          "modifiedAt": "2026-11-20T04:58:34.493Z"
+          "path": "data/postgres/base/16384/32947",
+          "modifiedAt": "2026-11-20T06:02:36.954Z"
         },
         {
-          "path": "tests/eval/v8/schema_v8.json",
-          "modifiedAt": "2026-11-20T04:58:34.493Z"
+          "path": "data/postgres/base/16384/32946",
+          "modifiedAt": "2026-11-20T06:02:36.754Z"
         },
         {
-          "path": "tests/test_eval_v8_tools.py",
-          "modifiedAt": "2026-11-20T04:58:34.493Z"
+          "path": "data/postgres/base/16384/32945",
+          "modifiedAt": "2026-11-20T06:02:36.654Z"
         },
         {
-          "path": "tools/eval/replay_offline.py",
-          "modifiedAt": "2026-11-20T04:58:34.493Z"
+          "path": "data/postgres/base/16384/32935_vm",
+          "modifiedAt": "2026-11-20T06:02:36.554Z"
         }
       ],
       "summary": [
@@ -2730,7 +2730,7 @@
         }
       ],
       "structure": {
-        "fileCount": 854,
+        "fileCount": 855,
         "dirCount": 160,
         "mainFolders": [
           "docs",
@@ -2808,7 +2808,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 2059,
+        "commitCount": 2063,
         "authors": [
           {
             "count": 1400,
@@ -2821,7 +2821,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 314,
+            "count": 316,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2842,18 +2842,30 @@
           }
         ],
         "latestCommit": {
-          "hash": "d572698c",
+          "hash": "f2a68286",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-20T14:27:04+09:00",
-          "subject": "Merge pull request #300 from Dongyang-Mirae-University-software/design/ward-companion-tablet-fill"
+          "date": "2026-11-20T14:59:24+09:00",
+          "subject": "Merge pull request #303 from Dongyang-Mirae-University-software/test/chatbot-scroll-followup"
         },
-        "summary": "총 2059개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(314), 최근: Merge pull request #300 from Dongyang-Mirae-University-software/design/ward-companion-tablet-fill"
+        "summary": "총 2063개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(316), 최근: Merge pull request #303 from Dongyang-Mirae-University-software/test/chatbot-scroll-followup"
       },
       "recentFiles": [
         {
+          "path": "src/components/chatbot/ChatbotContent.browser.test.tsx",
+          "modifiedAt": "2026-11-20T05:59:34.745Z"
+        },
+        {
+          "path": "src/components/chatbot/ChatbotReservation.browser.test.tsx",
+          "modifiedAt": "2026-11-20T05:59:34.745Z"
+        },
+        {
+          "path": "src/components/chatbot/chatScrollTestUtils.ts",
+          "modifiedAt": "2026-11-20T05:59:34.745Z"
+        },
+        {
           "path": "src/app/(ward)/ward/companion/_components/WardCompanionContent.module.css",
-          "modifiedAt": "2026-11-20T05:27:28.431Z"
+          "modifiedAt": "2026-11-20T05:49:33.020Z"
         },
         {
           "path": "src/app/(ward)/ward/companion/_components/WardCompanionContent.tsx",
@@ -2870,18 +2882,6 @@
         {
           "path": "src/app/(guardian)/guardian/hospital/_components/hospitalBooking.ts",
           "modifiedAt": "2026-11-20T05:26:59.715Z"
-        },
-        {
-          "path": "src/app/(guardian)/guardian/hospital/_components/HospitalListStep.tsx",
-          "modifiedAt": "2026-11-20T05:26:59.715Z"
-        },
-        {
-          "path": "src/components/reservation/VisitDayCard.module.css",
-          "modifiedAt": "2026-11-20T05:26:59.715Z"
-        },
-        {
-          "path": "src/components/reservation/VisitDayCard.tsx",
-          "modifiedAt": "2026-11-20T05:26:59.715Z"
         }
       ],
       "summary": [
@@ -2889,8 +2889,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 2059",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(314)"
+        "Git 커밋 수: 2063",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(316)"
       ]
     },
     {

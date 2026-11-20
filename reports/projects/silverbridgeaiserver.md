@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-20 14:34:15 KST
+- 점검 시각: 2026-11-20 15:04:21 KST
 
 ## 추정 기술 스택
 
@@ -79,14 +79,14 @@
 
 ## 최근 수정 파일
 
-- docs/eval/2026-11-20-eval-set-v8-basis.md (2026-11-20 13:58:34 KST)
-- docs/tools/replay-offline.md (2026-11-20 13:58:34 KST)
-- tests/eval/v8/dev_manifest.json (2026-11-20 13:58:34 KST)
-- tests/eval/v8/holdout_a_v8.json (2026-11-20 13:58:34 KST)
-- tests/eval/v8/locked_manifest.json (2026-11-20 13:58:34 KST)
-- tests/eval/v8/schema_v8.json (2026-11-20 13:58:34 KST)
-- tests/test_eval_v8_tools.py (2026-11-20 13:58:34 KST)
-- tools/eval/replay_offline.py (2026-11-20 13:58:34 KST)
+- data/postgres/pg_wal/000000010000000000000009 (2026-11-20 15:02:44 KST)
+- data/postgres/global/pg_control (2026-11-20 15:02:37 KST)
+- data/postgres/base/16384/33564 (2026-11-20 15:02:37 KST)
+- data/postgres/base/16384/32948 (2026-11-20 15:02:37 KST)
+- data/postgres/base/16384/32947 (2026-11-20 15:02:36 KST)
+- data/postgres/base/16384/32946 (2026-11-20 15:02:36 KST)
+- data/postgres/base/16384/32945 (2026-11-20 15:02:36 KST)
+- data/postgres/base/16384/32935_vm (2026-11-20 15:02:36 KST)
 
 ## 점검 결과 요약
 
