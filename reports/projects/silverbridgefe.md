@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-20 18:04:56 KST
+- 점검 시각: 2026-11-20 18:35:02 KST
 
 ## 추정 기술 스택
 
@@ -37,7 +37,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 856
+- 파일 개수: 858
 - 디렉토리 개수: 160
 - 주요 폴더: docs, public, scripts, src
 - 주요 경로: public, public/icons, public/icons/push, public/images, src, src/app, src/app/(admin), src/app/(admin)/admin, src/app/(admin)/admin/_components, src/app/(admin)/admin/ai-stats, src/app/(admin)/admin/devices, src/app/(admin)/admin/hospitals, src/app/(admin)/admin/inquiries, src/app/(admin)/admin/members, src/app/(admin)/admin/notices, src/app/(admin)/admin/notifications, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/@modal, src/app/(auth)/@modal/(.)find-email
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 2076
+- 총 커밋 수: 2080
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 656
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 323
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 325
   - gosky <gosky@gosky.kr>: 24
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: be06d0a6 / namgung <skarndaudwls@gmail.com> / Merge pull request #309 from Dongyang-Mirae-University-software/fix/refresh-400-to-login
+- 최근 커밋: 2042573b / namgung <skarndaudwls@gmail.com> / Merge pull request #311 from Dongyang-Mirae-University-software/fix/companion-remove-face-consent
 
 ## 최근 수정 파일
 
-- src/lib/api/apiClient.refresh.test.ts (2026-11-20 17:53:29 KST)
-- src/lib/api/apiClient.ts (2026-11-20 17:53:29 KST)
-- src/lib/auth/sessionRestore.test.ts (2026-11-20 17:53:29 KST)
-- src/app/(ward)/ward/camera/_components/CameraRegisterModal.tsx (2026-11-20 17:33:31 KST)
-- src/components/PushNotificationListener.browser.test.tsx (2026-11-20 17:33:31 KST)
-- src/components/PushNotificationListener.kind.test.ts (2026-11-20 17:33:31 KST)
-- src/components/PushNotificationListener.kind.ts (2026-11-20 17:33:31 KST)
-- public/push-sw-logic.js (2026-11-20 17:33:31 KST)
+- src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx (2026-11-20 18:16:14 KST)
+- src/app/(ward)/ward/companion/_components/WardCompanionContent.module.css (2026-11-20 18:16:14 KST)
+- src/app/(ward)/ward/companion/_components/WardCompanionContent.tsx (2026-11-20 18:16:14 KST)
+- src/app/(guardian)/guardian/detection/_components/AnomalyClipModal.tsx (2026-11-20 18:15:40 KST)
+- src/app/(guardian)/guardian/detection/_components/AnomalyHistoryContent.browser.test.tsx (2026-11-20 18:15:40 KST)
+- src/app/(guardian)/guardian/detection/_components/clipFileCache.test.ts (2026-11-20 18:15:40 KST)
+- src/app/(guardian)/guardian/detection/_components/clipFileCache.ts (2026-11-20 18:15:40 KST)
+- src/app/(guardian)/guardian/detection/_components/clipThumbnail.ts (2026-11-20 18:15:40 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 2076
-- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(323)
+- Git 커밋 수: 2080
+- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(325)
