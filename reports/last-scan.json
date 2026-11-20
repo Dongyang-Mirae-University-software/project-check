@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-20T09:35:00.026Z",
-  "generatedAtKst": "2026-11-20 18:35:00 KST",
+  "generatedAt": "2026-11-20T10:05:05.652Z",
+  "generatedAtKst": "2026-11-20 19:05:05 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9271
+          "count": 9272
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 17
         }
       ],
-      "count": 9339
+      "count": 9340
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2337
+          "count": 2338
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2426
+      "count": 2427
     },
     {
       "name": "YUNA0222",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9134,
+        "commitCount": 9135,
         "authors": [
           {
-            "count": 9134,
+            "count": 9135,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "45fd17676",
+          "hash": "c36411eb2",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-20T18:04:58+09:00",
+          "date": "2026-11-20T18:35:03+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9134개 커밋, 상위 계정: gosky(9134), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9135개 커밋, 상위 계정: gosky(9135), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9134",
-        "Git 상위 계정: gosky(9134)"
+        "Git 커밋 수: 9135",
+        "Git 상위 계정: gosky(9135)"
       ]
     },
     {
@@ -2730,7 +2730,7 @@
         }
       ],
       "structure": {
-        "fileCount": 858,
+        "fileCount": 859,
         "dirCount": 160,
         "mainFolders": [
           "docs",
@@ -2808,7 +2808,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 2080,
+        "commitCount": 2082,
         "authors": [
           {
             "count": 1400,
@@ -2821,7 +2821,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 325,
+            "count": 326,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2842,46 +2842,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "2042573b",
+          "hash": "37486bf0",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-20T18:15:56+09:00",
-          "subject": "Merge pull request #311 from Dongyang-Mirae-University-software/fix/companion-remove-face-consent"
+          "date": "2026-11-20T18:38:24+09:00",
+          "subject": "Merge pull request #312 from Dongyang-Mirae-University-software/design/ward-119-109-round-buttons"
         },
-        "summary": "총 2080개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(325), 최근: Merge pull request #311 from Dongyang-Mirae-University-software/fix/companion-remove-face-consent"
+        "summary": "총 2082개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(326), 최근: Merge pull request #312 from Dongyang-Mirae-University-software/design/ward-119-109-round-buttons"
       },
       "recentFiles": [
         {
-          "path": "src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx",
-          "modifiedAt": "2026-11-20T09:16:14.804Z"
+          "path": "src/components/chatbot/ChatbotContent.browser.test.tsx",
+          "modifiedAt": "2026-11-20T09:38:42.487Z"
         },
         {
-          "path": "src/app/(ward)/ward/companion/_components/WardCompanionContent.module.css",
-          "modifiedAt": "2026-11-20T09:16:14.804Z"
+          "path": "src/components/chatbot/ChatbotContent.module.css",
+          "modifiedAt": "2026-11-20T09:38:42.487Z"
         },
         {
-          "path": "src/app/(ward)/ward/companion/_components/WardCompanionContent.tsx",
-          "modifiedAt": "2026-11-20T09:16:14.804Z"
+          "path": "src/components/chatbot/ChatbotContent.tsx",
+          "modifiedAt": "2026-11-20T09:38:42.487Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/detection/_components/AnomalyClipModal.tsx",
-          "modifiedAt": "2026-11-20T09:15:40.457Z"
+          "path": "src/components/emergency/Emergency119Dialpad.browser.test.tsx",
+          "modifiedAt": "2026-11-20T09:38:42.487Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/detection/_components/AnomalyHistoryContent.browser.test.tsx",
-          "modifiedAt": "2026-11-20T09:15:40.457Z"
+          "path": "src/components/emergency/Emergency119Dialpad.tsx",
+          "modifiedAt": "2026-11-20T09:38:42.487Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/detection/_components/clipFileCache.test.ts",
-          "modifiedAt": "2026-11-20T09:15:40.457Z"
+          "path": "src/service/interface/guardian/sosHistory.ts",
+          "modifiedAt": "2026-11-20T09:38:42.487Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/detection/_components/clipFileCache.ts",
-          "modifiedAt": "2026-11-20T09:15:40.457Z"
+          "path": "src/service/interface/ward/sos.ts",
+          "modifiedAt": "2026-11-20T09:38:42.487Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/detection/_components/clipThumbnail.ts",
-          "modifiedAt": "2026-11-20T09:15:40.457Z"
+          "path": "docs/(2026-11-20) design-ward-119-109-round-buttons.md",
+          "modifiedAt": "2026-11-20T09:38:42.483Z"
         }
       ],
       "summary": [
@@ -2889,8 +2889,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 2080",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(325)"
+        "Git 커밋 수: 2082",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(326)"
       ]
     },
     {
