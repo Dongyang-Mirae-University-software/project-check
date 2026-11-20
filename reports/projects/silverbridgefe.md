@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-21 04:37:00 KST
+- 점검 시각: 2026-11-21 05:07:06 KST
 
 ## 추정 기술 스택
 
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 2092
+- 총 커밋 수: 2094
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 656
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 331
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 332
   - gosky <gosky@gosky.kr>: 24
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: cb3ecc96 / namgung <skarndaudwls@gmail.com> / Merge pull request #317 from Dongyang-Mirae-University-software/fix/guardian-sos-history-mobile-overflow
+- 최근 커밋: e7de2e59 / namgung <skarndaudwls@gmail.com> / Merge pull request #318 from Dongyang-Mirae-University-software/fix/service-name-careai
 
 ## 최근 수정 파일
 
+- src/app/manifest.ts (2026-11-21 04:54:16 KST)
+- src/components/layout/dashboard/WardIdSharePanel.tsx (2026-11-21 04:54:16 KST)
 - src/app/(guardian)/guardian/sos/_components/GuardianSosHistoryContent.browser.test.tsx (2026-11-21 02:48:15 KST)
 - src/app/(guardian)/guardian/sos/_components/GuardianSosHistoryContent.module.css (2026-11-21 02:48:15 KST)
 - src/components/chatbot/ChatbotContent.browser.test.tsx (2026-11-20 22:31:35 KST)
 - src/components/chatbot/ChatbotContent.module.css (2026-11-20 22:31:35 KST)
 - src/components/chatbot/ChatbotContent.tsx (2026-11-20 22:31:35 KST)
 - src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx (2026-11-20 21:58:47 KST)
-- src/app/(ward)/ward/companion/_components/WardCompanionContent.module.css (2026-11-20 21:58:47 KST)
-- src/app/(ward)/ward/companion/_components/WardCompanionContent.tsx (2026-11-20 21:58:47 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 2092
-- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(331)
+- Git 커밋 수: 2094
+- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(332)
