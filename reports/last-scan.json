@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-21T17:12:01.779Z",
-  "generatedAtKst": "2026-11-22 02:12:01 KST",
+  "generatedAt": "2026-11-21T17:42:07.352Z",
+  "generatedAtKst": "2026-11-22 02:42:07 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9334
+          "count": 9335
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 17
         }
       ],
-      "count": 9402
+      "count": 9403
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2408
+          "count": 2411
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2497
+      "count": 2500
     },
     {
       "name": "YUNA0222",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9197,
+        "commitCount": 9198,
         "authors": [
           {
-            "count": 9197,
+            "count": 9198,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "a6d51f235",
+          "hash": "3dd03e2f7",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-22T01:42:00+09:00",
+          "date": "2026-11-22T02:12:05+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9197개 커밋, 상위 계정: gosky(9197), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9198개 커밋, 상위 계정: gosky(9198), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9197",
-        "Git 상위 계정: gosky(9197)"
+        "Git 커밋 수: 9198",
+        "Git 상위 계정: gosky(9198)"
       ]
     },
     {
@@ -2334,36 +2334,36 @@
       },
       "recentFiles": [
         {
-          "path": "app/services/medical_llm_service.py",
-          "modifiedAt": "2026-11-21T15:40:18.247Z"
-        },
-        {
-          "path": "tests/test_chat_answer_quality.py",
-          "modifiedAt": "2026-11-21T15:40:18.247Z"
-        },
-        {
-          "path": "tests/test_chat_remaining_risks_3.py",
-          "modifiedAt": "2026-11-21T15:40:18.247Z"
-        },
-        {
-          "path": "tests/test_chat_v8_care_drug_reason.py",
-          "modifiedAt": "2026-11-21T15:40:18.247Z"
-        },
-        {
           "path": "data/postgres/pg_wal/000000010000000000000009",
-          "modifiedAt": "2026-11-21T10:48:20.853Z"
+          "modifiedAt": "2026-11-21T17:18:27.325Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-11-21T10:48:12.446Z"
+          "modifiedAt": "2026-11-21T17:18:19.917Z"
         },
         {
-          "path": "data/postgres/base/16384/16515",
-          "modifiedAt": "2026-11-21T10:48:12.346Z"
+          "path": "data/postgres/base/16384/33564",
+          "modifiedAt": "2026-11-21T17:18:19.813Z"
         },
         {
-          "path": "data/postgres/base/16384/16514",
-          "modifiedAt": "2026-11-21T10:48:12.246Z"
+          "path": "data/postgres/base/16384/33193",
+          "modifiedAt": "2026-11-21T17:18:19.713Z"
+        },
+        {
+          "path": "data/postgres/base/16384/33191",
+          "modifiedAt": "2026-11-21T17:18:19.613Z"
+        },
+        {
+          "path": "data/postgres/base/16384/33188",
+          "modifiedAt": "2026-11-21T17:18:19.513Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32948",
+          "modifiedAt": "2026-11-21T17:18:19.413Z"
+        },
+        {
+          "path": "data/postgres/base/16384/32947",
+          "modifiedAt": "2026-11-21T17:18:19.313Z"
         }
       ],
       "summary": [
@@ -2468,7 +2468,7 @@
         }
       ],
       "structure": {
-        "fileCount": 385,
+        "fileCount": 387,
         "dirCount": 35,
         "mainFolders": [
           "db",
@@ -2564,10 +2564,10 @@
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 1874,
+        "commitCount": 1879,
         "authors": [
           {
-            "count": 1512,
+            "count": 1515,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2588,46 +2588,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "3a9b5f3f",
+          "hash": "b228093d",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-22T01:26:50+09:00",
-          "subject": "Merge pull request #517 from Dongyang-Mirae-University-software/fix/fallback-ward-name-elder"
+          "date": "2026-11-22T02:14:00+09:00",
+          "subject": "Merge pull request #518 from Dongyang-Mirae-University-software/fix/shutdown-order"
         },
-        "summary": "총 1874개 커밋, 상위 계정: skarndaudwls1(1512), skarndaudwls1(65), gosky(4), 최근: Merge pull request #517 from Dongyang-Mirae-University-software/fix/fallback-ward-name-elder"
+        "summary": "총 1879개 커밋, 상위 계정: skarndaudwls1(1515), skarndaudwls1(65), gosky(4), 최근: Merge pull request #518 from Dongyang-Mirae-University-software/fix/shutdown-order"
       },
       "recentFiles": [
         {
-          "path": "docs/progress.md",
-          "modifiedAt": "2026-11-21T16:08:17.542Z"
-        },
-        {
-          "path": "CLAUDE.md",
-          "modifiedAt": "2026-11-21T16:08:17.538Z"
-        },
-        {
-          "path": "docs/(2026-11-10) audit-full-2026-11-be-2.md",
-          "modifiedAt": "2026-11-21T16:08:17.538Z"
-        },
-        {
-          "path": "docs/(2026-11-21) fix-audit-full-2026-11-final.md",
-          "modifiedAt": "2026-11-21T16:08:17.538Z"
-        },
-        {
-          "path": "docs/(2026-11-22) audit-impact-final-audit-be.md",
-          "modifiedAt": "2026-11-21T16:08:17.538Z"
-        },
-        {
           "path": "docs/audit-index.md",
-          "modifiedAt": "2026-11-21T16:08:17.538Z"
+          "modifiedAt": "2026-11-21T17:17:57.034Z"
+        },
+        {
+          "path": "docs/progress.md",
+          "modifiedAt": "2026-11-21T17:17:57.034Z"
         },
         {
           "path": "src/main/resources/application.yaml",
-          "modifiedAt": "2026-11-21T09:48:36.022Z"
+          "modifiedAt": "2026-11-21T17:17:57.034Z"
         },
         {
-          "path": "docs/(2026-11-21) audit-full-2026-11-final.md",
-          "modifiedAt": "2026-11-21T09:48:36.018Z"
+          "path": "docker-compose.dev.yml",
+          "modifiedAt": "2026-11-21T17:17:57.030Z"
+        },
+        {
+          "path": "docker-compose.prod.yml",
+          "modifiedAt": "2026-11-21T17:17:57.030Z"
+        },
+        {
+          "path": "docs/(2026-11-21) fix-audit-full-2026-11-final.md",
+          "modifiedAt": "2026-11-21T17:17:57.030Z"
+        },
+        {
+          "path": "docs/(2026-11-22) audit-email-html-style-and-mail-headers.md",
+          "modifiedAt": "2026-11-21T17:17:57.030Z"
+        },
+        {
+          "path": "docs/(2026-11-22) fix-shutdown-order.md",
+          "modifiedAt": "2026-11-21T17:17:57.030Z"
         }
       ],
       "summary": [
@@ -2635,8 +2635,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1874",
-        "Git 상위 계정: skarndaudwls1(1512), skarndaudwls1(65), gosky(4)"
+        "Git 커밋 수: 1879",
+        "Git 상위 계정: skarndaudwls1(1515), skarndaudwls1(65), gosky(4)"
       ]
     },
     {
