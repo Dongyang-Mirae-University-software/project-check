@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-21 16:39:18 KST
+- 점검 시각: 2026-11-21 17:09:24 KST
 
 ## 추정 기술 스택
 
@@ -58,21 +58,21 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 2098
+- 총 커밋 수: 2100
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 656
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 334
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 335
   - gosky <gosky@gosky.kr>: 24
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: a413b04b / namgung <skarndaudwls@gmail.com> / Merge pull request #320 from Dongyang-Mirae-University-software/design/med-ocr-result-banner
+- 최근 커밋: e1d85a4e / namgung <skarndaudwls@gmail.com> / Merge pull request #321 from Dongyang-Mirae-University-software/design/med-ocr-result-hint
 
 ## 최근 수정 파일
 
-- src/app/(guardian)/guardian/medication/_components/MedicationAddModal.browser.test.tsx (2026-11-21 16:34:40 KST)
+- src/app/(guardian)/guardian/medication/_components/MedicationAddModal.tsx (2026-11-21 16:55:21 KST)
+- src/app/(guardian)/guardian/medication/_components/MedicationAddModal.browser.test.tsx (2026-11-21 16:55:21 KST)
 - src/app/(guardian)/guardian/medication/_components/MedicationAddModal.module.css (2026-11-21 16:34:40 KST)
-- src/app/(guardian)/guardian/medication/_components/MedicationAddModal.tsx (2026-11-21 16:34:40 KST)
 - src/app/(guardian)/guardian/sos/_components/GuardianSosHistoryContent.browser.test.tsx (2026-11-21 15:51:51 KST)
 - src/app/(guardian)/guardian/sos/_components/GuardianSosHistoryContent.module.css (2026-11-21 15:51:51 KST)
 - src/app/(guardian)/guardian/sos/_components/GuardianSosHistoryContent.tsx (2026-11-21 15:51:51 KST)
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 2098
-- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(334)
+- Git 커밋 수: 2100
+- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(335)
