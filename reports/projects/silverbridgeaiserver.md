@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-21 17:39:29 KST
+- 점검 시각: 2026-11-21 18:09:35 KST
 
 ## 추정 기술 스택
 
@@ -46,7 +46,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2333
+- 파일 개수: 2336
 - 디렉토리 개수: 106
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
 - 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/static, app/static/game, app/utils, models, models/companion, models/companion/face-detect, models/companion/face-emotion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b
@@ -67,26 +67,26 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 842
+- 총 커밋 수: 856
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 405
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 416
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 34
   - gosky <gosky@gosky.kr>: 22
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: dcc0f99 / namgung <skarndaudwls@gmail.com> / Merge pull request #334 from Dongyang-Mirae-University-software/feat/companion-reply-cc8b
+- 최근 커밋: 1797ad6 / namgung <skarndaudwls@gmail.com> / Merge pull request #337 from Dongyang-Mirae-University-software/fix/chat-quality-v8-judge
 
 ## 최근 수정 파일
 
-- data/companion_review.db (2026-11-21 16:08:21 KST)
-- .env (2026-11-21 15:41:24 KST)
-- .env.example (2026-11-21 11:31:34 KST)
-- app/core/config.py (2026-11-21 11:31:34 KST)
-- app/services/companion/reply_service.py (2026-11-21 11:31:34 KST)
-- docs/companion-contract.md (2026-11-21 11:31:34 KST)
-- docs/companion-quality-criteria.md (2026-11-21 11:31:34 KST)
-- docs/companion-team-status.md (2026-11-21 11:31:34 KST)
+- tests/eval/v8/holdout_a_v8.json (2026-11-21 17:46:59 KST)
+- tests/eval/v8/locked_manifest.json (2026-11-21 17:46:59 KST)
+- tests/test_chat_answer_quality_followup.py (2026-11-21 17:46:59 KST)
+- tests/test_chat_answer_quality.py (2026-11-21 17:46:59 KST)
+- tests/test_chat_v8_judge_fixes.py (2026-11-21 17:46:59 KST)
+- tests/test_companion_turn_mood_code.py (2026-11-21 17:46:59 KST)
+- tests/test_eval_v8_tools.py (2026-11-21 17:46:59 KST)
+- tests/test_final_audit_pr3.py (2026-11-21 17:46:59 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 842
-- Git 상위 계정: skarndaudwls1(405), gosky(37), Jaehe-he(34)
+- Git 커밋 수: 856
+- Git 상위 계정: skarndaudwls1(416), gosky(37), Jaehe-he(34)
