@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-22 01:11:52 KST
+- 점검 시각: 2026-11-22 01:41:58 KST
 
 ## 추정 기술 스택
 
@@ -58,18 +58,19 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 2108
+- 총 커밋 수: 2110
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 656
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 341
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 342
   - gosky <gosky@gosky.kr>: 24
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: bf505089 / namgung <skarndaudwls@gmail.com> / Merge pull request #323 from Dongyang-Mirae-University-software/design/unify-elder-term
+- 최근 커밋: 231ffcc5 / namgung <skarndaudwls@gmail.com> / Merge pull request #324 from Dongyang-Mirae-University-software/test/admin-ai-search-flaky
 
 ## 최근 수정 파일
 
+- src/app/(admin)/admin/_components/AdminAiStatsContent.browser.test.tsx (2026-11-22 01:34:54 KST)
 - src/utils/connection/connectionView.ts (2026-11-22 01:08:54 KST)
 - src/utils/dashboard/realtime.test.ts (2026-11-22 01:08:54 KST)
 - src/utils/dashboard/realtime.ts (2026-11-22 01:08:54 KST)
@@ -77,7 +78,6 @@
 - src/utils/medication/ocrImage.ts (2026-11-22 01:08:54 KST)
 - src/utils/reservation/reservationView.test.ts (2026-11-22 01:08:54 KST)
 - src/utils/reservation/reservationView.ts (2026-11-22 01:08:54 KST)
-- src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.tsx (2026-11-22 01:08:54 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 2108
-- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(341)
+- Git 커밋 수: 2110
+- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(342)
