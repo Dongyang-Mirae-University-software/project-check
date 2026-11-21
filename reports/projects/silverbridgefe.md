@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-21 17:09:24 KST
+- 점검 시각: 2026-11-21 17:39:30 KST
 
 ## 추정 기술 스택
 
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 2100
+- 총 커밋 수: 2106
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 656
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 335
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 340
   - gosky <gosky@gosky.kr>: 24
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: e1d85a4e / namgung <skarndaudwls@gmail.com> / Merge pull request #321 from Dongyang-Mirae-University-software/design/med-ocr-result-hint
+- 최근 커밋: 799e7349 / namgung <skarndaudwls@gmail.com> / Merge pull request #322 from Dongyang-Mirae-University-software/fix/audit-full-2026-11-final
 
 ## 최근 수정 파일
 
+- public/push-sw-logic.js (2026-11-21 17:33:31 KST)
+- src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx (2026-11-21 17:33:31 KST)
+- src/app/(ward)/ward/companion/_components/WardCompanionContent.tsx (2026-11-21 17:33:31 KST)
+- src/components/PushNotificationListener.kind.test.ts (2026-11-21 17:33:31 KST)
+- src/components/PushNotificationListener.kind.ts (2026-11-21 17:33:31 KST)
+- src/service/interface/guardian/companion.ts (2026-11-21 17:33:31 KST)
+- src/service/interface/ward/companion.ts (2026-11-21 17:33:31 KST)
 - src/app/(guardian)/guardian/medication/_components/MedicationAddModal.tsx (2026-11-21 16:55:21 KST)
-- src/app/(guardian)/guardian/medication/_components/MedicationAddModal.browser.test.tsx (2026-11-21 16:55:21 KST)
-- src/app/(guardian)/guardian/medication/_components/MedicationAddModal.module.css (2026-11-21 16:34:40 KST)
-- src/app/(guardian)/guardian/sos/_components/GuardianSosHistoryContent.browser.test.tsx (2026-11-21 15:51:51 KST)
-- src/app/(guardian)/guardian/sos/_components/GuardianSosHistoryContent.module.css (2026-11-21 15:51:51 KST)
-- src/app/(guardian)/guardian/sos/_components/GuardianSosHistoryContent.tsx (2026-11-21 15:51:51 KST)
-- src/app/manifest.ts (2026-11-21 04:54:16 KST)
-- src/components/layout/dashboard/WardIdSharePanel.tsx (2026-11-21 04:54:16 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 2100
-- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(335)
+- Git 커밋 수: 2106
+- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(340)
