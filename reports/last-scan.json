@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-22T13:45:57.788Z",
-  "generatedAtKst": "2026-11-22 22:45:57 KST",
+  "generatedAt": "2026-11-22T14:16:03.423Z",
+  "generatedAtKst": "2026-11-22 23:16:03 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9375
+          "count": 9376
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 17
         }
       ],
-      "count": 9443
+      "count": 9444
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2423
+          "count": 2424
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2512
+      "count": 2513
     },
     {
       "name": "YUNA0222",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9238,
+        "commitCount": 9239,
         "authors": [
           {
-            "count": 9238,
+            "count": 9239,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "6ca14541c",
+          "hash": "7682698cf",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-22T22:15:55+09:00",
+          "date": "2026-11-22T22:46:01+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9238개 커밋, 상위 계정: gosky(9238), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9239개 커밋, 상위 계정: gosky(9239), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9238",
-        "Git 상위 계정: gosky(9238)"
+        "Git 커밋 수: 9239",
+        "Git 상위 계정: gosky(9239)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 5 minutes",
+            "status": "Up 35 minutes",
             "ports": ""
           }
         ],
@@ -2252,7 +2252,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 5 minutes",
+            "status": "Up 35 minutes",
             "ports": ""
           }
         ],
@@ -2334,6 +2334,10 @@
       },
       "recentFiles": [
         {
+          "path": "data/companion_review.db",
+          "modifiedAt": "2026-11-22T13:57:46.910Z"
+        },
+        {
           "path": "tests/test_companion_reply_relax_calm.py",
           "modifiedAt": "2026-11-22T13:39:34.212Z"
         },
@@ -2359,10 +2363,6 @@
         },
         {
           "path": "app/services/companion/avoidance.py",
-          "modifiedAt": "2026-11-22T13:39:34.208Z"
-        },
-        {
-          "path": "app/services/companion/pipeline.py",
           "modifiedAt": "2026-11-22T13:39:34.208Z"
         }
       ],
@@ -2811,7 +2811,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 2112,
+        "commitCount": 2114,
         "authors": [
           {
             "count": 1400,
@@ -2824,7 +2824,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 343,
+            "count": 344,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2845,15 +2845,23 @@
           }
         ],
         "latestCommit": {
-          "hash": "10bb3378",
+          "hash": "ffbad74b",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-22T14:35:11+09:00",
-          "subject": "Merge pull request #325 from Dongyang-Mirae-University-software/fix/ward-camera-view-full-width"
+          "date": "2026-11-22T22:46:41+09:00",
+          "subject": "Merge pull request #326 from Dongyang-Mirae-University-software/fix/companion-bottom-clip"
         },
-        "summary": "총 2112개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(343), 최근: Merge pull request #325 from Dongyang-Mirae-University-software/fix/ward-camera-view-full-width"
+        "summary": "총 2114개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(344), 최근: Merge pull request #326 from Dongyang-Mirae-University-software/fix/companion-bottom-clip"
       },
       "recentFiles": [
+        {
+          "path": "src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx",
+          "modifiedAt": "2026-11-22T13:47:02.907Z"
+        },
+        {
+          "path": "src/app/(ward)/ward/companion/_components/WardCompanionContent.tsx",
+          "modifiedAt": "2026-11-22T13:47:02.907Z"
+        },
         {
           "path": "src/app/(ward)/ward/camera/_components/CameraRegisterModal.module.css",
           "modifiedAt": "2026-11-22T05:35:16.583Z"
@@ -2877,14 +2885,6 @@
         {
           "path": "src/utils/dashboard/realtime.ts",
           "modifiedAt": "2026-11-21T16:08:54.006Z"
-        },
-        {
-          "path": "src/utils/medication/ocrImage.test.ts",
-          "modifiedAt": "2026-11-21T16:08:54.006Z"
-        },
-        {
-          "path": "src/utils/medication/ocrImage.ts",
-          "modifiedAt": "2026-11-21T16:08:54.006Z"
         }
       ],
       "summary": [
@@ -2892,8 +2892,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 2112",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(343)"
+        "Git 커밋 수: 2114",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(344)"
       ]
     },
     {
