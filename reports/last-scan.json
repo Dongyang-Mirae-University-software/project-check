@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-22T05:14:20.479Z",
-  "generatedAtKst": "2026-11-22 14:14:20 KST",
+  "generatedAt": "2026-11-22T05:44:26.341Z",
+  "generatedAtKst": "2026-11-22 14:44:26 KST",
   "summary": {
     "total": 23,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9358
+          "count": 9359
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 17
         }
       ],
-      "count": 9426
+      "count": 9427
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2411
+          "count": 2412
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2500
+      "count": 2501
     },
     {
       "name": "YUNA0222",
@@ -1627,22 +1627,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9221,
+        "commitCount": 9222,
         "authors": [
           {
-            "count": 9221,
+            "count": 9222,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "4fdd2af08",
+          "hash": "c2bda0d25",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-22T13:44:18+09:00",
+          "date": "2026-11-22T14:14:24+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9221개 커밋, 상위 계정: gosky(9221), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9222개 커밋, 상위 계정: gosky(9222), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1683,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9221",
-        "Git 상위 계정: gosky(9221)"
+        "Git 커밋 수: 9222",
+        "Git 상위 계정: gosky(9222)"
       ]
     },
     {
@@ -2007,7 +2007,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 14 hours",
+            "status": "Up 22 minutes",
             "ports": ""
           }
         ],
@@ -2252,7 +2252,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 14 hours",
+            "status": "Up 22 minutes",
             "ports": ""
           }
         ],
@@ -2733,7 +2733,7 @@
         }
       ],
       "structure": {
-        "fileCount": 859,
+        "fileCount": 860,
         "dirCount": 160,
         "mainFolders": [
           "docs",
@@ -2811,7 +2811,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 2110,
+        "commitCount": 2112,
         "authors": [
           {
             "count": 1400,
@@ -2824,7 +2824,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 342,
+            "count": 343,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2845,15 +2845,23 @@
           }
         ],
         "latestCommit": {
-          "hash": "231ffcc5",
+          "hash": "10bb3378",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-22T01:34:50+09:00",
-          "subject": "Merge pull request #324 from Dongyang-Mirae-University-software/test/admin-ai-search-flaky"
+          "date": "2026-11-22T14:35:11+09:00",
+          "subject": "Merge pull request #325 from Dongyang-Mirae-University-software/fix/ward-camera-view-full-width"
         },
-        "summary": "총 2110개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(342), 최근: Merge pull request #324 from Dongyang-Mirae-University-software/test/admin-ai-search-flaky"
+        "summary": "총 2112개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(343), 최근: Merge pull request #325 from Dongyang-Mirae-University-software/fix/ward-camera-view-full-width"
       },
       "recentFiles": [
+        {
+          "path": "src/app/(ward)/ward/camera/_components/CameraRegisterModal.module.css",
+          "modifiedAt": "2026-11-22T05:35:16.583Z"
+        },
+        {
+          "path": "src/app/(ward)/ward/camera/_components/CameraViewLayout.browser.test.tsx",
+          "modifiedAt": "2026-11-22T05:35:16.583Z"
+        },
         {
           "path": "src/app/(admin)/admin/_components/AdminAiStatsContent.browser.test.tsx",
           "modifiedAt": "2026-11-21T16:34:54.909Z"
@@ -2877,14 +2885,6 @@
         {
           "path": "src/utils/medication/ocrImage.ts",
           "modifiedAt": "2026-11-21T16:08:54.006Z"
-        },
-        {
-          "path": "src/utils/reservation/reservationView.test.ts",
-          "modifiedAt": "2026-11-21T16:08:54.006Z"
-        },
-        {
-          "path": "src/utils/reservation/reservationView.ts",
-          "modifiedAt": "2026-11-21T16:08:54.006Z"
         }
       ],
       "summary": [
@@ -2892,8 +2892,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 2110",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(342)"
+        "Git 커밋 수: 2112",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(343)"
       ]
     },
     {
