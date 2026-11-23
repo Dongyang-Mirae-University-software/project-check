@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-23T08:49:44.975Z",
-  "generatedAtKst": "2026-11-23 17:49:44 KST",
+  "generatedAt": "2026-11-23T09:19:50.762Z",
+  "generatedAtKst": "2026-11-23 18:19:50 KST",
   "summary": {
     "total": 24,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9413
+          "count": 9414
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 17
         }
       ],
-      "count": 9481
+      "count": 9482
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2445
+          "count": 2446
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2534
+      "count": 2535
     },
     {
       "name": "YUNA0222",
@@ -1762,22 +1762,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9276,
+        "commitCount": 9277,
         "authors": [
           {
-            "count": 9276,
+            "count": 9277,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "0080c57fd",
+          "hash": "e5a483ae3",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-23T17:19:43+09:00",
+          "date": "2026-11-23T17:49:49+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9276개 커밋, 상위 계정: gosky(9276), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9277개 커밋, 상위 계정: gosky(9277), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1818,8 +1818,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9276",
-        "Git 상위 계정: gosky(9276)"
+        "Git 커밋 수: 9277",
+        "Git 상위 계정: gosky(9277)"
       ]
     },
     {
@@ -2946,7 +2946,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 2132,
+        "commitCount": 2134,
         "authors": [
           {
             "count": 1400,
@@ -2959,7 +2959,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 351,
+            "count": 352,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2980,15 +2980,27 @@
           }
         ],
         "latestCommit": {
-          "hash": "30e4585a",
+          "hash": "6d55c8ac",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-23T17:32:43+09:00",
-          "subject": "Merge pull request #335 from Dongyang-Mirae-University-software/fix/companion-voice-unavailable-notice"
+          "date": "2026-11-23T18:03:20+09:00",
+          "subject": "Merge pull request #336 from Dongyang-Mirae-University-software/fix/companion-leave-finish-hospital-title"
         },
-        "summary": "총 2132개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(351), 최근: Merge pull request #335 from Dongyang-Mirae-University-software/fix/companion-voice-unavailable-notice"
+        "summary": "총 2134개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(352), 최근: Merge pull request #336 from Dongyang-Mirae-University-software/fix/companion-leave-finish-hospital-title"
       },
       "recentFiles": [
+        {
+          "path": "src/components/chatbot/ChatToolCard.browser.test.tsx",
+          "modifiedAt": "2026-11-23T09:03:24.260Z"
+        },
+        {
+          "path": "src/components/chatbot/ChatToolCard.tsx",
+          "modifiedAt": "2026-11-23T09:03:24.260Z"
+        },
+        {
+          "path": "src/components/chatbot/hospitalListView.ts",
+          "modifiedAt": "2026-11-23T09:03:24.260Z"
+        },
         {
           "path": "src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx",
           "modifiedAt": "2026-11-23T08:33:15.461Z"
@@ -3008,18 +3020,6 @@
         {
           "path": "src/utils/companion/companionVoiceNotice.test.ts",
           "modifiedAt": "2026-11-23T08:33:15.461Z"
-        },
-        {
-          "path": "src/utils/companion/companionVoiceNotice.ts",
-          "modifiedAt": "2026-11-23T08:33:15.461Z"
-        },
-        {
-          "path": "src/app/(admin)/admin/_components/AdminAiStatsContent.browser.test.tsx",
-          "modifiedAt": "2026-11-23T08:25:06.481Z"
-        },
-        {
-          "path": "src/app/(admin)/admin/_components/AdminAiStatsContent.tsx",
-          "modifiedAt": "2026-11-23T08:25:06.481Z"
         }
       ],
       "summary": [
@@ -3027,8 +3027,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 2132",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(351)"
+        "Git 커밋 수: 2134",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(352)"
       ]
     },
     {
