@@ -1,11 +1,12 @@
 # 실행 상태
 
-- 스캔 시각: 2026-11-23 15:49:25 KST
+- 스캔 시각: 2026-11-23 16:19:30 KST
 
 | 프로젝트 | 분류 | 실행 상태 | PM2 | Docker | 포트 |
 | --- | --- | --- | --- | --- | --- |
 | 자료 | 기타 | 확인 불가 | 확인 불가 | 확인 불가 | 확인 불가 |
 | AiSilverBridgeSky | AI 서버 | 실행 중 | 확인 불가 | 확인 불가 | 1280, 3099, 4306, 4747, 8000, 14122 |
+| backups | 기타 | 확인 불가 | 확인 불가 | 확인 불가 | 확인 불가 |
 | CharacterAi | AI 서버 | 정지 | 확인 불가 | 확인 불가 | 확인 불가 |
 | ChatSilverBridge | AI 서버 | 실행 중 | 확인 불가 | chatsilverbridge-api-1, chatsilverbridge-mysql-1, chatsilverbridgetest-web-1 | 8010, 8090 |
 | ChatSilverBridge-deploy | DB | 실행 중 | 확인 불가 | 확인 불가 | 3306, 3307, 6012, 6015, 6516 |
@@ -32,6 +33,7 @@
 
 - 자료: 정지 또는 확인 불가
 - AiSilverBridgeSky: 실행 중 / PM2 없음 / Docker 없음 / 포트 8000
+- backups: 정지 또는 확인 불가
 - CharacterAi: 정지 또는 확인 불가
 - ChatSilverBridge: 실행 중 / PM2 없음 / Docker 3개 / 포트 확인 불가
 - ChatSilverBridge-deploy: 실행 중 / PM2 없음 / Docker 없음 / 포트 3306, 3307, 6012, 6015, 6516

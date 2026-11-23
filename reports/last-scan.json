@@ -1,17 +1,17 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-23T06:49:21.196Z",
-  "generatedAtKst": "2026-11-23 15:49:21 KST",
+  "generatedAt": "2026-11-23T07:19:26.932Z",
+  "generatedAtKst": "2026-11-23 16:19:26 KST",
   "summary": {
-    "total": 23,
+    "total": 24,
     "frontend": 4,
     "backend": 9,
     "ai": 6,
     "db": 10,
     "gitRepos": 16,
     "running": 17,
-    "stopped": 6
+    "stopped": 7
   },
   "gitAuthors": [
     {
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9409
+          "count": 9410
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 17
         }
       ],
-      "count": 9477
+      "count": 9478
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2436
+          "count": 2439
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2525
+      "count": 2528
     },
     {
       "name": "YUNA0222",
@@ -85,10 +85,10 @@
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 11
+          "count": 10
         }
       ],
-      "count": 11
+      "count": 10
     },
     {
       "name": "AI 말벗 담당",
@@ -475,6 +475,141 @@
         "실행 상태: 실행 중",
         "Git 커밋 수: 2",
         "Git 상위 계정: gosky(8), gosky(1)"
+      ]
+    },
+    {
+      "projectName": "backups",
+      "projectPath": "/home/apps/SilverBridgeSky/backups",
+      "classification": "기타",
+      "stack": [
+        "확인 불가"
+      ],
+      "mainFiles": [
+        {
+          "file": "package.json",
+          "exists": false
+        },
+        {
+          "file": "vite.config.js",
+          "exists": false
+        },
+        {
+          "file": "vite.config.ts",
+          "exists": false
+        },
+        {
+          "file": "vite.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "vite.config.cjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.js",
+          "exists": false
+        },
+        {
+          "file": "next.config.mjs",
+          "exists": false
+        },
+        {
+          "file": "next.config.ts",
+          "exists": false
+        },
+        {
+          "file": "requirements.txt",
+          "exists": false
+        },
+        {
+          "file": "pyproject.toml",
+          "exists": false
+        },
+        {
+          "file": "Dockerfile",
+          "exists": false
+        },
+        {
+          "file": "docker-compose.yml",
+          "exists": false
+        },
+        {
+          "file": "docker-compose.yaml",
+          "exists": false
+        },
+        {
+          "file": "compose.yml",
+          "exists": false
+        },
+        {
+          "file": "compose.yaml",
+          "exists": false
+        },
+        {
+          "file": ".env.example",
+          "exists": false
+        },
+        {
+          "file": ".env",
+          "exists": false
+        },
+        {
+          "file": "pom.xml",
+          "exists": false
+        },
+        {
+          "file": "build.gradle",
+          "exists": false
+        },
+        {
+          "file": "build.gradle.kts",
+          "exists": false
+        }
+      ],
+      "structure": {
+        "fileCount": 1,
+        "dirCount": 0,
+        "mainFolders": [],
+        "majorPaths": []
+      },
+      "database": {
+        "used": false,
+        "types": [],
+        "clueFiles": [],
+        "evidence": [],
+        "summary": "DB 사용 흔적 없음"
+      },
+      "runtime": {
+        "status": "확인 불가",
+        "running": false,
+        "pm2": [],
+        "docker": [],
+        "ports": [],
+        "allCandidatePorts": [],
+        "summary": [
+          "정지 또는 확인 불가"
+        ]
+      },
+      "git": {
+        "isRepo": false,
+        "branch": "확인 불가",
+        "commitCount": null,
+        "authors": [],
+        "latestCommit": null,
+        "summary": "Git 저장소 아님"
+      },
+      "recentFiles": [
+        {
+          "path": "prod-20261123-before.sql.gz",
+          "modifiedAt": "2026-11-23T07:13:22.824Z"
+        }
+      ],
+      "summary": [
+        "분류: 기타",
+        "기술 추정: 확인 불가",
+        "DB 사용 흔적 없음",
+        "실행 상태: 확인 불가",
+        "Git 저장소: 아님"
       ]
     },
     {
@@ -1627,22 +1762,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9272,
+        "commitCount": 9273,
         "authors": [
           {
-            "count": 9272,
+            "count": 9273,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "9a11b9fd6",
+          "hash": "3e2ef66b9",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-23T15:19:14+09:00",
+          "date": "2026-11-23T15:49:25+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9272개 커밋, 상위 계정: gosky(9272), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9273개 커밋, 상위 계정: gosky(9273), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1683,8 +1818,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9272",
-        "Git 상위 계정: gosky(9272)"
+        "Git 커밋 수: 9273",
+        "Git 상위 계정: gosky(9273)"
       ]
     },
     {
@@ -2293,7 +2428,7 @@
         "commitCount": 875,
         "authors": [
           {
-            "count": 426,
+            "count": 425,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2313,7 +2448,7 @@
             "email": "gosky@gosky.kr"
           },
           {
-            "count": 11,
+            "count": 10,
             "name": "namgung",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2330,40 +2465,40 @@
           "date": "2026-11-23T13:55:31+09:00",
           "subject": "Merge pull request #344 from Dongyang-Mirae-University-software/fix/headache-goodnews-avoidance-self"
         },
-        "summary": "총 875개 커밋, 상위 계정: skarndaudwls1(426), gosky(37), Jaehe-he(34), 최근: Merge pull request #344 from Dongyang-Mirae-University-software/fix/headache-goodnews-avoidance-self"
+        "summary": "총 875개 커밋, 상위 계정: skarndaudwls1(425), gosky(37), Jaehe-he(34), 최근: Merge pull request #344 from Dongyang-Mirae-University-software/fix/headache-goodnews-avoidance-self"
       },
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000009",
-          "modifiedAt": "2026-11-23T05:29:06.573Z"
+          "modifiedAt": "2026-11-23T07:19:11.410Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-11-23T05:29:02.569Z"
+          "modifiedAt": "2026-11-23T07:19:06.806Z"
         },
         {
           "path": "data/postgres/base/16384/33564",
-          "modifiedAt": "2026-11-23T05:29:02.469Z"
+          "modifiedAt": "2026-11-23T07:19:06.698Z"
+        },
+        {
+          "path": "data/postgres/base/16384/33193",
+          "modifiedAt": "2026-11-23T07:19:06.598Z"
+        },
+        {
+          "path": "data/postgres/base/16384/33191",
+          "modifiedAt": "2026-11-23T07:19:06.498Z"
+        },
+        {
+          "path": "data/postgres/base/16384/33188",
+          "modifiedAt": "2026-11-23T07:19:06.394Z"
         },
         {
           "path": "data/postgres/base/16384/32948",
-          "modifiedAt": "2026-11-23T05:29:02.369Z"
+          "modifiedAt": "2026-11-23T07:19:06.294Z"
         },
         {
           "path": "data/postgres/base/16384/32947",
-          "modifiedAt": "2026-11-23T05:29:02.265Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32946",
-          "modifiedAt": "2026-11-23T05:29:02.065Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32945",
-          "modifiedAt": "2026-11-23T05:29:01.965Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32935_vm",
-          "modifiedAt": "2026-11-23T05:29:01.865Z"
+          "modifiedAt": "2026-11-23T07:19:06.194Z"
         }
       ],
       "summary": [
@@ -2372,7 +2507,7 @@
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
         "Git 커밋 수: 875",
-        "Git 상위 계정: skarndaudwls1(426), gosky(37), Jaehe-he(34)"
+        "Git 상위 계정: skarndaudwls1(425), gosky(37), Jaehe-he(34)"
       ]
     },
     {
@@ -2468,7 +2603,7 @@
         }
       ],
       "structure": {
-        "fileCount": 390,
+        "fileCount": 400,
         "dirCount": 35,
         "mainFolders": [
           "db",
@@ -2564,10 +2699,10 @@
       "git": {
         "isRepo": true,
         "branch": "dev",
-        "commitCount": 1888,
+        "commitCount": 1899,
         "authors": [
           {
-            "count": 1522,
+            "count": 1528,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2588,46 +2723,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "a69d8c3e",
-          "author": "namgung",
+          "hash": "e7ac5e1a",
+          "author": "skarndaudwls1",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-22T17:30:20+09:00",
-          "subject": "Merge pull request #520 from Dongyang-Mirae-University-software/test/shutdown-counter-guard"
+          "date": "2026-11-23T14:11:55+09:00",
+          "subject": "docs: AI #344 벼락두통 좋은 소식·회피 경계 건너기 보정 기능 점검 (PASS, 잔여 🟡 3)"
         },
-        "summary": "총 1888개 커밋, 상위 계정: skarndaudwls1(1522), skarndaudwls1(65), gosky(4), 최근: Merge pull request #520 from Dongyang-Mirae-University-software/test/shutdown-counter-guard"
+        "summary": "총 1899개 커밋, 상위 계정: skarndaudwls1(1528), skarndaudwls1(65), gosky(4), 최근: docs: AI #344 벼락두통 좋은 소식·회피 경계 건너기 보정 기능 점검 (PASS, 잔여 🟡 3)"
       },
       "recentFiles": [
         {
-          "path": "docs/progress.md",
-          "modifiedAt": "2026-11-22T08:34:29.101Z"
-        },
-        {
-          "path": "docs/(2026-11-22) audit-shutdown-order-hardening.md",
-          "modifiedAt": "2026-11-22T08:34:29.097Z"
-        },
-        {
-          "path": "docs/(2026-11-22) fix-shutdown-order-hardening.md",
-          "modifiedAt": "2026-11-22T08:34:29.097Z"
-        },
-        {
-          "path": "docs/(2026-11-22) fix-shutdown-order.md",
-          "modifiedAt": "2026-11-22T08:34:29.097Z"
-        },
-        {
           "path": "docs/audit-index.md",
-          "modifiedAt": "2026-11-22T08:34:29.097Z"
+          "modifiedAt": "2026-11-23T07:13:28.967Z"
         },
         {
-          "path": "docs/(2026-11-22) audit-shutdown-order.md",
-          "modifiedAt": "2026-11-22T07:25:17.326Z"
+          "path": "docs/progress.md",
+          "modifiedAt": "2026-11-23T07:13:28.967Z"
         },
         {
-          "path": "src/main/resources/application.yaml",
-          "modifiedAt": "2026-11-21T17:17:57.034Z"
+          "path": "docs/(2026-11-22) audit-ai-final-fixes-335-336.md",
+          "modifiedAt": "2026-11-23T07:13:28.963Z"
         },
         {
-          "path": "docker-compose.dev.yml",
-          "modifiedAt": "2026-11-21T17:17:57.030Z"
+          "path": "docs/(2026-11-22) audit-ai-headache-avoidance-340.md",
+          "modifiedAt": "2026-11-23T07:13:28.963Z"
+        },
+        {
+          "path": "docs/(2026-11-22) audit-fe-final-fixes-322.md",
+          "modifiedAt": "2026-11-23T07:13:28.963Z"
+        },
+        {
+          "path": "docs/(2026-11-22) fix-headache-avoidance-regression.md",
+          "modifiedAt": "2026-11-23T07:13:28.963Z"
+        },
+        {
+          "path": "docs/(2026-11-23) audit-ai-avoidance-clause-343.md",
+          "modifiedAt": "2026-11-23T07:13:28.963Z"
+        },
+        {
+          "path": "docs/(2026-11-23) audit-ai-goodnews-avoidance-self-344.md",
+          "modifiedAt": "2026-11-23T07:13:28.963Z"
         }
       ],
       "summary": [
@@ -2635,8 +2770,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1888",
-        "Git 상위 계정: skarndaudwls1(1522), skarndaudwls1(65), gosky(4)"
+        "Git 커밋 수: 1899",
+        "Git 상위 계정: skarndaudwls1(1528), skarndaudwls1(65), gosky(4)"
       ]
     },
     {
@@ -2824,7 +2959,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 351,
+            "count": 349,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2851,7 +2986,7 @@
           "date": "2026-11-23T14:12:39+09:00",
           "subject": "Merge pull request #333 from Dongyang-Mirae-University-software/design/chatbot-hospital-list-compact"
         },
-        "summary": "총 2128개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(351), 최근: Merge pull request #333 from Dongyang-Mirae-University-software/design/chatbot-hospital-list-compact"
+        "summary": "총 2128개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(349), 최근: Merge pull request #333 from Dongyang-Mirae-University-software/design/chatbot-hospital-list-compact"
       },
       "recentFiles": [
         {
@@ -2893,7 +3028,7 @@
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
         "Git 커밋 수: 2128",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(351)"
+        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(349)"
       ]
     },
     {

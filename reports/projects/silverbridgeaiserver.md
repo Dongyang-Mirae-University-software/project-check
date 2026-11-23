@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-23 15:49:23 KST
+- 점검 시각: 2026-11-23 16:19:29 KST
 
 ## 추정 기술 스택
 
@@ -69,24 +69,24 @@
 - 브랜치: main
 - 총 커밋 수: 875
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 426
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 425
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 34
   - gosky <gosky@gosky.kr>: 22
-  - namgung <skarndaudwls@gmail.com>: 11
+  - namgung <skarndaudwls@gmail.com>: 10
   - AI 말벗 담당 <ai-part@local>: 5
 - 최근 커밋: ddfcaa1 / namgung <skarndaudwls@gmail.com> / Merge pull request #344 from Dongyang-Mirae-University-software/fix/headache-goodnews-avoidance-self
 
 ## 최근 수정 파일
 
-- data/postgres/pg_wal/000000010000000000000009 (2026-11-23 14:29:06 KST)
-- data/postgres/global/pg_control (2026-11-23 14:29:02 KST)
-- data/postgres/base/16384/33564 (2026-11-23 14:29:02 KST)
-- data/postgres/base/16384/32948 (2026-11-23 14:29:02 KST)
-- data/postgres/base/16384/32947 (2026-11-23 14:29:02 KST)
-- data/postgres/base/16384/32946 (2026-11-23 14:29:02 KST)
-- data/postgres/base/16384/32945 (2026-11-23 14:29:01 KST)
-- data/postgres/base/16384/32935_vm (2026-11-23 14:29:01 KST)
+- data/postgres/pg_wal/000000010000000000000009 (2026-11-23 16:19:11 KST)
+- data/postgres/global/pg_control (2026-11-23 16:19:06 KST)
+- data/postgres/base/16384/33564 (2026-11-23 16:19:06 KST)
+- data/postgres/base/16384/33193 (2026-11-23 16:19:06 KST)
+- data/postgres/base/16384/33191 (2026-11-23 16:19:06 KST)
+- data/postgres/base/16384/33188 (2026-11-23 16:19:06 KST)
+- data/postgres/base/16384/32948 (2026-11-23 16:19:06 KST)
+- data/postgres/base/16384/32947 (2026-11-23 16:19:06 KST)
 
 ## 점검 결과 요약
 
@@ -95,4 +95,4 @@
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
 - Git 커밋 수: 875
-- Git 상위 계정: skarndaudwls1(426), gosky(37), Jaehe-he(34)
+- Git 상위 계정: skarndaudwls1(425), gosky(37), Jaehe-he(34)
