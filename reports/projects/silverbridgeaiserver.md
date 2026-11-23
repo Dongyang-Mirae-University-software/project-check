@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-23 11:18:26 KST
+- 점검 시각: 2026-11-23 11:48:31 KST
 
 ## 추정 기술 스택
 
@@ -67,26 +67,26 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 865
+- 총 커밋 수: 867
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 421
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 422
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 34
   - gosky <gosky@gosky.kr>: 22
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: 4d5c767 / namgung <skarndaudwls@gmail.com> / Merge pull request #340 from Dongyang-Mirae-University-software/fix/headache-avoidance-regression
+- 최근 커밋: fd15bf7 / namgung <skarndaudwls@gmail.com> / Merge pull request #341 from Dongyang-Mirae-University-software/fix/headache-avoidance-followup
 
 ## 최근 수정 파일
 
+- app/services/chat_keywords.py (2026-11-23 11:18:47 KST)
+- app/services/companion/avoidance.py (2026-11-23 11:18:47 KST)
+- tests/test_headache_avoidance_regression.py (2026-11-23 11:18:47 KST)
 - data/companion_review.db (2026-11-22 22:57:46 KST)
 - tests/test_companion_reply_relax_calm.py (2026-11-22 22:39:34 KST)
 - tests/test_companion_reply_strict.py (2026-11-22 22:39:34 KST)
-- tests/test_headache_avoidance_regression.py (2026-11-22 22:39:34 KST)
 - .env.example (2026-11-22 22:39:34 KST)
 - app/core/config.py (2026-11-22 22:39:34 KST)
-- app/services/chat_keywords.py (2026-11-22 22:39:34 KST)
-- app/services/companion/avoidance.py (2026-11-22 22:39:34 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 865
-- Git 상위 계정: skarndaudwls1(421), gosky(37), Jaehe-he(34)
+- Git 커밋 수: 867
+- Git 상위 계정: skarndaudwls1(422), gosky(37), Jaehe-he(34)
