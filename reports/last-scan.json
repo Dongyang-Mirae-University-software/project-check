@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-23T14:50:57.236Z",
-  "generatedAtKst": "2026-11-23 23:50:57 KST",
+  "generatedAt": "2026-11-23T15:21:03.109Z",
+  "generatedAtKst": "2026-11-24 24:21:03 KST",
   "summary": {
     "total": 24,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9425
+          "count": 9426
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 17
         }
       ],
-      "count": 9493
+      "count": 9494
     },
     {
       "name": "skarndaudwls1",
@@ -1762,22 +1762,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9288,
+        "commitCount": 9289,
         "authors": [
           {
-            "count": 9288,
+            "count": 9289,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "ac8b5dbf4",
+          "hash": "824f022ac",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-23T23:20:55+09:00",
+          "date": "2026-11-23T23:51:01+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9288개 커밋, 상위 계정: gosky(9288), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9289개 커밋, 상위 계정: gosky(9289), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1818,8 +1818,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9288",
-        "Git 상위 계정: gosky(9288)"
+        "Git 커밋 수: 9289",
+        "Git 상위 계정: gosky(9289)"
       ]
     },
     {
@@ -2868,7 +2868,7 @@
         }
       ],
       "structure": {
-        "fileCount": 865,
+        "fileCount": 870,
         "dirCount": 160,
         "mainFolders": [
           "docs",
@@ -2991,35 +2991,35 @@
       "recentFiles": [
         {
           "path": "src/components/PushNotificationListener.tsx",
-          "modifiedAt": "2026-11-23T14:47:55.274Z"
+          "modifiedAt": "2026-11-23T15:20:18.780Z"
         },
         {
-          "path": "public/question-arrived.mp3",
-          "modifiedAt": "2026-11-23T14:46:04.000Z"
+          "path": "public/question-arrived.wav",
+          "modifiedAt": "2026-11-23T15:18:59.000Z"
+        },
+        {
+          "path": "public/q-2100.wav",
+          "modifiedAt": "2026-11-23T15:18:57.000Z"
+        },
+        {
+          "path": "public/q-1800.wav",
+          "modifiedAt": "2026-11-23T15:18:55.000Z"
+        },
+        {
+          "path": "public/q-1500.wav",
+          "modifiedAt": "2026-11-23T15:18:53.000Z"
+        },
+        {
+          "path": "public/q-1200.wav",
+          "modifiedAt": "2026-11-23T15:18:50.000Z"
+        },
+        {
+          "path": "public/q-0900.wav",
+          "modifiedAt": "2026-11-23T15:18:48.000Z"
         },
         {
           "path": "src/components/chatbot/useVoiceInput.ts",
           "modifiedAt": "2026-11-23T11:09:59.748Z"
-        },
-        {
-          "path": "src/service/api/chatSttPolicy.ts",
-          "modifiedAt": "2026-11-23T11:09:59.748Z"
-        },
-        {
-          "path": "src/service/api/micOpenError.test.ts",
-          "modifiedAt": "2026-11-23T11:09:59.748Z"
-        },
-        {
-          "path": "src/utils/companion/companionVoiceNotice.test.ts",
-          "modifiedAt": "2026-11-23T11:09:59.748Z"
-        },
-        {
-          "path": "src/utils/companion/companionVoiceNotice.ts",
-          "modifiedAt": "2026-11-23T11:09:59.748Z"
-        },
-        {
-          "path": "src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx",
-          "modifiedAt": "2026-11-23T11:09:59.744Z"
         }
       ],
       "summary": [
