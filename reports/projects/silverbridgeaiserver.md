@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-23 13:48:54 KST
+- 점검 시각: 2026-11-23 14:19:00 KST
 
 ## 추정 기술 스택
 
@@ -61,32 +61,32 @@
 
 - 상태: 실행 중
 - 관련 포트: 1000, 1800, 2000, 2048, 3599, 3600, 4096, 5428, 5432, 6012, 6015, 6017, 6019, 14892, 50000
-- 관련 Docker 컨테이너: mj_c_pytest, silverbridge-ai-server
+- 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 873
+- 총 커밋 수: 875
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 425
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 426
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 34
   - gosky <gosky@gosky.kr>: 22
   - namgung <skarndaudwls@gmail.com>: 11
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: 0eea9cd / namgung <skarndaudwls@gmail.com> / Merge pull request #343 from Dongyang-Mirae-University-software/fix/avoidance-clause-followup
+- 최근 커밋: ddfcaa1 / namgung <skarndaudwls@gmail.com> / Merge pull request #344 from Dongyang-Mirae-University-software/fix/headache-goodnews-avoidance-self
 
 ## 최근 수정 파일
 
-- data/companion_review.db (2026-11-23 13:48:25 KST)
+- data/postgres/pg_wal/000000010000000000000009 (2026-11-23 14:18:48 KST)
+- data/companion_review.db (2026-11-23 14:17:16 KST)
+- app/services/chat_keywords.py (2026-11-23 13:57:41 KST)
+- app/services/companion/avoidance.py (2026-11-23 13:57:41 KST)
+- tests/test_headache_avoidance_regression.py (2026-11-23 13:57:41 KST)
 - app/services/companion/reply_service.py (2026-11-23 13:15:14 KST)
 - docs/eval-results/2026-11-20-companion-quality-merge.md (2026-11-23 13:15:14 KST)
 - tests/test_companion_reply_strict.py (2026-11-23 13:15:14 KST)
-- tests/test_companion_reply_trim_last.py (2026-11-23 13:15:14 KST)
-- tests/test_headache_avoidance_regression.py (2026-11-23 13:15:14 KST)
-- .env.example (2026-11-23 13:15:14 KST)
-- app/core/config.py (2026-11-23 13:15:14 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 873
-- Git 상위 계정: skarndaudwls1(425), gosky(37), Jaehe-he(34)
+- Git 커밋 수: 875
+- Git 상위 계정: skarndaudwls1(426), gosky(37), Jaehe-he(34)

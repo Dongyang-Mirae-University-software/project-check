@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-23 13:48:55 KST
+- 점검 시각: 2026-11-23 14:19:01 KST
 
 ## 추정 기술 스택
 
@@ -37,7 +37,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 858
+- 파일 개수: 861
 - 디렉토리 개수: 160
 - 주요 폴더: docs, public, scripts, src
 - 주요 경로: public, public/icons, public/icons/push, public/images, src, src/app, src/app/(admin), src/app/(admin)/admin, src/app/(admin)/admin/_components, src/app/(admin)/admin/ai-stats, src/app/(admin)/admin/devices, src/app/(admin)/admin/hospitals, src/app/(admin)/admin/inquiries, src/app/(admin)/admin/members, src/app/(admin)/admin/notices, src/app/(admin)/admin/notifications, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/@modal, src/app/(auth)/@modal/(.)find-email
@@ -58,26 +58,26 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 2124
+- 총 커밋 수: 2128
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 656
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 349
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 351
   - gosky <gosky@gosky.kr>: 24
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: ced383c5 / namgung <skarndaudwls@gmail.com> / Merge pull request #331 from Dongyang-Mirae-University-software/design/companion-layout-f
+- 최근 커밋: 6afd20a8 / namgung <skarndaudwls@gmail.com> / Merge pull request #333 from Dongyang-Mirae-University-software/design/chatbot-hospital-list-compact
 
 ## 최근 수정 파일
 
-- src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx (2026-11-23 13:40:00 KST)
-- src/app/(ward)/ward/companion/_components/WardCompanionContent.module.css (2026-11-23 13:40:00 KST)
-- src/app/(ward)/ward/companion/_components/WardCompanionContent.tsx (2026-11-23 13:40:00 KST)
-- src/utils/companion/companionError.test.ts (2026-11-23 13:40:00 KST)
-- src/utils/companion/companionError.ts (2026-11-23 13:40:00 KST)
-- src/components/chatbot/ChatbotContent.tsx (2026-11-23 13:11:28 KST)
-- src/components/chatbot/ChatbotVoiceInput.browser.test.tsx (2026-11-23 13:11:28 KST)
-- src/lib/audio/recordingLimiter.ts (2026-11-23 13:07:54 KST)
+- src/components/chatbot/ChatbotReservation.browser.test.tsx (2026-11-23 14:12:42 KST)
+- src/components/chatbot/ChatToolCard.browser.test.tsx (2026-11-23 14:12:42 KST)
+- src/components/chatbot/ChatToolCard.module.css (2026-11-23 14:12:42 KST)
+- src/components/chatbot/ChatToolCard.tsx (2026-11-23 14:12:42 KST)
+- src/components/chatbot/hospitalListView.test.ts (2026-11-23 14:12:42 KST)
+- src/components/chatbot/hospitalListView.ts (2026-11-23 14:12:42 KST)
+- src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx (2026-11-23 14:04:05 KST)
+- src/app/(ward)/ward/companion/_components/WardCompanionContent.module.css (2026-11-23 14:04:05 KST)
 
 ## 점검 결과 요약
 
@@ -85,5 +85,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 2124
-- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(349)
+- Git 커밋 수: 2128
+- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(351)
