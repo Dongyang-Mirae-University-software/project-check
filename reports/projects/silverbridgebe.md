@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-11-24 24:21:05 KST
+- 점검 시각: 2026-11-24 24:51:11 KST
 
 ## 추정 기술 스택
 
@@ -56,14 +56,15 @@
 
 ## Git 커밋 현황
 
-- 브랜치: dev
-- 총 커밋 수: 1906
+- 브랜치: feat/companion-prompt-title
+- 총 커밋 수: 1907
 - 계정별 커밋 수:
   - skarndaudwls1 <skarndaudwls@gmail.com>: 1532
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
   - gosky <gosky@gosky.kr>: 2
-- 최근 커밋: 55453b62 / namgung <skarndaudwls@gmail.com> / Merge pull request #522 from Dongyang-Mirae-University-software/fix/companion-daily-mood-docs
+  - Jaehe-he <hywuljh1@naver.com>: 1
+- 최근 커밋: 5dc1be4f / Jaehe-he <hywuljh1@naver.com> / feat(companion): 안부 질문 알림 제목을 '질문이 도착했습니다'로 변경
 
 ## 최근 수정 파일
 
@@ -82,5 +83,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1906
+- Git 커밋 수: 1907
 - Git 상위 계정: skarndaudwls1(1532), skarndaudwls1(65), gosky(4)

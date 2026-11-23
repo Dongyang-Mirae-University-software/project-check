@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-24 24:21:05 KST
+- 점검 시각: 2026-11-24 24:51:11 KST
 
 ## 추정 기술 스택
 
@@ -57,16 +57,17 @@
 
 ## Git 커밋 현황
 
-- 브랜치: develop
-- 총 커밋 수: 2136
+- 브랜치: feat/companion-prompt-voice
+- 총 커밋 수: 2143
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 656
   - skarndaudwls1 <skarndaudwls@gmail.com>: 353
   - gosky <gosky@gosky.kr>: 24
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
+  - Jaehe-he <hywuljh1@naver.com>: 7
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 6cc92095 / namgung <skarndaudwls@gmail.com> / Merge pull request #337 from Dongyang-Mirae-University-software/fix/companion-mic-error-kinds
+- 최근 커밋: 17bbe415 / Jaehe-he <hywuljh1@naver.com> / feat(companion): 기본 안부 음성(fallback) 추가(question-arrived.wav)
 
 ## 최근 수정 파일
 
@@ -85,5 +86,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 2136
+- Git 커밋 수: 2143
 - Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(353)

@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-23T15:21:03.109Z",
-  "generatedAtKst": "2026-11-24 24:21:03 KST",
+  "generatedAt": "2026-11-23T15:51:09.174Z",
+  "generatedAtKst": "2026-11-24 24:51:09 KST",
   "summary": {
     "total": 24,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9426
+          "count": 9427
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 17
         }
       ],
-      "count": 9494
+      "count": 9495
     },
     {
       "name": "skarndaudwls1",
@@ -65,10 +65,10 @@
       "emails": [
         {
           "email": "hywuljh1@naver.com",
-          "count": 749
+          "count": 757
         }
       ],
-      "count": 749
+      "count": 757
     },
     {
       "name": "yuna0222",
@@ -1762,22 +1762,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9289,
+        "commitCount": 9290,
         "authors": [
           {
-            "count": 9289,
+            "count": 9290,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "824f022ac",
+          "hash": "64148bba1",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-23T23:51:01+09:00",
+          "date": "2026-11-24T00:21:07+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9289개 커밋, 상위 계정: gosky(9289), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9290개 커밋, 상위 계정: gosky(9290), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1818,8 +1818,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9289",
-        "Git 상위 계정: gosky(9289)"
+        "Git 커밋 수: 9290",
+        "Git 상위 계정: gosky(9290)"
       ]
     },
     {
@@ -2142,7 +2142,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 10 hours",
+            "status": "Up 11 hours",
             "ports": ""
           }
         ],
@@ -2387,7 +2387,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 10 hours",
+            "status": "Up 11 hours",
             "ports": ""
           }
         ],
@@ -2469,6 +2469,10 @@
       },
       "recentFiles": [
         {
+          "path": "data/companion_review.db",
+          "modifiedAt": "2026-11-23T15:47:28.613Z"
+        },
+        {
           "path": "data/postgres/pg_wal/000000010000000000000009",
           "modifiedAt": "2026-11-23T10:49:28.905Z"
         },
@@ -2495,10 +2499,6 @@
         {
           "path": "data/postgres/base/16384/32945",
           "modifiedAt": "2026-11-23T10:49:08.401Z"
-        },
-        {
-          "path": "data/postgres/base/16384/32935_vm",
-          "modifiedAt": "2026-11-23T10:49:08.301Z"
         }
       ],
       "summary": [
@@ -2698,8 +2698,8 @@
       },
       "git": {
         "isRepo": true,
-        "branch": "dev",
-        "commitCount": 1906,
+        "branch": "feat/companion-prompt-title",
+        "commitCount": 1907,
         "authors": [
           {
             "count": 1532,
@@ -2720,16 +2720,21 @@
             "count": 2,
             "name": "gosky",
             "email": "gosky@gosky.kr"
+          },
+          {
+            "count": 1,
+            "name": "Jaehe-he",
+            "email": "hywuljh1@naver.com"
           }
         ],
         "latestCommit": {
-          "hash": "55453b62",
-          "author": "namgung",
-          "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-23T17:26:51+09:00",
-          "subject": "Merge pull request #522 from Dongyang-Mirae-University-software/fix/companion-daily-mood-docs"
+          "hash": "5dc1be4f",
+          "author": "Jaehe-he",
+          "email": "hywuljh1@naver.com",
+          "date": "2026-11-24T00:32:33+09:00",
+          "subject": "feat(companion): 안부 질문 알림 제목을 '질문이 도착했습니다'로 변경"
         },
-        "summary": "총 1906개 커밋, 상위 계정: skarndaudwls1(1532), skarndaudwls1(65), gosky(4), 최근: Merge pull request #522 from Dongyang-Mirae-University-software/fix/companion-daily-mood-docs"
+        "summary": "총 1907개 커밋, 상위 계정: skarndaudwls1(1532), skarndaudwls1(65), gosky(4), 최근: feat(companion): 안부 질문 알림 제목을 '질문이 도착했습니다'로 변경"
       },
       "recentFiles": [
         {
@@ -2770,7 +2775,7 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1906",
+        "Git 커밋 수: 1907",
         "Git 상위 계정: skarndaudwls1(1532), skarndaudwls1(65), gosky(4)"
       ]
     },
@@ -2945,8 +2950,8 @@
       },
       "git": {
         "isRepo": true,
-        "branch": "develop",
-        "commitCount": 2136,
+        "branch": "feat/companion-prompt-voice",
+        "commitCount": 2143,
         "authors": [
           {
             "count": 1400,
@@ -2974,19 +2979,24 @@
             "email": "89885846+yuna0222@users.noreply.github.com"
           },
           {
+            "count": 7,
+            "name": "Jaehe-he",
+            "email": "hywuljh1@naver.com"
+          },
+          {
             "count": 6,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "6cc92095",
-          "author": "namgung",
-          "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-23T20:09:55+09:00",
-          "subject": "Merge pull request #337 from Dongyang-Mirae-University-software/fix/companion-mic-error-kinds"
+          "hash": "17bbe415",
+          "author": "Jaehe-he",
+          "email": "hywuljh1@naver.com",
+          "date": "2026-11-24T00:33:52+09:00",
+          "subject": "feat(companion): 기본 안부 음성(fallback) 추가(question-arrived.wav)"
         },
-        "summary": "총 2136개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(353), 최근: Merge pull request #337 from Dongyang-Mirae-University-software/fix/companion-mic-error-kinds"
+        "summary": "총 2143개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(353), 최근: feat(companion): 기본 안부 음성(fallback) 추가(question-arrived.wav)"
       },
       "recentFiles": [
         {
@@ -3027,7 +3037,7 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 2136",
+        "Git 커밋 수: 2143",
         "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(353)"
       ]
     },
