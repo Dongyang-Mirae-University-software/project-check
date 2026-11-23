@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-23 23:20:53 KST
+- 점검 시각: 2026-11-23 23:50:59 KST
 
 ## 추정 기술 스택
 
@@ -37,7 +37,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 864
+- 파일 개수: 865
 - 디렉토리 개수: 160
 - 주요 폴더: docs, public, scripts, src
 - 주요 경로: public, public/icons, public/icons/push, public/images, src, src/app, src/app/(admin), src/app/(admin)/admin, src/app/(admin)/admin/_components, src/app/(admin)/admin/ai-stats, src/app/(admin)/admin/devices, src/app/(admin)/admin/hospitals, src/app/(admin)/admin/inquiries, src/app/(admin)/admin/members, src/app/(admin)/admin/notices, src/app/(admin)/admin/notifications, src/app/(auth), src/app/(auth)/_components, src/app/(auth)/@modal, src/app/(auth)/@modal/(.)find-email
@@ -70,14 +70,14 @@
 
 ## 최근 수정 파일
 
+- src/components/PushNotificationListener.tsx (2026-11-23 23:47:55 KST)
+- public/question-arrived.mp3 (2026-11-23 23:46:04 KST)
 - src/components/chatbot/useVoiceInput.ts (2026-11-23 20:09:59 KST)
 - src/service/api/chatSttPolicy.ts (2026-11-23 20:09:59 KST)
 - src/service/api/micOpenError.test.ts (2026-11-23 20:09:59 KST)
 - src/utils/companion/companionVoiceNotice.test.ts (2026-11-23 20:09:59 KST)
 - src/utils/companion/companionVoiceNotice.ts (2026-11-23 20:09:59 KST)
 - src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx (2026-11-23 20:09:59 KST)
-- src/app/(ward)/ward/companion/_components/WardCompanionContent.module.css (2026-11-23 20:09:59 KST)
-- src/app/(ward)/ward/companion/_components/WardCompanionContent.tsx (2026-11-23 20:09:59 KST)
 
 ## 점검 결과 요약
 

@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-23T14:20:51.041Z",
-  "generatedAtKst": "2026-11-23 23:20:51 KST",
+  "generatedAt": "2026-11-23T14:50:57.236Z",
+  "generatedAtKst": "2026-11-23 23:50:57 KST",
   "summary": {
     "total": 24,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9424
+          "count": 9425
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 17
         }
       ],
-      "count": 9492
+      "count": 9493
     },
     {
       "name": "skarndaudwls1",
@@ -1762,22 +1762,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9287,
+        "commitCount": 9288,
         "authors": [
           {
-            "count": 9287,
+            "count": 9288,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "8a00cb040",
+          "hash": "ac8b5dbf4",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-23T22:50:49+09:00",
+          "date": "2026-11-23T23:20:55+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9287개 커밋, 상위 계정: gosky(9287), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9288개 커밋, 상위 계정: gosky(9288), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1818,8 +1818,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9287",
-        "Git 상위 계정: gosky(9287)"
+        "Git 커밋 수: 9288",
+        "Git 상위 계정: gosky(9288)"
       ]
     },
     {
@@ -2142,7 +2142,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 9 hours",
+            "status": "Up 10 hours",
             "ports": ""
           }
         ],
@@ -2387,7 +2387,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 9 hours",
+            "status": "Up 10 hours",
             "ports": ""
           }
         ],
@@ -2868,7 +2868,7 @@
         }
       ],
       "structure": {
-        "fileCount": 864,
+        "fileCount": 865,
         "dirCount": 160,
         "mainFolders": [
           "docs",
@@ -2990,6 +2990,14 @@
       },
       "recentFiles": [
         {
+          "path": "src/components/PushNotificationListener.tsx",
+          "modifiedAt": "2026-11-23T14:47:55.274Z"
+        },
+        {
+          "path": "public/question-arrived.mp3",
+          "modifiedAt": "2026-11-23T14:46:04.000Z"
+        },
+        {
           "path": "src/components/chatbot/useVoiceInput.ts",
           "modifiedAt": "2026-11-23T11:09:59.748Z"
         },
@@ -3011,14 +3019,6 @@
         },
         {
           "path": "src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx",
-          "modifiedAt": "2026-11-23T11:09:59.744Z"
-        },
-        {
-          "path": "src/app/(ward)/ward/companion/_components/WardCompanionContent.module.css",
-          "modifiedAt": "2026-11-23T11:09:59.744Z"
-        },
-        {
-          "path": "src/app/(ward)/ward/companion/_components/WardCompanionContent.tsx",
           "modifiedAt": "2026-11-23T11:09:59.744Z"
         }
       ],
