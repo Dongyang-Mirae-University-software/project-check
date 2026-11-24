@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-11-24 14:54:01 KST
+- 점검 시각: 2026-11-24 15:24:07 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 408
+- 파일 개수: 410
 - 디렉토리 개수: 35
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/integrationTest, src/integrationTest/java, src/integrationTest/java/kr, src/integrationTest/java/kr/silverbridge, src/integrationTest/java/kr/silverbridge/main, src/integrationTest/java/kr/silverbridge/main/domain, src/integrationTest/java/kr/silverbridge/main/global, src/integrationTest/java/kr/silverbridge/main/migration, src/integrationTest/java/kr/silverbridge/main/support, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration
@@ -57,25 +57,25 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1918
+- 총 커밋 수: 1921
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 1542
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 1544
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
   - gosky <gosky@gosky.kr>: 2
   - Jaehe-he <hywuljh1@naver.com>: 1
-- 최근 커밋: ec61215e / skarndaudwls1 <skarndaudwls@gmail.com> / docs: AI 말벗 경로당 깨짐 수정·마지막 인사 cc8c 반영 기록
+- 최근 커밋: 4b268c17 / namgung <skarndaudwls@gmail.com> / Merge pull request #524 from Dongyang-Mirae-University-software/feature/connection-ward-relation
 
 ## 최근 수정 파일
 
-- docs/audit-index.md (2026-11-24 11:25:57 KST)
-- docs/progress.md (2026-11-24 11:25:57 KST)
+- src/main/resources/db/migration/V74__add_connection_ward_relation.sql (2026-11-24 15:24:02 KST)
+- docs/(2026-11-24) audit-fe-mic-open-failed-338.md (2026-11-24 15:24:02 KST)
+- docs/audit-index.md (2026-11-24 15:24:02 KST)
+- docs/progress.md (2026-11-24 15:24:02 KST)
 - docs/(2026-11-23) audit-fe-companion-voice-notice-335-336.md (2026-11-24 11:25:57 KST)
 - docs/(2026-11-23) audit-fe-mic-error-kinds-337.md (2026-11-24 11:25:57 KST)
 - docs/(2026-11-23) audit-impact-companion-daily-mood.md (2026-11-24 11:25:57 KST)
 - docs/(2026-11-23) fix-fe-chatbot-hospital-title-and-companion-leave.md (2026-11-24 11:25:57 KST)
-- docs/(2026-11-23) fix-fe-companion-mic-error-kinds.md (2026-11-24 11:25:57 KST)
-- docs/(2026-11-23) fix-fe-companion-voice-unavailable-notice.md (2026-11-24 11:25:57 KST)
 
 ## 점검 결과 요약
 
@@ -83,5 +83,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1918
-- Git 상위 계정: skarndaudwls1(1542), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1921
+- Git 상위 계정: skarndaudwls1(1544), skarndaudwls1(65), gosky(4)
