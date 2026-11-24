@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-24 09:53:03 KST
+- 점검 시각: 2026-11-24 10:23:08 KST
 
 ## 추정 기술 스택
 
@@ -62,7 +62,7 @@
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 656
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 353
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 354
   - gosky <gosky@gosky.kr>: 24
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - Jaehe-he <hywuljh1@naver.com>: 7
@@ -71,14 +71,14 @@
 
 ## 최근 수정 파일
 
+- src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx (2026-11-24 10:01:19 KST)
+- src/components/chatbot/ChatbotVoiceInput.browser.test.tsx (2026-11-24 10:01:19 KST)
+- src/components/chatbot/useVoiceInput.ts (2026-11-24 10:01:19 KST)
+- src/service/api/chatSttPolicy.ts (2026-11-24 10:01:19 KST)
+- src/service/api/micOpenError.test.ts (2026-11-24 10:01:19 KST)
+- src/utils/companion/companionVoiceNotice.test.ts (2026-11-24 10:01:19 KST)
+- src/utils/companion/companionVoiceNotice.ts (2026-11-24 10:01:19 KST)
 - src/components/PushNotificationListener.tsx (2026-11-24 24:20:18 KST)
-- public/question-arrived.wav (2026-11-24 24:18:59 KST)
-- public/q-2100.wav (2026-11-24 24:18:57 KST)
-- public/q-1800.wav (2026-11-24 24:18:55 KST)
-- public/q-1500.wav (2026-11-24 24:18:53 KST)
-- public/q-1200.wav (2026-11-24 24:18:50 KST)
-- public/q-0900.wav (2026-11-24 24:18:48 KST)
-- src/components/chatbot/useVoiceInput.ts (2026-11-23 20:09:59 KST)
 
 ## 점검 결과 요약
 
@@ -87,4 +87,4 @@
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
 - Git 커밋 수: 2143
-- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(353)
+- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(354)

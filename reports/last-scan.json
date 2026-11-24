@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-24T00:53:00.483Z",
-  "generatedAtKst": "2026-11-24 09:53:00 KST",
+  "generatedAt": "2026-11-24T01:23:06.352Z",
+  "generatedAtKst": "2026-11-24 10:23:06 KST",
   "summary": {
     "total": 24,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9445
+          "count": 9446
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 17
         }
       ],
-      "count": 9513
+      "count": 9514
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2447
+          "count": 2448
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2536
+      "count": 2537
     },
     {
       "name": "YUNA0222",
@@ -1762,22 +1762,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9308,
+        "commitCount": 9309,
         "authors": [
           {
-            "count": 9308,
+            "count": 9309,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "8fecd7078",
+          "hash": "402cf4f21",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-24T09:22:58+09:00",
+          "date": "2026-11-24T09:53:04+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9308개 커밋, 상위 계정: gosky(9308), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9309개 커밋, 상위 계정: gosky(9309), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1818,8 +1818,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9308",
-        "Git 상위 계정: gosky(9308)"
+        "Git 커밋 수: 9309",
+        "Git 상위 계정: gosky(9309)"
       ]
     },
     {
@@ -2964,7 +2964,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 353,
+            "count": 354,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2996,40 +2996,40 @@
           "date": "2026-11-24T00:33:52+09:00",
           "subject": "feat(companion): 기본 안부 음성(fallback) 추가(question-arrived.wav)"
         },
-        "summary": "총 2143개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(353), 최근: feat(companion): 기본 안부 음성(fallback) 추가(question-arrived.wav)"
+        "summary": "총 2143개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(354), 최근: feat(companion): 기본 안부 음성(fallback) 추가(question-arrived.wav)"
       },
       "recentFiles": [
         {
-          "path": "src/components/PushNotificationListener.tsx",
-          "modifiedAt": "2026-11-23T15:20:18.780Z"
+          "path": "src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx",
+          "modifiedAt": "2026-11-24T01:01:19.241Z"
         },
         {
-          "path": "public/question-arrived.wav",
-          "modifiedAt": "2026-11-23T15:18:59.000Z"
-        },
-        {
-          "path": "public/q-2100.wav",
-          "modifiedAt": "2026-11-23T15:18:57.000Z"
-        },
-        {
-          "path": "public/q-1800.wav",
-          "modifiedAt": "2026-11-23T15:18:55.000Z"
-        },
-        {
-          "path": "public/q-1500.wav",
-          "modifiedAt": "2026-11-23T15:18:53.000Z"
-        },
-        {
-          "path": "public/q-1200.wav",
-          "modifiedAt": "2026-11-23T15:18:50.000Z"
-        },
-        {
-          "path": "public/q-0900.wav",
-          "modifiedAt": "2026-11-23T15:18:48.000Z"
+          "path": "src/components/chatbot/ChatbotVoiceInput.browser.test.tsx",
+          "modifiedAt": "2026-11-24T01:01:19.241Z"
         },
         {
           "path": "src/components/chatbot/useVoiceInput.ts",
-          "modifiedAt": "2026-11-23T11:09:59.748Z"
+          "modifiedAt": "2026-11-24T01:01:19.241Z"
+        },
+        {
+          "path": "src/service/api/chatSttPolicy.ts",
+          "modifiedAt": "2026-11-24T01:01:19.241Z"
+        },
+        {
+          "path": "src/service/api/micOpenError.test.ts",
+          "modifiedAt": "2026-11-24T01:01:19.241Z"
+        },
+        {
+          "path": "src/utils/companion/companionVoiceNotice.test.ts",
+          "modifiedAt": "2026-11-24T01:01:19.241Z"
+        },
+        {
+          "path": "src/utils/companion/companionVoiceNotice.ts",
+          "modifiedAt": "2026-11-24T01:01:19.241Z"
+        },
+        {
+          "path": "src/components/PushNotificationListener.tsx",
+          "modifiedAt": "2026-11-23T15:20:18.780Z"
         }
       ],
       "summary": [
@@ -3038,7 +3038,7 @@
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
         "Git 커밋 수: 2143",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(353)"
+        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(354)"
       ]
     },
     {
