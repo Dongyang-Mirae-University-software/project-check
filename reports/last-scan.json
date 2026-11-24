@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-24T04:53:47.742Z",
-  "generatedAtKst": "2026-11-24 13:53:47 KST",
+  "generatedAt": "2026-11-24T05:23:53.535Z",
+  "generatedAtKst": "2026-11-24 14:23:53 KST",
   "summary": {
     "total": 24,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9453
+          "count": 9454
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 17
         }
       ],
-      "count": 9521
+      "count": 9522
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2465
+          "count": 2467
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2554
+      "count": 2556
     },
     {
       "name": "YUNA0222",
@@ -1762,22 +1762,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9316,
+        "commitCount": 9317,
         "authors": [
           {
-            "count": 9316,
+            "count": 9317,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "b4a3b31dd",
+          "hash": "d68dfedb4",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-24T13:23:45+09:00",
+          "date": "2026-11-24T13:53:51+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9316개 커밋, 상위 계정: gosky(9316), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9317개 커밋, 상위 계정: gosky(9317), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1818,8 +1818,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9316",
-        "Git 상위 계정: gosky(9316)"
+        "Git 커밋 수: 9317",
+        "Git 상위 계정: gosky(9317)"
       ]
     },
     {
@@ -2952,7 +2952,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 2148,
+        "commitCount": 2152,
         "authors": [
           {
             "count": 1400,
@@ -2965,7 +2965,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 355,
+            "count": 357,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2991,46 +2991,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "8aeae0bc",
+          "hash": "d889d574",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-24T11:14:24+09:00",
-          "subject": "Merge pull request #340 from Dongyang-Mirae-University-software/feat/companion-prompt-voice"
+          "date": "2026-11-24T14:06:41+09:00",
+          "subject": "Merge pull request #342 from Dongyang-Mirae-University-software/design/ward-label-eoreusin"
         },
-        "summary": "총 2148개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(355), 최근: Merge pull request #340 from Dongyang-Mirae-University-software/feat/companion-prompt-voice"
+        "summary": "총 2152개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(357), 최근: Merge pull request #342 from Dongyang-Mirae-University-software/design/ward-label-eoreusin"
       },
       "recentFiles": [
         {
-          "path": "src/service/api/chatSttPolicy.ts",
-          "modifiedAt": "2026-11-24T02:14:28.924Z"
+          "path": "src/app/(ward)/ward/guardians/_components/WardGuardianActiveSection.module.css",
+          "modifiedAt": "2026-11-24T05:06:45.506Z"
         },
         {
-          "path": "src/service/api/micOpenError.test.ts",
-          "modifiedAt": "2026-11-24T02:14:28.924Z"
+          "path": "src/app/(ward)/ward/guardians/_components/WardGuardianActiveSection.tsx",
+          "modifiedAt": "2026-11-24T05:06:45.506Z"
         },
         {
-          "path": "src/utils/companion/companionVoiceNotice.test.ts",
-          "modifiedAt": "2026-11-24T02:14:28.924Z"
+          "path": "src/app/(ward)/ward/guardians/_components/WardGuardiansPanel.browser.test.tsx",
+          "modifiedAt": "2026-11-24T05:06:45.506Z"
         },
         {
-          "path": "src/utils/companion/companionVoiceNotice.ts",
-          "modifiedAt": "2026-11-24T02:14:28.924Z"
+          "path": "src/components/connections/WardSelectorTabs.tsx",
+          "modifiedAt": "2026-11-24T05:06:45.506Z"
         },
         {
-          "path": "public/q-2100.wav",
-          "modifiedAt": "2026-11-24T02:14:28.920Z"
+          "path": "src/app/(guardian)/guardian/wards/_components/GuardianFamily.browser.test.tsx",
+          "modifiedAt": "2026-11-24T05:06:45.502Z"
         },
         {
-          "path": "public/question-arrived.wav",
-          "modifiedAt": "2026-11-24T02:14:28.920Z"
+          "path": "src/app/(guardian)/guardian/wards/_components/GuardianWardsListPanel.module.css",
+          "modifiedAt": "2026-11-24T05:06:45.502Z"
         },
         {
-          "path": "src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx",
-          "modifiedAt": "2026-11-24T02:14:28.920Z"
+          "path": "src/app/(guardian)/guardian/wards/_components/GuardianWardsListPanel.tsx",
+          "modifiedAt": "2026-11-24T05:06:45.502Z"
         },
         {
-          "path": "src/components/chatbot/ChatbotVoiceInput.browser.test.tsx",
-          "modifiedAt": "2026-11-24T02:14:28.920Z"
+          "path": "src/app/(auth)/signup/_components/SignupPhoneVerificationStep.module.css",
+          "modifiedAt": "2026-11-24T04:57:15.543Z"
         }
       ],
       "summary": [
@@ -3038,8 +3038,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 2148",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(355)"
+        "Git 커밋 수: 2152",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(357)"
       ]
     },
     {
