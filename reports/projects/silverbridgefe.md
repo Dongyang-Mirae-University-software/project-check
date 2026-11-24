@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-24 15:24:07 KST
+- 점검 시각: 2026-11-24 15:54:14 KST
 
 ## 추정 기술 스택
 
@@ -58,27 +58,27 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 2152
+- 총 커밋 수: 2156
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 656
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 357
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 359
   - gosky <gosky@gosky.kr>: 24
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - Jaehe-he <hywuljh1@naver.com>: 7
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: d889d574 / namgung <skarndaudwls@gmail.com> / Merge pull request #342 from Dongyang-Mirae-University-software/design/ward-label-eoreusin
+- 최근 커밋: 64dbec75 / namgung <skarndaudwls@gmail.com> / Merge pull request #344 from Dongyang-Mirae-University-software/feature/ward-call-name
 
 ## 최근 수정 파일
 
-- src/app/(ward)/ward/guardians/_components/WardGuardianActiveSection.module.css (2026-11-24 14:06:45 KST)
-- src/app/(ward)/ward/guardians/_components/WardGuardianActiveSection.tsx (2026-11-24 14:06:45 KST)
-- src/app/(ward)/ward/guardians/_components/WardGuardiansPanel.browser.test.tsx (2026-11-24 14:06:45 KST)
-- src/components/connections/WardSelectorTabs.tsx (2026-11-24 14:06:45 KST)
-- src/app/(guardian)/guardian/wards/_components/GuardianFamily.browser.test.tsx (2026-11-24 14:06:45 KST)
-- src/app/(guardian)/guardian/wards/_components/GuardianWardsListPanel.module.css (2026-11-24 14:06:45 KST)
-- src/app/(guardian)/guardian/wards/_components/GuardianWardsListPanel.tsx (2026-11-24 14:06:45 KST)
-- src/app/(auth)/signup/_components/SignupPhoneVerificationStep.module.css (2026-11-24 13:57:15 KST)
+- src/app/(guardian)/guardian/wards/_components/GuardianConnectionRequestForm.tsx (2026-11-24 15:29:00 KST)
+- src/app/(guardian)/guardian/wards/_components/GuardianFamily.browser.test.tsx (2026-11-24 15:29:00 KST)
+- src/app/(guardian)/guardian/wards/_components/GuardianWardsListPanel.tsx (2026-11-24 15:29:00 KST)
+- src/components/connections/WardSelectorTabs.tsx (2026-11-24 15:29:00 KST)
+- src/service/interface/connection.ts (2026-11-24 15:29:00 KST)
+- src/utils/companion/companionVoiceNotice.test.ts (2026-11-24 15:29:00 KST)
+- src/utils/connection/connectionView.test.ts (2026-11-24 15:29:00 KST)
+- src/utils/connection/connectionView.ts (2026-11-24 15:29:00 KST)
 
 ## 점검 결과 요약
 
@@ -86,5 +86,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 2152
-- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(357)
+- Git 커밋 수: 2156
+- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(359)
