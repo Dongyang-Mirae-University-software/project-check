@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-24T01:53:12.270Z",
-  "generatedAtKst": "2026-11-24 10:53:12 KST",
+  "generatedAt": "2026-11-24T02:23:18.030Z",
+  "generatedAtKst": "2026-11-24 11:23:18 KST",
   "summary": {
     "total": 24,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9447
+          "count": 9448
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 17
         }
       ],
-      "count": 9515
+      "count": 9516
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2448
+          "count": 2455
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2537
+      "count": 2544
     },
     {
       "name": "YUNA0222",
@@ -1762,22 +1762,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9310,
+        "commitCount": 9311,
         "authors": [
           {
-            "count": 9310,
+            "count": 9311,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "cf956ccaa",
+          "hash": "41c23a171",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-24T10:23:10+09:00",
+          "date": "2026-11-24T10:53:16+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9310개 커밋, 상위 계정: gosky(9310), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9311개 커밋, 상위 계정: gosky(9311), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1818,8 +1818,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9310",
-        "Git 상위 계정: gosky(9310)"
+        "Git 커밋 수: 9311",
+        "Git 상위 계정: gosky(9311)"
       ]
     },
     {
@@ -2142,7 +2142,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 21 hours",
+            "status": "Up 4 minutes",
             "ports": ""
           }
         ],
@@ -2330,8 +2330,8 @@
         }
       ],
       "structure": {
-        "fileCount": 2341,
-        "dirCount": 106,
+        "fileCount": 2357,
+        "dirCount": 108,
         "mainFolders": [
           "app",
           "data",
@@ -2374,7 +2374,7 @@
         "evidence": [
           "docker-compose.yml 확인",
           "requirements.txt 확인",
-          ".env 키 257개 확인",
+          ".env 키 259개 확인",
           "추정 DB: PostgreSQL, SQLite"
         ],
         "summary": "PostgreSQL, SQLite 사용 추정"
@@ -2387,7 +2387,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 21 hours",
+            "status": "Up 4 minutes",
             "ports": ""
           }
         ],
@@ -2425,10 +2425,10 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 875,
+        "commitCount": 886,
         "authors": [
           {
-            "count": 425,
+            "count": 431,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2459,46 +2459,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "ddfcaa1",
+          "hash": "3499bb4",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-23T13:55:31+09:00",
-          "subject": "Merge pull request #344 from Dongyang-Mirae-University-software/fix/headache-goodnews-avoidance-self"
+          "date": "2026-11-24T11:09:05+09:00",
+          "subject": "Merge pull request #348 from Dongyang-Mirae-University-software/feat/companion-reply-last-adapter"
         },
-        "summary": "총 875개 커밋, 상위 계정: skarndaudwls1(425), gosky(37), Jaehe-he(34), 최근: Merge pull request #344 from Dongyang-Mirae-University-software/fix/headache-goodnews-avoidance-self"
+        "summary": "총 886개 커밋, 상위 계정: skarndaudwls1(431), gosky(37), Jaehe-he(34), 최근: Merge pull request #348 from Dongyang-Mirae-University-software/feat/companion-reply-last-adapter"
       },
       "recentFiles": [
         {
           "path": "data/companion_review.db",
-          "modifiedAt": "2026-11-23T15:55:28.945Z"
+          "modifiedAt": "2026-11-24T02:22:30.711Z"
         },
         {
-          "path": "data/postgres/pg_wal/000000010000000000000009",
-          "modifiedAt": "2026-11-23T15:54:18.738Z"
+          "path": "tools/eval/v8/judge/timed_replay.py",
+          "modifiedAt": "2026-11-24T02:09:42.898Z"
         },
         {
-          "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-11-23T15:54:14.334Z"
+          "path": "app/services/companion/llm_client.py",
+          "modifiedAt": "2026-11-24T02:09:42.894Z"
         },
         {
-          "path": "data/postgres/base/16384/16515",
-          "modifiedAt": "2026-11-23T15:54:14.234Z"
+          "path": "app/services/companion/reply_service.py",
+          "modifiedAt": "2026-11-24T02:09:42.894Z"
         },
         {
-          "path": "data/postgres/base/16384/16514",
-          "modifiedAt": "2026-11-23T15:54:14.134Z"
+          "path": "docs/eval-results/2026-11-20-companion-quality-merge.md",
+          "modifiedAt": "2026-11-24T02:09:42.894Z"
         },
         {
-          "path": "data/postgres/base/16384/16513",
-          "modifiedAt": "2026-11-23T15:54:14.034Z"
+          "path": "tests/companion_eval/closing_v1.json",
+          "modifiedAt": "2026-11-24T02:09:42.894Z"
         },
         {
-          "path": "data/postgres/base/16384/16512",
-          "modifiedAt": "2026-11-23T15:54:13.734Z"
+          "path": "tests/test_companion_judgment_stage.py",
+          "modifiedAt": "2026-11-24T02:09:42.894Z"
         },
         {
-          "path": "data/postgres/base/16384/16510",
-          "modifiedAt": "2026-11-23T15:54:13.634Z"
+          "path": "tests/test_companion_reply_last_lora.py",
+          "modifiedAt": "2026-11-24T02:09:42.894Z"
         }
       ],
       "summary": [
@@ -2506,8 +2506,8 @@
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI",
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 875",
-        "Git 상위 계정: skarndaudwls1(425), gosky(37), Jaehe-he(34)"
+        "Git 커밋 수: 886",
+        "Git 상위 계정: skarndaudwls1(431), gosky(37), Jaehe-he(34)"
       ]
     },
     {
@@ -2873,7 +2873,7 @@
         }
       ],
       "structure": {
-        "fileCount": 870,
+        "fileCount": 871,
         "dirCount": 160,
         "mainFolders": [
           "docs",
@@ -2931,6 +2931,7 @@
           1200,
           1900,
           2000,
+          2500,
           3000,
           6000,
           6010,
@@ -2950,8 +2951,8 @@
       },
       "git": {
         "isRepo": true,
-        "branch": "feat/companion-prompt-voice",
-        "commitCount": 2143,
+        "branch": "develop",
+        "commitCount": 2148,
         "authors": [
           {
             "count": 1400,
@@ -2964,7 +2965,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 354,
+            "count": 355,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2990,46 +2991,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "17bbe415",
-          "author": "Jaehe-he",
-          "email": "hywuljh1@naver.com",
-          "date": "2026-11-24T00:33:52+09:00",
-          "subject": "feat(companion): 기본 안부 음성(fallback) 추가(question-arrived.wav)"
+          "hash": "8aeae0bc",
+          "author": "namgung",
+          "email": "skarndaudwls@gmail.com",
+          "date": "2026-11-24T11:14:24+09:00",
+          "subject": "Merge pull request #340 from Dongyang-Mirae-University-software/feat/companion-prompt-voice"
         },
-        "summary": "총 2143개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(354), 최근: feat(companion): 기본 안부 음성(fallback) 추가(question-arrived.wav)"
+        "summary": "총 2148개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(355), 최근: Merge pull request #340 from Dongyang-Mirae-University-software/feat/companion-prompt-voice"
       },
       "recentFiles": [
         {
-          "path": "src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx",
-          "modifiedAt": "2026-11-24T01:01:19.241Z"
-        },
-        {
-          "path": "src/components/chatbot/ChatbotVoiceInput.browser.test.tsx",
-          "modifiedAt": "2026-11-24T01:01:19.241Z"
-        },
-        {
-          "path": "src/components/chatbot/useVoiceInput.ts",
-          "modifiedAt": "2026-11-24T01:01:19.241Z"
-        },
-        {
           "path": "src/service/api/chatSttPolicy.ts",
-          "modifiedAt": "2026-11-24T01:01:19.241Z"
+          "modifiedAt": "2026-11-24T02:14:28.924Z"
         },
         {
           "path": "src/service/api/micOpenError.test.ts",
-          "modifiedAt": "2026-11-24T01:01:19.241Z"
+          "modifiedAt": "2026-11-24T02:14:28.924Z"
         },
         {
           "path": "src/utils/companion/companionVoiceNotice.test.ts",
-          "modifiedAt": "2026-11-24T01:01:19.241Z"
+          "modifiedAt": "2026-11-24T02:14:28.924Z"
         },
         {
           "path": "src/utils/companion/companionVoiceNotice.ts",
-          "modifiedAt": "2026-11-24T01:01:19.241Z"
+          "modifiedAt": "2026-11-24T02:14:28.924Z"
         },
         {
-          "path": "src/components/PushNotificationListener.tsx",
-          "modifiedAt": "2026-11-23T15:20:18.780Z"
+          "path": "public/q-2100.wav",
+          "modifiedAt": "2026-11-24T02:14:28.920Z"
+        },
+        {
+          "path": "public/question-arrived.wav",
+          "modifiedAt": "2026-11-24T02:14:28.920Z"
+        },
+        {
+          "path": "src/app/(ward)/ward/companion/_components/WardCompanionContent.browser.test.tsx",
+          "modifiedAt": "2026-11-24T02:14:28.920Z"
+        },
+        {
+          "path": "src/components/chatbot/ChatbotVoiceInput.browser.test.tsx",
+          "modifiedAt": "2026-11-24T02:14:28.920Z"
         }
       ],
       "summary": [
@@ -3037,8 +3038,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 2143",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(354)"
+        "Git 커밋 수: 2148",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(355)"
       ]
     },
     {

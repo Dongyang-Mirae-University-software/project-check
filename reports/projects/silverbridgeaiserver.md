@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-24 10:53:14 KST
+- 점검 시각: 2026-11-24 11:23:20 KST
 
 ## 추정 기술 스택
 
@@ -46,8 +46,8 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2341
-- 디렉토리 개수: 106
+- 파일 개수: 2357
+- 디렉토리 개수: 108
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
 - 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/static, app/static/game, app/utils, models, models/companion, models/companion/face-detect, models/companion/face-emotion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b
 
@@ -55,7 +55,7 @@
 
 - 사용 여부: 예
 - 연결 추정 DB: PostgreSQL, SQLite
-- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 257개 확인, 추정 DB: PostgreSQL, SQLite
+- 근거: docker-compose.yml 확인, requirements.txt 확인, .env 키 259개 확인, 추정 DB: PostgreSQL, SQLite
 
 ## 실행 상태
 
@@ -67,26 +67,26 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 875
+- 총 커밋 수: 886
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 425
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 431
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 34
   - gosky <gosky@gosky.kr>: 22
   - namgung <skarndaudwls@gmail.com>: 10
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: ddfcaa1 / namgung <skarndaudwls@gmail.com> / Merge pull request #344 from Dongyang-Mirae-University-software/fix/headache-goodnews-avoidance-self
+- 최근 커밋: 3499bb4 / namgung <skarndaudwls@gmail.com> / Merge pull request #348 from Dongyang-Mirae-University-software/feat/companion-reply-last-adapter
 
 ## 최근 수정 파일
 
-- data/companion_review.db (2026-11-24 24:55:28 KST)
-- data/postgres/pg_wal/000000010000000000000009 (2026-11-24 24:54:18 KST)
-- data/postgres/global/pg_control (2026-11-24 24:54:14 KST)
-- data/postgres/base/16384/16515 (2026-11-24 24:54:14 KST)
-- data/postgres/base/16384/16514 (2026-11-24 24:54:14 KST)
-- data/postgres/base/16384/16513 (2026-11-24 24:54:14 KST)
-- data/postgres/base/16384/16512 (2026-11-24 24:54:13 KST)
-- data/postgres/base/16384/16510 (2026-11-24 24:54:13 KST)
+- data/companion_review.db (2026-11-24 11:22:30 KST)
+- tools/eval/v8/judge/timed_replay.py (2026-11-24 11:09:42 KST)
+- app/services/companion/llm_client.py (2026-11-24 11:09:42 KST)
+- app/services/companion/reply_service.py (2026-11-24 11:09:42 KST)
+- docs/eval-results/2026-11-20-companion-quality-merge.md (2026-11-24 11:09:42 KST)
+- tests/companion_eval/closing_v1.json (2026-11-24 11:09:42 KST)
+- tests/test_companion_judgment_stage.py (2026-11-24 11:09:42 KST)
+- tests/test_companion_reply_last_lora.py (2026-11-24 11:09:42 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 875
-- Git 상위 계정: skarndaudwls1(425), gosky(37), Jaehe-he(34)
+- Git 커밋 수: 886
+- Git 상위 계정: skarndaudwls1(431), gosky(37), Jaehe-he(34)
