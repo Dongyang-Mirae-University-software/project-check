@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-24T02:23:18.030Z",
-  "generatedAtKst": "2026-11-24 11:23:18 KST",
+  "generatedAt": "2026-11-24T02:53:24.197Z",
+  "generatedAtKst": "2026-11-24 11:53:24 KST",
   "summary": {
     "total": 24,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9448
+          "count": 9449
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 17
         }
       ],
-      "count": 9516
+      "count": 9517
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2455
+          "count": 2465
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2544
+      "count": 2554
     },
     {
       "name": "YUNA0222",
@@ -1762,22 +1762,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9311,
+        "commitCount": 9312,
         "authors": [
           {
-            "count": 9311,
+            "count": 9312,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "41c23a171",
+          "hash": "8ac63b5ec",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-24T10:53:16+09:00",
+          "date": "2026-11-24T11:23:21+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9311개 커밋, 상위 계정: gosky(9311), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9312개 커밋, 상위 계정: gosky(9312), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1818,8 +1818,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9311",
-        "Git 상위 계정: gosky(9311)"
+        "Git 커밋 수: 9312",
+        "Git 상위 계정: gosky(9312)"
       ]
     },
     {
@@ -2142,7 +2142,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 4 minutes",
+            "status": "Up 34 minutes",
             "ports": ""
           }
         ],
@@ -2387,7 +2387,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 4 minutes",
+            "status": "Up 34 minutes",
             "ports": ""
           }
         ],
@@ -2603,7 +2603,7 @@
         }
       ],
       "structure": {
-        "fileCount": 402,
+        "fileCount": 408,
         "dirCount": 35,
         "mainFolders": [
           "db",
@@ -2698,11 +2698,11 @@
       },
       "git": {
         "isRepo": true,
-        "branch": "feat/companion-prompt-title",
-        "commitCount": 1907,
+        "branch": "dev",
+        "commitCount": 1918,
         "authors": [
           {
-            "count": 1532,
+            "count": 1542,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2728,46 +2728,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "5dc1be4f",
-          "author": "Jaehe-he",
-          "email": "hywuljh1@naver.com",
-          "date": "2026-11-24T00:32:33+09:00",
-          "subject": "feat(companion): 안부 질문 알림 제목을 '질문이 도착했습니다'로 변경"
+          "hash": "ec61215e",
+          "author": "skarndaudwls1",
+          "email": "skarndaudwls@gmail.com",
+          "date": "2026-11-24T11:23:47+09:00",
+          "subject": "docs: AI 말벗 경로당 깨짐 수정·마지막 인사 cc8c 반영 기록"
         },
-        "summary": "총 1907개 커밋, 상위 계정: skarndaudwls1(1532), skarndaudwls1(65), gosky(4), 최근: feat(companion): 안부 질문 알림 제목을 '질문이 도착했습니다'로 변경"
+        "summary": "총 1918개 커밋, 상위 계정: skarndaudwls1(1542), skarndaudwls1(65), gosky(4), 최근: docs: AI 말벗 경로당 깨짐 수정·마지막 인사 cc8c 반영 기록"
       },
       "recentFiles": [
         {
-          "path": "docs/(2026-11-23) audit-impact-companion-daily-mood.md",
-          "modifiedAt": "2026-11-23T08:28:46.138Z"
-        },
-        {
           "path": "docs/audit-index.md",
-          "modifiedAt": "2026-11-23T08:28:46.138Z"
+          "modifiedAt": "2026-11-24T02:25:57.407Z"
         },
         {
           "path": "docs/progress.md",
-          "modifiedAt": "2026-11-23T08:28:46.138Z"
+          "modifiedAt": "2026-11-24T02:25:57.407Z"
         },
         {
-          "path": "docs/(2026-11-23) audit-fe-design-companion-chatbot-326-333.md",
-          "modifiedAt": "2026-11-23T07:45:59.132Z"
+          "path": "docs/(2026-11-23) audit-fe-companion-voice-notice-335-336.md",
+          "modifiedAt": "2026-11-24T02:25:57.403Z"
         },
         {
-          "path": "docs/(2026-11-22) audit-ai-final-fixes-335-336.md",
-          "modifiedAt": "2026-11-23T07:13:28.963Z"
+          "path": "docs/(2026-11-23) audit-fe-mic-error-kinds-337.md",
+          "modifiedAt": "2026-11-24T02:25:57.403Z"
         },
         {
-          "path": "docs/(2026-11-22) audit-ai-headache-avoidance-340.md",
-          "modifiedAt": "2026-11-23T07:13:28.963Z"
+          "path": "docs/(2026-11-23) audit-impact-companion-daily-mood.md",
+          "modifiedAt": "2026-11-24T02:25:57.403Z"
         },
         {
-          "path": "docs/(2026-11-22) audit-fe-final-fixes-322.md",
-          "modifiedAt": "2026-11-23T07:13:28.963Z"
+          "path": "docs/(2026-11-23) fix-fe-chatbot-hospital-title-and-companion-leave.md",
+          "modifiedAt": "2026-11-24T02:25:57.403Z"
         },
         {
-          "path": "docs/(2026-11-22) fix-headache-avoidance-regression.md",
-          "modifiedAt": "2026-11-23T07:13:28.963Z"
+          "path": "docs/(2026-11-23) fix-fe-companion-mic-error-kinds.md",
+          "modifiedAt": "2026-11-24T02:25:57.403Z"
+        },
+        {
+          "path": "docs/(2026-11-23) fix-fe-companion-voice-unavailable-notice.md",
+          "modifiedAt": "2026-11-24T02:25:57.403Z"
         }
       ],
       "summary": [
@@ -2775,8 +2775,8 @@
         "기술 추정: Java, Spring, Frontend, Backend",
         "DB 사용 추정: PostgreSQL, Redis",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 1907",
-        "Git 상위 계정: skarndaudwls1(1532), skarndaudwls1(65), gosky(4)"
+        "Git 커밋 수: 1918",
+        "Git 상위 계정: skarndaudwls1(1542), skarndaudwls1(65), gosky(4)"
       ]
     },
     {
