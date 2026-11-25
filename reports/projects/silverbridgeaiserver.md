@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-25 10:58:08 KST
+- 점검 시각: 2026-11-25 11:28:14 KST
 
 ## 추정 기술 스택
 
@@ -46,7 +46,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2357
+- 파일 개수: 2358
 - 디렉토리 개수: 108
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
 - 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/static, app/static/game, app/utils, models, models/companion, models/companion/face-detect, models/companion/face-emotion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b
@@ -61,32 +61,32 @@
 
 - 상태: 실행 중
 - 관련 포트: 1000, 1800, 2000, 2048, 3599, 3600, 4096, 5428, 5432, 6012, 6015, 6017, 6019, 14892, 50000
-- 관련 Docker 컨테이너: practical_robinson, silverbridge-ai-server
+- 관련 Docker 컨테이너: silverbridge-ai-server
 - 관련 PM2 프로세스: 확인 불가
 
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 886
+- 총 커밋 수: 890
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 431
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 433
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 34
   - gosky <gosky@gosky.kr>: 22
   - namgung <skarndaudwls@gmail.com>: 10
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: 3499bb4 / namgung <skarndaudwls@gmail.com> / Merge pull request #348 from Dongyang-Mirae-University-software/feat/companion-reply-last-adapter
+- 최근 커밋: 5450a4e / namgung <skarndaudwls@gmail.com> / Merge pull request #350 from Dongyang-Mirae-University-software/feature/reservation-target-call-name
 
 ## 최근 수정 파일
 
+- docs/eval-results/2026-11-20-companion-quality-merge.md (2026-11-25 11:07:18 KST)
+- tests/companion_eval/followup_v1.json (2026-11-25 11:07:18 KST)
+- tests/test_guardian_reservation_target.py (2026-11-25 11:07:18 KST)
+- app/schemas/chat_schema.py (2026-11-25 11:07:18 KST)
+- app/services/reservation_target.py (2026-11-25 11:07:18 KST)
 - data/postgres/pg_wal/000000010000000000000009 (2026-11-25 09:24:57 KST)
 - data/postgres/global/pg_control (2026-11-25 09:24:52 KST)
 - data/postgres/base/16384/32935_vm (2026-11-25 09:24:52 KST)
-- data/postgres/base/16384/32935 (2026-11-25 09:24:52 KST)
-- data/postgres/pg_logical/replorigin_checkpoint (2026-11-25 09:24:52 KST)
-- data/postgres/pg_xact/0000 (2026-11-25 09:24:52 KST)
-- data/companion_review.db (2026-11-24 11:22:30 KST)
-- tools/eval/v8/judge/timed_replay.py (2026-11-24 11:09:42 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 886
-- Git 상위 계정: skarndaudwls1(431), gosky(37), Jaehe-he(34)
+- Git 커밋 수: 890
+- Git 상위 계정: skarndaudwls1(433), gosky(37), Jaehe-he(34)
