@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-25T05:58:54.676Z",
-  "generatedAtKst": "2026-11-25 14:58:54 KST",
+  "generatedAt": "2026-11-25T06:29:00.483Z",
+  "generatedAtKst": "2026-11-25 15:29:00 KST",
   "summary": {
     "total": 24,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9503
+          "count": 9504
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 17
         }
       ],
-      "count": 9571
+      "count": 9572
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2494
+          "count": 2495
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2583
+      "count": 2584
     },
     {
       "name": "YUNA0222",
@@ -1762,22 +1762,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9366,
+        "commitCount": 9367,
         "authors": [
           {
-            "count": 9366,
+            "count": 9367,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "680559293",
+          "hash": "878501edd",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-25T14:28:52+09:00",
+          "date": "2026-11-25T14:58:58+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9366개 커밋, 상위 계정: gosky(9366), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9367개 커밋, 상위 계정: gosky(9367), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1818,8 +1818,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9366",
-        "Git 상위 계정: gosky(9366)"
+        "Git 커밋 수: 9367",
+        "Git 상위 계정: gosky(9367)"
       ]
     },
     {
@@ -2142,7 +2142,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up About an hour",
+            "status": "Up 2 hours",
             "ports": ""
           }
         ],
@@ -2387,7 +2387,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up About an hour",
+            "status": "Up 2 hours",
             "ports": ""
           }
         ],
@@ -2952,7 +2952,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 2168,
+        "commitCount": 2170,
         "authors": [
           {
             "count": 1400,
@@ -2965,7 +2965,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 365,
+            "count": 366,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2991,26 +2991,34 @@
           }
         ],
         "latestCommit": {
-          "hash": "205bddee",
+          "hash": "39d23992",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-25T10:14:17+09:00",
-          "subject": "Merge pull request #350 from Dongyang-Mirae-University-software/design/connection-sticky-actions"
+          "date": "2026-11-25T15:22:11+09:00",
+          "subject": "Merge pull request #351 from Dongyang-Mirae-University-software/fix/connection-request-back-and-id-check"
         },
-        "summary": "총 2168개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(365), 최근: Merge pull request #350 from Dongyang-Mirae-University-software/design/connection-sticky-actions"
+        "summary": "총 2170개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(366), 최근: Merge pull request #351 from Dongyang-Mirae-University-software/fix/connection-request-back-and-id-check"
       },
       "recentFiles": [
         {
+          "path": "src/utils/connection/connectionView.test.ts",
+          "modifiedAt": "2026-11-25T06:22:26.602Z"
+        },
+        {
+          "path": "src/utils/connection/connectionView.ts",
+          "modifiedAt": "2026-11-25T06:22:26.602Z"
+        },
+        {
           "path": "src/app/(guardian)/guardian/wards/_components/GuardianConnectionRequestForm.module.css",
-          "modifiedAt": "2026-11-25T01:14:21.424Z"
+          "modifiedAt": "2026-11-25T06:22:26.598Z"
         },
         {
           "path": "src/app/(guardian)/guardian/wards/_components/GuardianConnectionRequestForm.tsx",
-          "modifiedAt": "2026-11-25T01:14:21.424Z"
+          "modifiedAt": "2026-11-25T06:22:26.598Z"
         },
         {
           "path": "src/app/(guardian)/guardian/wards/_components/GuardianFamily.browser.test.tsx",
-          "modifiedAt": "2026-11-25T01:14:21.424Z"
+          "modifiedAt": "2026-11-25T06:22:26.598Z"
         },
         {
           "path": "src/components/connections/WardSelectorTabs.browser.test.tsx",
@@ -3023,14 +3031,6 @@
         {
           "path": "src/components/connections/WardSelectorTabs.tsx",
           "modifiedAt": "2026-11-24T06:29:00.077Z"
-        },
-        {
-          "path": "src/service/interface/connection.ts",
-          "modifiedAt": "2026-11-24T06:29:00.077Z"
-        },
-        {
-          "path": "src/utils/companion/companionVoiceNotice.test.ts",
-          "modifiedAt": "2026-11-24T06:29:00.077Z"
         }
       ],
       "summary": [
@@ -3038,8 +3038,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 2168",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(365)"
+        "Git 커밋 수: 2170",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(366)"
       ]
     },
     {
