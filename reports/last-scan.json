@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-26T03:44:45.300Z",
-  "generatedAtKst": "2026-11-26 12:44:45 KST",
+  "generatedAt": "2026-11-26T04:14:51.304Z",
+  "generatedAtKst": "2026-11-26 13:14:51 KST",
   "summary": {
     "total": 24,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9546
+          "count": 9547
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 17
         }
       ],
-      "count": 9614
+      "count": 9615
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2498
+          "count": 2500
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2587
+      "count": 2589
     },
     {
       "name": "YUNA0222",
@@ -1762,22 +1762,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9409,
+        "commitCount": 9410,
         "authors": [
           {
-            "count": 9409,
+            "count": 9410,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "bd51bace8",
+          "hash": "732f2689d",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-26T12:14:43+09:00",
+          "date": "2026-11-26T12:44:49+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9409개 커밋, 상위 계정: gosky(9409), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9410개 커밋, 상위 계정: gosky(9410), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1818,8 +1818,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9409",
-        "Git 상위 계정: gosky(9409)"
+        "Git 커밋 수: 9410",
+        "Git 상위 계정: gosky(9410)"
       ]
     },
     {
@@ -2142,7 +2142,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 23 hours",
+            "status": "Up 4 minutes",
             "ports": ""
           }
         ],
@@ -2330,7 +2330,7 @@
         }
       ],
       "structure": {
-        "fileCount": 2359,
+        "fileCount": 2360,
         "dirCount": 108,
         "mainFolders": [
           "app",
@@ -2387,7 +2387,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up 23 hours",
+            "status": "Up 4 minutes",
             "ports": ""
           }
         ],
@@ -2425,10 +2425,10 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 893,
+        "commitCount": 896,
         "authors": [
           {
-            "count": 435,
+            "count": 437,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2459,46 +2459,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "2732cb4",
+          "hash": "6240477",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-25T13:14:22+09:00",
-          "subject": "Merge pull request #351 from Dongyang-Mirae-University-software/feat/companion-vague-followup"
+          "date": "2026-11-25T18:46:38+09:00",
+          "subject": "Merge pull request #352 from Dongyang-Mirae-University-software/feat/companion-followup-tense"
         },
-        "summary": "총 893개 커밋, 상위 계정: skarndaudwls1(435), gosky(37), Jaehe-he(34), 최근: Merge pull request #351 from Dongyang-Mirae-University-software/feat/companion-vague-followup"
+        "summary": "총 896개 커밋, 상위 계정: skarndaudwls1(437), gosky(37), Jaehe-he(34), 최근: Merge pull request #352 from Dongyang-Mirae-University-software/feat/companion-followup-tense"
       },
       "recentFiles": [
         {
           "path": "data/companion_review.db",
-          "modifiedAt": "2026-11-25T04:34:15.522Z"
+          "modifiedAt": "2026-11-26T04:12:05.719Z"
         },
         {
-          "path": "app/core/config.py",
-          "modifiedAt": "2026-11-25T04:31:14.053Z"
-        },
-        {
-          "path": "app/services/companion/reply_service.py",
-          "modifiedAt": "2026-11-25T04:31:14.053Z"
+          "path": "docs/companion-team-status.md",
+          "modifiedAt": "2026-11-26T04:09:56.274Z"
         },
         {
           "path": "docs/eval-results/2026-11-20-companion-quality-merge.md",
-          "modifiedAt": "2026-11-25T04:31:14.053Z"
+          "modifiedAt": "2026-11-26T04:09:56.274Z"
+        },
+        {
+          "path": "tests/test_companion_fallback_empathy.py",
+          "modifiedAt": "2026-11-26T04:09:56.274Z"
         },
         {
           "path": "tests/test_companion_flat_topic_switch.py",
-          "modifiedAt": "2026-11-25T04:31:14.053Z"
+          "modifiedAt": "2026-11-26T04:09:56.274Z"
         },
         {
-          "path": "tests/test_companion_reply_vague_redo.py",
-          "modifiedAt": "2026-11-25T04:31:14.053Z"
+          "path": "tests/test_companion_reply_tense_fix.py",
+          "modifiedAt": "2026-11-26T04:09:56.274Z"
         },
         {
-          "path": "tests/companion_eval/followup_v1.json",
-          "modifiedAt": "2026-11-25T02:07:18.637Z"
+          "path": "tests/test_review_store.py",
+          "modifiedAt": "2026-11-26T04:09:56.274Z"
         },
         {
-          "path": "tests/test_guardian_reservation_target.py",
-          "modifiedAt": "2026-11-25T02:07:18.637Z"
+          "path": "app/core/config.py",
+          "modifiedAt": "2026-11-26T04:09:56.270Z"
         }
       ],
       "summary": [
@@ -2506,8 +2506,8 @@
         "기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI",
         "DB 사용 추정: PostgreSQL, SQLite",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 893",
-        "Git 상위 계정: skarndaudwls1(435), gosky(37), Jaehe-he(34)"
+        "Git 커밋 수: 896",
+        "Git 상위 계정: skarndaudwls1(437), gosky(37), Jaehe-he(34)"
       ]
     },
     {

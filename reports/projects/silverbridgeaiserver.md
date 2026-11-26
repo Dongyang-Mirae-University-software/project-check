@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-26 12:44:47 KST
+- 점검 시각: 2026-11-26 13:14:53 KST
 
 ## 추정 기술 스택
 
@@ -46,7 +46,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2359
+- 파일 개수: 2360
 - 디렉토리 개수: 108
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
 - 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/static, app/static/game, app/utils, models, models/companion, models/companion/face-detect, models/companion/face-emotion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b
@@ -67,26 +67,26 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 893
+- 총 커밋 수: 896
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 435
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 437
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 34
   - gosky <gosky@gosky.kr>: 22
   - namgung <skarndaudwls@gmail.com>: 10
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: 2732cb4 / namgung <skarndaudwls@gmail.com> / Merge pull request #351 from Dongyang-Mirae-University-software/feat/companion-vague-followup
+- 최근 커밋: 6240477 / namgung <skarndaudwls@gmail.com> / Merge pull request #352 from Dongyang-Mirae-University-software/feat/companion-followup-tense
 
 ## 최근 수정 파일
 
-- data/companion_review.db (2026-11-25 13:34:15 KST)
-- app/core/config.py (2026-11-25 13:31:14 KST)
-- app/services/companion/reply_service.py (2026-11-25 13:31:14 KST)
-- docs/eval-results/2026-11-20-companion-quality-merge.md (2026-11-25 13:31:14 KST)
-- tests/test_companion_flat_topic_switch.py (2026-11-25 13:31:14 KST)
-- tests/test_companion_reply_vague_redo.py (2026-11-25 13:31:14 KST)
-- tests/companion_eval/followup_v1.json (2026-11-25 11:07:18 KST)
-- tests/test_guardian_reservation_target.py (2026-11-25 11:07:18 KST)
+- data/companion_review.db (2026-11-26 13:12:05 KST)
+- docs/companion-team-status.md (2026-11-26 13:09:56 KST)
+- docs/eval-results/2026-11-20-companion-quality-merge.md (2026-11-26 13:09:56 KST)
+- tests/test_companion_fallback_empathy.py (2026-11-26 13:09:56 KST)
+- tests/test_companion_flat_topic_switch.py (2026-11-26 13:09:56 KST)
+- tests/test_companion_reply_tense_fix.py (2026-11-26 13:09:56 KST)
+- tests/test_review_store.py (2026-11-26 13:09:56 KST)
+- app/core/config.py (2026-11-26 13:09:56 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 893
-- Git 상위 계정: skarndaudwls1(435), gosky(37), Jaehe-he(34)
+- Git 커밋 수: 896
+- Git 상위 계정: skarndaudwls1(437), gosky(37), Jaehe-he(34)
