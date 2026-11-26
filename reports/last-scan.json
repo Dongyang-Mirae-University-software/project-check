@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-26T10:16:03.473Z",
-  "generatedAtKst": "2026-11-26 19:16:03 KST",
+  "generatedAt": "2026-11-26T10:46:09.651Z",
+  "generatedAtKst": "2026-11-26 19:46:09 KST",
   "summary": {
     "total": 24,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9559
+          "count": 9560
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 17
         }
       ],
-      "count": 9627
+      "count": 9628
     },
     {
       "name": "skarndaudwls1",
@@ -1762,22 +1762,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9422,
+        "commitCount": 9423,
         "authors": [
           {
-            "count": 9422,
+            "count": 9423,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "ca68d39f0",
+          "hash": "76f29e55e",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-26T18:46:01+09:00",
+          "date": "2026-11-26T19:16:07+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9422개 커밋, 상위 계정: gosky(9422), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9423개 커밋, 상위 계정: gosky(9423), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1818,8 +1818,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9422",
-        "Git 상위 계정: gosky(9422)"
+        "Git 커밋 수: 9423",
+        "Git 상위 계정: gosky(9423)"
       ]
     },
     {
@@ -2470,35 +2470,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000009",
-          "modifiedAt": "2026-11-26T08:35:50.249Z"
+          "modifiedAt": "2026-11-26T10:41:08.553Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-11-26T08:35:47.377Z"
+          "modifiedAt": "2026-11-26T10:40:50.705Z"
         },
         {
-          "path": "data/postgres/base/16384/2840",
-          "modifiedAt": "2026-11-26T08:35:46.973Z"
+          "path": "data/postgres/base/16384/33564",
+          "modifiedAt": "2026-11-26T10:40:50.605Z"
         },
         {
-          "path": "data/postgres/pg_logical/replorigin_checkpoint",
-          "modifiedAt": "2026-11-26T08:35:46.845Z"
+          "path": "data/postgres/base/16384/32948",
+          "modifiedAt": "2026-11-26T10:40:50.505Z"
         },
         {
-          "path": "docs/eval-results/2026-11-20-companion-quality-merge.md",
-          "modifiedAt": "2026-11-26T08:33:49.407Z"
+          "path": "data/postgres/base/16384/32947",
+          "modifiedAt": "2026-11-26T10:40:50.405Z"
         },
         {
-          "path": "tests/test_companion_reply_tense_fix.py",
-          "modifiedAt": "2026-11-26T08:33:49.407Z"
+          "path": "data/postgres/base/16384/32946",
+          "modifiedAt": "2026-11-26T10:40:49.805Z"
         },
         {
-          "path": "tests/test_reservation_choice_only.py",
-          "modifiedAt": "2026-11-26T08:33:49.407Z"
+          "path": "data/postgres/base/16384/32945",
+          "modifiedAt": "2026-11-26T10:40:49.701Z"
         },
         {
-          "path": "app/core/config.py",
-          "modifiedAt": "2026-11-26T08:33:49.403Z"
+          "path": "data/postgres/base/16384/32935_vm",
+          "modifiedAt": "2026-11-26T10:40:49.601Z"
         }
       ],
       "summary": [

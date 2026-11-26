@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-26 19:16:05 KST
+- 점검 시각: 2026-11-26 19:46:11 KST
 
 ## 추정 기술 스택
 
@@ -79,14 +79,14 @@
 
 ## 최근 수정 파일
 
-- data/postgres/pg_wal/000000010000000000000009 (2026-11-26 17:35:50 KST)
-- data/postgres/global/pg_control (2026-11-26 17:35:47 KST)
-- data/postgres/base/16384/2840 (2026-11-26 17:35:46 KST)
-- data/postgres/pg_logical/replorigin_checkpoint (2026-11-26 17:35:46 KST)
-- docs/eval-results/2026-11-20-companion-quality-merge.md (2026-11-26 17:33:49 KST)
-- tests/test_companion_reply_tense_fix.py (2026-11-26 17:33:49 KST)
-- tests/test_reservation_choice_only.py (2026-11-26 17:33:49 KST)
-- app/core/config.py (2026-11-26 17:33:49 KST)
+- data/postgres/pg_wal/000000010000000000000009 (2026-11-26 19:41:08 KST)
+- data/postgres/global/pg_control (2026-11-26 19:40:50 KST)
+- data/postgres/base/16384/33564 (2026-11-26 19:40:50 KST)
+- data/postgres/base/16384/32948 (2026-11-26 19:40:50 KST)
+- data/postgres/base/16384/32947 (2026-11-26 19:40:50 KST)
+- data/postgres/base/16384/32946 (2026-11-26 19:40:49 KST)
+- data/postgres/base/16384/32945 (2026-11-26 19:40:49 KST)
+- data/postgres/base/16384/32935_vm (2026-11-26 19:40:49 KST)
 
 ## 점검 결과 요약
 
