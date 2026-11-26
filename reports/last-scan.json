@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-26T06:45:21.419Z",
-  "generatedAtKst": "2026-11-26 15:45:21 KST",
+  "generatedAt": "2026-11-26T07:15:27.483Z",
+  "generatedAtKst": "2026-11-26 16:15:27 KST",
   "summary": {
     "total": 24,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9552
+          "count": 9553
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,21 +30,21 @@
           "count": 17
         }
       ],
-      "count": 9620
+      "count": 9621
     },
     {
       "name": "skarndaudwls1",
       "emails": [
         {
           "email": "skarndaudwls@gmail.com",
-          "count": 2501
+          "count": 2506
         },
         {
           "email": "skarndaudwls1@gmail.com",
           "count": 89
         }
       ],
-      "count": 2590
+      "count": 2595
     },
     {
       "name": "YUNA0222",
@@ -1762,22 +1762,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9415,
+        "commitCount": 9416,
         "authors": [
           {
-            "count": 9415,
+            "count": 9416,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "577e78be5",
+          "hash": "2459b7213",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-26T15:15:19+09:00",
+          "date": "2026-11-26T15:45:25+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9415개 커밋, 상위 계정: gosky(9415), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9416개 커밋, 상위 계정: gosky(9416), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1818,8 +1818,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9415",
-        "Git 상위 계정: gosky(9415)"
+        "Git 커밋 수: 9416",
+        "Git 상위 계정: gosky(9416)"
       ]
     },
     {
@@ -2470,35 +2470,35 @@
       "recentFiles": [
         {
           "path": "data/postgres/pg_wal/000000010000000000000009",
-          "modifiedAt": "2026-11-26T06:45:21.396Z"
-        },
-        {
-          "path": "data/postgres/base/16384/33564",
-          "modifiedAt": "2026-11-26T06:42:27.451Z"
+          "modifiedAt": "2026-11-26T07:00:53.484Z"
         },
         {
           "path": "data/postgres/global/pg_control",
-          "modifiedAt": "2026-11-26T06:40:46.625Z"
+          "modifiedAt": "2026-11-26T07:00:46.680Z"
+        },
+        {
+          "path": "data/postgres/base/16384/33564",
+          "modifiedAt": "2026-11-26T07:00:46.576Z"
         },
         {
           "path": "data/postgres/base/16384/32948",
-          "modifiedAt": "2026-11-26T06:40:46.425Z"
+          "modifiedAt": "2026-11-26T07:00:46.476Z"
         },
         {
           "path": "data/postgres/base/16384/32947",
-          "modifiedAt": "2026-11-26T06:40:46.325Z"
+          "modifiedAt": "2026-11-26T07:00:46.376Z"
         },
         {
           "path": "data/postgres/base/16384/32946",
-          "modifiedAt": "2026-11-26T06:40:46.125Z"
+          "modifiedAt": "2026-11-26T07:00:45.776Z"
         },
         {
           "path": "data/postgres/base/16384/32945",
-          "modifiedAt": "2026-11-26T06:40:46.025Z"
+          "modifiedAt": "2026-11-26T07:00:45.676Z"
         },
         {
           "path": "data/postgres/base/16384/32935_vm",
-          "modifiedAt": "2026-11-26T06:40:45.825Z"
+          "modifiedAt": "2026-11-26T07:00:45.576Z"
         }
       ],
       "summary": [
@@ -2952,7 +2952,7 @@
       "git": {
         "isRepo": true,
         "branch": "develop",
-        "commitCount": 2178,
+        "commitCount": 2186,
         "authors": [
           {
             "count": 1400,
@@ -2965,7 +2965,7 @@
             "email": "gold8077@gmail.com"
           },
           {
-            "count": 370,
+            "count": 375,
             "name": "skarndaudwls1",
             "email": "skarndaudwls@gmail.com"
           },
@@ -2991,46 +2991,46 @@
           }
         ],
         "latestCommit": {
-          "hash": "82390962",
+          "hash": "6ed02e15",
           "author": "namgung",
           "email": "skarndaudwls@gmail.com",
-          "date": "2026-11-26T15:01:43+09:00",
-          "subject": "Merge pull request #355 from Dongyang-Mirae-University-software/fix/connection-request-history-preserve"
+          "date": "2026-11-26T15:57:20+09:00",
+          "subject": "Merge pull request #358 from Dongyang-Mirae-University-software/design/ward-hospital-result-card"
         },
-        "summary": "총 2178개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(370), 최근: Merge pull request #355 from Dongyang-Mirae-University-software/fix/connection-request-history-preserve"
+        "summary": "총 2186개 커밋, 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(375), 최근: Merge pull request #358 from Dongyang-Mirae-University-software/design/ward-hospital-result-card"
       },
       "recentFiles": [
         {
-          "path": "src/app/(guardian)/guardian/wards/_components/GuardianConnectionRequestForm.tsx",
-          "modifiedAt": "2026-11-26T06:02:09.231Z"
+          "path": "src/components/chatbot/ChatBubble.browser.test.tsx",
+          "modifiedAt": "2026-11-26T06:57:23.896Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/wards/_components/GuardianFamily.browser.test.tsx",
-          "modifiedAt": "2026-11-26T06:02:09.231Z"
+          "path": "src/components/chatbot/ChatBubble.module.css",
+          "modifiedAt": "2026-11-26T06:57:23.896Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/wards/_components/GuardianConnectionRequestForm.module.css",
-          "modifiedAt": "2026-11-25T06:41:51.294Z"
+          "path": "src/components/chatbot/ChatBubble.tsx",
+          "modifiedAt": "2026-11-26T06:57:23.896Z"
         },
         {
-          "path": "src/utils/connection/connectionView.test.ts",
-          "modifiedAt": "2026-11-25T06:22:26.602Z"
+          "path": "src/components/chatbot/ChatToolCard.browser.test.tsx",
+          "modifiedAt": "2026-11-26T06:57:23.896Z"
         },
         {
-          "path": "src/utils/connection/connectionView.ts",
-          "modifiedAt": "2026-11-25T06:22:26.602Z"
+          "path": "src/components/chatbot/ChatToolCard.module.css",
+          "modifiedAt": "2026-11-26T06:57:23.896Z"
         },
         {
-          "path": "src/components/connections/WardSelectorTabs.browser.test.tsx",
-          "modifiedAt": "2026-11-25T00:19:18.548Z"
+          "path": "src/components/chatbot/ChatToolCard.tsx",
+          "modifiedAt": "2026-11-26T06:57:23.896Z"
         },
         {
-          "path": "src/app/(guardian)/guardian/wards/_components/GuardianWardsListPanel.tsx",
-          "modifiedAt": "2026-11-24T06:29:00.077Z"
+          "path": "src/components/chatbot/ChatbotReservation.browser.test.tsx",
+          "modifiedAt": "2026-11-26T06:48:42.073Z"
         },
         {
-          "path": "src/components/connections/WardSelectorTabs.tsx",
-          "modifiedAt": "2026-11-24T06:29:00.077Z"
+          "path": "src/components/chatbot/ChatHistoryDialog.module.css",
+          "modifiedAt": "2026-11-26T06:48:42.073Z"
         }
       ],
       "summary": [
@@ -3038,8 +3038,8 @@
         "기술 추정: Node.js, React, Next.js, Vite, Frontend",
         "DB 사용 흔적 없음",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 2178",
-        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(370)"
+        "Git 커밋 수: 2186",
+        "Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(375)"
       ]
     },
     {

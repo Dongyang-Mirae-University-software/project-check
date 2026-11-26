@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-26 15:45:23 KST
+- 점검 시각: 2026-11-26 16:15:30 KST
 
 ## 추정 기술 스택
 
@@ -58,27 +58,27 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 2178
+- 총 커밋 수: 2186
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 656
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 370
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 375
   - gosky <gosky@gosky.kr>: 24
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - Jaehe-he <hywuljh1@naver.com>: 7
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 82390962 / namgung <skarndaudwls@gmail.com> / Merge pull request #355 from Dongyang-Mirae-University-software/fix/connection-request-history-preserve
+- 최근 커밋: 6ed02e15 / namgung <skarndaudwls@gmail.com> / Merge pull request #358 from Dongyang-Mirae-University-software/design/ward-hospital-result-card
 
 ## 최근 수정 파일
 
-- src/app/(guardian)/guardian/wards/_components/GuardianConnectionRequestForm.tsx (2026-11-26 15:02:09 KST)
-- src/app/(guardian)/guardian/wards/_components/GuardianFamily.browser.test.tsx (2026-11-26 15:02:09 KST)
-- src/app/(guardian)/guardian/wards/_components/GuardianConnectionRequestForm.module.css (2026-11-25 15:41:51 KST)
-- src/utils/connection/connectionView.test.ts (2026-11-25 15:22:26 KST)
-- src/utils/connection/connectionView.ts (2026-11-25 15:22:26 KST)
-- src/components/connections/WardSelectorTabs.browser.test.tsx (2026-11-25 09:19:18 KST)
-- src/app/(guardian)/guardian/wards/_components/GuardianWardsListPanel.tsx (2026-11-24 15:29:00 KST)
-- src/components/connections/WardSelectorTabs.tsx (2026-11-24 15:29:00 KST)
+- src/components/chatbot/ChatBubble.browser.test.tsx (2026-11-26 15:57:23 KST)
+- src/components/chatbot/ChatBubble.module.css (2026-11-26 15:57:23 KST)
+- src/components/chatbot/ChatBubble.tsx (2026-11-26 15:57:23 KST)
+- src/components/chatbot/ChatToolCard.browser.test.tsx (2026-11-26 15:57:23 KST)
+- src/components/chatbot/ChatToolCard.module.css (2026-11-26 15:57:23 KST)
+- src/components/chatbot/ChatToolCard.tsx (2026-11-26 15:57:23 KST)
+- src/components/chatbot/ChatbotReservation.browser.test.tsx (2026-11-26 15:48:42 KST)
+- src/components/chatbot/ChatHistoryDialog.module.css (2026-11-26 15:48:42 KST)
 
 ## 점검 결과 요약
 
@@ -86,5 +86,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 2178
-- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(370)
+- Git 커밋 수: 2186
+- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(375)
