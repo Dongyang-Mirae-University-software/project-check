@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-26 18:15:54 KST
+- 점검 시각: 2026-11-26 18:45:59 KST
 
 ## 추정 기술 스택
 
@@ -58,27 +58,27 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 2207
+- 총 커밋 수: 2209
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 656
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 388
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 389
   - gosky <gosky@gosky.kr>: 24
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - Jaehe-he <hywuljh1@naver.com>: 7
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: 6317963a / namgung <skarndaudwls@gmail.com> / Merge pull request #366 from Dongyang-Mirae-University-software/design/guardian-settings-reserve-attention
+- 최근 커밋: b013daf4 / namgung <skarndaudwls@gmail.com> / Merge pull request #367 from Dongyang-Mirae-University-software/fix/audit-1126-fe
 
 ## 최근 수정 파일
 
+- src/app/(guardian)/guardian/medication/_components/WardMedicationCard.browser.test.tsx (2026-11-26 18:26:16 KST)
+- src/components/chatbot/ChatHistoryDialog.module.css (2026-11-26 18:26:16 KST)
 - src/components/chatbot/ChatbotContent.browser.test.tsx (2026-11-26 18:02:19 KST)
-- src/components/chatbot/ChatHistoryDialog.module.css (2026-11-26 18:02:19 KST)
 - src/components/chatbot/ChatHistoryDialog.tsx (2026-11-26 18:02:19 KST)
 - src/components/settings/AlertTypeSettingsSection.module.css (2026-11-26 18:02:19 KST)
 - src/components/settings/AlertTypeSettingsSection.tsx (2026-11-26 18:02:19 KST)
 - src/app/(guardian)/guardian/_components/GuardianDashboardContent.browser.test.tsx (2026-11-26 18:02:19 KST)
 - src/app/(guardian)/guardian/_components/GuardianDashboardContent.module.css (2026-11-26 18:02:19 KST)
-- src/app/(guardian)/guardian/_components/GuardianDashboardContent.tsx (2026-11-26 18:02:19 KST)
 
 ## 점검 결과 요약
 
@@ -86,5 +86,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 2207
-- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(388)
+- Git 커밋 수: 2209
+- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(389)
