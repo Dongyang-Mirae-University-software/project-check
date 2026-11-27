@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeJH`
 - 분류: 백엔드
-- 점검 시각: 2026-11-27 22:32:45 KST
+- 점검 시각: 2026-11-27 23:02:51 KST
 
 ## 추정 기술 스택
 
