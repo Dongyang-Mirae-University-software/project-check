@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeFe`
 - 분류: 프론트엔드
-- 점검 시각: 2026-11-27 14:01:00 KST
+- 점검 시각: 2026-11-27 14:31:07 KST
 
 ## 추정 기술 스택
 
@@ -58,19 +58,20 @@
 ## Git 커밋 현황
 
 - 브랜치: develop
-- 총 커밋 수: 2214
+- 총 커밋 수: 2218
 - 계정별 커밋 수:
   - YUNA0222 <gold8077@gmail.com>: 1400
   - yuna0222 <gold8077@gmail.com>: 656
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 392
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 394
   - gosky <gosky@gosky.kr>: 24
   - YUNA0222 <89885846+yuna0222@users.noreply.github.com>: 10
   - Jaehe-he <hywuljh1@naver.com>: 7
   - gosky <lovesky00317@gmail.com>: 6
-- 최근 커밋: fbeec131 / namgung <skarndaudwls@gmail.com> / Merge pull request #369 from Dongyang-Mirae-University-software/fix/history-hint-remove
+- 최근 커밋: 79df1074 / namgung <skarndaudwls@gmail.com> / Merge pull request #371 from Dongyang-Mirae-University-software/fix/ward-drawer-logo-align
 
 ## 최근 수정 파일
 
+- src/components/layout/dashboard/Sidebar.module.css (2026-11-27 14:23:49 KST)
 - src/components/chatbot/ChatHistoryDialog.tsx (2026-11-27 09:44:38 KST)
 - docs/(2026-11-26) audit-fe-1126-changes.md (2026-11-27 09:37:28 KST)
 - src/app/(guardian)/guardian/_components/GuardianDashboardContent.module.css (2026-11-27 09:37:28 KST)
@@ -78,7 +79,6 @@
 - src/app/(guardian)/guardian/hospital/_components/GuardianHospitalContent.module.css (2026-11-27 09:37:28 KST)
 - src/components/chatbot/ChatBubble.browser.test.tsx (2026-11-27 09:37:28 KST)
 - src/components/chatbot/ChatBubble.tsx (2026-11-27 09:37:28 KST)
-- src/components/chatbot/ChatHistoryDialog.browser.test.tsx (2026-11-27 09:37:28 KST)
 
 ## 점검 결과 요약
 
@@ -86,5 +86,5 @@
 - 기술 추정: Node.js, React, Next.js, Vite, Frontend
 - DB 사용 흔적 없음
 - 실행 상태: 실행 중
-- Git 커밋 수: 2214
-- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(392)
+- Git 커밋 수: 2218
+- Git 상위 계정: YUNA0222(1400), yuna0222(656), skarndaudwls1(394)
