@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeAiServer`
 - 분류: AI 서버
-- 점검 시각: 2026-11-27 16:01:24 KST
+- 점검 시각: 2026-11-27 16:31:30 KST
 
 ## 추정 기술 스택
 
@@ -46,7 +46,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 2362
+- 파일 개수: 2365
 - 디렉토리 개수: 108
 - 주요 폴더: app, data, docs, models, scripts, tests, tools
 - 주요 경로: app, app/core, app/data, app/database, app/models, app/prompts, app/routers, app/schemas, app/services, app/services/companion, app/services/companion/prompts, app/static, app/static/game, app/utils, models, models/companion, models/companion/face-detect, models/companion/face-emotion, models/companion/llm, models/companion/llm/exaone-3.5-2.4b
@@ -67,26 +67,26 @@
 ## Git 커밋 현황
 
 - 브랜치: main
-- 총 커밋 수: 924
+- 총 커밋 수: 926
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 453
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 454
   - gosky <lovesky00317@gmail.com>: 37
   - Jaehe-he <hywuljh1@naver.com>: 34
   - gosky <gosky@gosky.kr>: 22
   - namgung <skarndaudwls@gmail.com>: 10
   - AI 말벗 담당 <ai-part@local>: 5
-- 최근 커밋: 47e6f52 / namgung <skarndaudwls@gmail.com> / Merge pull request #364 from Dongyang-Mirae-University-software/feat/companion-rewrite-daily-counts
+- 최근 커밋: 38361c3 / namgung <skarndaudwls@gmail.com> / Merge pull request #365 from Dongyang-Mirae-University-software/fix/companion-review-db-sqlite-lock
 
 ## 최근 수정 파일
 
-- data/companion_review.db (2026-11-27 15:55:53 KST)
-- docs/companion-team-status.md (2026-11-27 15:54:31 KST)
-- tests/test_companion_rewrite_counts.py (2026-11-27 15:54:31 KST)
-- app/routers/companion_router.py (2026-11-27 15:54:31 KST)
-- app/services/companion/reply_service.py (2026-11-27 15:54:31 KST)
-- app/services/companion/rewrite_counts.py (2026-11-27 15:54:31 KST)
-- tests/test_companion_reply_tense_fix.py (2026-11-27 14:40:00 KST)
-- docs/eval-results/2026-11-20-companion-quality-merge.md (2026-11-27 14:40:00 KST)
+- data/companion_review.db-shm (2026-11-27 16:17:38 KST)
+- data/companion_review.db-wal (2026-11-27 16:17:38 KST)
+- data/companion_review.db (2026-11-27 16:17:34 KST)
+- app/routers/companion_router.py (2026-11-27 16:16:20 KST)
+- app/services/companion/review_store.py (2026-11-27 16:16:20 KST)
+- app/services/companion/rewrite_counts.py (2026-11-27 16:16:20 KST)
+- docs/companion-team-status.md (2026-11-27 16:16:20 KST)
+- tests/test_companion_rewrite_counts.py (2026-11-27 16:16:20 KST)
 
 ## 점검 결과 요약
 
@@ -94,5 +94,5 @@
 - 기술 추정: Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, PostgreSQL, PyTorch, Transformers, Node.js, fastapi, express, Frontend, Backend, AI
 - DB 사용 추정: PostgreSQL, SQLite
 - 실행 상태: 실행 중
-- Git 커밋 수: 924
-- Git 상위 계정: skarndaudwls1(453), gosky(37), Jaehe-he(34)
+- Git 커밋 수: 926
+- Git 상위 계정: skarndaudwls1(454), gosky(37), Jaehe-he(34)
