@@ -1,8 +1,8 @@
 {
   "workspaceRoot": "/home/apps/SilverBridgeSky",
   "projectCheckDir": "/home/apps/SilverBridgeSky/project-check",
-  "generatedAt": "2026-11-27T01:25:33.458Z",
-  "generatedAtKst": "2026-11-27 10:25:33 KST",
+  "generatedAt": "2026-11-27T01:55:39.437Z",
+  "generatedAtKst": "2026-11-27 10:55:39 KST",
   "summary": {
     "total": 24,
     "frontend": 4,
@@ -19,7 +19,7 @@
       "emails": [
         {
           "email": "lovesky00317@gmail.com",
-          "count": 9589
+          "count": 9590
         },
         {
           "email": "gosky@gosky.kr",
@@ -30,7 +30,7 @@
           "count": 17
         }
       ],
-      "count": 9657
+      "count": 9658
     },
     {
       "name": "skarndaudwls1",
@@ -1762,22 +1762,22 @@
       "git": {
         "isRepo": true,
         "branch": "main",
-        "commitCount": 9452,
+        "commitCount": 9453,
         "authors": [
           {
-            "count": 9452,
+            "count": 9453,
             "name": "gosky",
             "email": "lovesky00317@gmail.com"
           }
         ],
         "latestCommit": {
-          "hash": "cff18d6a2",
+          "hash": "a9e4c2eda",
           "author": "gosky",
           "email": "lovesky00317@gmail.com",
-          "date": "2026-11-27T09:55:31+09:00",
+          "date": "2026-11-27T10:25:37+09:00",
           "subject": "docs: 프로젝트 상태 리포트 갱신"
         },
-        "summary": "총 9452개 커밋, 상위 계정: gosky(9452), 최근: docs: 프로젝트 상태 리포트 갱신"
+        "summary": "총 9453개 커밋, 상위 계정: gosky(9453), 최근: docs: 프로젝트 상태 리포트 갱신"
       },
       "recentFiles": [
         {
@@ -1818,8 +1818,8 @@
         "기술 추정: Python, Node.js, React, Vue, Next.js, Vite, fastapi, express, Backend, AI",
         "DB 사용 추정: MySQL, PostgreSQL, MongoDB, Redis, SQLite, MSSQL, Oracle",
         "실행 상태: 실행 중",
-        "Git 커밋 수: 9452",
-        "Git 상위 계정: gosky(9452)"
+        "Git 커밋 수: 9453",
+        "Git 상위 계정: gosky(9453)"
       ]
     },
     {
@@ -2142,7 +2142,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up Less than a second",
+            "status": "Up 30 minutes",
             "ports": ""
           }
         ],
@@ -2387,7 +2387,7 @@
           {
             "name": "silverbridge-ai-server",
             "image": "silverbridgeaiserver-ai-server",
-            "status": "Up Less than a second",
+            "status": "Up 30 minutes",
             "ports": ""
           }
         ],
@@ -2395,6 +2395,7 @@
           5432,
           6012,
           6015,
+          6017,
           6019
         ],
         "allCandidatePorts": [
@@ -2418,7 +2419,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 1개",
-          "포트 5432, 6012, 6015, 6019"
+          "포트 5432, 6012, 6015, 6017, 6019"
         ]
       },
       "git": {
@@ -3385,6 +3386,7 @@
         ],
         "ports": [
           6015,
+          6017,
           6018
         ],
         "allCandidatePorts": [
@@ -3398,7 +3400,7 @@
           "실행 중",
           "PM2 없음",
           "Docker 1개",
-          "포트 6015, 6018"
+          "포트 6015, 6017, 6018"
         ]
       },
       "git": {
