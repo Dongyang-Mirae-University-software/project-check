@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/WhiteHouseBELJH`
 - 분류: 백엔드
-- 점검 시각: 2026-11-27 08:53:36 KST
+- 점검 시각: 2026-11-27 09:23:42 KST
 
 ## 추정 기술 스택
 
