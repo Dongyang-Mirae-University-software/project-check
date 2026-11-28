@@ -2,7 +2,7 @@
 
 - 경로: `/home/apps/SilverBridgeSky/SilverBridgeBe`
 - 분류: 백엔드
-- 점검 시각: 2026-11-28 11:49:33 KST
+- 점검 시각: 2026-11-28 12:19:39 KST
 
 ## 추정 기술 스택
 
@@ -36,7 +36,7 @@
 
 ## 주요 폴더 구조
 
-- 파일 개수: 415
+- 파일 개수: 425
 - 디렉토리 개수: 35
 - 주요 폴더: db, docs, gradle, src, tools
 - 주요 경로: src, src/integrationTest, src/integrationTest/java, src/integrationTest/java/kr, src/integrationTest/java/kr/silverbridge, src/integrationTest/java/kr/silverbridge/main, src/integrationTest/java/kr/silverbridge/main/domain, src/integrationTest/java/kr/silverbridge/main/global, src/integrationTest/java/kr/silverbridge/main/migration, src/integrationTest/java/kr/silverbridge/main/support, src/main, src/main/java, src/main/java/kr, src/main/java/kr/silverbridge, src/main/java/kr/silverbridge/main, src/main/java/kr/silverbridge/main/domain, src/main/java/kr/silverbridge/main/global, src/main/resources, src/main/resources/db, src/main/resources/db/migration
@@ -57,25 +57,25 @@
 ## Git 커밋 현황
 
 - 브랜치: dev
-- 총 커밋 수: 1959
+- 총 커밋 수: 1980
 - 계정별 커밋 수:
-  - skarndaudwls1 <skarndaudwls@gmail.com>: 1578
+  - skarndaudwls1 <skarndaudwls@gmail.com>: 1598
   - skarndaudwls1 <skarndaudwls1@gmail.com>: 65
   - gosky <lovesky00317@gmail.com>: 4
   - gosky <gosky@gosky.kr>: 2
   - Jaehe-he <hywuljh1@naver.com>: 1
-- 최근 커밋: f2e39cd4 / namgung <skarndaudwls@gmail.com> / Merge pull request #528 from Dongyang-Mirae-University-software/feature/user-notification-type-filter
+- 최근 커밋: d4ba35ca / namgung <skarndaudwls@gmail.com> / Merge pull request #529 from Dongyang-Mirae-University-software/infra/gosky-dev-api-jvm-flags
 
 ## 최근 수정 파일
 
-- docs/progress.md (2026-11-26 17:00:14 KST)
-- docs/(2026-11-24) audit-connection-ward-relation.md (2026-11-26 17:00:14 KST)
-- docs/(2026-11-26) audit-companion-followup-rewrite-recheck.md (2026-11-26 17:00:14 KST)
-- docs/(2026-11-26) audit-companion-followup-rewrite-recheck2.md (2026-11-26 17:00:14 KST)
-- docs/(2026-11-26) audit-companion-followup-rewrite-recheck3.md (2026-11-26 17:00:14 KST)
-- docs/(2026-11-26) audit-companion-followup-rewrite.md (2026-11-26 17:00:14 KST)
-- docs/audit-index.md (2026-11-26 17:00:14 KST)
-- docs/(2026-11-24) audit-fe-mic-open-failed-338.md (2026-11-25 11:22:14 KST)
+- docs/audit-index.md (2026-11-28 11:55:37 KST)
+- docs/progress.md (2026-11-28 11:55:37 KST)
+- CLAUDE.md (2026-11-28 11:55:37 KST)
+- docker-compose.dev.yml (2026-11-28 11:55:37 KST)
+- docs/(2026-11-24) audit-connection-ward-relation.md (2026-11-28 11:55:37 KST)
+- docs/(2026-11-27) audit-companion-followup-live-fix.md (2026-11-28 11:55:37 KST)
+- docs/(2026-11-27) audit-companion-followup-nael-scope.md (2026-11-28 11:55:37 KST)
+- docs/(2026-11-27) audit-companion-followup-past-form.md (2026-11-28 11:55:37 KST)
 
 ## 점검 결과 요약
 
@@ -83,5 +83,5 @@
 - 기술 추정: Java, Spring, Frontend, Backend
 - DB 사용 추정: PostgreSQL, Redis
 - 실행 상태: 실행 중
-- Git 커밋 수: 1959
-- Git 상위 계정: skarndaudwls1(1578), skarndaudwls1(65), gosky(4)
+- Git 커밋 수: 1980
+- Git 상위 계정: skarndaudwls1(1598), skarndaudwls1(65), gosky(4)
